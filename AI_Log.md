@@ -1,14 +1,22 @@
 # AI Usage Log
 
-Ghi lại mọi lần sử dụng AI có ảnh hưởng đến ý tưởng, mã nguồn, phân tích hoặc báo cáo của dự án.
+Nhật ký này ghi lại mọi lần sử dụng AI có ảnh hưởng đến câu hỏi nghiên cứu, giả thuyết, mã nguồn, xử lý dữ liệu, mô hình, diễn giải kết quả hoặc báo cáo của dự án **Phân tích cảm xúc review ẩm thực**.
 
-| Ngày | Thành viên | Công cụ/model | Mục tiêu | Prompt/tóm tắt prompt | Kết quả đã dùng | Cách kiểm chứng |
+| Ngày | Thành viên | Công cụ/model | Mục tiêu | Prompt hoặc tóm tắt prompt | Kết quả được sử dụng | Cách kiểm chứng |
 |---|---|---|---|---|---|---|
-| YYYY-MM-DD | Tên | Công cụ | Mô tả | Nội dung | File/section liên quan | Test, tài liệu hoặc review |
+| 2026-09-07 | Nhóm | OpenAI Codex | Khởi tạo và điều chỉnh kế hoạch dự án theo Chủ đề 2 | Đối chiếu đề bài và cập nhật các file Markdown cho bài toán sentiment analysis từ ShopeeFood/Foody | Cấu trúc README, câu hỏi nghiên cứu, giả thuyết, pipeline và kế hoạch đánh giá | Đối chiếu mục Chủ đề 2, yêu cầu 5 reports và cấu trúc repository trong đề bài |
+
+## Cách ghi log
+
+- Thêm một dòng ngay sau mỗi lần dùng AI tạo ra nội dung được giữ lại trong dự án.
+- Tóm tắt prompt đủ cụ thể để người đọc hiểu mục tiêu; liên kết tới file, notebook, commit hoặc report liên quan nếu có.
+- Ghi rõ cách nhóm kiểm chứng: test, SQL query, tài liệu chính thức, code review, kiểm tra thủ công hoặc kết quả thực nghiệm.
+- Nếu đề xuất của AI bị sửa hoặc loại bỏ, ghi lại quyết định đó trong cột kết quả.
 
 ## Nguyên tắc
 
-- Không đưa mật khẩu, access key, dữ liệu cá nhân hoặc dữ liệu nhạy cảm vào prompt.
-- Thành viên chịu trách nhiệm đọc, chạy thử và kiểm chứng mọi nội dung do AI đề xuất.
-- Ghi rõ phần đã chỉnh sửa hoặc loại bỏ sau khi review.
+- Không đưa mật khẩu, access key, dữ liệu cá nhân, nội dung review chưa ẩn danh hoặc dữ liệu nhạy cảm vào prompt.
+- AI chỉ hỗ trợ; thành viên chịu trách nhiệm đọc, chạy thử và kiểm chứng mọi nội dung trước khi sử dụng.
+- Không dùng nội dung AI tạo ra để thay thế dữ liệu thực nghiệm hoặc để tuyên bố quan hệ nhân quả khi bằng chứng chỉ thể hiện tương quan.
+- Trích dẫn nguồn và tuân thủ quy định liêm chính học thuật trong tất cả báo cáo.
 
