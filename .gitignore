@@ -1,0 +1,67 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Jupyter / R / RStudio
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+renv/library/
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Local databases and generated artifacts
+*.db
+*.sqlite
+*.sqlite3
+artifacts/
+models/*.joblib
+models/*.pkl
+
+# Do not commit crawled or processed datasets. Keep only placeholders/small samples.
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/raw/sample_*
+!data/processed/sample_*
+
+# Local MinIO/PostgreSQL volumes
+volumes/
+minio_data/
+postgres_data/
+
