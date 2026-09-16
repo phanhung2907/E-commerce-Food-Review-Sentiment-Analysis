@@ -1,6 +1,10 @@
 [project]
-name = "Real-estate-tourism-with-Data-Science"
+name = "real-estate-tourism-with-data-science"
 version = "0.1.0"
-description = "Python project managed with uv"
+description = "Data Science project using MinIO, PostgreSQL, Python and Docker"
 requires-python = ">=3.12"
-dependencies = []
+
+dependencies = [
+    "minio>=7.2.0",
+    "python-dotenv>=1.0.0",
+]       
