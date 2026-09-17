@@ -66,3 +66,7 @@ volumes/
 minio_data/
 postgres_data/
 
+# Ignore local database storage and raw data
+storage/
+data/*.csv
+!data/.gitkeep
