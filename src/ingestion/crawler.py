@@ -16,7 +16,7 @@ def crawl_foody_reviews(res_id, restaurant_name, city, total_reviews, target_rev
     all_reviews = []
     last_id = "" 
     
-    print(f"Đang thu thập đủ 50 dòng cho quán: {restaurant_name}...")
+    print(f"Đang thu thập đủ {target_reviews} dòng cho quán: {restaurant_name}...")
     
     while len(all_reviews) < target_reviews:
         params = {
@@ -41,7 +41,8 @@ def crawl_foody_reviews(res_id, restaurant_name, city, total_reviews, target_rev
                     break
                     
                 for item in items:
-                    review_date = item.get('CreatedOn') or item.get('CreateTime') or item.get('Date') or ''
+                    # Bắt chính xác trường CreatedOnTimeDiff từ hệ thống Foody
+                    review_date = item.get('CreatedOnTimeDiff') or item.get('CreatedDate') or ''
                     
                     review_record = {
                         'source': 'Foody',
@@ -63,12 +64,12 @@ def crawl_foody_reviews(res_id, restaurant_name, city, total_reviews, target_rev
                 time.sleep(1) 
                 
         except Exception as e:
+            print(f"Lỗi: {e}")
             break
             
     return all_reviews
 
 def main():
-    # 2 quán: Gà Chỉ Sáu Cao & Mộc Viên Restaurant
     restaurants = [
         {'id': 272138, 'name': 'Gà Chỉ Sáu Cao', 'city': 'Quy Nhơn', 'total_reviews': 272},
         {'id': 138063, 'name': 'Mộc Viên Restaurant', 'city': 'Quy Nhơn', 'total_reviews': 93}
@@ -76,7 +77,6 @@ def main():
     
     dataset = []
     for res in restaurants:
-        # Mỗi quán lấy chính xác 50 dòng -> Tổng 2 quán là đúng 100 dòng chuẩn chỉnh
         reviews = crawl_foody_reviews(res['id'], res['name'], res['city'], res['total_reviews'], target_reviews=50)
         dataset.extend(reviews)
         
@@ -89,8 +89,7 @@ def main():
             dict_writer.writeheader()
             dict_writer.writerows(dataset)
             
-        print(f"\n✅ HOÀN TẤT! Đã lưu file '{filename}' với đúng {len(dataset)} dòng dữ liệu, đạt yêu cầu của bạn!")
+        print(f"\n✅ HOÀN TẤT! Đã lưu file '{filename}' với đúng {len(dataset)} dòng dữ liệu.")
 
 if __name__ == "__main__":
     main()
-
