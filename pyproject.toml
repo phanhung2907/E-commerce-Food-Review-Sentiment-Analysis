@@ -3,4 +3,8 @@ name = "Real-estate-tourism-with-Data-Science"
 version = "0.1.0"
 description = "Python project managed with uv"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "ipykernel>=7.3.0",
+    "pandas>=3.0.5",
+    "requests>=2.34.2",
+]
