@@ -65,4 +65,13 @@ data/processed/*
 volumes/
 minio_data/
 postgres_data/
-storage/
+
+storage/cloudbeaver/*
+!storage/cloudbeaver/.gitkeep
+
+storage/minio/*
+!storage/minio/.gitkeep
+
+storage/postgre/*
+!storage/postgre/.gitkeep
+
