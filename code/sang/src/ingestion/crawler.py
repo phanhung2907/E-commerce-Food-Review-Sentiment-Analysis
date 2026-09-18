@@ -81,7 +81,7 @@ def main():
         dataset.extend(reviews)
         
     if dataset:
-        filename = 'foody_sample_data.csv'
+        filename = '../../foody_sample_data.csv'
         keys = dataset[0].keys()
         
         with open(filename, 'w', newline='', encoding='utf-8-sig') as output_file:
