@@ -1,3 +1,59 @@
-# Initial scaffold. Service definitions will be completed during Report 2.
-services: {}
+services:
+  minio:
+    image: quay.io/minio/minio:latest
+    container_name: food-review-minio
 
+    ports:
+      - "${MINIO_API_PORT}:9000"
+      - "${MINIO_CONSOLE_PORT}:9001"
+
+    environment:
+      MINIO_ROOT_USER: ${MINIO_ACCESS_KEY}
+      MINIO_ROOT_PASSWORD: ${MINIO_SECRET_KEY}
+
+    volumes:
+      - ./storage/minio:/data
+
+    command: server /data --console-address ":9001"
+
+    restart: unless-stopped
+
+
+  postgres:
+    image: postgres:16
+    container_name: food-review-postgres
+
+    ports:
+      - "${POSTGRES_PORT}:5433"
+
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+
+    volumes:
+      - ./storage/postgres:/var/lib/postgresql/data
+
+    restart: unless-stopped
+
+
+  cloudbeaver:
+    image: dbeaver/cloudbeaver:latest
+    container_name: food-review-cloudbeaver
+
+    ports:
+      - "${CLOUDBEAVER_PORT}:8978"
+
+    environment:
+      CB_SERVER_NAME: ${CLOUDBEAVER_SERVER_NAME}
+      CB_SERVER_URL: http://localhost:${CLOUDBEAVER_PORT}
+
+      CB_ADMIN_NAME: ${CLOUDBEAVER_ADMIN_NAME}
+      CB_ADMIN_PASSWORD: ${CLOUDBEAVER_ADMIN_PASSWORD}
+
+      CLOUDBEAVER_APP_SUPPORTS_CUSTOM_CONNECTIONS: "true"
+
+    volumes:
+      - ./storage/cloudbeaver:/opt/cloudbeaver/workspace
+
+    restart: unless-stopped
