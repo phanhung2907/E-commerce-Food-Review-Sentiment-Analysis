@@ -1,19 +1,3 @@
-<<<<<<< Updated upstream
-"""Data ingestion entry point.
-
-TODO: implement polite, source-specific collection after the team confirms scope
-and reviews the source's terms of use and robots.txt.
-"""
-
-
-def main() -> None:
-    """Run the ingestion pipeline."""
-    raise NotImplementedError("Crawler scope has not been confirmed yet.")
-
-
-if __name__ == "__main__":
-    main()
-=======
 import csv
 import os
 import time
@@ -28,7 +12,6 @@ def crawl_tripadvisor_with_selenium():
     
     target_url = "https://www.tripadvisor.com/Restaurant_Review-g312741-d15325004-Reviews-Fogon_Asado-Buenos_Aires_Capital_Federal_District.html"
     
-    # Cấu hình Chrome chạy ẩn (headless) để không hiện cửa sổ bật lên
     chrome_options = Options()
     chrome_options.add_argument("--headless")
     chrome_options.add_argument("--disable-gpu")
@@ -40,30 +23,23 @@ def crawl_tripadvisor_with_selenium():
     driver = None
     
     try:
-        # Khởi tạo trình duyệt Chrome tự động
         service = Service(ChromeDriverManager().install())
         driver = webdriver.Chrome(service=service, options=chrome_options)
         
         print(f"Đang truy cập URL: {target_url}")
         driver.get(target_url)
-        
-        # Chờ vài giây để JavaScript và trang web tải hoàn tất nội dung
         time.sleep(5)
         
-        # Lấy mã nguồn HTML sau khi trang đã render xong
         page_source = driver.page_source
         soup = BeautifulSoup(page_source, 'html.parser')
         
-        # Tìm các khối chứa review thực tế trên trang Tripadvisor
         review_elements = soup.select('div.user-review, div._T, div.review-container')
         print(f"Tìm thấy {len(review_elements)} phần tử review trên trang.")
         
         for idx, element in enumerate(review_elements[:100], start=1):
-            # Trích xuất nội dung review thực tế
             text_elem = element.select_one('q span, .partial_entry, span.common-text')
             review_text = text_elem.get_text(strip=True) if text_elem else "N/A"
             
-            # Trích xuất số sao đánh giá (rating) thực tế
             rating_elem = element.select_one('span.ui_bubble_rating')
             rating = "5"
             if rating_elem and 'class' in rating_elem.attrs:
@@ -88,7 +64,6 @@ def crawl_tripadvisor_with_selenium():
         if driver:
             driver.quit()
 
-    # Lưu kết quả vào đúng đường dẫn chuẩn của cá nhân: code/kien/data/raw/
     output_dir = "code/kien/data/raw"
     os.makedirs(output_dir, exist_ok=True)
     output_file = os.path.join(output_dir, "tripadvisor_real.csv")
@@ -114,4 +89,3 @@ def crawl_tripadvisor_with_selenium():
 
 if __name__ == "__main__":
     crawl_tripadvisor_with_selenium()
->>>>>>> Stashed changes
