@@ -30,3 +30,14 @@ Dữ liệu thô thu thập được (file `raw_reviews.csv`) tương thích và
     *   `crawl_timestamp`: Trường hệ thống tự động ghi nhận mốc thời gian crawl dữ liệu thực tế.
 
 **Kết luận:** Mô hình cơ sở dữ liệu được thiết kế đạt chuẩn 3NF, vừa tối ưu hóa hiệu năng lưu trữ, vừa phản ánh chính xác, đầy đủ cấu trúc thực tế của tập dữ liệu phân tích cảm xúc.
+## 3. Lý do lựa chọn 14 thuộc tính và Chi tiết chuẩn hóa (1NF, 2NF, 3NF)
+
+**Tại sao lại chọn 14 thuộc tính này?**
+*   **Phục vụ huấn luyện mô hình (AI/ML):** `review_text` (nội dung text đầu vào) và `rating` (nhãn đánh giá) là cốt lõi để phân tích cảm xúc.
+*   **Phục vụ phân tích insight đa chiều:** `restaurant_name`, `city`, `category`, `total_reviews`, `restaurant_rating` giúp nhóm phân tích sâu (VD: Khách hàng ở thành phố nào khó tính nhất? Nhóm đồ ăn nào hay nhận review tiêu cực?).
+*   **Phục vụ tính toàn vẹn (Data Engineering):** `review_id`, `restaurant_id`, `reviewer_id`, `review_date`, `source`, `crawl_timestamp` giúp định danh duy nhất, liên kết bảng, chống trùng lặp và truy xuất thời điểm.
+
+**Quá trình Chuẩn hóa Cơ sở dữ liệu (1NF -> 3NF):**
+*   **Chuẩn 1NF (Tính nguyên tố):** Tất cả các cột đều chứa giá trị đơn trị (atomic). Mỗi lượt review được tách ra thành một dòng dữ liệu độc lập, không sử dụng mảng (array) lồng nhau.
+*   **Chuẩn 2NF (Phụ thuộc hoàn toàn vào Khóa chính):** Đạt 1NF. Mọi thuộc tính không khóa đều phụ thuộc hoàn toàn vào khóa chính (`restaurant_id` cho bảng quán ăn, và `review_id` cho bảng review).
+*   **Chuẩn 3NF (Loại bỏ phụ thuộc bắc cầu):** Đạt 2NF. Bảng `reviews` chỉ giữ lại `restaurant_id` làm khóa ngoại (Foreign Key). Mọi thông tin chi tiết của quán (`restaurant_name`, `city`...) được tách riêng ở bảng `restaurants`, không bị lặp lại ở hàng ngàn dòng review. Việc này triệt tiêu hoàn toàn sự phụ thuộc bắc cầu.
