@@ -1,16 +1,35 @@
-import urllib.request
-import urllib.parse
-import json
-import time
 import csv
+import json
+from datetime import datetime
+import time
+import urllib.parse
+import urllib.request
 
-def crawl_foody_reviews(res_id, restaurant_name, city, total_reviews, target_reviews=50):
-    url = "https://www.foody.vn/__get/Review/ResLoadMore"
-    
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
-        'Accept': 'application/json, text/plain, */*',
-        'X-Requested-With': 'XMLHttpRequest'
+
+def crawl_foody_reviews(
+    res_id, restaurant_name, city, total_reviews, target_reviews=50
+):
+  url = 'https://www.foody.vn/__get/Review/ResLoadMore'
+
+  headers = {
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+      'Accept': 'application/json, text/plain, */*',
+      'X-Requested-With': 'XMLHttpRequest',
+  }
+
+  all_reviews = []
+  last_id = ''
+
+  print(f'Đang thu thập đủ {target_reviews} dòng cho quán: {restaurant_name}...')
+
+  while len(all_reviews) < target_reviews:
+    params = {
+        't': str(int(time.time() * 1000)),
+        'ResId': str(res_id),
+        'LastId': str(last_id),
+        'Count': '20',
+        'Type': '1',
+        'isLatest': 'true',
     }
     
     all_reviews = []
@@ -67,13 +86,60 @@ def crawl_foody_reviews(res_id, restaurant_name, city, total_reviews, target_rev
         except Exception as e:
             print(f"Lỗi: {e}")
             break
-            
-    return all_reviews
+
+        time.sleep(1)
+
+    except Exception as e:
+      print(f'Lỗi: {e}')
+      break
+
+  return all_reviews
+
 
 def main():
-    restaurants = [
-        {'id': 272138, 'name': 'Gà Chỉ Sáu Cao', 'city': 'Quy Nhơn', 'total_reviews': 272},
-        {'id': 138063, 'name': 'Mộc Viên Restaurant', 'city': 'Quy Nhơn', 'total_reviews': 93}
+  restaurants = [
+      {
+          'id': 272138,
+          'name': 'Gà Chỉ Sáu Cao',
+          'city': 'Quy Nhơn',
+          'total_reviews': 272,
+      },
+      {
+          'id': 138063,
+          'name': 'Mộc Viên Restaurant',
+          'city': 'Quy Nhơn',
+          'total_reviews': 93,
+      },
+  ]
+
+  dataset = []
+  for res in restaurants:
+    reviews = crawl_foody_reviews(
+        res['id'],
+        res['name'],
+        res['city'],
+        res['total_reviews'],
+        target_reviews=50,
+    )
+    dataset.extend(reviews)
+
+  if dataset:
+    # 1. Định nghĩa đầy đủ danh sách trường (Schema chuẩn Week 2)
+    fieldnames = [
+        'source',
+        'restaurant_id',
+        'restaurant_name',
+        'restaurant_url',
+        'city',
+        'category',
+        'total_reviews',
+        'restaurant_rating',
+        'review_id',
+        'reviewer_id',
+        'review_text',
+        'rating',
+        'review_date',
+        'crawl_timestamp',
     ]
 
     # 2. Xuất file CSV
@@ -87,5 +153,14 @@ def main():
         ' dòng.'
     )
 
-if __name__ == "__main__":
-    main()
+    # 3. Tự động chuyển đổi từ dữ liệu sang file JSON
+    json_filename = 'foody_sample_data.json'
+    with open(json_filename, 'w', encoding='utf-8') as json_file:
+      json.dump(dataset, json_file, ensure_ascii=False, indent=4)
+    print(
+        f"✅ HOÀN TẤT! Đã xuất thêm file JSON '{json_filename}' thành công!"
+    )
+
+
+if __name__ == '__main__':
+  main()
