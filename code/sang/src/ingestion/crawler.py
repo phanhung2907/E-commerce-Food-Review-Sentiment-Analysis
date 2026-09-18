@@ -42,7 +42,6 @@ def crawl_foody_reviews(res_id, restaurant_name, city, total_reviews, target_rev
                     
                 for item in items:
                     # Bắt chính xác trường CreatedOnTimeDiff từ hệ thống Foody
-
                     review_date = item.get('CreatedOnTimeDiff') or item.get('CreatedDate') or ''
                     
                     review_record = {
