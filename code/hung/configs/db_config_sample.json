@@ -1,0 +1,7 @@
+{
+  "host": "db",
+  "port": 5432,
+  "database": "real_estate_tourism",
+  "note": "Read credentials from environment variables; never store secrets here."
+}
+

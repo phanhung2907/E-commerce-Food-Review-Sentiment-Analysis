@@ -75,3 +75,14 @@ storage/minio/*
 storage/postgre/*
 !storage/postgre/.gitkeep
 
+#storage
+storage/minio/*
+!storage/minio/.gitkeep
+
+storage/postgres/*
+!storage/postgres/.gitkeep
+
+storage/cloudbeaver/*
+!storage/cloudbeaver/.gitkeep
+
+*.sql
