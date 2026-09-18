@@ -66,6 +66,11 @@ volumes/
 minio_data/
 postgres_data/
 
+# Ignore local database storage and raw data
+data/*.csv
+!data/.gitkeep
+
+# storage specific ignores
 storage/cloudbeaver/*
 !storage/cloudbeaver/.gitkeep
 
@@ -86,3 +91,4 @@ storage/cloudbeaver/*
 !storage/cloudbeaver/.gitkeep
 
 *.sql
+>>>>>>> origin/main

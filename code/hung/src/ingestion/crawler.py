@@ -1,6 +1,16 @@
+"""Data ingestion entry point.
+
+TODO: implement polite, source-specific collection after the team confirms scope
+and reviews the source's terms of use and robots.txt.
+"""
+
 import requests
+import urllib.request
+import urllib.parse
+import json
 import time
 import csv
+
 
 def main() -> None:
     api_url = "https://www.foody.vn/__get/Review/ResLoadMore"
@@ -18,6 +28,9 @@ def main() -> None:
         "X-Requested-With": "XMLHttpRequest"
     }
 
+<<<<<<< HEAD
+>>>>>>> origin/main:code/hung/src/ingestion/crawler.py
+=======
     print("Đang khởi động bot... Mục tiêu: 100 bình luận!")
     
     total_collected = 0
@@ -74,6 +87,7 @@ def main() -> None:
         writer.writerows(all_reviews)
         
     print(f"🎉 Tuyệt vời! Bạn đã lưu thành công 100 bình luận vào file: {file_path}")
+>>>>>>> 6cf9e40f4da3b395658ac80c61ec777d3264d3a3
 
 if __name__ == "__main__":
     main()
