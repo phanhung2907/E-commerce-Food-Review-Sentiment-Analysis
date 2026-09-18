@@ -41,14 +41,15 @@ def crawl_foody_reviews(res_id, restaurant_name, city, total_reviews, target_rev
                     break
                     
                 for item in items:
-                    # Bắt chính xác trường CreatedOnTimeDiff từ hệ thống Foody
                     review_date = item.get('CreatedOnTimeDiff') or item.get('CreatedDate') or ''
                     
                     review_record = {
                         'source': 'Foody',
                         'restaurant_id': res_id,
                         'restaurant_name': restaurant_name,
+                        'restaurant_url': f"https://www.foody.vn/quang-binh/{restaurant_name.lower().replace(' ', '-')}-{res_id}",
                         'city': city,
+                        'category': 'Quán ăn / Đặc sản',
                         'total_reviews': total_reviews,
                         'review_id': item.get('Id'),
                         'review_text': item.get('Description', '').strip(), 
@@ -82,10 +83,14 @@ def main():
         
     if dataset:
         filename = '../../foody_sample_data.csv'
-        keys = dataset[0].keys()
+        
+        fieldnames = [
+            'source', 'restaurant_id', 'restaurant_name', 'restaurant_url', 
+            'city', 'category', 'total_reviews', 'review_id', 'review_text', 'rating', 'review_date'
+        ]
         
         with open(filename, 'w', newline='', encoding='utf-8-sig') as output_file:
-            dict_writer = csv.DictWriter(output_file, fieldnames=keys)
+            dict_writer = csv.DictWriter(output_file, fieldnames=fieldnames)
             dict_writer.writeheader()
             dict_writer.writerows(dataset)
             
