@@ -1,180 +1,467 @@
 # Food Review Sentiment Analysis
 
-Dự án nhóm cho môn **ADY201m – AI, Data Science with Python & SQL**, theo **Chủ đề 2: Phân tích cảm xúc (Sentiment Analysis)**.
+Project môn **ADY201m – AI, Data Science with Python & SQL**.
 
-> Trạng thái: lập kế hoạch cho Report 1. Phạm vi địa lý, nguồn dữ liệu và khoảng thời gian thu thập cần được nhóm xác nhận trước khi triển khai crawler.
+Mục tiêu của project là xây dựng pipeline dữ liệu end-to-end để tự thu thập review nhà hàng/quán ăn, lưu dữ liệu gốc, chuẩn hóa dữ liệu và phục vụ EDA / SQL / Machine Learning.
 
-## 1. Bài toán nghiên cứu
-
-Dự án xây dựng một pipeline dữ liệu end-to-end để tự thu thập và phân tích đánh giá nhà hàng/quán ăn từ **ShopeeFood hoặc Foody**. Kết quả hướng đến việc:
-
-- kiểm tra mối liên hệ giữa mức độ phổ biến của quán (đại diện bằng số lượng review) và chất lượng dịch vụ (đại diện bằng rating);
-- nhận diện từ khóa hoặc cụm từ có khả năng dự báo đánh giá 1 sao (`fatal keywords`);
-- khảo sát sự khác biệt trong cách đánh giá giữa các vùng và mối liên hệ giữa độ dài bình luận với số sao.
+## 1. Architecture
 
 ```text
-ShopeeFood/Foody -> Python crawler -> MinIO (raw JSON/HTML)
-                  -> Python ETL -> PostgreSQL
-                  -> RStudio/Jupyter EDA -> 2 mô hình ML -> Demo
+Foody / ShopeeFood / other sources
+                │
+                ▼
+          Python Crawler
+                │
+                ▼
+        MinIO — Raw Data
+                │
+                ▼
+       Python ETL / Cleaning
+                │
+                ▼
+   PostgreSQL — Processed Data
+                │
+        ┌───────┴────────┐
+        ▼                ▼
+   CloudBeaver      Jupyter / RStudio
+   SQL / Inspect      EDA / Modeling
 ```
 
-Dữ liệu của dự án phải do nhóm tự thu thập, không sử dụng dataset có sẵn. Việc thu thập chỉ được thực hiện sau khi kiểm tra điều khoản sử dụng, `robots.txt`, giới hạn truy cập và yêu cầu bảo vệ dữ liệu cá nhân của nguồn.
+### Vai trò từng service
 
-## 2. Câu hỏi và giả thuyết nghiên cứu
+| Service | Vai trò | Truy cập |
+|---|---|---|
+| **MinIO** | Lưu raw JSON/HTML nguyên bản sau khi crawl | `http://localhost:9001` |
+| **PostgreSQL** | Lưu dữ liệu đã clean / normalize theo relational schema | Host port trong `.env` |
+| **CloudBeaver** | GUI để xem table, PK/FK và chạy SQL trên PostgreSQL | `http://localhost:8978` |
+| **Python + uv** | Crawler, ETL, validation, EDA/modeling code | chạy local |
 
-### 2.1. Câu hỏi nghiên cứu
+> MinIO giữ **raw data**. PostgreSQL giữ **processed relational data**. Không dùng Git để đồng bộ database/runtime data.
 
-- **RQ1:** Rating có xu hướng giảm khi số lượng review của quán tăng không?
-- **RQ2:** Những từ khóa/cụm từ nào có ảnh hưởng mạnh nhất đến khả năng một review được đánh giá 1 sao?
-- **RQ3:** Cách đánh giá có khác biệt giữa các vùng địa lý không? Độ dài bình luận có liên quan đến số sao không?
+---
 
-### 2.2. Giả thuyết đề xuất
+## 2. Repository Structure
 
-**Giả thuyết A – mức độ phổ biến và rating**
-
-- **H0A:** Sau khi kiểm soát các yếu tố như khu vực, loại món và phân khúc giá, số lượng review không có mối liên hệ có ý nghĩa thống kê với rating của quán.
-- **H1A:** Sau khi kiểm soát các yếu tố trên, số lượng review có mối liên hệ âm có ý nghĩa thống kê với rating của quán.
-
-**Giả thuyết B – nội dung bình luận và đánh giá 1 sao**
-
-- **H0B:** Đặc trưng văn bản của bình luận không cải thiện đáng kể khả năng nhận diện review 1 sao so với mô hình baseline không dùng nội dung văn bản.
-- **H1B:** Đặc trưng văn bản cải thiện đáng kể khả năng nhận diện review 1 sao; một số từ/cụm từ có sức dự báo nổi bật và ổn định.
-
-Số lượng review chỉ là **biến đại diện cho mức độ phổ biến**, không phải phép đo trực tiếp mức độ đông khách. Vì vậy, kết quả của RQ1 chỉ cho phép kết luận về mối liên hệ, không tự động chứng minh quan hệ nhân quả “quán đông làm chất lượng giảm”.
-
-Trước Report 1, nhóm cần chốt rõ một giả thuyết chính, biến mục tiêu, đơn vị quan sát, địa bàn, thời gian crawl, ngưỡng xác định review tiêu cực và tiêu chí kiểm định.
-
-## 3. Dữ liệu dự kiến
-
-Đơn vị dữ liệu chính là **một review**. Tùy khả năng thu thập hợp lệ của nguồn, schema dự kiến gồm:
-
-| Nhóm trường | Ví dụ |
-|---|---|
-| Review | `review_id`, nội dung, rating, thời điểm đăng, thời điểm crawl |
-| Quán | `restaurant_id`, tên quán, địa chỉ, khu vực, loại món, phân khúc giá |
-| Tương tác | số lượt thích/phản hồi nếu nguồn công khai và cho phép thu thập |
-| Trường dẫn xuất | độ dài bình luận, nhãn 1 sao, token/từ khóa, vùng địa lý |
-
-Không thu thập hoặc công khai thông tin nhận dạng người dùng nếu không cần thiết cho giả thuyết. Mọi định danh phục vụ chống trùng lặp cần được loại bỏ hoặc băm trước khi đưa vào tập processed.
-
-## 4. Kiến trúc dự kiến
-
-- **MinIO:** Data Lake tương thích S3, lưu nguyên trạng JSON/HTML theo nguồn và từng lần crawl.
-- **PostgreSQL:** lưu các bảng đã chuẩn hóa, dự kiến gồm `restaurants`, `reviews` và `crawl_runs`.
-- **Python app:** ingestion, kiểm tra schema, loại trùng, làm sạch văn bản tiếng Việt, ETL và modeling.
-- **RStudio/Jupyter:** EDA, kiểm định giả thuyết, trực quan hóa và so sánh mô hình.
-- **Docker Compose:** khởi chạy MinIO, PostgreSQL và môi trường ứng dụng để demo toàn bộ pipeline.
-
-Luồng dữ liệu bắt buộc:
-
-```text
-Crawl -> MinIO/Raw -> Cleaning & Validation -> PostgreSQL/Processed
-      -> SQL quality checks -> EDA -> Modeling -> Evaluation
-```
-
-## 5. Cấu trúc repository
+Repo hiện tại tổ chức code theo từng thành viên:
 
 ```text
 .
-├── .gitignore
-├── README.md
-├── AI_Log.md
-├── docker-compose.yml
-├── requirements.txt
-├── configs/
-│   └── db_config.json
+├── code/
+│   ├── hung/
+│   ├── kien/
+│   ├── sang/
+│   └── tuan/
+│       ├── configs/
+│       ├── data/
+│       │   ├── raw/
+│       │   └── processed/
+│       ├── notebooks/
+│       ├── reports/
+│       └── src/
+│           ├── ingestion/
+│           ├── processing/
+│           ├── modeling/
+│           └── utils/
+│
 ├── docker/
-│   ├── app/
-│   │   └── Dockerfile
-│   └── db/
-├── data/
-│   ├── raw/
-│   └── processed/
-├── src/
-│   ├── ingestion/
-│   │   └── crawler.py
-│   ├── processing/
-│   │   └── cleaner.py
-│   ├── modeling/
-│   │   └── model.py
-│   └── utils/
-├── notebooks/
-│   ├── 1_Exploration.ipynb
-│   └── 2_Modeling.ipynb
-└── reports/
-    └── README.md
+│   ├── minio/              # runtime local
+│   ├── postgres/data/      # runtime local
+│   └── cloudbeaver/        # runtime local
+│
+├── plans/
+│   ├── WEEK_2_PLAN_Food_Review_Sentiment_Analysis.md
+│   └── tutorial_report1.md
+│
+├── AI_Log_Hung.md
+├── AI_Log_Sang.md
+├── AI_Log_Tuan.md
+├── docker-compose.yml
+├── pyproject.toml
+├── uv.lock
+└── README.md
 ```
 
-Các thư mục dữ liệu chỉ giữ `.gitkeep` hoặc sample nhỏ có tiền tố `sample_`. Không commit toàn bộ dữ liệu crawl, volume Docker, secrets, thông tin người dùng hoặc model artifacts.
+`docker/` chứa dữ liệu runtime local được tạo bởi container. **Không commit nội dung runtime này lên GitHub.**
 
-## 6. Khởi động dự án (dự kiến)
+---
 
-Yêu cầu: Git, Docker Desktop có Docker Compose, Python 3.11+ và R/RStudio.
+## 3. Requirements
+
+Cài trước:
+
+- **Git**
+- **Docker Desktop**
+- **uv**
+- Python theo project: **>= 3.12**
+
+Kiểm tra:
 
 ```bash
-cp .env.example .env
-docker compose up --build
+docker --version
+docker compose version
+uv --version
 ```
 
-Hiện tại `docker-compose.yml` và mã nguồn mới là scaffold. Khi pipeline được triển khai, phần này phải bổ sung lệnh crawl, ETL, kiểm tra chất lượng dữ liệu, huấn luyện mô hình và địa chỉ truy cập MinIO.
+---
 
-## 7. Kế hoạch theo 5 reports
+## 4. Setup Project
 
-| Tuần | Report | Nội dung phải hoàn thành |
-|---|---|---|
-| 1–2 | Report 1 – Project Planning | Bài toán, H0/H1, phạm vi crawl, sơ đồ kiến trúc Docker và repository chuẩn |
-| 3–4 | Report 2 – Data Engineering | MinIO trên Docker; pipeline Crawl -> Raw -> PostgreSQL; SQL kiểm tra dữ liệu thô |
-| 5–6 | Report 3 – EDA | Quy tắc làm sạch tiếng Việt, Data Dictionary, EDA và biểu đồ bằng RStudio |
-| 7–8 | Report 4 – Modeling | Hai mô hình ML khác nhau, validation, metric, so sánh và kết luận giả thuyết |
-| 9–10 | Report 5 – Deployment | `docker compose up`, demo end-to-end, báo cáo cuối và bảo vệ kết quả |
+### 4.1 Clone repo
 
-## 8. Kế hoạch phân tích và modeling
+```bash
+git clone <repository-url>
+cd <repository-folder>
+```
 
-### Làm sạch và EDA
+### 4.2 Setup Python environment
 
-- Chuẩn hóa Unicode tiếng Việt nhưng giữ dấu để tránh mất nghĩa.
-- Loại review trùng, HTML thừa, bản ghi thiếu rating và dữ liệu ngoài phạm vi.
-- Xử lý emoji, tiếng lóng và từ viết tắt có quy tắc; không tùy tiện loại các từ phủ định như “không”, “chưa”.
-- Kiểm tra phân phối rating, tỷ lệ review 1 sao, số review theo quán/khu vực và dữ liệu mất cân bằng.
-- Dùng SQL để kiểm tra khóa trùng, giá trị thiếu, miền rating và tính toàn vẹn giữa bảng quán với bảng review.
+Project sử dụng `uv`:
 
-### Mô hình dự kiến
+```bash
+uv sync
+```
 
-- **Baseline:** mô hình chỉ dùng metadata như độ dài bình luận, khu vực và phân khúc giá.
-- **Model 1:** Logistic Regression với TF-IDF, thuận tiện để giải thích từ/cụm từ quan trọng.
-- **Model 2:** Linear SVM hoặc mô hình phân loại văn bản khác do nhóm lựa chọn và giải thích.
+Chạy Python bằng:
 
-Với bài toán review 1 sao có thể mất cân bằng, không chỉ báo cáo accuracy. Cần ưu tiên Precision, Recall, F1-score, PR-AUC, confusion matrix và khoảng tin cậy hoặc cross-validation phù hợp.
+```bash
+uv run python <script.py>
+```
 
-Để hạn chế rò rỉ dữ liệu, các review trùng hoặc gần trùng phải ở cùng một tập; ưu tiên chia train/test theo quán hoặc theo thời gian thay vì chia ngẫu nhiên từng dòng mà không kiểm soát.
+---
 
-`Fatal keywords` được hiểu là các từ/cụm từ có sức dự báo mạnh và ổn định trong mô hình, không mặc nhiên là nguyên nhân khiến khách hàng chấm 1 sao.
+## 5. Environment Variables
 
-## 9. Việc nhóm cần chốt trước khi code
+Tạo file `.env` tại root project.
 
-- Chọn **một nguồn chính**: ShopeeFood hoặc Foody; nguồn còn lại chỉ dùng khi phạm vi và thời gian cho phép.
-- Chọn địa bàn nghiên cứu và quy tắc ánh xạ vùng Bắc/Nam nếu dùng RQ3.
-- Chọn RQ/giả thuyết chính để tránh triển khai dàn trải.
-- Xác định quy mô mẫu tối thiểu, lịch crawl, giới hạn tốc độ và cơ chế tiếp tục khi crawl lỗi.
-- Chốt schema raw, schema processed, Data Dictionary và quy tắc khử trùng lặp.
-- Phân công owner cho ingestion, MinIO/SQL, cleaning/EDA, modeling và reports.
-- Định nghĩa trước metric thành công và cách so sánh hai mô hình.
+Ví dụ:
 
-## 10. Quy ước làm việc
+```env
+# MinIO
+MINIO_ENDPOINT=localhost:9000
+MINIO_API_PORT=9000
+MINIO_CONSOLE_PORT=9001
+MINIO_ACCESS_KEY=minioadmin
+MINIO_SECRET_KEY=change_me
+MINIO_BUCKET=food-review-data
 
-- Mỗi thành viên commit tối thiểu **2 lần/tuần**.
-- Commit message phải rõ nghĩa, ví dụ: `feat: add foody review ingestion` hoặc `fix: preserve vietnamese negation tokens`.
-- Không dùng các message chung chung như `update`, `final` hoặc `code`.
-- Không commit `.env`, mật khẩu, access key, dữ liệu lớn, dữ liệu cá nhân hoặc volume cục bộ.
-- Mọi lần dùng AI có ảnh hưởng đến dự án phải được ghi trong [`AI_Log.md`](AI_Log.md).
-- Tạo branch theo dạng `feat/<ten-tinh-nang>`, mở pull request và review trước khi merge.
+# PostgreSQL
+POSTGRES_DB=food_review
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=change_me
+POSTGRES_HOST=localhost
+POSTGRES_PORT=5433
 
-## 11. Tiêu chí hoàn thành tối thiểu
+# CloudBeaver
+CLOUDBEAVER_PORT=8978
+CLOUDBEAVER_SERVER_NAME=Food Review CloudBeaver
+CLOUDBEAVER_ADMIN_NAME=cbadmin
+CLOUDBEAVER_ADMIN_PASSWORD=change_me
+```
 
-- `docker compose up --build` khởi động được hệ thống demo gồm MinIO, database và app/workstation.
-- Dữ liệu tự crawl đi qua đủ luồng Raw (MinIO) -> Processed (PostgreSQL).
-- Có SQL queries kiểm tra dữ liệu và Data Dictionary.
-- Có EDA bằng RStudio theo yêu cầu Report 3; Jupyter có thể dùng bổ sung.
-- Có ít nhất hai mô hình ML khác nhau, validation phù hợp và kết luận chấp nhận hoặc bác bỏ giả thuyết.
-- Có đủ 5 reports, nhật ký AI và lịch sử commit đều đặn trong suốt học kỳ.
+> `.env` chứa credential local và **không được commit**.
 
+---
+
+## 6. Start Docker Services
+
+Chạy:
+
+```bash
+docker compose up -d
+```
+
+Kiểm tra:
+
+```bash
+docker compose ps
+```
+
+Các container chính:
+
+```text
+food-review-minio
+food-review-postgres
+food-review-cloudbeaver
+```
+
+Dừng hệ thống:
+
+```bash
+docker compose down
+```
+
+---
+
+## 7. MinIO Setup
+
+Mở:
+
+```text
+http://localhost:9001
+```
+
+Đăng nhập bằng:
+
+```text
+MINIO_ACCESS_KEY
+MINIO_SECRET_KEY
+```
+
+Tạo bucket:
+
+```text
+food-review-data
+```
+
+Raw data nên được lưu theo convention:
+
+```text
+raw/<source>/<entity>/<crawl_date>/<run_id>/...
+```
+
+Ví dụ:
+
+```text
+raw/foody/reviews/2026-09-18/run_001/272138/page_001.json
+```
+
+### Nguyên tắc
+
+Raw response phải được giữ nguyên để:
+
+- audit dữ liệu nguồn;
+- chạy lại ETL khi cleaning thay đổi;
+- merge dữ liệu giữa các thành viên;
+- tránh phải crawl lại khi processing code lỗi.
+
+---
+
+## 8. PostgreSQL + CloudBeaver Setup
+
+### PostgreSQL
+
+PostgreSQL chạy bên trong Docker ở:
+
+```text
+postgres:5432
+```
+
+Port expose ra máy host được lấy từ:
+
+```env
+POSTGRES_PORT
+```
+
+Ví dụ nếu:
+
+```env
+POSTGRES_PORT=5433
+```
+
+thì Python chạy trên máy local kết nối:
+
+```text
+localhost:5433
+```
+
+> PostgreSQL không phải web server, vì vậy không mở `localhost:5433` bằng browser.
+
+### CloudBeaver
+
+Mở:
+
+```text
+http://localhost:8978
+```
+
+Tạo PostgreSQL connection với:
+
+```text
+Host: postgres
+Port: 5432
+Database: food_review
+Username: postgres
+Password: giá trị POSTGRES_PASSWORD trong .env
+Connection name: Food Review PostgreSQL
+```
+
+Quan trọng:
+
+```text
+CloudBeaver → PostgreSQL: postgres:5432
+Python local → PostgreSQL: localhost:<POSTGRES_PORT>
+```
+
+Sau khi nhập, bấm:
+
+```text
+TEST → CREATE
+```
+
+---
+
+## 9. Data Storage Workflow
+
+### Raw Layer
+
+```text
+Crawler
+   ↓
+MinIO
+   ↓
+raw JSON / HTML
+```
+
+Không clean hoặc đổi schema ở bước này.
+
+### Processed Layer
+
+```text
+MinIO Raw
+   ↓
+Python ETL
+   ↓
+validate / normalize / deduplicate
+   ↓
+PostgreSQL
+```
+
+PostgreSQL sẽ chứa relational tables phục vụ SQL, EDA và modeling.
+
+Schema chính thức cần được thống nhất trước khi ingestion production bắt đầu.
+
+---
+
+## 10. Team Workflow
+
+Mỗi thành viên có thể chạy Docker và dữ liệu local riêng:
+
+```text
+Member A                    Member B
+MinIO A                     MinIO B
+PostgreSQL A                PostgreSQL B
+```
+
+### GitHub dùng để share
+
+- source code;
+- schema / SQL scripts;
+- notebooks;
+- config mẫu;
+- Docker Compose;
+- reports;
+- AI logs.
+
+### GitHub không dùng để share
+
+- MinIO runtime data;
+- PostgreSQL data directory;
+- CloudBeaver workspace;
+- `.env`;
+- dataset crawl lớn.
+
+### Khi cần hợp nhất dữ liệu
+
+Không merge trực tiếp PostgreSQL folder giữa các máy.
+
+Flow chuẩn:
+
+```text
+Raw data Member A ─┐
+                   ├──> Central MinIO
+Raw data Member B ─┘
+                         │
+                         ▼
+                    One ETL Pipeline
+                         │
+                         ▼
+                  Central PostgreSQL
+```
+
+**Rule:** merge raw data trước, sau đó chạy cùng một ETL để tạo database cuối.
+
+---
+
+## 11. Current Status
+
+Đã setup và test:
+
+- [x] Docker Compose
+- [x] MinIO
+- [x] PostgreSQL
+- [x] CloudBeaver
+- [x] Python environment bằng `uv`
+- [x] Repository chia workspace theo thành viên
+
+Đang thực hiện:
+
+- [ ] Chốt raw schema
+- [ ] Chốt PostgreSQL relational schema
+- [ ] Khảo sát endpoint/API nguồn dữ liệu
+- [ ] Crawl raw JSON vào MinIO
+- [ ] Xây ETL MinIO → PostgreSQL
+
+Chi tiết kế hoạch nằm trong:
+
+```text
+plans/
+```
+
+---
+
+## 12. Useful Commands
+
+```bash
+# Python dependencies
+uv sync
+
+# Start services
+docker compose up -d
+
+# Check services
+docker compose ps
+
+# View logs
+docker compose logs
+
+# PostgreSQL logs
+docker logs food-review-postgres
+
+# Test PostgreSQL inside container
+docker exec -it food-review-postgres \
+  psql -U postgres -d food_review
+
+# Stop services
+docker compose down
+```
+
+---
+
+## 13. Working Rules
+
+- Không commit `.env` hoặc credential.
+- Không commit runtime data trong `docker/minio`, `docker/postgres/data`, `docker/cloudbeaver`.
+- Không sửa raw data sau khi crawl.
+- Các thành viên phải dùng cùng canonical schema.
+- Commit message phải mô tả rõ thay đổi.
+- Ghi lại việc sử dụng AI trong `AI_Log_<member>.md`.
+
+---
+
+## Project Pipeline
+
+```text
+Crawl
+  ↓
+MinIO / Raw
+  ↓
+ETL
+  ↓
+PostgreSQL / Processed
+  ↓
+SQL + EDA
+  ↓
+Modeling
+  ↓
+Evaluation
+```
