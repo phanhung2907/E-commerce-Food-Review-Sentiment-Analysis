@@ -5,7 +5,7 @@ Cơ sở dữ liệu được thiết kế gồm 2 bảng chính nhằm tuân th
 *   **Bảng `restaurants` (Thông tin quán ăn):** Lưu trữ các thuộc tính định danh và mô tả chung của quán. Khóa chính là `restaurant_id`. Các trường dữ liệu phụ thuộc hoàn toàn vào khóa chính (đạt chuẩn 2NF và 3NF).
 *   **Bảng `reviews` (Dữ liệu đánh giá chi tiết):** Lưu trữ nội dung từng lượt review. Sử dụng `restaurant_id` làm khóa ngoại (Foreign Key) liên kết sang bảng `restaurants`. Việc tách bảng này giúp tuyệt đối không lưu lặp lại thông tin tên quán hay thành phố ở từng dòng đánh giá, qua đó triệt tiêu sự phụ thuộc bắc cầu và đạt chuẩn 3NF.
 
-Chi tiết mã nguồn SQL được lưu tại thư mục: `src/storage/init_schema.sql`.
+Chi tiết mã nguồn SQL được lưu tại thư mục: code/tuan/src/storage/init_schema.sql
 
 ## 2. Chứng minh sự phù hợp (Data Mapping - Phân bổ 14 Fields)
 Dữ liệu thô thu thập được (file `raw_reviews.csv`) tương thích và ánh xạ hoàn toàn 100% vào Schema cơ sở dữ liệu mà không bị dư thừa hay suy hao thông tin:
