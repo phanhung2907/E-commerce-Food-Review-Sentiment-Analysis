@@ -11,4 +11,4 @@
 
 ## Tình trạng hiện tại
 - Đã hoàn thành toàn bộ file code trong thư mục cá nhân (`code/sang/`).
-- Đã đẩy (push) code lên nhánh riêng (`sang`) trên GitHub của nhóm an toàn, không bị mất mát gì cả.
+- Đã đẩy (push) code lên nhánh riêng (`sang`) trên GitHub của nhóm an toàn, không bị mất mát gì
