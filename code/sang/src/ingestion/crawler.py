@@ -130,26 +130,17 @@ def main():
         'review_date',
         'crawl_timestamp',
     ]
-    
-    dataset = []
-    for res in restaurants:
-        reviews = crawl_foody_reviews(res['id'], res['name'], res['city'], res['total_reviews'], target_reviews=50)
-        dataset.extend(reviews)
-        
-    if dataset:
-        filename = '../../foody_sample_data.csv'
-        
-        fieldnames = [
-            'source', 'restaurant_id', 'restaurant_name', 'restaurant_url', 
-            'city', 'category', 'total_reviews', 'review_id', 'review_text', 'rating', 'review_date'
-        ]
-        
-        with open(filename, 'w', newline='', encoding='utf-8-sig') as output_file:
-            dict_writer = csv.DictWriter(output_file, fieldnames=fieldnames)
-            dict_writer.writeheader()
-            dict_writer.writerows(dataset)
-            
-        print(f"\n✅ HOÀN TẤT! Đã lưu file '{filename}' với đúng {len(dataset)} dòng dữ liệu.")
+
+    # 2. Xuất file CSV
+    csv_filename = 'foody_sample_data.csv'
+    with open(csv_filename, 'w', newline='', encoding='utf-8-sig') as output_file:
+      dict_writer = csv.DictWriter(output_file, fieldnames=fieldnames)
+      dict_writer.writeheader()
+      dict_writer.writerows(dataset)
+    print(
+        f"\n✅ HOÀN TẤT! Đã lưu file CSV '{csv_filename}' với {len(dataset)}"
+        ' dòng.'
+    )
 
     # 3. Tự động chuyển đổi từ dữ liệu sang file JSON
     json_filename = 'foody_sample_data.json'
