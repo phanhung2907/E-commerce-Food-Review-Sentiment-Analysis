@@ -5,35 +5,17 @@ import time
 import urllib.parse
 import urllib.request
 
-
-def crawl_foody_reviews(
-    res_id, restaurant_name, city, total_reviews, target_reviews=50
-):
-  url = 'https://www.foody.vn/__get/Review/ResLoadMore'
-
-  headers = {
-      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
-      'Accept': 'application/json, text/plain, */*',
-      'X-Requested-With': 'XMLHttpRequest',
-  }
-
-  all_reviews = []
-  last_id = ''
-
-  print(f'Đang thu thập đủ {target_reviews} dòng cho quán: {restaurant_name}...')
-
-  while len(all_reviews) < target_reviews:
-    params = {
-        't': str(int(time.time() * 1000)),
-        'ResId': str(res_id),
-        'LastId': str(last_id),
-        'Count': '20',
-        'Type': '1',
-        'isLatest': 'true',
-    }
+def crawl_foody_reviews(res_id, restaurant_name, city, total_reviews, target_reviews=50):
+    url = 'https://www.foody.vn/__get/Review/ResLoadMore'
     
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+        'Accept': 'application/json, text/plain, */*',
+        'X-Requested-With': 'XMLHttpRequest',
+    }
+
     all_reviews = []
-    last_id = "" 
+    last_id = ''
     
     print(f"Đang thu thập đủ {target_reviews} dòng cho quán: {restaurant_name}...")
     
@@ -60,8 +42,7 @@ def crawl_foody_reviews(
                     break
                     
                 for item in items:
-                    review_date = item.get('CreatedOnTimeDiff') or item.get('CreatedDate') or ''
-                    
+                    # Gom toàn bộ dữ liệu thô từ item của API trả về để không bỏ sót bất kỳ feature nào
                     review_record = {
                         'source': 'Foody',
                         'restaurant_id': res_id,
@@ -70,10 +51,30 @@ def crawl_foody_reviews(
                         'city': city,
                         'category': 'Quán ăn / Đặc sản',
                         'total_reviews': total_reviews,
+                        # Các trường mở rộng chi tiết từ API web
                         'review_id': item.get('Id'),
-                        'review_text': item.get('Description', '').strip(), 
+                        'title': item.get('Title'),
+                        'description': item.get('Description', '').strip(),
+                        'type': item.get('Type'),
+                        'type_name': item.get('TypeName'),
+                        'created_date': item.get('CreatedDate'),
+                        'created_on_time_diff': item.get('CreatedOnTimeDiff'),
+                        'device_name': item.get('DeviceName'),
+                        'device_url': item.get('DeviceUrl'),
+                        'device_type': item.get('DeviceType'),
+                        'is_allow_comment': item.get('IsAllowComment'),
+                        'has_thit_cay': item.get('HasThitCay'),
+                        'total_views': item.get('TotalViews'),
+                        'total_pictures': item.get('TotalPictures'),
+                        'avg_rating': item.get('AvgRating'),
+                        'video': json.dumps(item.get('Video')) if item.get('Video') else None,
+                        'hashtags': json.dumps(item.get('Hashtags')) if item.get('Hashtags') else None,
+                        'pictures': json.dumps(item.get('Pictures')) if item.get('Pictures') else None,
+                        'owner_info': json.dumps(item.get('Owner')) if item.get('Owner') else None,
+                        'restaurant_rating': item.get('AvgRating', 0),
                         'rating': item.get('AvgRating', 0),
-                        'review_date': review_date
+                        'review_date': item.get('CreatedOnTimeDiff') or item.get('CreatedDate') or '',
+                        'crawl_timestamp': datetime.now().isoformat()
                     }
                     all_reviews.append(review_record)
                     last_id = item.get('Id')
@@ -86,77 +87,26 @@ def crawl_foody_reviews(
         except Exception as e:
             print(f"Lỗi: {e}")
             break
-
-        
-              
+            
     return all_reviews
 
-
 def main():
-  restaurants = [
-      {
-          'id': 272138,
-          'name': 'Gà Chỉ Sáu Cao',
-          'city': 'Quy Nhơn',
-          'total_reviews': 272,
-      },
-      {
-          'id': 138063,
-          'name': 'Mộc Viên Restaurant',
-          'city': 'Quy Nhơn',
-          'total_reviews': 93,
-      },
-  ]
-
-  dataset = []
-  for res in restaurants:
-    reviews = crawl_foody_reviews(
-        res['id'],
-        res['name'],
-        res['city'],
-        res['total_reviews'],
-        target_reviews=50,
-    )
-    dataset.extend(reviews)
-
-  if dataset:
-    # 1. Định nghĩa đầy đủ danh sách trường (Schema chuẩn Week 2)
-    fieldnames = [
-        'source',
-        'restaurant_id',
-        'restaurant_name',
-        'restaurant_url',
-        'city',
-        'category',
-        'total_reviews',
-        'restaurant_rating',
-        'review_id',
-        'reviewer_id',
-        'review_text',
-        'rating',
-        'review_date',
-        'crawl_timestamp',
+    restaurants = [
+        {'id': 272138, 'name': 'Gà Chỉ Sáu Cao', 'city': 'Quy Nhơn', 'total_reviews': 272},
+        {'id': 138063, 'name': 'Mộc Viên Restaurant', 'city': 'Quy Nhơn', 'total_reviews': 93}
     ]
 
-    # 2. Xuất file CSV
-    csv_filename = 'foody_sample_data.csv'
-    with open(csv_filename, 'w', newline='', encoding='utf-8-sig') as output_file:
-      dict_writer = csv.DictWriter(output_file, fieldnames=fieldnames)
-      dict_writer.writeheader()
-      dict_writer.writerows(dataset)
-    print(
-        f"\n✅ HOÀN TẤT! Đã lưu file CSV '{csv_filename}' với {len(dataset)}"
-        ' dòng.'
-    )
+    dataset = []
+    for res in restaurants:
+        reviews = crawl_foody_reviews(res['id'], res['name'], res['city'], res['total_reviews'], target_reviews=50)
+        dataset.extend(reviews)
 
-    # 3. Tự động chuyển đổi từ dữ liệu sang file JSON
-    json_filename = 'foody_sample_data.json'
-    with open(json_filename, 'w', encoding='utf-8') as json_file:
-      json.dump(dataset, json_file, ensure_ascii=False, indent=4)
-    print(
-        f"✅ HOÀN TẤT! Đã xuất thêm file JSON '{json_filename}' thành công!"
-    )
-
+    if dataset:
+        # Xuất file JSON chứa toàn bộ dữ liệu vét sạch
+        json_filename = 'foody_sample_data.json'
+        with open(json_filename, 'w', encoding='utf-8') as json_file:
+            json.dump(dataset, json_file, ensure_ascii=False, indent=4)
+        print(f"\n✅ Đã cào và xuất thành công file '{json_filename}' với đầy đủ mọi features từ web!")
 
 if __name__ == '__main__':
-  main()
+    main()
