@@ -14,14 +14,14 @@ def main():
     )
     
     # Tải file JSON từ MinIO về máy làm file tạm
-    client.fget_object("raw-data", "foody/2026-07-20/foody_sample_data.json", "temp.json")
-
+    client.f_object("raw-data", "foody/2026-07-20/foody_sample_data.json", "temp.json")
+    
     # 2. Đọc dữ liệu từ file tạm
     with open("temp.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-
+        
     print(f"🧹 Đang nạp {len(data)} dòng vào PostgreSQL...")
-
+    
     # 3. Kết nối PostgreSQL trực tiếp
     conn = psycopg2.connect(
         host="localhost",
@@ -29,28 +29,34 @@ def main():
         user="postgres",
         password="your_password" # Thay mật khẩu của bạn vào đây
     )
-    cur = conn.cursor()
-
-    # 4. Đẩy từng dòng dữ liệu vào bảng
+    cursor = conn.cursor()
+    
+    # Lọc và insert dữ liệu
     for item in data:
-        cur.execute(
+        # Thực hiện câu lệnh insert vào bảng food_reviews
+        cursor.execute(
             """
-            INSERT INTO food_reviews (restaurant_name, review_text, rating) 
-            VALUES (%s, %s, %s)
-            ON CONFLICT DO NOTHING;
+            INSERT INTO food_reviews (source, restaurant_id, restaurant_name, city, total_reviews, review_id, review_text, rating, review_date)
+            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
             """,
             (
-                item.get('restaurant_name'), 
-                item.get('review_text'), 
-                item.get('rating')
+                item.get("source"),
+                item.get("restaurant_id"),
+                item.get("restaurant_name"),
+                item.get("city"),
+                item.get("total_reviews"),
+                item.get("review_id"),
+                item.get("review_text"),
+                item.get("rating"),
+                item.get("review_date")
             )
         )
     
-    # Lưu thay đổi và đóng kết nối
     conn.commit()
-    cur.close()
+    cursor.close()
     conn.close()
-    print("✅ Hoàn tất! Dữ liệu đã được nạp thẳng vào PostgreSQL.")
+    print("✅ Đã nạp dữ liệu thành công!")
 
 if __name__ == "__main__":
     main()
+
