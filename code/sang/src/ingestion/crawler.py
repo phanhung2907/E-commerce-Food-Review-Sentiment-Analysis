@@ -87,13 +87,9 @@ def crawl_foody_reviews(
             print(f"Lỗi: {e}")
             break
 
-        time.sleep(1)
-
-    except Exception as e:
-      print(f'Lỗi: {e}')
-      break
-
-  return all_reviews
+        
+              
+    return all_reviews
 
 
 def main():
