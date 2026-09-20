@@ -83,6 +83,8 @@ storage/postgre/*
 #storage
 /docker
 
+#data
+data/*
 
 *.sql
 >>>>>>> origin/main
