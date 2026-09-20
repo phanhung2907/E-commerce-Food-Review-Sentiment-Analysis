@@ -20,7 +20,7 @@ Status: SUCCESS
 -Cấu trúc CSV hoàn toàn khớp với schema chung của team: source, restaurant_id, restaurant_metadata, location, review_id, review_date, rating, review_text.
 -Dữ liệu phản ánh chân thực trải nghiệm thực tế của khách hàng (bao gồm điểm số từ 3 đến 5 sao, ngày tháng, nội dung đánh giá chi tiết về món ăn, không gian, và chất lượng phục vụ).
 
-4.Giải pháp thay thế (Alternative Approach) cho định dạng dữ liệu:
-- Do đặc thù nguồn dữ liệu TripAdvisor áp dụng cơ chế chống bot nghiêm ngặt, việc cào tự động bằng script sinh file JSON không khả thi.
-- Đội ngũ đã thực hiện thu thập thủ công có kiểm soát và chuẩn hóa trực tiếp thành tệp dữ liệu 'tripadvisor_real.csv' với đầy đủ cấu trúc schema.
-- Dù không dùng file JSON trung gian như các nguồn ShopeeFood/Foody khác, định dạng CSV vẫn đảm bảo tính toàn vẹn 100% khi thực hiện Data Pipeline đẩy lên MinIO và PostgreSQL.
+4. Giải pháp thay thế (Alternative Approach) cho định dạng dữ liệu:
+-Do đặc thù nguồn dữ liệu TripAdvisor áp dụng cơ chế chống bot nghiêm ngặt, việc cào tự động bằng script sinh file JSON không khả thi.
+-Đội ngũ đã thực hiện thu thập thủ công có kiểm soát và chuẩn hóa trực tiếp thành tệp dữ liệu 'tripadvisor_real.csv' với đầy đủ cấu trúc schema.
+-Dù không dùng file JSON trung gian như các nguồn ShopeeFood/Foody khác, định dạng CSV vẫn đảm bảo tính toàn vẹn 100% khi thực hiện Data Pipeline đẩy lên MinIO và PostgreSQL
