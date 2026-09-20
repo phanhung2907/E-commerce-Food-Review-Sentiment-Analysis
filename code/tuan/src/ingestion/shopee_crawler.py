@@ -17,11 +17,10 @@ def fetch_reviews_for_restaurant(restaurant_id, max_reviews=35):
     reviews_data = []
     last_id = ""
     
-    print(f"\n⏳ Đang cào dữ liệu cho Restaurant ID: {restaurant_id}...")
+    print(f"\n⏳ Đang cào dữ liệu THẬT cho Restaurant ID: {restaurant_id}...")
     api_url = "https://www.foody.vn/__get/Review/ResLoadMore"
     
     total_reviews_count = "N/A"
-    city_name = "Bình Định" # Mặc định theo khu vực đồ án hoặc trích xuất động
     
     while len(reviews_data) < max_reviews:
         params = {
@@ -46,7 +45,7 @@ def fetch_reviews_for_restaurant(restaurant_id, max_reviews=35):
                 print("  -> Phản hồi từ server không phải dạng JSON hợp lệ.")
                 break
                 
-            # Lấy thông tin tổng quan nếu API trả về
+            # Lấy tổng số review thật từ API trả về
             if "TotalReview" in data:
                 total_reviews_count = data.get("TotalReview")
             elif "totalReview" in data:
@@ -62,41 +61,30 @@ def fetch_reviews_for_restaurant(restaurant_id, max_reviews=35):
                 if len(reviews_data) >= max_reviews:
                     break
                     
-                # Trích xuất các trường theo Checklist
-                review_text = item.get("Description", "") or item.get("Title", "")
-                rating = item.get("Rating", 0.0)
-                review_date = item.get("CreatedOn", "") or item.get("CreatedDate", "")
+                # 1. BÊ NGUYÊN TOÀN BỘ FEATURES THẬT 100% CỦA API
+                review_data = item.copy() 
                 
-                reviews_data.append({
-                    "source": "ShopeeFood/Foody",
-                    "restaurant_id": str(restaurant_id),
-                    "restaurant_name": item.get("ResName", f"Restaurant {restaurant_id}"),
-                    "restaurant_url": f"https://www.foody.vn/binh-dinh/restaurant-{restaurant_id}",
-                    "city": city_name,
-                    "category": "Food/Drink",
-                    "review_id": item.get("Id", ""),
-                    "review_text": review_text,
-                    "rating": rating,
-                    "review_date": review_date,
-                    "reviewer_id": item.get("Owner", {}).get("Id", "") if isinstance(item.get("Owner"), dict) else "",
-                    "total_reviews": total_reviews_count,
-                    "restaurant_rating": item.get("AvgRating", ""),
-                    "crawl_timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                })
+                # 2. Chỉ đính kèm ID query và thời gian quét thực tế để không bị lẫn lộn giữa các quán
+                review_data["source_system"] = "ShopeeFood/Foody"
+                review_data["restaurant_id_query"] = str(restaurant_id)
+                review_data["total_reviews_api"] = total_reviews_count
+                review_data["crawl_timestamp"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                
+                reviews_data.append(review_data)
                 
                 last_id = item.get("Id", "")
                 
-            time.sleep(1) # Nghỉ 1 giây giữa các request để an toàn
+            time.sleep(1) # Nghỉ 1 giây để không làm sập server ShopeeFood
             
         except Exception as e:
             print(f"  -> Gặp ngoại lệ: {e}")
             break
             
-    print(f"✅ Hoàn tất! Lấy thành công {len(reviews_data)} reviews cho quán {restaurant_id}.")
+    print(f"✅ Hoàn tất! Lấy thành công {len(reviews_data)} reviews THẬT cho quán {restaurant_id}.")
     return reviews_data
 
 def main():
-    # 1. Test từ 2 đến 3 nhà hàng theo yêu cầu trong Checklist
+    # Danh sách ID quán ăn THẬT mà bạn cần crawl
     target_restaurant_ids = [272138, 272139, 272140] 
     
     all_reviews = []
@@ -104,7 +92,7 @@ def main():
         reviews = fetch_reviews_for_restaurant(res_id, max_reviews=35)
         all_reviews.extend(reviews)
         
-    # 2. Lưu kết quả ra file CSV chuẩn trong thư mục data/raw/ (đạt từ 20 - 100 sample reviews tổng cộng)
+    # Lưu kết quả
     if all_reviews:
         df = pd.DataFrame(all_reviews)
         
@@ -112,22 +100,10 @@ def main():
         output_path = "data/raw/raw_reviews.csv"
         
         df.to_csv(output_path, index=False, encoding="utf-8-sig")
-        print(f"\n🎉 Xuất file thành công! Đã lưu tổng cộng {len(df)} dòng dữ liệu vào '{output_path}'.")
+        print(f"\n🎉 Xuất file thành công! Đã lưu tổng cộng {len(df)} dòng dữ liệu THẬT vào '{output_path}'.")
     else:
-        print("⚠️ Không thu thập được dữ liệu nào. Đang dùng dữ liệu giả lập mẫu để dự phòng...")
-        # Dự phòng ghi file mẫu nếu mạng chặn API hoàn toàn để nhóm không bị gián đoạn báo cáo
-        fallback_data = [
-            {
-                "source": "ShopeeFood/Foody", "restaurant_id": "272138", "restaurant_name": "Phở Gà Chị Dậu",
-                "restaurant_url": "https://www.foody.vn/binh-dinh/restaurant-272138", "city": "Bình Định", "category": "Food/Drink",
-                "review_id": "REV-001", "review_text": "Nước dùng đậm đà, thịt gà dai ngon tuyệt vời.", "rating": 5.0,
-                "review_date": "2026-04-10", "reviewer_id": "U101", "total_reviews": "45", "restaurant_rating": "4.8",
-                "crawl_timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-            }
-        ]
-        df_fallback = pd.DataFrame(fallback_data)
-        os.makedirs("data/raw", exist_ok=True)
-        df_fallback.to_csv("data/raw/raw_reviews.csv", index=False, encoding="utf-8-sig")
+        # Nếu cào thất bại, script báo lỗi chứ KHÔNG tạo dữ liệu ảo
+        print("⚠️ CẢNH BÁO: Không thu thập được dữ liệu nào. Vui lòng kiểm tra lại kết nối mạng hoặc ID nhà hàng.")
 
 if __name__ == "__main__":
     main()

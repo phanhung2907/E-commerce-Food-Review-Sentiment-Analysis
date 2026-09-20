@@ -1,6 +1,6 @@
 import requests
 import time
-import csv
+import pandas as pd
 from datetime import datetime
 import os
 
@@ -22,7 +22,7 @@ def fetch_reviews_for_restaurant(restaurant_id, target_count=100):
         "LastId": ""
     }
 
-    print(f"⏳ Đang cào tối đa {target_count} lượt review thực tế cho Restaurant ID: {restaurant_id}...")
+    print(f"⏳ Đang cào tối đa {target_count} lượt review THỰC TẾ (Toàn bộ Features) cho Restaurant ID: {restaurant_id}...")
     collected_for_res = 0
     restaurant_reviews = []
     total_reviews_val = "N/A"
@@ -37,7 +37,7 @@ def fetch_reviews_for_restaurant(restaurant_id, target_count=100):
                 
             data = response.json()
             
-            # Trích xuất tổng số lượng review của quán từ JSON trả về
+            # Trích xuất tổng số lượng review
             if "TotalReview" in data:
                 total_reviews_val = str(data.get("TotalReview"))
             elif "totalReview" in data:
@@ -53,33 +53,19 @@ def fetch_reviews_for_restaurant(restaurant_id, target_count=100):
                 if collected_for_res >= target_count:
                     break
                     
-                # Bóc tách đầy đủ các trường thông tin theo đúng yêu cầu
-                review_text = item.get("Description", "") or item.get("Title", "")
-                rating = item.get("Rating", "")
-                review_date = item.get("CreatedOn", "") or item.get("CreatedDate", "")
-                reviewer_id = item.get("Owner", {}).get("Id", "") if isinstance(item.get("Owner"), dict) else ""
-                res_name = item.get("ResName", f"Restaurant {restaurant_id}")
-                restaurant_rating = item.get("AvgRating", "")
-
-                review = {
-                    "source": "Foody",
-                    "restaurant_id": str(restaurant_id),
-                    "restaurant_name": res_name,
-                    "restaurant_url": f"https://www.foody.vn/binh-dinh/restaurant-{restaurant_id}",
-                    "city": city_val,
-                    "category": "Food/Drink",
-                    "review_id": item.get("Id", ""),
-                    "review_text": review_text,
-                    "rating": rating,
-                    "review_date": review_date,
-                    "reviewer_id": str(reviewer_id),
-                    "total_reviews": total_reviews_val,
-                    "restaurant_rating": restaurant_rating,
-                    "crawl_timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                }
+                # 1. THÁO KHUÔN: Không giới hạn 14 trường nữa, lấy NGUYÊN BẢN toàn bộ features của API
+                review = item.copy()
+                
+                # 2. Đính kèm thêm các thông tin quản lý chung (Metadata)
+                review["source_system"] = "Foody"
+                review["restaurant_id_query"] = str(restaurant_id)
+                review["city_query"] = city_val
+                review["total_reviews_api"] = total_reviews_val
+                review["crawl_timestamp"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
                 
                 restaurant_reviews.append(review)
                 collected_for_res += 1
+                
                 params["LastId"] = item.get("Id", "")
                 
             time.sleep(0.5)
@@ -91,32 +77,27 @@ def fetch_reviews_for_restaurant(restaurant_id, target_count=100):
     return restaurant_reviews
 
 def main():
-    # Sử dụng ID chính xác của quán trên Foody (Ví dụ: 272138) với mục tiêu lấy đủ 100 lượt
+    # Sử dụng ID chính xác của quán trên Foody (Ví dụ: 272138)
     target_restaurant_ids = [272138] 
     all_reviews = []
     
-    print("🚀 Bắt đầu khởi động bot cào dữ liệu thực tế từ ShopeeFood/Foody...")
+    print("🚀 Bắt đầu khởi động bot cào dữ liệu thực tế (RAW DATA)...")
     
     for res_id in target_restaurant_ids:
         reviews = fetch_reviews_for_restaurant(res_id, target_count=100)
         all_reviews.extend(reviews)
 
-    # Khai báo chuẩn hóa đúng 14 trường dữ liệu theo sơ đồ thiết kế đồ án
-    fields = [
-        "source", "restaurant_id", "restaurant_name", "restaurant_url", 
-        "city", "category", "review_id", "review_text", "rating", 
-        "review_date", "reviewer_id", "total_reviews", "restaurant_rating", "crawl_timestamp"
-    ]
-    
-    os.makedirs("data/raw", exist_ok=True)
-    output_path = "data/raw/raw_reviews.csv"
-    
-    with open(output_path, mode="w", encoding="utf-8-sig", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=fields)
-        writer.writeheader()
-        writer.writerows(all_reviews)
+    if all_reviews:
+        # THÁO KHUÔN LÚC LƯU: Dùng Pandas để tự động bung TẤT CẢ các keys trong dict thành các cột CSV
+        df = pd.DataFrame(all_reviews)
         
-    print(f"\n🎉 Hoàn thành xuất sắc! Đã lưu tổng cộng {len(all_reviews)} dòng dữ liệu thực tế đủ các trường tại '{output_path}'.")
+        os.makedirs("code/tuan/data/raw", exist_ok=True)
+        output_path = "code/tuan/data/raw/raw_reviews.csv"
+        
+        df.to_csv(output_path, index=False, encoding="utf-8-sig")
+        print(f"\n🎉 Hoàn thành xuất sắc! Đã lưu tổng cộng {len(df)} dòng dữ liệu thô với TOÀN BỘ FEATURES tại '{output_path}'.")
+    else:
+        print("⚠️ CẢNH BÁO: Không thu thập được dữ liệu nào.")
 
 if __name__ == "__main__":
     main()
