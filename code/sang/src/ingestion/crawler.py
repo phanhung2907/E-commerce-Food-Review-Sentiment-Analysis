@@ -1,20 +1,21 @@
-import urllib.request
-import urllib.parse
-import json
-import time
 import csv
+import json
+from datetime import datetime
+import time
+import urllib.parse
+import urllib.request
 
 def crawl_foody_reviews(res_id, restaurant_name, city, total_reviews, target_reviews=50):
-    url = "https://www.foody.vn/__get/Review/ResLoadMore"
+    url = 'https://www.foody.vn/__get/Review/ResLoadMore'
     
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
         'Accept': 'application/json, text/plain, */*',
-        'X-Requested-With': 'XMLHttpRequest'
+        'X-Requested-With': 'XMLHttpRequest',
     }
-    
+
     all_reviews = []
-    last_id = "" 
+    last_id = ''
     
     print(f"Đang thu thập đủ {target_reviews} dòng cho quán: {restaurant_name}...")
     
@@ -41,10 +42,7 @@ def crawl_foody_reviews(res_id, restaurant_name, city, total_reviews, target_rev
                     break
                     
                 for item in items:
-                    # Bắt chính xác trường CreatedOnTimeDiff từ hệ thống Foody
-
-                    review_date = item.get('CreatedOnTimeDiff') or item.get('CreatedDate') or ''
-                    
+                    # Gom toàn bộ dữ liệu thô từ item của API trả về để không bỏ sót bất kỳ feature nào
                     review_record = {
                         'source': 'Foody',
                         'restaurant_id': res_id,
@@ -52,12 +50,31 @@ def crawl_foody_reviews(res_id, restaurant_name, city, total_reviews, target_rev
                         'restaurant_url': f"https://www.foody.vn/quang-binh/{restaurant_name.lower().replace(' ', '-')}-{res_id}",
                         'city': city,
                         'category': 'Quán ăn / Đặc sản',
-
                         'total_reviews': total_reviews,
+                        # Các trường mở rộng chi tiết từ API web
                         'review_id': item.get('Id'),
-                        'review_text': item.get('Description', '').strip(), 
+                        'title': item.get('Title'),
+                        'description': item.get('Description', '').strip(),
+                        'type': item.get('Type'),
+                        'type_name': item.get('TypeName'),
+                        'created_date': item.get('CreatedDate'),
+                        'created_on_time_diff': item.get('CreatedOnTimeDiff'),
+                        'device_name': item.get('DeviceName'),
+                        'device_url': item.get('DeviceUrl'),
+                        'device_type': item.get('DeviceType'),
+                        'is_allow_comment': item.get('IsAllowComment'),
+                        'has_thit_cay': item.get('HasThitCay'),
+                        'total_views': item.get('TotalViews'),
+                        'total_pictures': item.get('TotalPictures'),
+                        'avg_rating': item.get('AvgRating'),
+                        'video': json.dumps(item.get('Video')) if item.get('Video') else None,
+                        'hashtags': json.dumps(item.get('Hashtags')) if item.get('Hashtags') else None,
+                        'pictures': json.dumps(item.get('Pictures')) if item.get('Pictures') else None,
+                        'owner_info': json.dumps(item.get('Owner')) if item.get('Owner') else None,
+                        'restaurant_rating': item.get('AvgRating', 0),
                         'rating': item.get('AvgRating', 0),
-                        'review_date': review_date
+                        'review_date': item.get('CreatedOnTimeDiff') or item.get('CreatedDate') or '',
+                        'crawl_timestamp': datetime.now().isoformat()
                     }
                     all_reviews.append(review_record)
                     last_id = item.get('Id')
@@ -78,27 +95,18 @@ def main():
         {'id': 272138, 'name': 'Gà Chỉ Sáu Cao', 'city': 'Quy Nhơn', 'total_reviews': 272},
         {'id': 138063, 'name': 'Mộc Viên Restaurant', 'city': 'Quy Nhơn', 'total_reviews': 93}
     ]
-    
+
     dataset = []
     for res in restaurants:
         reviews = crawl_foody_reviews(res['id'], res['name'], res['city'], res['total_reviews'], target_reviews=50)
         dataset.extend(reviews)
-        
+
     if dataset:
-        filename = 'foody_sample_data.csv'
-        
-        fieldnames = [
-            'source', 'restaurant_id', 'restaurant_name', 'restaurant_url', 
-            'city', 'category', 'total_reviews', 'review_id', 'review_text', 'rating', 'review_date'
-        ]
-        
-        with open(filename, 'w', newline='', encoding='utf-8-sig') as output_file:
-            dict_writer = csv.DictWriter(output_file, fieldnames=fieldnames)
+        # Xuất file JSON chứa toàn bộ dữ liệu vét sạch
+        json_filename = 'foody_sample_data.json'
+        with open(json_filename, 'w', encoding='utf-8') as json_file:
+            json.dump(dataset, json_file, ensure_ascii=False, indent=4)
+        print(f"\n✅ Đã cào và xuất thành công file '{json_filename}' với đầy đủ mọi features từ web!")
 
-            dict_writer.writeheader()
-            dict_writer.writerows(dataset)
-            
-        print(f"\n✅ HOÀN TẤT! Đã lưu file '{filename}' với đúng {len(dataset)} dòng dữ liệu.")
-
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
