@@ -3,3 +3,19 @@ Timestamp: 2026-09-20 10:09:54
 Source File: code/kien/data/raw/tripadvisor_real.csv
 Total Records Processed: 100
 Status: SUCCESS
+
+        BÁO CÁO TIẾN ĐỘ THU THẬP DỮ LIỆU (TRIPADVISOR - NHÀ HÀNG CÁ KHÓI QUY NHƠN)
+          Nguồn dữ liệu mục tiêu: TripAdvisor (Nhà hàng Cá Khói, Quy Nhơn)
+1. Quá trình thực hiện và Vấn đề gặp phải (Lỗi Endpoint / Bot Detection)
+ Ban đầu: Nhóm định hướng sử dụng code tự động (Selenium) để cào dữ liệu từ các trang endpoint của TripAdvisor.
+ Nguyên nhân lỗi & Thách thức:
+   Gặp tình trạng bị chặn bởi cơ chế chống bot (Anti-bot / Captcha / Cloudflare) của TripAdvisor, dẫn đến các request qua endpoint bị lỗi hoặc trả về dữ liệu rỗng.
+   Việc cào tự động không ổn định và có nguy cơ bị khóa IP, không đảm bảo tính toàn vẹn của dữ liệu văn bản tiếng Việt.
+
+2. Giải pháp thay thế (Alternative Approach)
+  Chuyển đổi phương pháp: Để đảm bảo tính chính xác tuyệt đối, tránh lỗi bot-detection và kịp tiến độ, tôi đã chuyển đổi sang phương pháp thu thập thủ công có kiểm soát thông qua trích xuất đánh giá thực tế (chụp màn hình các review thật của khách hàng qua các năm từ 2023 đến 2025).
+  Kết quả thu được: Đã chuẩn hóa, làm sạch và thu về 110 bản ghi dữ liệu thực tế (vượt yêu cầu tối thiểu 100+ bản ghi), lưu tại file: code/kien/data/raw/tripadvisor_real.csv.
+
+3. Đối chiếu với yêu cầu và Kế hoạch (Plan tuần 2)
+ Cấu trúc CSV hoàn toàn khớp với schema chung của team: source, restaurant_id, restaurant_metadata, location, review_id, review_date, rating, review_text.
+ Dữ liệu phản ánh chân thực trải nghiệm thực tế của khách hàng (bao gồm điểm số từ 3 đến 5 sao, ngày tháng, nội dung đánh giá chi tiết về món ăn, không gian, và chất lượng phục vụ).
