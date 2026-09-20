@@ -8,6 +8,10 @@
 - **Phần Xây dựng mô hình thử nghiệm (Góp cho Report 4):** 
   - Xử lý và phân chia nhãn dữ liệu đánh giá của khách hàng.
   - Viết một đoạn code đơn giản dựa trên danh sách từ khóa tiếng Việt để máy tự phán đoán xem review nào là khen, review nào là chê, sau đó tính ra độ chính xác (Accuracy) xem máy đoán đúng được bao nhiêu phần trăm.
+- **Phần Xây dựng mô hình cơ bản (Góp cho Report 4):** 
+  - Lọc bỏ các điểm review trung lập, chỉ giữ lại review tích cực và tiêu cực để phân loại.
+  - Tạo một mô hình đơn giản dựa trên danh sách từ khóa tiếng Việt (từ tích cực/tiêu cực) để máy tự phán đoán cảm xúc của khách hàng và tính ra độ chính xác (Accuracy).
+
 ## Tình trạng hiện tại
 - Đã hoàn thành toàn bộ file code trong thư mục cá nhân (`code/sang/`).
 - Đã đẩy (push) code lên nhánh riêng (`sang`) trên GitHub của nhóm an toàn, không bị mất mát gì cả.
