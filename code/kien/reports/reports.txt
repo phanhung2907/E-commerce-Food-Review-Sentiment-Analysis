@@ -4,11 +4,12 @@ Source File: code/kien/data/raw/tripadvisor_real.csv
 Total Records Processed: 100
 Status: SUCCESS
 
-            BÁO CÁO TIẾN ĐỘ THU THẬP DỮ LIỆU (TRIPADVISOR - NHÀ HÀNG CÁ KHÓI QUY NHƠN)
-          Nguồn dữ liệu mục tiêu: TripAdvisor (Nhà hàng Cá Khói, Quy Nhơn)
+BÁO CÁO TIẾN ĐỘ THU THẬP DỮ LIỆU (TRIPADVISOR - NHÀ HÀNG CÁ KHÓI QUY NHƠN)
+Nguồn dữ liệu mục tiêu: TripAdvisor (Nhà hàng Cá Khói, Quy Nhơn)
+
 1.Quá trình thực hiện và Vấn đề gặp phải (Lỗi Endpoint / Bot Detection)
- Ban đầu: Nhóm định hướng sử dụng code tự động (Selenium) để cào dữ liệu từ các trang endpoint của TripAdvisor.
- Nguyên nhân lỗi & Thách thức:
+Ban đầu: Nhóm định hướng sử dụng code tự động (Selenium) để cào dữ liệu từ các trang endpoint của TripAdvisor.
+-Nguyên nhân lỗi & Thách thức:
 -Gặp tình trạng bị chặn bởi cơ chế chống bot (Anti-bot / Captcha / Cloudflare) của TripAdvisor, dẫn đến các request qua endpoint bị lỗi hoặc trả về dữ liệu rỗng.
 -Việc cào tự động không ổn định và có nguy cơ bị khóa IP, không đảm bảo tính toàn vẹn của dữ liệu văn bản tiếng Việt.
 
@@ -20,3 +21,7 @@ Status: SUCCESS
 -Cấu trúc CSV hoàn toàn khớp với schema chung của team: source, restaurant_id, restaurant_metadata, location, review_id, review_date, rating, review_text.
 -Dữ liệu phản ánh chân thực trải nghiệm thực tế của khách hàng (bao gồm điểm số từ 3 đến 5 sao, ngày tháng, nội dung đánh giá chi tiết về món ăn, không gian, và chất lượng phục vụ).
 
+4.Giải pháp thay thế (Alternative Approach) cho định dạng dữ liệu:
+- Do đặc thù nguồn dữ liệu TripAdvisor áp dụng cơ chế chống bot nghiêm ngặt, việc cào tự động bằng script sinh file JSON không khả thi.
+- Đội ngũ đã thực hiện thu thập thủ công có kiểm soát và chuẩn hóa trực tiếp thành tệp dữ liệu 'tripadvisor_real.csv' với đầy đủ cấu trúc schema.
+- Dù không dùng file JSON trung gian như các nguồn ShopeeFood/Foody khác, định dạng CSV vẫn đảm bảo tính toàn vẹn 100% khi thực hiện Data Pipeline đẩy lên MinIO và PostgreSQL.
