@@ -83,6 +83,9 @@ storage/postgre/*
 #storage
 /docker
 
+#data
+code/hung/data/*
+!code/hung/data/.gitkeep
 
 *.sql
 >>>>>>> origin/main
