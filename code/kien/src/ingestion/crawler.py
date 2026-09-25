@@ -44,6 +44,11 @@ def crawl_multiple_restaurants():
             "name": "Bếp Mẹ Ỉn Lê Thánh Tôn",
             "url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10721705-Reviews-B_p_M_n_Le_Thanh_Ton-Ho_Chi_Minh_City.html",
             "category": "Vietnamese"
+        },
+        {  
+            "name": "Hoang's Kitchen - Vietnamese Cuisine & Vegan Food",
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28052069-Reviews-Hoang_s_Kitchen_Vietnamese_Cuisine_Vegan_Food-Ho_Chi_Minh_City.html",
+            "category": "Vietnamese / Vegan"
         }
     ]
 
