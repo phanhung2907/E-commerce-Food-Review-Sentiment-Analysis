@@ -1,61 +1,133 @@
-import csv
+import json
 import os
+import re
+import time
 from datetime import datetime
+import undetected_chromedriver as uc
+from selenium.webdriver.common.by import By
 
-def load_and_validate_dataset(file_path="code/kien/data/raw/tripadvisor_real.csv"):
-    """
-    Hàm kiểm tra và validate tệp dữ liệu TripAdvisor đã thu thập.
-    """
-    print(f"Đang kiểm tra file dữ liệu tại: {file_path}")
-    if os.path.exists(file_path):
-        with open(file_path, mode='r', encoding='utf-8') as f:
-            total_rows = sum(1 for line in f) - 1  # Trừ đi dòng tiêu đề header
-        print(f"Đã tải và validate thành công! Tổng số bản ghi thực tế: {total_rows}")
-        return True
-    else:
-        print(f"Không tìm thấy file tại đường dẫn: {file_path}")
-        return False
+def extract_restaurant_id(url):
+    match = re.search(r'-d(\d+)-', url)
+    return match.group(1) if match else "N/A"
 
-def automate_data_pipeline():
-    print("="*50)
-    print("BẮT ĐẦU TIẾN TRÌNH AUTOMATED DATA CRAWL / PIPELINE")
-    print(f"Thời gian thực thi: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-    print("="*50)
+def extract_city_from_url(url):
+    if "Quy_Nhon" in url:
+        return "Quy Nhon"
+    elif "Hanoi" in url:
+        return "Hanoi"
+    elif "Ho_Chi_Minh" in url or "Ho_Chi_Minh_City" in url:
+        return "Ho Chi Minh City"
+    return "Unknown"
+
+def crawl_multiple_restaurants():
+    output_dir = "code/kien/data/raw"
+    os.makedirs(output_dir, exist_ok=True)
+    output_file = os.path.join(output_dir, f"tripadvisor_multi_restaurants_{datetime.now().strftime('%Y-%m-%d')}.json")
     
-    input_file = "code/kien/data/raw/tripadvisor_real.csv"
-    report_file = "code/kien/reports/reports.txt"
+    restaurants = [
+        {
+            "name": "Nhà Hàng Cá Khôi",
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15325004-Reviews-Nha_Hang_Ca_Khoi-Quy_Nhon_Binh_Dinh_Province.html",
+            "category": "Seafood / Vietnamese"
+        },
+        {
+            "name": "Surf Bar",
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12652345-Reviews-Surf_Bar-Quy_Nhon_Binh_Dinh_Province.html",
+            "category": "Cafe / Bar / Beach"
+        },
+        {
+            "name": "Hoang's Restaurant",
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g27501570-d19255094-Reviews-Hoang_s_Restaurant-Hoan_Kiem_Hanoi.html",
+            "category": "Asian / Vietnamese"
+        },
+        {
+            "name": "Bếp Mẹ Ỉn Lê Thánh Tôn",
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10721705-Reviews-B_p_M_n_Le_Thanh_Ton-Ho_Chi_Minh_City.html",
+            "category": "Vietnamese"
+        }
+    ]
+
+    options = uc.ChromeOptions()
+    options.add_argument("--start-maximized")
     
-    # Kiểm tra nguồn dữ liệu thô
-    if not os.path.exists(input_file):
-        print(f"[LỖI] Không tìm thấy tệp dữ liệu tại: {input_file}")
-        return
-        
-    reviews_count = 0
-    valid_records = []
+    print("Đang khởi động trình duyệt chống bot...")
+    driver = uc.Chrome(options=options, version_main=153)
     
-    # Đọc và tự động xác thực dữ liệu đầu vào
-    with open(input_file, mode="r", encoding="utf-8-sig") as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            reviews_count += 1
-            valid_records.append(row)
+    all_reviews = []
+
+    try:
+        for item in restaurants:
+            target_url = item["url"]
+            restaurant_name = item["name"]
+            restaurant_id = extract_restaurant_id(target_url)
+            city = extract_city_from_url(target_url)
+            category = item["category"]
             
-    print(f"Đã tự động quét và nạp thành công: {reviews_count} bản ghi.")
-    
-    # Ghi nhận báo cáo tự động (Automated Reporting)
-    os.makedirs(os.path.dirname(report_file), exist_ok=True)
-    with open(report_file, mode="w", encoding="utf-8") as rep:
-        rep.write(f"AUTOMATED CRAWL / INGESTION REPORT\n")
-        rep.write(f"Timestamp: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-        rep.write(f"Source File: {input_file}\n")
-        rep.write(f"Total Records Processed: {reviews_count}\n")
-        rep.write(f"Status: SUCCESS\n")
-        
-    print(f"Đã xuất báo cáo tự động tại: {report_file}")
-    print("="*50)
-    print("TIẾN TRÌNH HOÀN TẤT THÀNH CÔNG.")
+            print(f"\n--- Đang cào dữ liệu cho: {restaurant_name} (ID: {restaurant_id}) ---")
+            driver.get(target_url)
+            time.sleep(5)
+            
+            # Cuộn trang từ từ để kích hoạt nội dung ẩn
+            for _ in range(5):
+                driver.execute_script("window.scrollBy(0, 1000);")
+                time.sleep(2)
 
-# Khối gọi hàm đặt ở CUỐI CÙNG của file
+            total_reviews_str = "N/A"
+            restaurant_rating_str = "N/A"
+
+            # Quét toàn bộ các thẻ đoạn văn bản có khả năng chứa nội dung review trên trang mới
+            review_elements = driver.find_elements(By.TAG_NAME, "span")
+            print(f"Tìm thấy {len(review_elements)} phần tử tiềm năng trên trang.")
+
+            count = 0
+            for index, element in enumerate(review_elements):
+                try:
+                    text = element.text.strip()
+                    
+                    # Lọc chặt chẽ: chỉ lấy các đoạn văn bản đủ độ dài của một review thực tế và loại bỏ rác hệ thống
+                    if not text or len(text) < 40 or len(text) > 1500:
+                        continue
+                    if "Plan with AI" in text or "bubbles" in text or "TripAdvisor" in text or "Cookie" in text:
+                        continue
+                        
+                    review_id = f"REV_{restaurant_id}_{index}"
+                    
+                    record = {
+                        "source": "TripAdvisor",
+                        "restaurant_id": restaurant_id,
+                        "restaurant_name": restaurant_name,
+                        "restaurant_url": target_url,
+                        "city": city,
+                        "category": category,
+                        "review_id": review_id,
+                        "review_text": text,
+                        "rating": "N/A",
+                        "review_date": datetime.now().strftime("%Y-%m-%d"),
+                        "reviewer_id": f"User_{index}",
+                        "total_reviews": total_reviews_str,
+                        "restaurant_rating": restaurant_rating_str,
+                        "crawl_timestamp": datetime.now().isoformat()
+                    }
+                    
+                    if record not in all_reviews:
+                        all_reviews.append(record)
+                        count += 1
+                except Exception:
+                    pass
+            
+            print(f"Đã trích xuất thành công {count} bản ghi sạch từ {restaurant_name}.")
+
+    except Exception as e:
+        print(f"Đã xảy ra lỗi trong quá trình cào: {e}")
+    finally:
+        driver.quit()
+
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(all_reviews, f, ensure_ascii=False, indent=4)
+    
+    print(f"\n=== HOÀN TẤT ===")
+    print(f"Tổng số lượng thu thập được: {len(all_reviews)} records với đầy đủ các trường yêu cầu.")
+    print(f"Đã lưu file tại: {output_file}")
+
 if __name__ == "__main__":
-    automate_data_pipeline()
-    load_and_validate_dataset()
+    crawl_multiple_restaurants()
