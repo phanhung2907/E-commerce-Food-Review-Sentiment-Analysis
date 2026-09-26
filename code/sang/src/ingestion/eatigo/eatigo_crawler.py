@@ -115,9 +115,7 @@ def crawl_eatigo_100k(product_ids: list, total_target: int = 100000):
 
 if __name__ == "__main__":
     sample_product_ids = [
-        "3644620907182",
-        "3647373326207", # Quán thứ hai 
-        "3647373326207",
+        "3644620907182"
         # Thêm các product_id khác vào đây để tích lũy đủ 100k data
     ]
     
