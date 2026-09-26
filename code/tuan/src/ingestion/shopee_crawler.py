@@ -1,26 +1,33 @@
 import requests
-import pandas as pd
 import time
-import os
+import json
+import random
 from datetime import datetime
+from pathlib import Path
+from langdetect import detect, LangDetectException
 
-# Cấu hình Headers chuẩn giống trình duyệt thật để tránh bị chặn
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-    "Accept": "application/json, text/plain, */*",
-    "Accept-Language": "vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7",
-    "X-Requested-With": "XMLHttpRequest",
-    "Referer": "https://www.foody.vn/"
-}
+# 1. KHO USER-AGENT: Ngụy trang thành nhiều loại thiết bị và trình duyệt khác nhau
+USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0",
+    "Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Mobile/15E148 Safari/604.1",
+    "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36"
+]
 
-def fetch_reviews_for_restaurant(restaurant_id, max_reviews=35):
+def get_random_headers():
+    return {
+        "User-Agent": random.choice(USER_AGENTS),
+        "Accept": "application/json, text/plain, */*",
+        "X-Requested-With": "XMLHttpRequest",
+        "Referer": "https://www.foody.vn/"
+    }
+
+def fetch_shopee_reviews(restaurant_id, max_reviews=500):
     reviews_data = []
     last_id = ""
-    
-    print(f"\n⏳ Đang cào dữ liệu THẬT cho Restaurant ID: {restaurant_id}...")
     api_url = "https://www.foody.vn/__get/Review/ResLoadMore"
-    
-    total_reviews_count = "N/A"
+    total_reviews_count = None
     
     while len(reviews_data) < max_reviews:
         params = {
@@ -33,19 +40,18 @@ def fetch_reviews_for_restaurant(restaurant_id, max_reviews=35):
         }
         
         try:
-            response = requests.get(api_url, params=params, headers=HEADERS, timeout=10)
+            # Gắn headers với User-Agent đã được xoay vòng ngẫu nhiên
+            response = requests.get(api_url, params=params, headers=get_random_headers(), timeout=10)
             
+            # XỬ LÝ KHI BỊ CHẶN: Trả về cờ hiệu "BLOCKED" để Master biết đường tạm nghỉ
+            if response.status_code in [403, 503]:
+                return "BLOCKED"
+                
             if response.status_code != 200:
-                print(f"  -> Lỗi kết nối HTTP: {response.status_code}")
                 break
                 
-            try:
-                data = response.json()
-            except Exception:
-                print("  -> Phản hồi từ server không phải dạng JSON hợp lệ.")
-                break
-                
-            # Lấy tổng số review thật từ API trả về
+            data = response.json()
+            
             if "TotalReview" in data:
                 total_reviews_count = data.get("TotalReview")
             elif "totalReview" in data:
@@ -54,56 +60,119 @@ def fetch_reviews_for_restaurant(restaurant_id, max_reviews=35):
             items = data.get("Items", []) or data.get("itm", [])
             
             if not items:
-                print("  -> Đã cào hết toàn bộ review có sẵn của quán này.")
                 break
                 
             for item in items:
                 if len(reviews_data) >= max_reviews:
                     break
                     
-                # 1. BÊ NGUYÊN TOÀN BỘ FEATURES THẬT 100% CỦA API
-                review_data = item.copy() 
+                text = item.get("Description", "").strip()
+                if not text:
+                    continue 
                 
-                # 2. Chỉ đính kèm ID query và thời gian quét thực tế để không bị lẫn lộn giữa các quán
-                review_data["source_system"] = "ShopeeFood/Foody"
-                review_data["restaurant_id_query"] = str(restaurant_id)
-                review_data["total_reviews_api"] = total_reviews_count
-                review_data["crawl_timestamp"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                
-                reviews_data.append(review_data)
+                try:
+                    language = detect(text)
+                except LangDetectException:
+                    language = 'unknown'
+
+                reviews_data.append({
+                    "source": "ShopeeFood",
+                    "restaurant_id": restaurant_id,
+                    "restaurant_name": None, 
+                    "restaurant_url": f"https://www.foody.vn/ho-chi-minh/quan-{restaurant_id}",
+                    "city": "Unknown",
+                    "category": None, 
+                    "total_reviews": total_reviews_count,
+                    "restaurant_rating": None,
+                    "review_id": item.get("Id"),
+                    "reviewer_id": item.get("Owner", {}).get("Id") if isinstance(item.get("Owner"), dict) else None,
+                    "review_text": text,
+                    "language": language, 
+                    "rating": item.get("AvgRating"), 
+                    "review_date": item.get("CreatedOn"),
+                    "crawl_timestamp": datetime.now().isoformat()
+                })
                 
                 last_id = item.get("Id", "")
                 
-            time.sleep(1) # Nghỉ 1 giây để không làm sập server ShopeeFood
+            # Nghỉ ngẫu nhiên khi đang lật trang bên trong 1 quán (từ 0.3s đến 1s)
+            time.sleep(random.uniform(0.3, 1.0)) 
             
-        except Exception as e:
-            print(f"  -> Gặp ngoại lệ: {e}")
+        except requests.exceptions.RequestException:
             break
             
-    print(f"✅ Hoàn tất! Lấy thành công {len(reviews_data)} reviews THẬT cho quán {restaurant_id}.")
     return reviews_data
 
-def main():
-    # Danh sách ID quán ăn THẬT mà bạn cần crawl
-    target_restaurant_ids = [272138, 272139, 272140] 
+def save_data(data, filename):
+    if not data:
+        return
+        
+    output_dir = Path("code/tuan/data/shopee/raw")
+    output_dir.mkdir(parents=True, exist_ok=True)
+    file_path = output_dir / filename
     
-    all_reviews = []
-    for res_id in target_restaurant_ids:
-        reviews = fetch_reviews_for_restaurant(res_id, max_reviews=35)
-        all_reviews.extend(reviews)
+    with open(file_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
         
-    # Lưu kết quả
-    if all_reviews:
-        df = pd.DataFrame(all_reviews)
+    print(f"[BACKUP] Đã ghi đè an toàn {len(data)} records chuẩn 15 trường vào {file_path}")
+
+def main_spider():
+    print("[SYSTEM] Bắt đầu tiến trình cào ShopeeFood Tàng Hình (Anti-ban)...")
+    
+    start_id = 272000 
+    end_id = 300000
+    
+    final_dataset = []
+    scraped_ids = set()
+    checkpoint_name = "shopee_checkpoint.json"
+    checkpoint_file = Path("code/tuan/data/shopee/raw") / checkpoint_name
+    
+    if checkpoint_file.exists():
+        try:
+            with open(checkpoint_file, 'r', encoding='utf-8') as f:
+                final_dataset = json.load(f)
+                for item in final_dataset:
+                    scraped_ids.add(item['restaurant_id'])
+            print(f"[RESUME] Phục hồi thành công {len(final_dataset)} records từ ca chạy trước.")
+        except Exception as e:
+            print(f"[LỖI RESUME] Bắt đầu lại từ số 0: {e}")
+
+    valid_restaurant_count = 0
+    current_id = start_id
+    
+    while current_id <= end_id:
+        if current_id in scraped_ids:
+            current_id += 1
+            continue
+            
+        # 1. GẮN RADAR: In đè lên cùng 1 dòng (dùng end='\r') để màn hình không bị trôi
+        print(f"[RADAR] Đang dò tìm ID quán: {current_id}...", end="\r")
         
-        os.makedirs("data/raw", exist_ok=True)
-        output_path = "data/raw/raw_reviews.csv"
+        reviews = fetch_shopee_reviews(current_id)
         
-        df.to_csv(output_path, index=False, encoding="utf-8-sig")
-        print(f"\n🎉 Xuất file thành công! Đã lưu tổng cộng {len(df)} dòng dữ liệu THẬT vào '{output_path}'.")
-    else:
-        # Nếu cào thất bại, script báo lỗi chứ KHÔNG tạo dữ liệu ảo
-        print("⚠️ CẢNH BÁO: Không thu thập được dữ liệu nào. Vui lòng kiểm tra lại kết nối mạng hoặc ID nhà hàng.")
+        if reviews == "BLOCKED":
+            print(f"\n[CẢNH BÁO] Phát hiện tường lửa Foody! Tạm dừng hệ thống 2 phút để gỡ IP...")
+            time.sleep(120)
+            continue 
+            
+        if reviews:
+            valid_restaurant_count += 1
+            final_dataset.extend(reviews)
+            scraped_ids.add(current_id)
+            
+            # 2. XÓA DÒNG RADAR CŨ VÀ IN KẾT QUẢ KHI TÌM THẤY QUÁN THẬT
+            print(f"\n[WORKER] TÌM THẤY Quán ID {current_id}! -> Thu thập {len(reviews)} bình luận. (Tổng: {len(final_dataset)})")
+            
+            if valid_restaurant_count % 10 == 0:
+                save_data(final_dataset, checkpoint_name)
+                
+        time.sleep(random.uniform(0.5, 1.5))
+        current_id += 1
+            
+    final_filename = f"shopee_final_{datetime.now().strftime('%Y%m%d')}.json"
+    save_data(final_dataset, final_filename)
+    print(f"\n[HOÀN THÀNH] Đã thu hoạch xong {len(final_dataset)} records THẬT từ ShopeeFood!")
 
 if __name__ == "__main__":
-    main()
+    main_spider()
+    
