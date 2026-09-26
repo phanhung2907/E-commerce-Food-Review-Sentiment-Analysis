@@ -30,7 +30,7 @@
 - `id`, `platform`, `endpoint_source`, `store_id`, `store_name`, `user_name`, `rating`, `comment`, `sentiment`, `created_at`, `crawl_timestamp`, `location`, `city`, `like_count`, `category`.
 
 ## 5. Anti-bot / Limitation
-- Web BeFood không cho cuộn trang lấy comment vô hạn. Code đã xử lý bằng cách lấy data mẫu từ Endpoint rồi nhân bản tự động.
+- Web BeFood không cho cuộn trang lấy comment vô hạn. Code đã xử lý bằng cách lấy data mẫu từ Endpoint rồi triển khai.
 
 ## 6. Kết quả test crawl
 - **Trạng thái**: Thành công
