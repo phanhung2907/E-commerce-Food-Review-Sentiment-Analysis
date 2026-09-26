@@ -6,6 +6,7 @@ requires-python = ">=3.12"
 dependencies = [
     "beautifulsoup4>=4.15.0",
     "ipykernel>=7.3.0",
+    "langdetect>=1.0.9",
     "minio>=7.2.20",
     "pandas>=3.0.5",
     "playwright>=1.63.0",
