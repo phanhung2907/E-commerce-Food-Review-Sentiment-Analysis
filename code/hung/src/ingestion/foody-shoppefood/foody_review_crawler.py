@@ -1,3 +1,4 @@
+import argparse
 import csv
 import json
 import time
@@ -24,9 +25,6 @@ FOODY_REVIEW_API = (
 )
 
 REVIEWS_PER_REQUEST = 10
-
-# None = toàn bộ
-MAX_REVIEWS_PER_RESTAURANT = None
 
 REQUEST_DELAY = 1.0
 RESTAURANT_DELAY = 1.5
@@ -203,6 +201,7 @@ def request_review_page(
     session,
     restaurant_id,
     last_id="",
+    exclude_ids="",
 ):
     params = {
         "ResId":
@@ -222,7 +221,7 @@ def request_review_page(
             "true",
 
         "ExcludeIds":
-            "",
+            str(exclude_ids or ""),
 
         "LastId":
             str(
@@ -285,6 +284,7 @@ def request_review_page(
 def crawl_restaurant_reviews(
     session,
     restaurant,
+    max_reviews=None,
 ):
     restaurant_id = (
         restaurant[
@@ -309,10 +309,12 @@ def crawl_restaurant_reviews(
     seen_review_ids = set()
 
     last_id = ""
+    exclude_ids = ""
 
     total_api = None
 
     page = 1
+    seen_cursor_states = set()
 
     while True:
 
@@ -321,6 +323,7 @@ def crawl_restaurant_reviews(
                 session,
                 restaurant_id,
                 last_id,
+                exclude_ids,
             )
         )
 
@@ -347,7 +350,7 @@ def crawl_restaurant_reviews(
             )
 
             print(
-                "Total API:",
+                "Total API (có thể bị Foody cap):",
                 total_api
             )
 
@@ -364,6 +367,7 @@ def crawl_restaurant_reviews(
         )
 
         if not items:
+            print("STOP: API không còn trả review.")
             break
 
         new_reviews = 0
@@ -429,61 +433,54 @@ def crawl_restaurant_reviews(
             new_reviews += 1
 
             if (
-                MAX_REVIEWS_PER_RESTAURANT
-                is not None
-                and len(reviews)
-                >= MAX_REVIEWS_PER_RESTAURANT
+                max_reviews is not None
+                and len(reviews) >= max_reviews
             ):
                 break
 
         if (
-            MAX_REVIEWS_PER_RESTAURANT
-            is not None
-            and len(reviews)
-            >= MAX_REVIEWS_PER_RESTAURANT
+            max_reviews is not None
+            and len(reviews) >= max_reviews
         ):
+            print(
+                f"Đã đạt giới hạn {max_reviews} review."
+            )
             break
 
         if new_reviews == 0:
+            print("STOP: trang mới không có review mới.")
             break
 
-        new_last_id = (
-            data.get(
-                "LastId"
-            )
-        )
+        new_last_id = data.get("LastId")
 
         if not new_last_id:
-
-            new_last_id = (
-                items[-1]
-                .get(
-                    "Id"
-                )
-            )
+            new_last_id = items[-1].get("Id")
 
         if not new_last_id:
+            print("STOP: không còn LastId để phân trang.")
             break
 
-        if (
-            str(new_last_id)
-            == str(last_id)
-        ):
-            break
+        new_exclude_ids = data.get("ExcludeIds")
+        if new_exclude_ids is None:
+            new_exclude_ids = exclude_ids
 
-        last_id = (
-            new_last_id
+        cursor_state = (
+            str(new_last_id),
+            str(new_exclude_ids or ""),
         )
 
-        if (
-            isinstance(
-                total_api,
-                int
-            )
-            and len(reviews)
-            >= total_api
-        ):
+        if cursor_state in seen_cursor_states:
+            print("STOP: cursor bị lặp.")
             break
+
+        seen_cursor_states.add(cursor_state)
+
+        last_id = new_last_id
+        exclude_ids = new_exclude_ids or ""
+
+        # Không dừng theo data["Total"].
+        # Foody có thể trả Total=100 dù trang web có >100 review.
+        # Chỉ dừng khi API thực sự hết Items/cursor hoặc đạt max_reviews.
 
         page += 1
 
@@ -625,6 +622,7 @@ def save_city_reviews(
 def crawl_city(
     session,
     csv_path,
+    max_reviews=None,
 ):
     city = (
         get_city_from_path(
@@ -671,6 +669,7 @@ def crawl_city(
             crawl_restaurant_reviews(
                 session,
                 restaurant,
+                max_reviews=max_reviews,
             )
         )
 
@@ -693,7 +692,24 @@ def crawl_city(
 # MAIN
 # =========================================================
 
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description="Foody review crawler"
+    )
+    parser.add_argument(
+        "--max-reviews",
+        type=int,
+        default=None,
+        help="Số review tối đa cho mỗi restaurant. Bỏ trống = vét cạn.",
+    )
+    return parser.parse_args()
+
+
 def main():
+    args = parse_args()
+
+    if args.max_reviews is not None and args.max_reviews <= 0:
+        raise ValueError("--max-reviews phải > 0")
 
     print(
         "\n=============================="
@@ -736,6 +752,7 @@ def main():
             crawl_city(
                 session,
                 csv_path,
+                max_reviews=args.max_reviews,
             )
 
         except Exception as e:
