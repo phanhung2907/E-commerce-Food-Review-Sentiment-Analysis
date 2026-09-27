@@ -16,11 +16,13 @@ def fetch_product_tags(product_id: str, headers: dict) -> dict:
 def crawl_eatigo_raw_dict(product_ids: list, total_target: int = 100000):
     all_records = []
     
-    output_dir = Path("code/sang/data/raw/eatigo")
-    output_dir.mkdir(parents=True, exist_ok=True)
-    output_file = output_dir / "eatigo_raw_objects_final.json"
+    # Sử dụng os thuần túy để tạo thư mục và đường dẫn an toàn trên Windows
+    import os
+    output_dir = "code/sang/data/raw/eatigo"
+    os.makedirs(output_dir, exist_ok=True)
+    output_file = f"{output_dir}/eatigo_raw_objects_final.json"
     
-    print(f"🚀 Bắt đầu crawl dữ liệu dưới dạng Python Dict Object nguyên bản...")
+    print(" Bắt đầu crawl dữ liệu dưới dạng Python Dict Object nguyên bản...")
     
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -93,5 +95,7 @@ if __name__ == "__main__":
         "3672085199532", "3713867046637", "3709935077405","3685340512969","3717479703580","3394723641684","3672085199532","3713867046637",
         "3686235486966", "3638474853680", "3691174791838","3643328272762","3696896462776","3727229170353","3637366263237","3637963407247",
         "3690389447826", "3644620907182", "3638113901496","3644963459410","3706514920110","3638483917811","3721679087886","3638474853680",
+        "3698876748617", "3679108573693", "3688901588708","3642587789711","3724099613922","3668780362850","3638711045442","3637627395225",
+        "3636842482642", "3637710438269",
     ]
     crawl_eatigo_raw_dict(product_ids=sample_product_ids, total_target=100000)
