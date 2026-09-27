@@ -6,9 +6,7 @@
 * **Data Access Mechanism:** Sử dụng script Python gọi trực tiếp vào API ngầm của hệ thống để thu thập dữ liệu thô (Raw Data Ingestion)[cite: 1, 5].
 * **Authentication / Login:** Không yêu cầu tài khoản đăng nhập (truy cập qua endpoint công khai).
 * **Anti-bot Protection:** Tối thiểu; cấu hình các HTTP Headers tiêu chuẩn để giả lập trình duyệt và kết nối ổn định.
-
 ---
-
 ## 2. Source Discovery & Schema Mapping
 Dữ liệu được thu thập và lưu trữ dưới dạng **Python Dictionary Object nguyên bản (Raw Objects)** từ API của Eatigo mà không qua các bước bóc tách làm biến dạng cấu trúc gốc. Dưới đây là kiến trúc các khối object và danh sách các trường (features) chi tiết:
 
