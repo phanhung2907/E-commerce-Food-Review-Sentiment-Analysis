@@ -13,7 +13,7 @@ def fetch_product_tags(product_id: str, headers: dict) -> dict:
         pass
     return {}
 
-def crawl_eatigo_raw_dict(product_ids: list, total_target: int = 100000):
+def crawl_eatigo_raw_dict(product_ids: list, total_target: int = 10000):
     all_records = []
     
     # Sử dụng os thuần túy để tạo thư mục và đường dẫn an toàn trên Windows
@@ -98,4 +98,4 @@ if __name__ == "__main__":
         "3698876748617", "3679108573693", "3688901588708","3642587789711","3724099613922","3668780362850","3638711045442","3637627395225",
         "3636842482642", "3637710438269",
     ]
-    crawl_eatigo_raw_dict(product_ids=sample_product_ids, total_target=100000)
+    crawl_eatigo_raw_dict(product_ids=sample_product_ids, total_target=10000)
