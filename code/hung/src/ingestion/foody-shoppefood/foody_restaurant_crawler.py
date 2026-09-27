@@ -1,3 +1,4 @@
+import argparse
 import csv
 import time
 from pathlib import Path
@@ -26,7 +27,6 @@ HOME_LIST_API = (
     f"{BASE_URL}/__get/Place/HomeListPlace"
 )
 
-MAX_PAGES = 3
 COUNT_PER_PAGE = 12
 
 REQUEST_TIMEOUT = 20
@@ -491,6 +491,7 @@ def save_restaurants_csv(
 def crawl_location(
     session,
     target_url,
+    max_restaurants=None,
 ):
     city = get_location_slug(
         target_url
@@ -521,10 +522,9 @@ def crawl_location(
 
     seen = set()
 
-    for page in range(
-        1,
-        MAX_PAGES + 1,
-    ):
+    page = 1
+
+    while True:
 
         print(
             f"\n--- PAGE {page} ---"
@@ -605,6 +605,12 @@ def crawl_location(
 
             new_count += 1
 
+            if (
+                max_restaurants is not None
+                and len(restaurants) >= max_restaurants
+            ):
+                break
+
             print(
                 restaurant[
                     "restaurant_id"
@@ -628,12 +634,20 @@ def crawl_location(
         if new_count == 0:
             break
 
-        if len(items) < COUNT_PER_PAGE:
+        if (
+            max_restaurants is not None
+            and len(restaurants) >= max_restaurants
+        ):
+            print(
+                f"Đã đạt giới hạn {max_restaurants} restaurant."
+            )
             break
 
         time.sleep(
             REQUEST_DELAY
         )
+
+        page += 1
 
     if restaurants:
 
@@ -651,7 +665,24 @@ def crawl_location(
 # MAIN
 # =========================================================
 
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description="Foody restaurant crawler"
+    )
+    parser.add_argument(
+        "--max-restaurants",
+        type=int,
+        default=None,
+        help="Số restaurant tối đa cho mỗi endpoint/tỉnh. Bỏ trống = vét cạn.",
+    )
+    return parser.parse_args()
+
+
 def main():
+    args = parse_args()
+
+    if args.max_restaurants is not None and args.max_restaurants <= 0:
+        raise ValueError("--max-restaurants phải > 0")
 
     print(
         "\n=============================="
@@ -696,6 +727,7 @@ def main():
             count = crawl_location(
                 session,
                 url,
+                max_restaurants=args.max_restaurants,
             )
 
             total += count
