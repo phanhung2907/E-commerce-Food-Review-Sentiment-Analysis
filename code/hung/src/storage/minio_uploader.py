@@ -1,198 +1,144 @@
-import os
+import argparse
 import mimetypes
+import sys
+import threading
 
+from concurrent.futures import (
+    ThreadPoolExecutor,
+    as_completed,
+)
 from pathlib import Path
 
-from dotenv import load_dotenv
-from minio import Minio
-from minio.error import S3Error
 
+SRC_ROOT = Path(__file__).resolve().parents[1]
 
-# =========================================================
-# CONFIG
-# =========================================================
-
-load_dotenv()
-
-PLATFORM_NAME = (
-    "foody_shoppefood"
-)
-
-LOCAL_DATA_ROOT = Path(
-    "code/hung/data"
-) / PLATFORM_NAME
-
-MINIO_ENDPOINT = (
-    os.getenv(
-        "MINIO_ENDPOINT",
-        "localhost:9000",
+if str(SRC_ROOT) not in sys.path:
+    sys.path.insert(
+        0,
+        str(SRC_ROOT),
     )
-)
 
-MINIO_ACCESS_KEY = (
-    os.getenv(
-        "MINIO_ACCESS_KEY",
-        "minioadmin",
-    )
+from storage.minio_client import (  # noqa: E402
+    MINIO_BUCKET,
+    create_minio_client,
+    require_bucket,
+    get_thread_minio_client,
+    list_object_names,
 )
-
-MINIO_SECRET_KEY = (
-    os.getenv(
-        "MINIO_SECRET_KEY",
-        "minioadmin",
-    )
-)
-
-MINIO_BUCKET = (
-    os.getenv(
-        "MINIO_BUCKET",
-        "food-review-data",
-    )
-)
-
-MINIO_SECURE = (
-    os.getenv(
-        "MINIO_SECURE",
-        "false",
-    )
-    .lower()
-    == "true"
+from utils.source_codes import (  # noqa: E402
+    validate_source_code,
 )
 
 
-# =========================================================
-# CLIENT
-# =========================================================
+DEFAULT_WORKERS = 50
+DEFAULT_LOCAL_ROOT = Path(
+    "code/hung/data/"
+    "foody_shoppefood/raw"
+)
 
-def create_client():
-
-    return Minio(
-        endpoint=(
-            MINIO_ENDPOINT
-        ),
-
-        access_key=(
-            MINIO_ACCESS_KEY
-        ),
-
-        secret_key=(
-            MINIO_SECRET_KEY
-        ),
-
-        secure=(
-            MINIO_SECURE
-        ),
-    )
+_print_lock = threading.Lock()
 
 
-# =========================================================
-# BUCKET
-# =========================================================
+def log(*args):
+    with _print_lock:
+        print(*args, flush=True)
 
-def ensure_bucket(
-    client
+
+def find_restaurant_files(
+    local_root: Path,
+    city: str | None = None,
 ):
-    if client.bucket_exists(
-        MINIO_BUCKET
-    ):
-
-        print(
-            "Bucket exists:",
-            MINIO_BUCKET
-        )
-
-        return
-
-    client.make_bucket(
-        MINIO_BUCKET
-    )
-
-    print(
-        "Created bucket:",
-        MINIO_BUCKET
-    )
-
-
-# =========================================================
-# FIND FILES
-# =========================================================
-
-def find_files():
     """
-    Upload tất cả file trong:
+    Expected local schema:
 
-    code/hung/data/
-        foody_shoppefood/
+    <local_root>/
+        <city>/
+            <restaurant_id>/
+                restaurant.json
     """
-
-    if not LOCAL_DATA_ROOT.exists():
-
+    if not local_root.exists():
         raise FileNotFoundError(
-            f"Không tồn tại: "
-            f"{LOCAL_DATA_ROOT}"
+            f"Không tồn tại: {local_root}"
         )
+
+    if city:
+        search_root = (
+            local_root
+            / city
+        )
+        pattern = (
+            "*/restaurant.json"
+        )
+    else:
+        search_root = local_root
+        pattern = (
+            "*/*/restaurant.json"
+        )
+
+    if not search_root.exists():
+        return []
 
     return sorted(
         path
         for path
-        in LOCAL_DATA_ROOT.rglob(
-            "*"
-        )
+        in search_root.glob(pattern)
         if path.is_file()
     )
 
 
-# =========================================================
-# OBJECT NAME
-# =========================================================
-
-def build_object_name(
-    file_path
-):
-    """
-    Local:
-
-    code/hung/data/
-        foody_shoppefood/
-        raw/
-        gia-lai/
-        restaurants.csv
-
-    MinIO:
-
-    foody_shoppefood/
-        raw/
-        gia-lai/
-        restaurants.csv
-    """
-
-    relative_path = (
+def validate_local_file(
+    file_path: Path,
+    local_root: Path,
+) -> tuple[str, str]:
+    relative = (
         file_path
-        .relative_to(
-            LOCAL_DATA_ROOT
-        )
+        .relative_to(local_root)
     )
 
-    object_path = (
-        Path(
-            PLATFORM_NAME
+    parts = relative.parts
+
+    if (
+        len(parts) != 3
+        or parts[2]
+        != "restaurant.json"
+    ):
+        raise ValueError(
+            "Sai MinIO local schema: "
+            f"{relative}. "
+            "Expected "
+            "<city>/<restaurant_id>/"
+            "restaurant.json"
         )
-        / relative_path
+
+    city = parts[0]
+    restaurant_id = parts[1]
+
+    return city, restaurant_id
+
+
+def build_object_name(
+    source_code: str,
+    file_path: Path,
+    local_root: Path,
+) -> str:
+    city, restaurant_id = (
+        validate_local_file(
+            file_path,
+            local_root,
+        )
     )
 
     return (
-        object_path
-        .as_posix()
+        f"{source_code}/raw/"
+        f"{city}/"
+        f"{restaurant_id}/"
+        "restaurant.json"
     )
 
 
-# =========================================================
-# CONTENT TYPE
-# =========================================================
-
 def get_content_type(
-    file_path
-):
+    file_path: Path,
+) -> str:
     content_type, _ = (
         mimetypes.guess_type(
             str(file_path)
@@ -201,213 +147,261 @@ def get_content_type(
 
     return (
         content_type
-        or "application/octet-stream"
+        or "application/json"
     )
 
 
-# =========================================================
-# OBJECT EXISTS
-# =========================================================
-
-def object_exists(
-    client,
-    object_name,
+def upload_one(
+    source_code: str,
+    file_path: Path,
+    local_root: Path,
 ):
-    try:
-
-        client.stat_object(
-            MINIO_BUCKET,
-            object_name,
-        )
-
-        return True
-
-    except S3Error as e:
-
-        if e.code in (
-            "NoSuchKey",
-            "NoSuchObject",
-        ):
-
-            return False
-
-        raise
-
-
-# =========================================================
-# UPLOAD FILE
-# =========================================================
-
-def upload_file(
-    client,
-    file_path,
-):
-    object_name = (
-        build_object_name(
-            file_path
-        )
+    client = (
+        get_thread_minio_client()
     )
 
-    content_type = (
-        get_content_type(
-            file_path
-        )
+    object_name = build_object_name(
+        source_code,
+        file_path,
+        local_root,
     )
 
     client.fput_object(
-        bucket_name=(
-            MINIO_BUCKET
-        ),
-
-        object_name=(
-            object_name
-        ),
-
-        file_path=str(
-            file_path
-        ),
-
+        bucket_name=MINIO_BUCKET,
+        object_name=object_name,
+        file_path=str(file_path),
         content_type=(
-            content_type
+            get_content_type(
+                file_path
+            )
         ),
     )
 
-    print(
-        "Uploaded:",
-        object_name
+    return object_name
+
+
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description=(
+            "Upload raw restaurant objects "
+            "theo MinIO schema chuẩn"
+        )
     )
 
-
-# =========================================================
-# UPLOAD ALL
-# =========================================================
-
-def upload_all(
-    client
-):
-    files = (
-        find_files()
+    parser.add_argument(
+        "--source",
+        default="foody",
+        help=(
+            "Canonical source label. "
+            "Default=foody."
+        ),
     )
 
-    print(
-        "Files found:",
-        len(files)
+    parser.add_argument(
+        "--local-root",
+        type=Path,
+        default=DEFAULT_LOCAL_ROOT,
+        help=(
+            "Folder raw local chứa "
+            "<city>/<restaurant_id>/"
+            "restaurant.json"
+        ),
     )
 
-    uploaded = 0
-    skipped = 0
-    failed = 0
+    parser.add_argument(
+        "--workers",
+        type=int,
+        default=DEFAULT_WORKERS,
+        help=(
+            f"Số upload song song. "
+            f"Default={DEFAULT_WORKERS}."
+        ),
+    )
 
-    for file_path in files:
+    parser.add_argument(
+        "--city",
+        default=None,
+        help=(
+            "Chỉ upload một city slug."
+        ),
+    )
 
-        object_name = (
-            build_object_name(
-                file_path
+    parser.add_argument(
+        "--limit",
+        type=int,
+        default=None,
+        help=(
+            "Giới hạn số object để test."
+        ),
+    )
+
+    parser.add_argument(
+        "--overwrite",
+        action="store_true",
+        help=(
+            "Upload đè object đã có trên "
+            "MinIO. Mặc định sẽ skip."
+        ),
+    )
+
+    return parser.parse_args()
+
+
+def main():
+    args = parse_args()
+
+    source_code = validate_source_code(
+        args.source
+    )
+
+    if args.workers < 1:
+        raise ValueError(
+            "--workers phải >= 1"
+        )
+
+    if (
+        args.limit is not None
+        and args.limit <= 0
+    ):
+        raise ValueError(
+            "--limit phải > 0"
+        )
+
+    files = find_restaurant_files(
+        args.local_root,
+        args.city,
+    )
+
+    if args.limit is not None:
+        files = files[
+            :args.limit
+        ]
+
+    client = create_minio_client()
+    require_bucket(client)
+
+    existing = set()
+
+    if not args.overwrite:
+        prefix = (
+            f"{source_code}/raw/"
+        )
+
+        if args.city:
+            prefix += (
+                f"{args.city}/"
+            )
+
+        existing = set(
+            list_object_names(
+                prefix=prefix,
+                client=client,
             )
         )
 
-        try:
+    jobs = []
 
-            if object_exists(
-                client,
-                object_name,
-            ):
+    for file_path in files:
+        object_name = (
+            build_object_name(
+                source_code,
+                file_path,
+                args.local_root,
+            )
+        )
 
-                print(
-                    "Skip existing:",
-                    object_name
+        if (
+            not args.overwrite
+            and object_name
+            in existing
+        ):
+            continue
+
+        jobs.append(file_path)
+
+    skipped = (
+        len(files)
+        - len(jobs)
+    )
+
+    print(
+        "Source:",
+        source_code,
+    )
+    print(
+        "Local files:",
+        len(files),
+    )
+    print(
+        "Need upload:",
+        len(jobs),
+    )
+    print(
+        "Skip existing:",
+        skipped,
+    )
+    print(
+        "Workers:",
+        args.workers,
+    )
+
+    uploaded = 0
+    failed = 0
+
+    with ThreadPoolExecutor(
+        max_workers=args.workers
+    ) as executor:
+        futures = {
+            executor.submit(
+                upload_one,
+                source_code,
+                file_path,
+                args.local_root,
+            ): file_path
+            for file_path in jobs
+        }
+
+        for index, future in enumerate(
+            as_completed(futures),
+            start=1,
+        ):
+            file_path = futures[future]
+
+            try:
+                object_name = (
+                    future.result()
+                )
+                uploaded += 1
+
+                log(
+                    f"[{index}/{len(jobs)}] "
+                    f"Uploaded: "
+                    f"{object_name}"
                 )
 
-                skipped += 1
+            except Exception as e:
+                failed += 1
 
-                continue
-
-            upload_file(
-                client,
-                file_path,
-            )
-
-            uploaded += 1
-
-        except Exception as e:
-
-            print(
-                "FAILED:",
-                file_path
-            )
-
-            print(
-                e
-            )
-
-            failed += 1
+                log(
+                    f"[{index}/{len(jobs)}] "
+                    f"FAILED: "
+                    f"{file_path} | {e}"
+                )
 
     print(
-        "\n=============================="
+        "\nUPLOAD SUMMARY"
     )
-
-    print(
-        "UPLOAD SUMMARY"
-    )
-
-    print(
-        "=============================="
-    )
-
     print(
         "Uploaded:",
-        uploaded
+        uploaded,
     )
-
     print(
         "Skipped:",
-        skipped
+        skipped,
     )
-
     print(
         "Failed:",
-        failed
-    )
-
-
-# =========================================================
-# MAIN
-# =========================================================
-
-def main():
-
-    print(
-        "\n=============================="
-    )
-
-    print(
-        "MINIO UPLOADER"
-    )
-
-    print(
-        "=============================="
-    )
-
-    print(
-        "Endpoint:",
-        MINIO_ENDPOINT
-    )
-
-    print(
-        "Bucket:",
-        MINIO_BUCKET
-    )
-
-    client = (
-        create_client()
-    )
-
-    ensure_bucket(
-        client
-    )
-
-    upload_all(
-        client
+        failed,
     )
 
 
