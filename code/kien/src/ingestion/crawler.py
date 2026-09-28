@@ -34,17 +34,17 @@ def extract_json_ld_features(driver):
         pass
     return schema_data
 
-def discover_restaurant_urls(driver, city_listing_url, max_pages=8):
+def discover_restaurant_urls(driver, city_listing_url, max_pages=12):
     restaurant_links = set()
-    print(f"\n[Giai đoạn 1] Đang quét danh mục từ: {city_listing_url}")
+    print(f"\n[Category Scan] Quét từ: {city_listing_url}")
     
     for page in range(max_pages):
         current_url = city_listing_url if page == 0 else f"{city_listing_url}#oa{page * 30}"
         driver.get(current_url)
         time.sleep(random.uniform(4.0, 7.0))
         
-        for _ in range(4):
-            driver.execute_script("window.scrollBy(0, 1000);")
+        for _ in range(5):
+            driver.execute_script("window.scrollBy(0, 1200);")
             time.sleep(random.uniform(1.2, 2.0))
             
         link_elems = driver.find_elements(By.CSS_SELECTOR, "a[href*='Restaurant_Review']")
@@ -53,7 +53,7 @@ def discover_restaurant_urls(driver, city_listing_url, max_pages=8):
             if href and "Reviews-" in href:
                 restaurant_links.add(href)
                 
-        print(f"-> Trang danh mục {page + 1}: Tích lũy được {len(restaurant_links)} URL nhà hàng.")
+        print(f"Trang danh mục {page + 1}: Đã gom được {len(restaurant_links)} URL nhà hàng.")
         
     return list(restaurant_links)
 
@@ -69,16 +69,16 @@ def extract_full_features_from_restaurant(driver, target_url, city):
         if h1.text.strip(): restaurant_name = h1.text.strip()
     except: pass
 
-    print(f"\n---> Đang cào nhà hàng: {restaurant_name} ({city})")
+    print(f"\nĐang cào nhà hàng: {restaurant_name} ({city})")
 
     restaurant_reviews = []
     page_num = 1
-    max_pages_per_restaurant = 5
+    max_pages_per_restaurant = 10
 
     while page_num <= max_pages_per_restaurant:
         for _ in range(3):
             driver.execute_script("window.scrollBy(0, 1000);")
-            time.sleep(random.uniform(1.2, 2.2))
+            time.sleep(random.uniform(1.2, 2.0))
 
         review_containers = driver.find_elements(By.CSS_SELECTOR, "div.cWokd, div.box-card, div.review-container, div[data-automation='reviewCard']")
         if not review_containers:
@@ -127,7 +127,7 @@ def extract_full_features_from_restaurant(driver, target_url, city):
             except:
                 pass
 
-        print(f"   -> Trang review {page_num}: Thu thập được {count_added} bản ghi.")
+        print(f"Trang review {page_num}: Lấy được {count_added} bản ghi.")
 
         try:
             next_btn = driver.find_element(By.CSS_SELECTOR, "a.nav.next:not(.disabled), [data-test-target='pagination-next']:not(.disabled)")
@@ -144,28 +144,33 @@ def extract_full_features_from_restaurant(driver, target_url, city):
 
     return restaurant_reviews
 
-def run_mass_scale_pipeline():
-    output_dir = "code/kien/data/raw"
+def run_enterprise_scale_pipeline():
+    output_dir = "code/kien/data/raw/enterprise_100k"
     os.makedirs(output_dir, exist_ok=True)
-    output_file = os.path.join(output_dir, f"tripadvisor_mass_schema_features_2026-09-27.json")
     
-    # Tính năng thông minh: Nếu file cũ đã tồn tại, tự động nạp lại dữ liệu cũ để chạy tiếp
-    all_dataset = []
-    if os.path.exists(output_file):
-        try:
-            with open(output_file, "r", encoding="utf-8") as f:
-                all_dataset = json.load(f)
-            print(f"📂 Đã tìm thấy file cũ! Tự động khôi phục {len(all_dataset)} bản ghi đã cào trước đó.")
-        except:
-            pass
-
     options = uc.ChromeOptions()
     options.add_argument("--start-maximized")
     
-    print("Đang khởi động hệ thống Mass-Scale Crawler (Chế độ chạy tiếp tục / Resume Mode)...")
+    print("Khởi động hệ thống Enterprise Crawler (Mục tiêu 100.000+ bản ghi)...")
     driver = uc.Chrome(options=options, version_main=153)
     
-    TARGET_LIMIT = 10000
+    TARGET_TOTAL = 100000
+    CHUNK_LIMIT = 10000  
+    
+    existing_parts = [f for f in os.listdir(output_dir) if f.startswith("tripadvisor_part_")]
+    current_part_num = len(existing_parts) + 1 if existing_parts else 1
+    
+    current_chunk_data = []
+    total_collected_global = 0
+    
+    current_part_file = os.path.join(output_dir, f"tripadvisor_part_{current_part_num}.json")
+    if os.path.exists(current_part_file):
+        try:
+            with open(current_part_file, "r", encoding="utf-8") as f:
+                current_chunk_data = json.load(f)
+            print(f"Khôi phục phần {current_part_num} với {len(current_chunk_data)} bản ghi sẵn có.")
+        except:
+            pass
 
     try:
         city_listings = [
@@ -176,48 +181,58 @@ def run_mass_scale_pipeline():
             {"city": "Nha Trang", "url": "https://www.tripadvisor.com/Restaurants-g293928-Nha_Trang_Khanh_Hoa_Province.html"},
             {"city": "Da Lat", "url": "https://www.tripadvisor.com/Restaurants-g303945-Da_Lat_Lam_Dong_Province.html"},
             {"city": "Phu Quoc", "url": "https://www.tripadvisor.com/Restaurants-g469421-Phu_Quoc_Island_Kien_Giang_Province.html"},
-            {"city": "Vung Tau", "url": "https://www.tripadvisor.com/Restaurants-g303944-Vung_Tau_Ba_Ria_Vung_Tau_Province.html"}
+            {"city": "Vung Tau", "url": "https://www.tripadvisor.com/Restaurants-g303944-Vung_Tau_Ba_Ria_Vung_Tau_Province.html"},
+            {"city": "Hue", "url": "https://www.tripadvisor.com/Restaurants-g293926-Hue_Thua_Thiên_Hue_Province.html"},
+            {"city": "Ha Long Bay", "url": "https://www.tripadvisor.com/Restaurants-g293922-Ha_Long_Bay_Quang_Ninh_Province.html"},
+            {"city": "Can Tho", "url": "https://www.tripadvisor.com/Restaurants-g303941-Can_Tho.html"},
+            {"city": "Quy Nhon", "url": "https://www.tripadvisor.com/Restaurants-g293925-Quy_Nhon_Binh_Dinh_Province.html"},
+            {"city": "Sapa", "url": "https://www.tripadvisor.com/Restaurants-g311304-Sapa_Lao_Cai_Province.html"},
+            {"city": "Ninh Binh", "url": "https://www.tripadvisor.com/Restaurants-g303946-Ninh_Binh_Ninh_Binh_Province.html"},
+            {"city": "Phan Thiet - Mui Ne", "url": "https://www.tripadvisor.com/Restaurants-g303951-Phan_Thiet_Binh_Thuan_Province.html"},
+            {"city": "Haiphong", "url": "https://www.tripadvisor.com/Restaurants-g303936-Haiphong.html"},
+            {"city": "Bien Hoa", "url": "https://www.tripadvisor.com/Restaurants-g303940-Bien_Hoa_Dong_Nai_Province.html"},
+            {"city": "Buon Ma Thuot", "url": "https://www.tripadvisor.com/Restaurants-g303939-Buon_Ma_Thuot_Dak_Lak_Province.html"},
+            {"city": "Pleiku", "url": "https://www.tripadvisor.com/Restaurants-g311303-Pleiku_Gia_Lai_Province.html"}
         ]
 
         target_restaurants = []
         for listing in city_listings:
-            urls = discover_restaurant_urls(driver, listing["url"], max_pages=5)
+            urls = discover_restaurant_urls(driver, listing["url"], max_pages=10)
             for u in urls:
                 target_restaurants.append({"url": u, "city": listing["city"]})
 
-        print(f"\n[Giai đoạn 2] Tổng hợp được {len(target_restaurants)} nhà hàng. Tiếp tục tiến trình cào...")
-
-        # Lọc ra các URL nhà hàng đã có trong dữ liệu cũ để tránh cào trùng lặp
-        existing_urls = {item.get("restaurant_url") for item in all_dataset}
+        print(f"\nTổng hợp được tổng cộng {len(target_restaurants)} nhà hàng. Bắt đầu thu thập dữ liệu...")
 
         for idx, item in enumerate(target_restaurants):
-            if len(all_dataset) >= TARGET_LIMIT:
-                print(f"\n🎉 Đã đạt mục tiêu vượt ngưỡng {TARGET_LIMIT} bản ghi!")
+            if total_collected_global >= TARGET_TOTAL:
+                print("Đã hoàn thành mục tiêu 100.000 bản ghi.")
                 break
                 
-            if item["url"] in existing_urls:
-                continue  # Bỏ qua nhà hàng đã cào rồi
-
-            print(f"\n[Tiến độ hiện tại: {len(all_dataset)}/{TARGET_LIMIT}] Đang xử lý nhà hàng mới {idx+1}/{len(target_restaurants)}")
+            print(f"\n[Phần {current_part_num} - Đang có: {len(current_chunk_data)}/{CHUNK_LIMIT}] Xử lý nhà hàng {idx+1}/{len(target_restaurants)}")
             driver.get(item["url"])
-            time.sleep(random.uniform(5.0, 9.0))
+            time.sleep(random.uniform(5.0, 8.0))
             
             restaurant_records = extract_full_features_from_restaurant(driver, item["url"], item["city"])
-            all_dataset.extend(restaurant_records)
+            current_chunk_data.extend(restaurant_records)
+            total_collected_global += len(restaurant_records)
             
-            with open(output_file, "w", encoding="utf-8") as f:
-                json.dump(all_dataset, f, ensure_ascii=False, indent=4)
+            with open(current_part_file, "w", encoding="utf-8") as f:
+                json.dump(current_chunk_data, f, ensure_ascii=False, indent=4)
                 
-            print(f"-> Đã lưu cập nhật tổng số: {len(all_dataset)} bản ghi vào file.")
+            print(f"Đã lưu file phần {current_part_num} (Tổng tích lũy: {len(current_chunk_data)} records).")
+
+            if len(current_chunk_data) >= CHUNK_LIMIT:
+                print(f"Hoàn thành Phần {current_part_num} ({CHUNK_LIMIT} bản ghi). Chuyển sang phần tiếp theo.")
+                current_part_num += 1
+                current_chunk_data = []
+                current_part_file = os.path.join(output_dir, f"tripadvisor_part_{current_part_num}.json")
 
     except Exception as e:
-        print(f"Đã xảy ra lỗi hệ thống: {e}")
+        print(f"Lỗi hệ thống: {e}")
     finally:
         driver.quit()
 
-    print(f"\n=== HOÀN TẤT TOÀN BỘ QUÁ TRÌNH CÀO DỮ LIỆU ===")
-    print(f"Tổng số lượng thu thập thực tế: {len(all_dataset)}")
-    print(f"Đã lưu file tại: {output_file}")
+    print("Hoàn tất tiến trình cào dữ liệu.")
 
 if __name__ == "__main__":
-    run_mass_scale_pipeline()
+    run_enterprise_scale_pipeline()
