@@ -7,6 +7,25 @@ from datetime import datetime
 import undetected_chromedriver as uc
 from selenium.webdriver.common.by import By
 
+TRACKING_FILE_NAME = "crawled_restaurants.json"
+
+def load_crawled_urls(output_dir):
+    tracking_path = os.path.join(output_dir, TRACKING_FILE_NAME)
+    if os.path.exists(tracking_path):
+        try:
+            with open(tracking_path, "r", encoding="utf-8") as f:
+                return set(json.load(f))
+        except:
+            return set()
+    return set()
+
+def save_crawled_url(output_dir, url):
+    tracking_path = os.path.join(output_dir, TRACKING_FILE_NAME)
+    crawled_set = load_crawled_urls(output_dir)
+    crawled_set.add(url)
+    with open(tracking_path, "w", encoding="utf-8") as f:
+        json.dump(list(crawled_set), f, ensure_ascii=False, indent=4)
+
 def extract_json_ld_features(driver):
     schema_data = {
         "@id": "N/A", "address": "N/A",
@@ -148,6 +167,10 @@ def run_enterprise_scale_pipeline():
     output_dir = "code/kien/data/raw/enterprise_100k"
     os.makedirs(output_dir, exist_ok=True)
     
+    # Tải danh sách các URL nhà hàng đã cào từ trước để tránh trùng lặp
+    crawled_urls = load_crawled_urls(output_dir)
+    print(f"Đã tải {len(crawled_urls)} nhà hàng đã cào thành công từ các phiên trước.")
+
     options = uc.ChromeOptions()
     options.add_argument("--start-maximized")
     
@@ -208,13 +231,23 @@ def run_enterprise_scale_pipeline():
                 print("Đã hoàn thành mục tiêu 100.000 bản ghi.")
                 break
                 
+            restaurant_url = item["url"]
+            
+            # Kiểm tra nếu nhà hàng này đã cào trong các phiên trước thì bỏ qua ngay
+            if restaurant_url in crawled_urls:
+                print(f"Nhà hàng đã cào trước đó, đang bỏ qua: {restaurant_url}")
+                continue
+
             print(f"\n[Phần {current_part_num} - Đang có: {len(current_chunk_data)}/{CHUNK_LIMIT}] Xử lý nhà hàng {idx+1}/{len(target_restaurants)}")
-            driver.get(item["url"])
+            driver.get(restaurant_url)
             time.sleep(random.uniform(5.0, 8.0))
             
-            restaurant_records = extract_full_features_from_restaurant(driver, item["url"], item["city"])
+            restaurant_records = extract_full_features_from_restaurant(driver, restaurant_url, item["city"])
             current_chunk_data.extend(restaurant_records)
             total_collected_global += len(restaurant_records)
+            
+            # Ghi nhận URL này đã cào thành công vào file tracking
+            save_crawled_url(output_dir, restaurant_url)
             
             with open(current_part_file, "w", encoding="utf-8") as f:
                 json.dump(current_chunk_data, f, ensure_ascii=False, indent=4)
