@@ -1,112 +1,146 @@
-import csv
-import json
-from datetime import datetime
+import requests
 import time
-import urllib.parse
-import urllib.request
+import json
+import random
+from datetime import datetime
+from pathlib import Path
 
-def crawl_foody_reviews(res_id, restaurant_name, city, total_reviews, target_reviews=50):
-    url = 'https://www.foody.vn/__get/Review/ResLoadMore'
-    
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
-        'Accept': 'application/json, text/plain, */*',
-        'X-Requested-With': 'XMLHttpRequest',
+USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
+]
+
+def get_random_headers():
+    return {
+        "User-Agent": random.choice(USER_AGENTS),
+        "Accept": "application/json, text/plain, */*",
+        "X-Requested-With": "XMLHttpRequest",
+        "Referer": "https://www.foody.vn/"
     }
 
-    all_reviews = []
-    last_id = ''
+def fetch_foody_reviews_for_restaurant(restaurant_id, max_reviews_per_res=200):
+    api_url = "https://www.foody.vn/__get/Review/ResLoadMore"
+    restaurant_reviews = []
+    last_id = ""
+    total_reviews_val = "N/A"
     
-    print(f"Đang thu thập đủ {target_reviews} dòng cho quán: {restaurant_name}...")
-    
-    while len(all_reviews) < target_reviews:
+    while len(restaurant_reviews) < max_reviews_per_res:
         params = {
-            't': str(int(time.time() * 1000)), 
-            'ResId': str(res_id),
-            'LastId': str(last_id),
-            'Count': '20', 
-            'Type': '1',
-            'isLatest': 'true'
+            "t": str(int(time.time() * 1000)),
+            "ResId": str(restaurant_id),
+            "Count": "10",
+            "Type": "1",
+            "isLatest": "true",
+            "ExcludeIds": "",
+            "LastId": str(last_id)
         }
         
-        query_string = urllib.parse.urlencode(params)
-        full_url = f"{url}?{query_string}"
-        
         try:
-            req = urllib.request.Request(full_url, headers=headers)
-            with urllib.request.urlopen(req) as response:
-                data = json.loads(response.read().decode('utf-8'))
-                items = data.get('Items', [])
+            response = requests.get(api_url, params=params, headers=get_random_headers(), timeout=10)
+            if response.status_code in [403, 503]:
+                return "BLOCKED"
+            if response.status_code != 200:
+                break
                 
-                if not items:
+            data = response.json()
+            if "TotalReview" in data:
+                total_reviews_val = str(data.get("TotalReview"))
+            elif "totalReview" in data:
+                total_reviews_val = str(data.get("totalReview"))
+
+            items = data.get("Items", []) or data.get("itm", [])
+            if not items:
+                break
+                
+            for item in items:
+                if len(restaurant_reviews) >= max_reviews_per_res:
                     break
-                    
-                for item in items:
-                    # Gom toàn bộ dữ liệu thô từ item của API trả về để không bỏ sót bất kỳ feature nào
-                    review_record = {
-                        'source': 'Foody',
-                        'restaurant_id': res_id,
-                        'restaurant_name': restaurant_name,
-                        'restaurant_url': f"https://www.foody.vn/quang-binh/{restaurant_name.lower().replace(' ', '-')}-{res_id}",
-                        'city': city,
-                        'category': 'Quán ăn / Đặc sản',
-                        'total_reviews': total_reviews,
-                        # Các trường mở rộng chi tiết từ API web
-                        'review_id': item.get('Id'),
-                        'title': item.get('Title'),
-                        'description': item.get('Description', '').strip(),
-                        'type': item.get('Type'),
-                        'type_name': item.get('TypeName'),
-                        'created_date': item.get('CreatedDate'),
-                        'created_on_time_diff': item.get('CreatedOnTimeDiff'),
-                        'device_name': item.get('DeviceName'),
-                        'device_url': item.get('DeviceUrl'),
-                        'device_type': item.get('DeviceType'),
-                        'is_allow_comment': item.get('IsAllowComment'),
-                        'has_thit_cay': item.get('HasThitCay'),
-                        'total_views': item.get('TotalViews'),
-                        'total_pictures': item.get('TotalPictures'),
-                        'avg_rating': item.get('AvgRating'),
-                        'video': json.dumps(item.get('Video')) if item.get('Video') else None,
-                        'hashtags': json.dumps(item.get('Hashtags')) if item.get('Hashtags') else None,
-                        'pictures': json.dumps(item.get('Pictures')) if item.get('Pictures') else None,
-                        'owner_info': json.dumps(item.get('Owner')) if item.get('Owner') else None,
-                        'restaurant_rating': item.get('AvgRating', 0),
-                        'rating': item.get('AvgRating', 0),
-                        'review_date': item.get('CreatedOnTimeDiff') or item.get('CreatedDate') or '',
-                        'crawl_timestamp': datetime.now().isoformat()
-                    }
-                    all_reviews.append(review_record)
-                    last_id = item.get('Id')
-                    
-                    if len(all_reviews) >= target_reviews:
-                        break
                 
-                time.sleep(1) 
+                raw_desc = item.get("Description")
+                text = raw_desc.strip() if isinstance(raw_desc, str) else ""
+                if not text:
+                    continue
+
+                review = item.copy()
+                review["source_system"] = "Foody"
+                review["restaurant_id_query"] = str(restaurant_id)
+                review["city_query"] = "Bình Định"
+                review["total_reviews_api"] = total_reviews_val
+                review["crawl_timestamp"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
                 
-        except Exception as e:
-            print(f"Lỗi: {e}")
+                restaurant_reviews.append(review)
+                last_id = item.get("Id", "")
+                
+            time.sleep(random.uniform(0.3, 0.8))
+        except requests.exceptions.RequestException:
             break
             
-    return all_reviews
+    return restaurant_reviews
+
+def save_checkpoint(data, file_path):
+    file_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(file_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
 
 def main():
-    restaurants = [
-        {'id': 272138, 'name': 'Gà Chỉ Sáu Cao', 'city': 'Quy Nhơn', 'total_reviews': 272},
-        {'id': 138063, 'name': 'Mộc Viên Restaurant', 'city': 'Quy Nhơn', 'total_reviews': 93}
-    ]
+    print("[SYSTEM] Bắt đầu tiến trình cào Foody tự động hướng tới mục tiêu 10.000 records...")
+    
+    start_id = 301000
+    end_id = 400000
+    target_total_goal = 100000
+    
+    final_dataset = []
+    scraped_ids = set()
+    
+    output_dir = Path("code/sang/data/raw")
+    checkpoint_file = output_dir / "foody_checkpoint.json"
+    
+    if checkpoint_file.exists():
+        try:
+            with open(checkpoint_file, 'r', encoding='utf-8') as f:
+                final_dataset = json.load(f)
+                for item in final_dataset:
+                    scraped_ids.add(int(item.get('restaurant_id_query', 0)))
+            print(f"[RESUME] Khôi phục thành công {len(final_dataset)} records từ lần chạy trước.")
+        except Exception as e:
+            print(f"[LỖI RESUME] Khởi động lại từ đầu: {e}")
 
-    dataset = []
-    for res in restaurants:
-        reviews = crawl_foody_reviews(res['id'], res['name'], res['city'], res['total_reviews'], target_reviews=50)
-        dataset.extend(reviews)
+    current_id = start_id
+    valid_shops = 0
+    
+    while current_id <= end_id and len(final_dataset) < target_total_goal:
+        if current_id in scraped_ids:
+            current_id += 1
+            continue
+            
+        print(f"[RADAR] Đang quét ID quán: {current_id} | Tổng tích lũy: {len(final_dataset)}/{target_total_goal}...", end="\r")
+        
+        reviews = fetch_foody_reviews_for_restaurant(current_id, max_reviews_per_res=200)
+        
+        if reviews == "BLOCKED":
+            print(f"\n[CẢNH BÁO] Bị chặn tạm thời bởi Foody! Nghỉ ngơi 90 giây...")
+            time.sleep(90)
+            continue
+            
+        if reviews:
+            valid_shops += 1
+            final_dataset.extend(reviews)
+            scraped_ids.add(current_id)
+            print(f"\n[WORKER] TÌM THẤY Quán ID {current_id} -> Thu được {len(reviews)} review. (Tổng: {len(final_dataset)})")
+            
+            if valid_shops % 5 == 0:
+                save_checkpoint(final_dataset, checkpoint_file)
+                
+        time.sleep(random.uniform(0.5, 1.2))
+        current_id += 1
 
-    if dataset:
-        # Xuất file JSON chứa toàn bộ dữ liệu vét sạch
-        json_filename = 'foody_sample_data.json'
-        with open(json_filename, 'w', encoding='utf-8') as json_file:
-            json.dump(dataset, json_file, ensure_ascii=False, indent=4)
-        print(f"\n✅ Đã cào và xuất thành công file '{json_filename}' với đầy đủ mọi features từ web!")
+    if final_dataset:
+        final_output_path = output_dir / "foody_raw_reviews.json"
+        save_checkpoint(final_dataset, final_output_path)
+        print(f"\n🎉 HOÀN THÀNH XUẤT SẮC! Đã gom đủ {len(final_dataset)} dòng tại '{final_output_path}'.")
+    else:
+        print("\n⚠️ Không thu thập được dữ liệu.")
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
