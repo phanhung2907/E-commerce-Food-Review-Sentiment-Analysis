@@ -1,176 +1,142 @@
 import requests
 import json
 import time
-import random
-import re
-from pathlib import Path
 from bs4 import BeautifulSoup
+from pathlib import Path
 from datetime import datetime
+import re
 
-# ---------------------------------------------------------
-# TÍNH NĂNG 4: GHOST MODE - DANH SÁCH NGỤY TRANG (USER-AGENTS)
-# ---------------------------------------------------------
-USER_AGENTS = [
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
-]
+try:
+    from langdetect import detect
+except ImportError:
+    pass
 
-# ---------------------------------------------------------
-# TÍNH NĂNG 3: SMART RESUME - ĐỌC FILE BACKUP TỰ ĐỘNG
-# ---------------------------------------------------------
-def load_backup_data(backup_file):
-    scraped_ids = set()
-    existing_data = []
-    if backup_file.exists():
-        try:
-            with open(backup_file, 'r', encoding='utf-8') as f:
-                existing_data = json.load(f)
-                for item in existing_data:
-                    # Lưu lại ID quán đã cào để không cào lại
-                    if item.get("restaurant_id"):
-                        scraped_ids.add(str(item["restaurant_id"]))
-            print(f"[SMART RESUME] Đã load thành công {len(existing_data)} records từ file backup!")
-            print(f"[SMART RESUME] Nhận diện được {len(scraped_ids)} quán đã cào. Sẽ bỏ qua các quán này.")
-        except Exception as e:
-            print(f"[LỖI] Không thể đọc file backup: {e}")
-    else:
-        print("[SMART RESUME] Không tìm thấy file backup. Sẽ cào mới từ đầu.")
-    return existing_data, scraped_ids
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept-Language": "vi-VN,vi;q=0.9",
+}
 
-# ---------------------------------------------------------
-# TÍNH NĂNG 2: AUTO-HUNTER - TRÌNH ĐÀO BỚI JSON ĐỆ QUY
-# ---------------------------------------------------------
-def find_reviews_in_json(node, results):
-    """
-    Thuật toán đệ quy đào bới mọi ngóc ngách của JSON để tìm cấu trúc bình luận.
-    Giúp code không bị gãy ngay cả khi BeFood thay đổi giao diện.
-    """
-    if isinstance(node, dict):
-        # Đặc điểm nhận dạng bình luận của BeFood thường có các key này
-        if ("comment" in node or "content" in node) and ("rating" in node or "score" in node):
-            results.append(node)
-        for key, value in node.items():
-            find_reviews_in_json(value, results)
-    elif isinstance(node, list):
-        for item in node:
-            find_reviews_in_json(item, results)
+def clean_old_data():
+    old_file = Path("code/tuan/data/befood/raw/befood_final_100.json")
+    if old_file.exists():
+        old_file.unlink()
 
-# ---------------------------------------------------------
-# TÍNH NĂNG 1 & 5: SSR EXTRACTOR & CHECKPOINT
-# ---------------------------------------------------------
-def save_data(data, filename):
+def save_data(data):
     output_dir = Path("code/tuan/data/befood/raw")
     output_dir.mkdir(parents=True, exist_ok=True)
-    file_path = output_dir / filename
-    
+    out_name = f"befood_final_{len(data)}_{datetime.now().strftime('%Y%m%d')}.json"
+    file_path = output_dir / out_name
     with open(file_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
-    print(f"[CHECKPOINT] Đã bảo vệ an toàn {len(data)} records chuẩn NLP vào {file_path}")
+    print(f"\n[LƯU TRỮ] Đã ghi nhận {len(data)} records vào {file_path}")
 
-def crawl_befood_restaurant(restaurant_id):
-    # BeFood thường chấp nhận cấu trúc URL có ID ở cuối dù tên slug (phần chữ) không chính xác
-    url = f"https://food.be.com.vn/ho-chi-minh/quan-an-{restaurant_id}"
+def get_real_store_urls():
+    print("[1/3] Bỏ qua quét tự động, sử dụng danh sách 3 URL nhập tay để vượt tường lửa...")
     
-    headers = {
-        "User-Agent": random.choice(USER_AGENTS),
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-        "Accept-Language": "vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7",
-    }
+    urls_list = [
+        "https://food.be.com.vn/ho-chi-minh/co-huong-bun-rieu-canh-bun-phan-boi-chau-88224",
+        "https://food.be.com.vn/ho-chi-minh/ga-ran-va-my-y-jollibee-pasteur-9965",
+        "https://food.be.com.vn/ho-chi-minh/ga-ran-popeyes-khanh-hoi-30467",
+        "https://food.be.com.vn/ho-chi-minh/lotteria-tran-hung-dao-11634",
+        "https://food.be.com.vn/ho-chi-minh/taka-cha-tra-sua-che-sau-rieng-huynh-thuc-khang-20385",
+        "https://food.be.com.vn/ho-chi-minh/com-xa-xiu-thuong-hang-icom-duong-so-41-9204"
+
+    ]
     
+    print(f"[THÀNH CÔNG] Đã nạp sẵn {len(urls_list)} URL quán chất lượng để chuẩn bị bóc tách.")
+    return urls_list
+
+def crawl_store_reviews(url):
     try:
-        response = requests.get(url, headers=headers, timeout=10)
+        res = requests.get(url, headers=HEADERS, timeout=8)
+        # Ép chuẩn bảng mã UTF-8 để khắc phục dứt điểm lỗi font tiếng Việt
+        res.encoding = 'utf-8' 
         
-        if response.status_code != 200:
+        if res.status_code != 200:
             return []
             
-        # TÍNH NĂNG 1: Dùng BeautifulSoup Nội soi HTML tìm Next.js Data
-        soup = BeautifulSoup(response.text, 'html.parser')
-        next_data_script = soup.find('script', id='__NEXT_DATA__')
+        clean_html = res.text.replace('\\"', '"')
+        pattern = r'"rating":([0-9.]+),"feedback":"(.*?)"'
+        matches = re.findall(pattern, clean_html)
         
-        if not next_data_script:
-            return []
-            
-        # Giải mã JSON ẩn
-        raw_json = json.loads(next_data_script.string)
+        unique_reviews = list(set(matches))
         
-        # Gọi trình đào bới đệ quy
-        raw_reviews = []
-        find_reviews_in_json(raw_json, raw_reviews)
+        url_slug = url.split('/')[-1]
+        store_id = url_slug.split('-')[-1] 
+        store_name = url_slug.rsplit('-', 1)[0].replace('-', ' ').title()
         
-        # Chuyển đổi sang chuẩn 15 trường NLP của dự án
-        nlp_records = []
-        for rv in raw_reviews:
-            text = rv.get('comment') or rv.get('content') or ""
-            if not text.strip(): # Bỏ qua nếu không có chữ (chỉ chấm điểm)
+        records = []
+        for rating_str, feedback_text in unique_reviews:
+            # SỬA LỖI FONT (MOJIBAKE) DỨT ĐIỂM TẠI ĐÂY
+            try:
+                # 1. Ép chuỗi văn bản rác về dạng byte gốc bằng latin-1
+                # 2. Giải mã ngược lại bằng utf-8 để trả về tiếng Việt chuẩn
+                text = feedback_text.encode('latin-1').decode('utf-8').strip()
+                
+                # Dọn dẹp thêm các ký tự unicode escape lác đác (nếu có)
+                text = text.encode('utf-8').decode('unicode_escape')
+            except Exception:
+                text = feedback_text.strip()
+                
+            if not text or text == "null":
                 continue
                 
-            record = {
-                "source": "beFood",
-                "restaurant_id": restaurant_id,
-                "restaurant_name": f"BeFood Restaurant {restaurant_id}", # Next.js giấu tên quán ở chỗ khác, dùng tạm ID
-                "restaurant_url": url,
-                "city": "ho-chi-minh",
-                "category": None,
-                "total_reviews": None,
-                "reviewer_id": rv.get('user_id') or rv.get('id'),
-                "review_text": text,
-                "language": "vi",
-                "rating": rv.get('rating') or rv.get('score'),
-                "review_date": rv.get('created_at') or rv.get('date'),
-                "crawl_timestamp": datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
-            }
-            nlp_records.append(record)
-            
-        return nlp_records
-        
-    except Exception as e:
-        print(f"[LỖI] Dò ID {restaurant_id} thất bại: {e}")
-        return []
+            rating_val = float(rating_str)
+            text_lower = text.lower()
 
-def main_spider():
-    print("[SYSTEM] Khởi động Siêu Robot cào BeFood (Phiên bản Next.js SSR)...")
-    
-    # 1. Khôi phục vốn cũ từ file backup
-    backup_path = Path("code/tuan/data/befood/raw/befood_backup_3k.json")
-    final_dataset, scraped_ids = load_backup_data(backup_path)
-    
-    # 2. Cấu hình dải ID dò tìm (BeFood thường có mã từ 110.000 đến 130.000)
-    start_id = 116000
-    end_id = 130000
-    
-    checkpoint_name = "befood_checkpoint.json"
-    valid_restaurant_count = 0
-    
-    print(f"\n[RADAR] Bắt đầu rà quét dải ID từ {start_id} đến {end_id}...")
-    
-    for current_id in range(start_id, end_id):
-        # Bỏ qua nếu quán này đã nằm trong file backup 3k
-        if str(current_id) in scraped_ids:
-            continue
+            item = {
+                "source": "beFood",
+                "restaurant_id": store_id,
+                "restaurant_name": store_name,
+                "restaurant_url": url,
+                "review_text": text,
+                "rating": rating_val,
+                "sentiment_label": "Positive" if rating_val >= 4 else ("Negative" if rating_val <= 2 else "Neutral"),
+                "text_length": len(text),
+                "word_count": len(text.split()),
+                "exclamation_count": text.count('!'),
+                "question_count": text.count('?'),
+                "contains_emoji": bool(re.search(r'[^\w\s,.\-!?]', text)),
+                "mention_delivery": bool(re.search(r'(shipper|giao|nhanh|chậm|tài xế|đợi)', text_lower)),
+                "mention_price": bool(re.search(r'(giá|đắt|mắc|rẻ|tiền|kèm)', text_lower)),
+                "mention_packaging": bool(re.search(r'(hộp|bao|bọc|đổ|tràn|nilon)', text_lower)),
+                "crawled_at": datetime.now().isoformat()
+            }
+            records.append(item)
             
-        print(f"[RADAR] Đang nội soi ID quán: {current_id}...", end='\r')
-        
-        reviews = crawl_befood_restaurant(current_id)
+        return records
+    except Exception as e:
+        print(f"  -> [LỖI] {e}")
+        return []
+def main():
+    clean_old_data()
+    final_data = []
+    target = 100
+    
+    store_urls = get_real_store_urls()
+    if not store_urls:
+        print("Không có URL nào để quét!")
+        return
+
+    print(f"\n[2/3] Bắt đầu bóc tách review tuần tự từ {len(store_urls)} URL (Mục tiêu: {target} records)...")
+    
+    for index, url in enumerate(store_urls):
+        if len(final_data) >= target:
+            break
+            
+        print(f"[*] Đang cào quán {index+1}/{len(store_urls)}... | Đã gom: {len(final_data)}/{target}", end='\r')
+        reviews = crawl_store_reviews(url)
         
         if reviews:
-            valid_restaurant_count += 1
-            final_dataset.extend(reviews)
-            scraped_ids.add(str(current_id))
+            final_data.extend(reviews)
+            print(f"\n  -> [THÀNH CÔNG] Thu được {len(reviews)} review từ quán này. Tổng: {len(final_data)}/{target}")
             
-            print(f"\n[WORKER] TÌM THẤY Quán {current_id}! -> Lấy được {len(reviews)} bình luận. (Tổng kho: {len(final_dataset)})")
-            
-            # TÍNH NĂNG 5: Checkpoint - Cứ 10 quán thật là lưu 1 lần
-            if valid_restaurant_count % 10 == 0:
-                save_data(final_dataset, checkpoint_name)
-                
-        # TÍNH NĂNG 4: Ngủ đông ngẫu nhiên 1 - 2 giây để chống Block IP
-        time.sleep(random.uniform(1.0, 2.0))
-
-    # Khi quét xong toàn bộ, lưu thành file chung cuộc
-    final_filename = f"befood_final_{datetime.now().strftime('%Y%m%d')}.json"
-    save_data(final_dataset, final_filename)
-    print(f"\n[HOÀN THÀNH] Đã thu hoạch xong {len(final_dataset)} records THẬT từ BeFood!")
+        time.sleep(2) 
+        
+    final_data = final_data[:target]
+    save_data(final_data)
+    print(f"🏆 Hoàn tất! Đã lưu thành công dữ liệu sạch theo đúng cấu trúc của dự án.")
 
 if __name__ == "__main__":
-    main_spider()
+    main()

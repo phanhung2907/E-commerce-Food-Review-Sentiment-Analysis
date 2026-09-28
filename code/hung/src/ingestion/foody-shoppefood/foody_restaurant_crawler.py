@@ -1,9 +1,15 @@
+import argparse
 import csv
+import random
+import threading
 import time
+
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from urllib.parse import urlparse
 
 import requests
+from requests.adapters import HTTPAdapter
 
 
 # =========================================================
@@ -26,16 +32,16 @@ HOME_LIST_API = (
     f"{BASE_URL}/__get/Place/HomeListPlace"
 )
 
-MAX_PAGES = 3
 COUNT_PER_PAGE = 12
 
+DEFAULT_WORKERS = 50
 REQUEST_TIMEOUT = 20
-REQUEST_DELAY = 1.0
-LOCATION_DELAY = 2.0
+REQUEST_DELAY = 0.15
+MAX_RETRIES = 5
 
 
 # =========================================================
-# HEADERS
+# HEADERS / THREADING
 # =========================================================
 
 HEADERS = {
@@ -45,11 +51,42 @@ HEADERS = {
         "Chrome/153.0.0.0 Safari/537.36"
     ),
     "Accept": "application/json, text/plain, */*",
-    "Accept-Language": (
-        "vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7"
-    ),
+    "Accept-Language": "vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7",
     "X-Requested-With": "XMLHttpRequest",
 }
+
+_thread_local = threading.local()
+_print_lock = threading.Lock()
+
+
+def log(*args):
+    with _print_lock:
+        print(*args, flush=True)
+
+
+def get_session():
+    session = getattr(
+        _thread_local,
+        "session",
+        None,
+    )
+
+    if session is None:
+        session = requests.Session()
+        session.headers.update(HEADERS)
+
+        adapter = HTTPAdapter(
+            pool_connections=4,
+            pool_maxsize=4,
+            max_retries=0,
+        )
+
+        session.mount("https://", adapter)
+        session.mount("http://", adapter)
+
+        _thread_local.session = session
+
+    return session
 
 
 # =========================================================
@@ -74,7 +111,6 @@ def normalize_target_url(url):
             f"Không phải Foody URL: {url}"
         )
 
-    # root Foody = TP.HCM
     if parsed.path in ("", "/"):
         return (
             f"{parsed.scheme}://"
@@ -85,16 +121,7 @@ def normalize_target_url(url):
 
 
 def get_location_slug(url):
-    """
-    https://www.foody.vn/
-        -> ho-chi-minh
-
-    https://www.foody.vn/gia-lai
-        -> gia-lai
-    """
-
     parsed = urlparse(url)
-
     path = parsed.path.strip("/")
 
     if not path:
@@ -110,8 +137,7 @@ def get_location_slug(url):
 def read_locations():
     if not LOCATIONS_FILE.exists():
         raise FileNotFoundError(
-            f"Không tìm thấy config: "
-            f"{LOCATIONS_FILE}"
+            f"Không tìm thấy config: {LOCATIONS_FILE}"
         )
 
     locations = []
@@ -121,82 +147,132 @@ def read_locations():
         "r",
         encoding="utf-8",
     ) as file:
-
         for line_number, line in enumerate(
             file,
             start=1,
         ):
             url = line.strip()
 
-            if not url:
-                continue
-
-            if url.startswith("#"):
+            if not url or url.startswith("#"):
                 continue
 
             try:
-                url = normalize_target_url(
-                    url
+                locations.append(
+                    normalize_target_url(url)
                 )
-
             except ValueError as e:
-
-                print(
-                    f"Skip line "
-                    f"{line_number}: {e}"
+                log(
+                    f"Skip line {line_number}: {e}"
                 )
-
-                continue
-
-            locations.append(
-                url
-            )
 
     return locations
 
 
 # =========================================================
-# SESSION
+# HTTP
 # =========================================================
 
-def create_session():
-    session = requests.Session()
+def get_with_retry(
+    session,
+    url,
+    *,
+    params=None,
+    headers=None,
+):
+    last_error = None
 
-    session.headers.update(
-        HEADERS
+    for attempt in range(
+        1,
+        MAX_RETRIES + 1,
+    ):
+        try:
+            response = session.get(
+                url,
+                params=params,
+                headers=headers,
+                timeout=REQUEST_TIMEOUT,
+            )
+
+            if response.status_code == 200:
+                return response
+
+            if response.status_code in {
+                403,
+                429,
+                500,
+                502,
+                503,
+                504,
+            }:
+                retry_after = (
+                    response.headers.get(
+                        "Retry-After"
+                    )
+                )
+
+                if retry_after:
+                    try:
+                        wait = float(retry_after)
+                    except ValueError:
+                        wait = None
+                else:
+                    wait = None
+
+                if wait is None:
+                    wait = min(
+                        30,
+                        (2 ** (attempt - 1))
+                        + random.uniform(0.2, 1.0),
+                    )
+
+                last_error = RuntimeError(
+                    f"HTTP {response.status_code}"
+                )
+
+                log(
+                    f"HTTP {response.status_code}; "
+                    f"retry {attempt}/{MAX_RETRIES} "
+                    f"sau {wait:.1f}s"
+                )
+
+                time.sleep(wait)
+                continue
+
+            response.raise_for_status()
+
+        except requests.RequestException as e:
+            last_error = e
+
+            if attempt >= MAX_RETRIES:
+                break
+
+            wait = min(
+                30,
+                (2 ** (attempt - 1))
+                + random.uniform(0.2, 1.0),
+            )
+
+            time.sleep(wait)
+
+    if last_error:
+        raise last_error
+
+    raise RuntimeError(
+        f"Không lấy được response: {url}"
     )
 
-    return session
-
-
-# =========================================================
-# OPEN LOCATION
-# =========================================================
 
 def open_location_page(
     session,
     url,
 ):
-    print(
-        f"Opening: {url}"
-    )
-
-    response = session.get(
+    response = get_with_retry(
+        session,
         url,
-        timeout=REQUEST_TIMEOUT,
     )
 
-    print(
-        "Location HTTP:",
-        response.status_code
-    )
+    return response.status_code
 
-    response.raise_for_status()
-
-
-# =========================================================
-# FETCH RESTAURANT PAGE
-# =========================================================
 
 def fetch_restaurant_page(
     session,
@@ -204,44 +280,25 @@ def fetch_restaurant_page(
     page,
 ):
     params = {
-        "t": int(
-            time.time() * 1000
-        ),
-
+        "t": int(time.time() * 1000),
         "page": page,
-
-        "count":
-            COUNT_PER_PAGE,
-
+        "count": COUNT_PER_PAGE,
         "districtId": "",
         "cateId": "",
         "cuisineId": "",
         "isReputation": "",
-
         "type": 1,
     }
 
-    headers = (
-        HEADERS.copy()
-    )
+    headers = HEADERS.copy()
+    headers["Referer"] = referer
 
-    headers[
-        "Referer"
-    ] = referer
-
-    response = session.get(
+    response = get_with_retry(
+        session,
         HOME_LIST_API,
         params=params,
         headers=headers,
-        timeout=REQUEST_TIMEOUT,
     )
-
-    print(
-        f"Page {page} | "
-        f"HTTP {response.status_code}"
-    )
-
-    response.raise_for_status()
 
     return response.json()
 
@@ -250,13 +307,8 @@ def fetch_restaurant_page(
 # FIND RESTAURANTS
 # =========================================================
 
-def looks_like_restaurant(
-    item
-):
-    if not isinstance(
-        item,
-        dict
-    ):
+def looks_like_restaurant(item):
+    if not isinstance(item, dict):
         return False
 
     keys = {
@@ -272,51 +324,27 @@ def looks_like_restaurant(
         "url",
     }
 
-    return (
-        len(
-            keys & indicators
-        )
-        >= 2
-    )
+    return len(keys & indicators) >= 2
 
 
-def find_restaurant_list(
-    data
-):
-    if isinstance(
-        data,
-        list
-    ):
-
+def find_restaurant_list(data):
+    if isinstance(data, list):
         if (
             data
-            and isinstance(
-                data[0],
-                dict
-            )
-            and looks_like_restaurant(
-                data[0]
-            )
+            and isinstance(data[0], dict)
+            and looks_like_restaurant(data[0])
         ):
             return data
 
         for item in data:
-
-            result = (
-                find_restaurant_list(
-                    item
-                )
-            )
+            result = find_restaurant_list(item)
 
             if result:
                 return result
 
         return []
 
-    if not isinstance(
-        data,
-        dict
-    ):
+    if not isinstance(data, dict):
         return []
 
     preferred_keys = [
@@ -329,34 +357,19 @@ def find_restaurant_list(
     ]
 
     for key in preferred_keys:
-
-        value = data.get(
-            key
-        )
+        value = data.get(key)
 
         if (
-            isinstance(
-                value,
-                list
-            )
+            isinstance(value, list)
             and value
-            and looks_like_restaurant(
-                value[0]
-            )
+            and looks_like_restaurant(value[0])
         ):
             return value
 
     for value in data.values():
-
-        if isinstance(
-            value,
-            (dict, list)
-        ):
-
-            result = (
-                find_restaurant_list(
-                    value
-                )
+        if isinstance(value, (dict, list)):
+            result = find_restaurant_list(
+                value
             )
 
             if result:
@@ -374,10 +387,7 @@ def get_first_value(
     *keys,
 ):
     for key in keys:
-
-        value = item.get(
-            key
-        )
+        value = item.get(key)
 
         if value is not None:
             return value
@@ -398,28 +408,24 @@ def normalize_restaurant(
                 "RestaurantId",
                 "restaurant_id",
             ),
-
         "name":
             get_first_value(
                 item,
                 "Name",
                 "name",
             ),
-
         "address":
             get_first_value(
                 item,
                 "Address",
                 "address",
             ),
-
         "url":
             get_first_value(
                 item,
                 "Url",
                 "url",
             ),
-
         "city":
             city,
     }
@@ -433,14 +439,7 @@ def save_restaurants_csv(
     restaurants,
     city,
 ):
-    """
-    code/hung/data/foody_shoppefood/raw/<city>/restaurants.csv
-    """
-
-    city_dir = (
-        DATA_ROOT
-        / city
-    )
+    city_dir = DATA_ROOT / city
 
     city_dir.mkdir(
         parents=True,
@@ -460,28 +459,27 @@ def save_restaurants_csv(
         "city",
     ]
 
+    temp_path = output_path.with_suffix(
+        ".csv.tmp"
+    )
+
     with open(
-        output_path,
+        temp_path,
         "w",
         newline="",
         encoding="utf-8-sig",
     ) as file:
-
         writer = csv.DictWriter(
             file,
             fieldnames=fieldnames,
         )
 
         writer.writeheader()
+        writer.writerows(restaurants)
 
-        writer.writerows(
-            restaurants
-        )
+    temp_path.replace(output_path)
 
-    print(
-        "\nSaved:",
-        output_path
-    )
+    return output_path
 
 
 # =========================================================
@@ -489,259 +487,256 @@ def save_restaurants_csv(
 # =========================================================
 
 def crawl_location(
-    session,
     target_url,
+    max_restaurants=None,
 ):
+    session = get_session()
+
     city = get_location_slug(
         target_url
     )
 
-    print(
-        "\n========================================"
-    )
-
-    print(
-        f"CITY: {city}"
-    )
-
-    print(
-        f"URL : {target_url}"
-    )
-
-    print(
-        "========================================"
+    log(
+        f"[{city}] START {target_url}"
     )
 
     open_location_page(
         session,
-        target_url
+        target_url,
     )
 
     restaurants = []
-
     seen = set()
+    page = 1
 
-    for page in range(
-        1,
-        MAX_PAGES + 1,
-    ):
-
-        print(
-            f"\n--- PAGE {page} ---"
+    while True:
+        data = fetch_restaurant_page(
+            session=session,
+            referer=target_url,
+            page=page,
         )
 
-        data = (
-            fetch_restaurant_page(
-                session=session,
-                referer=target_url,
-                page=page,
-            )
-        )
-
-        items = (
-            find_restaurant_list(
-                data
-            )
-        )
+        items = find_restaurant_list(data)
 
         if not items:
-
-            print(
-                "Không tìm thấy restaurant."
-            )
-
             break
 
         new_count = 0
 
         for item in items:
-
-            restaurant = (
-                normalize_restaurant(
-                    item,
-                    city,
-                )
+            restaurant = normalize_restaurant(
+                item,
+                city,
             )
 
             restaurant_id = (
-                restaurant[
-                    "restaurant_id"
-                ]
+                restaurant["restaurant_id"]
             )
 
             restaurant_url = (
-                restaurant[
-                    "url"
-                ]
+                restaurant["url"]
             )
 
             if restaurant_id is not None:
-
-                key = (
-                    f"id:"
-                    f"{restaurant_id}"
-                )
-
+                key = f"id:{restaurant_id}"
             elif restaurant_url:
-
-                key = (
-                    f"url:"
-                    f"{restaurant_url}"
-                )
-
+                key = f"url:{restaurant_url}"
             else:
                 continue
 
             if key in seen:
                 continue
 
-            seen.add(
-                key
-            )
-
-            restaurants.append(
-                restaurant
-            )
-
+            seen.add(key)
+            restaurants.append(restaurant)
             new_count += 1
 
-            print(
-                restaurant[
-                    "restaurant_id"
-                ],
-                "|",
-                restaurant[
-                    "name"
-                ],
-            )
+            if (
+                max_restaurants is not None
+                and len(restaurants)
+                >= max_restaurants
+            ):
+                break
 
-        print(
-            "New:",
-            new_count
-        )
-
-        print(
-            "Total:",
-            len(restaurants)
+        log(
+            f"[{city}] page={page} "
+            f"new={new_count} "
+            f"total={len(restaurants)}"
         )
 
         if new_count == 0:
             break
 
-        if len(items) < COUNT_PER_PAGE:
+        if (
+            max_restaurants is not None
+            and len(restaurants)
+            >= max_restaurants
+        ):
             break
 
-        time.sleep(
-            REQUEST_DELAY
-        )
+        page += 1
+
+        if REQUEST_DELAY > 0:
+            time.sleep(REQUEST_DELAY)
+
+    output_path = None
 
     if restaurants:
-
-        save_restaurants_csv(
+        output_path = save_restaurants_csv(
             restaurants,
             city,
         )
 
-    return len(
-        restaurants
+    log(
+        f"[{city}] DONE "
+        f"{len(restaurants)} restaurants"
     )
+
+    return {
+        "city": city,
+        "count": len(restaurants),
+        "output_path": output_path,
+    }
 
 
 # =========================================================
 # MAIN
 # =========================================================
 
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description=(
+            "Foody restaurant crawler "
+            "đa luồng theo tỉnh/thành"
+        )
+    )
+
+    parser.add_argument(
+        "--max-restaurants",
+        type=int,
+        default=None,
+        help=(
+            "Số restaurant tối đa cho mỗi "
+            "endpoint/tỉnh. Bỏ trống = vét cạn."
+        ),
+    )
+
+    parser.add_argument(
+        "--workers",
+        type=int,
+        default=DEFAULT_WORKERS,
+        help=(
+            f"Số worker chạy song song. "
+            f"Mặc định={DEFAULT_WORKERS}."
+        ),
+    )
+
+    parser.add_argument(
+        "--city",
+        default=None,
+        help=(
+            "Chỉ crawl một city slug, "
+            "ví dụ dien-bien."
+        ),
+    )
+
+    return parser.parse_args()
+
+
 def main():
+    args = parse_args()
 
-    print(
-        "\n=============================="
+    if (
+        args.max_restaurants is not None
+        and args.max_restaurants <= 0
+    ):
+        raise ValueError(
+            "--max-restaurants phải > 0"
+        )
+
+    if args.workers < 1:
+        raise ValueError(
+            "--workers phải >= 1"
+        )
+
+    locations = read_locations()
+
+    if args.city:
+        locations = [
+            url
+            for url in locations
+            if get_location_slug(url)
+            == args.city
+        ]
+
+    if not locations:
+        print(
+            "Không có location nào để crawl."
+        )
+        return
+
+    worker_count = min(
+        args.workers,
+        len(locations),
     )
 
     print(
-        "FOODY RESTAURANT CRAWLER"
+        "\nFOODY RESTAURANT CRAWLER"
     )
-
-    print(
-        "=============================="
-    )
-
-    locations = (
-        read_locations()
-    )
-
     print(
         "Locations:",
-        len(locations)
+        len(locations),
     )
-
-    session = (
-        create_session()
+    print(
+        "Workers:",
+        worker_count,
     )
 
     success = 0
     failed = 0
     total = 0
 
-    for index, url in enumerate(
-        locations,
-        start=1,
-    ):
-
-        print(
-            f"\n[{index}/{len(locations)}]"
-        )
-
-        try:
-
-            count = crawl_location(
-                session,
+    with ThreadPoolExecutor(
+        max_workers=worker_count
+    ) as executor:
+        futures = {
+            executor.submit(
+                crawl_location,
                 url,
-            )
+                args.max_restaurants,
+            ): url
+            for url in locations
+        }
 
-            total += count
-            success += 1
+        for future in as_completed(futures):
+            url = futures[future]
 
-        except Exception as e:
+            try:
+                result = future.result()
+                success += 1
+                total += result["count"]
 
-            failed += 1
-
-            print(
-                f"FAILED: {url}"
-            )
-
-            print(
-                e
-            )
-
-        time.sleep(
-            LOCATION_DELAY
-        )
+            except Exception as e:
+                failed += 1
+                log(
+                    f"FAILED: {url} | {e}"
+                )
 
     print(
         "\n=============================="
     )
-
+    print("DONE")
     print(
-        "DONE"
+        "Success locations:",
+        success,
     )
-
     print(
-        "=============================="
+        "Failed locations:",
+        failed,
     )
-
-    print(
-        "Success:",
-        success
-    )
-
-    print(
-        "Failed:",
-        failed
-    )
-
     print(
         "Restaurants:",
-        total
+        total,
     )
 
 
