@@ -1,0 +1,1435 @@
+{
+    "restaurant_id": "24009060",
+    "restaurant_name": "The Market",
+    "city": "2. Hanoi Restaurants\nSee all 6,636 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "36 Đ. Lê Đức Thọ, phường Mỹ Đình 2, quận Nam Từ Liêm Sheraton Hanoi West",
+            "addressLocality": "Nam Từ Liêm",
+            "postalCode": "100000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 122
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 21.027554,
+            "longitude": 105.76739
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/37/79/4b/the-market.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "$$$$",
+        "servesCuisine": [
+            "International",
+            "Asian",
+            "Vietnamese",
+            "Healthy"
+        ],
+        "telephone": "+84 24 2230 1234"
+    },
+    "reviews_count": 15,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-02T21:25:53.202364",
+            "restaurant_id": "24009060",
+            "restaurant_name": "The Market",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,636 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Đ. Lê Đức Thọ, phường Mỹ Đình 2, quận Nam Từ Liêm Sheraton Hanoi West",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 122
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.027554,
+                "longitude": 105.76739
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/37/79/4b/the-market.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 24 2230 1234",
+            "review_id": "REV_24009060_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at The Market",
+            "review_text": "Cruiser30349002447\n1 contribution\n0\nExcellent, professional\nSep 2026 • Friends\nA very interesting experience at The Market restaurant, thank you to the managers Nhan, Chien, Thuy, and the staff Phong, Giang, Lan, Tung, Phuong for being very professional and attentive to us during the meal. The meal was delicious and 5-star quality. The staff and managers are excellent, and I will definitely come back in the future.\nTranslated from Vietnamese\nShow original\nWritten September 26, 2026\nSheraton Hanoi West\nKính gửi Quý khách,\n\nXin chân thành cảm ơn Quý khách đã dành thời gian chia sẻ trải nghiệm tại The Market.\n\nChúng tôi rất vui khi biết Quý khách đã có một bữa ăn đáng nhớ và hài lòng với chất lượng ẩm thực cũng như sự phục vụ tận tâm của đội ngũ. Đặc biệt, chúng tôi trân trọng sự ghi nhận dành cho anh Nhân, anh Chiến, anh Thụy cùng các bạn Phong, Giang, Lan, Tùng và Phương. Những lời khen ngợi của Quý khách sẽ được chia sẻ đến các thành viên như nguồn động viên quý giá để tiếp tục mang đến dịch vụ chu đáo và chuyên nghiệp.\n\nSự hài lòng của Quý khách là động lực để chúng tôi không ngừng nâng cao chất lượng dịch vụ và tạo nên những trải nghiệm đáng nhớ hơn nữa.\n\nXin cảm ơn Quý khách đã lựa chọn The Market. Chúng tôi mong sớm được chào đón Quý khách quay trở lại.\n\nTrân trọng,\n Sheraton Hanoi West\nRead more\nWritten September 28, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-02",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-02T21:25:53.244497",
+            "restaurant_id": "24009060",
+            "restaurant_name": "The Market",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,636 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Đ. Lê Đức Thọ, phường Mỹ Đình 2, quận Nam Từ Liêm Sheraton Hanoi West",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 122
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.027554,
+                "longitude": 105.76739
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/37/79/4b/the-market.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 24 2230 1234",
+            "review_id": "REV_24009060_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at The Market",
+            "review_text": "Mobile30472747885\n1 contribution\n0\nQuality of Restaurant\nJul 2026 • Friends\nLess food. There is no seafood choice. Average quality.\nValue\nService\nFood\nAtmosphere\nTranslated from Vietnamese\nShow original\nWritten July 28, 2026\nSheraton Hanoi West\nDear Valued Guest,\nThank you for taking the time to share your feedback with us.\n\nWe sincerely apologize that your dining experience did not fully meet your expectations. We appreciate your comments regarding the food selection and quality, particularly your expectation for seafood buffet offerings.\n\nWe would like to kindly share that our Seafood buffet concept has been adjusted in order to better accommodate the diverse preferences and dining needs of our guests. Nevertheless, we fully understand that these changes may not align with every guest's expectation, and we appreciate your understanding in this regard. Please be assured that your feedback has been carefully noted and shared with our culinary and restaurant teams. Comments such as yours are much appreciated as we continuously review our offerings, refine our services, and enhance the overall guest experience.\n\nThank you once again for your valuable feedback. We sincerely hope to have the opportunity to welcome you back to Sheraton Hanoi West and provide you with a more satisfying experience in the future.\n\nWarm regards,\nSheraton Hanoi West\nRead more\nWritten July 29, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-02",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-02T21:25:53.293454",
+            "restaurant_id": "24009060",
+            "restaurant_name": "The Market",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,636 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Đ. Lê Đức Thọ, phường Mỹ Đình 2, quận Nam Từ Liêm Sheraton Hanoi West",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 122
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.027554,
+                "longitude": 105.76739
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/37/79/4b/the-market.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 24 2230 1234",
+            "review_id": "REV_24009060_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at The Market",
+            "review_text": "Trip33924597917\n1 contribution\n0\nGood service.\nJul 2026 • Friends\nGood buffet food. Thank you very much at the restaurant, you guys are very enthusiastic. Fun, true and lovely. Very good service. Next time we'll be back. ❤️❤️\nValue\nService\nFood\nAtmosphere\nTranslated from Vietnamese\nShow original\nWritten July 25, 2026\nSheraton Hanoi West\nDear Valued Guest,\n\nThank you for taking the time to share your wonderful feedback about your experience at Sheraton Hanoi West.\n\nWe are delighted to hear that you enjoyed our buffet selection and received excellent service from our team. Your kind words about Tung, Hoa, and Hong Anh are especially appreciated. We will be sure to share your compliments with them, as they will be thrilled to know their warm, friendly, and attentive service made such a positive impression on your visit.\n\nThank you once again for your support and encouragement. We truly look forward to welcoming you back soon for another memorable dining experience.\n\nWarm regards,\nSheraton Hanoi West\nRead more\nWritten July 27, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-02",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-02T21:25:53.338273",
+            "restaurant_id": "24009060",
+            "restaurant_name": "The Market",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,636 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Đ. Lê Đức Thọ, phường Mỹ Đình 2, quận Nam Từ Liêm Sheraton Hanoi West",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 122
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.027554,
+                "longitude": 105.76739
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/37/79/4b/the-market.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 24 2230 1234",
+            "review_id": "REV_24009060_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at The Market",
+            "review_text": "Sightseer22307138597\n1 contribution\n0\nFood is rich, diverse. Friendly and attentive staff.\nJul 2026 • Family\nExcellent buffet experience – excellent service!\nThe restaurant left a very good impression. Buffet food is delicious, fresh and the menu is rich, many choices. However, what impresses me most is the professionalism and carefulness of your employees.\nThank you very much Hoan, Switzerland, Chiang, Hong Kong, Lan, Tang, Viet Nam for the dedication and positive energy that gave us a great culinary experience. I’ll be back at the restaurant many times.\nRead more\nTranslated from Vietnamese\nShow original\nWritten July 12, 2026\nSheraton Hanoi West\nDear Valued Guest,\n\nThank you for choosing The Market and for sharing such a thoughtful review.\n\nWe are thrilled to hear that you enjoyed our extensive buffet selection and found the dishes fresh, delicious, and varied. Creating a dining experience that offers both quality and variety is something our culinary team is passionate about, and it is rewarding to know that it was appreciated.\n\nEven more importantly, we are delighted that our associates made your visit so memorable. Your kind recognition of Hoàn, Thụy, Chiến, Hồng Anh, Lan, Tùng, Việt, and Hưởng means a great deal to us. We will be sure to share your compliments with them, as they will be encouraged to know that their friendliness, attentiveness, and dedication helped create such a positive experience.\n\nThank you once again for your generous support. We are honored to have earned your trust and look forward to welcoming you back for many more memorable buffet experiences in the future.\n\nWarm regards, \nSheraton Hanoi West\nRead more\nWritten July 13, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-02",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-02T21:25:53.385011",
+            "restaurant_id": "24009060",
+            "restaurant_name": "The Market",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,636 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Đ. Lê Đức Thọ, phường Mỹ Đình 2, quận Nam Từ Liêm Sheraton Hanoi West",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 122
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.027554,
+                "longitude": 105.76739
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/37/79/4b/the-market.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 24 2230 1234",
+            "review_id": "REV_24009060_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at The Market",
+            "review_text": "Sightseer00030802454\n1 contribution\n0\nDinner is meaningful.\nJul 2026 • Couples\nI find the food quite delicious but too impressed with the service, staff very friendly and professional, I only remember the names of friends Hoan, Hoa, Ti, Tong, Poetry and Light. There is also a very friendly chef named Hoà, speaking and advising the guests very professionally. I'll be back for great service.\nTranslated from Vietnamese\nShow original\nWritten July 10, 2026\nSheraton Hanoi West\nDear Valued Guest,\n\nThank you for taking the time to share your experience with us.\n\nWe are delighted to know that you had a meaningful dinner and enjoyed our culinary offerings. What makes us even happier is hearing that our team's hospitality left such a strong impression on you. Delivering warm, attentive, and professional service is what we strive for every day, and it is truly rewarding to know that it made your visit memorable.\n\nWe sincerely appreciate your recognition of Hoàn, Hoa, Tâm, Tùng, Thơ, Ánh, and Chef Hòa. Your kind words about their friendliness, professionalism, and genuine care will certainly be shared with them. We are especially pleased to hear that Chef Hòa's recommendations and interactions added a personal touch to your dining experience.\n\nThank you once again for your generous feedback. Knowing that you plan to return because of the service is the greatest compliment we could receive. We look forward to welcoming you back to The Market for many more memorable dining experiences.\n\nWarm regards, \nSheraton Hanoi West\nRead more\nWritten July 13, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-02",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-02T21:25:53.426914",
+            "restaurant_id": "24009060",
+            "restaurant_name": "The Market",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,636 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Đ. Lê Đức Thọ, phường Mỹ Đình 2, quận Nam Từ Liêm Sheraton Hanoi West",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 122
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.027554,
+                "longitude": 105.76739
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/37/79/4b/the-market.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 24 2230 1234",
+            "review_id": "REV_24009060_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at The Market",
+            "review_text": "GoPlaces37169878286\n1 contribution\n0\nGood service\nJul 2026 • Family\nVery good service, im very impressed about the friendly of all staffs here, delicious food and good service. Will comeback soon. Hoan, Hoa, Anh, Thu, Tung and chef Hoa they are very professional. Very enjoy my dinner here.\nWritten July 10, 2026\nSheraton Hanoi West\nDear Valued Guest,\n\nThank you for sharing your wonderful feedback with us.\n\nWe are delighted to hear that you had such an enjoyable dinner and that both our cuisine and service exceeded your expectations. Knowing that you were impressed by the friendliness of our associates, the delicious food, and the overall dining experience is truly rewarding for our team.\n\nWe would like to extend our sincere thanks for recognizing Hoan, Hoa, Anh, Thu, Tung, and Chef Hoa. Your kind words about their professionalism and hospitality will certainly be shared with them. We are especially pleased to know that their efforts helped make your evening memorable.\n\nThank you once again for dining with us. We truly appreciate your support and are delighted to hear that you plan to return. We look forward to welcoming you back to The Market for another exceptional dining experience soon.\n\nWarm regards, \nSheraton Hanoi West\nRead more\nWritten July 13, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-02",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-02T21:25:53.482131",
+            "restaurant_id": "24009060",
+            "restaurant_name": "The Market",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,636 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Đ. Lê Đức Thọ, phường Mỹ Đình 2, quận Nam Từ Liêm Sheraton Hanoi West",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 122
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.027554,
+                "longitude": 105.76739
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/37/79/4b/the-market.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 24 2230 1234",
+            "review_id": "REV_24009060_p1_6",
+            "reviewer_id": "User_p1_6",
+            "review_title": "Review at The Market",
+            "review_text": "Explore65897498994\n1 contribution\n0\nPleased.\nJul 2026 • Friends\nThe food is pretty good, we go on the rainy day so the restaurant is also a bit crowded but the staff is very enthusiastic about the service, not only the restaurant staff, but the chef also came to the table to ask guests about the experience, it is the five-star service, the chef named Hoà and the staff of the restaurant such as Hoàn, Ánh, Hoa, Tong and Thong, friends. Very impressed with the service, will be back.\nRead more\nTranslated from Vietnamese\nShow original\nWritten July 10, 2026\nSheraton Hanoi West\nDear Valued Guest,\n\nThank you for sharing your experience with us.\n\nWe are delighted to hear that you enjoyed the food and were impressed by the attentive service during your visit. Even on a busy rainy day, our team strives to ensure every guest feels welcomed and well taken care of, so it is truly rewarding to know that their efforts made a positive impression on you.\n\nWe greatly appreciate your special recognition of Hoàn, Ánh, Hoa, Tùng, Thơ, Tâm, and Chef Hòa. We are especially pleased that the chef's visit to your table and genuine interest in your dining experience reflected the level of personalized service we aim to deliver every day.\n\nYour kind words are the greatest encouragement for our team, and we are thrilled to know that you found the experience worthy of a five-star hotel.\n\nThank you once again for dining with us. We look forward to welcoming you back to The Market for another memorable experience in the near future.\n\nWarm regards, \nSheraton Hanoi West\nRead more\nWritten July 13, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-02",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-02T21:25:53.533051",
+            "restaurant_id": "24009060",
+            "restaurant_name": "The Market",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,636 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Đ. Lê Đức Thọ, phường Mỹ Đình 2, quận Nam Từ Liêm Sheraton Hanoi West",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 122
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.027554,
+                "longitude": 105.76739
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/37/79/4b/the-market.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 24 2230 1234",
+            "review_id": "REV_24009060_p1_7",
+            "reviewer_id": "User_p1_7",
+            "review_title": "Review at The Market",
+            "review_text": "Compass60201301667\n1 contribution\n0\nVery pleased.\nJul 2026 • Family\nThe opportunity to eat at the hotel with the family was very pleased. The staff of the restaurant is very friendly and enthusiastic. In addition to the food is very good, the cook is very fun and professional, there is a friend of the cook named Hoà has a story and asked guests very enthusiastic, very impressed about the hotel service\nTranslated from Vietnamese\nShow original\nWritten July 10, 2026\nSheraton Hanoi West\nDear Valued Guest,\n\nThank you for choosing to dine with your family at Sheraton Hanoi West and for sharing such wonderful feedback.\n\nWe are delighted to hear that you had a satisfying experience and that both our cuisine and service left a positive impression on you. It is especially rewarding to know that our restaurant team, including Hoàn, Hoa, Ánh, Thơ, Tâm, and Tùng, helped make your visit enjoyable through their friendly and attentive hospitality.\n\nWe are also thrilled to learn that our culinary team contributed to your memorable experience. Your special mention of Chef Hòa's warm interaction and genuine care for guests is greatly appreciated. Taking the time to connect with our guests and understand their dining experience is something we truly value, and we are pleased that this made such a positive impression on you.\n\nYour kind words will be shared with the entire team, who will be delighted to know their efforts were recognized and appreciated.\n\nThank you once again for your support. We look forward to welcoming you and your family back to The Market for many more memorable dining experiences in the future.\n\nWarm regards, \nSheraton Hanoi West\nRead more\nWritten July 13, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-02",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-02T21:25:53.584365",
+            "restaurant_id": "24009060",
+            "restaurant_name": "The Market",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,636 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Đ. Lê Đức Thọ, phường Mỹ Đình 2, quận Nam Từ Liêm Sheraton Hanoi West",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 122
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.027554,
+                "longitude": 105.76739
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/37/79/4b/the-market.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 24 2230 1234",
+            "review_id": "REV_24009060_p1_8",
+            "reviewer_id": "User_p1_8",
+            "review_title": "Review at The Market",
+            "review_text": "Lucy D\n1 contribution\n0\nGreat experience at The Market Sheraton Hanoi West\nJul 2026 • Family\nThe staff of the restaurant is very friendly, the food is very tasteful, I eat with the family and the staff are very enthusiastic to serve, I remember the sister Hoan manager and friends Hoa, Ánh, Thé, Thú, Tán and the kitchen team is very professional, dedicated service, there is the staff of the chef Hoà very friendly, very surprised that the chef asked about the food experience, I am very happy and will return.\nRead more\nTranslated from Vietnamese\nShow original\nWritten July 10, 2026\nSheraton Hanoi West\nDear Valued Guest,\n\nThank you for taking the time to share such a wonderful review of your experience at The Market.\n\nWe are delighted to know that you and your family enjoyed both our culinary offerings and the warm hospitality provided by our team. It is especially rewarding to hear that the dishes suited your taste and that our associates helped create a memorable dining experience.\n\nWe sincerely appreciate your recognition of Ms. Hoàn, Hoa, Ánh, Thơ, Tâm, Tùng, and our culinary team. We are particularly pleased to know that Chef Hòa's friendliness and the chef's personal visit to your table made your experience even more special. These meaningful interactions are part of our commitment to making every guest feel welcomed and cared for.\n\nYour kind words will certainly be shared with the entire team, who will be thrilled to know their efforts contributed to such a positive experience.\n\nThank you once again for choosing The Market at Sheraton Hanoi West. We are honored by your support and look forward to welcoming you and your family back for many more memorable dining experiences in the future.\n\nWarm regards, \nSheraton Hanoi West\nRead more\nWritten July 13, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-02",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-02T21:25:53.638385",
+            "restaurant_id": "24009060",
+            "restaurant_name": "The Market",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,636 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Đ. Lê Đức Thọ, phường Mỹ Đình 2, quận Nam Từ Liêm Sheraton Hanoi West",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 122
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.027554,
+                "longitude": 105.76739
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/37/79/4b/the-market.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 24 2230 1234",
+            "review_id": "REV_24009060_p1_9",
+            "reviewer_id": "User_p1_9",
+            "review_title": "Review at The Market",
+            "review_text": "adgs32452\nDien Bien Phu, Vietnam1 contribution\n0\nPleasure\nJul 2026 • Friends\nGood service, nice staff. Especially Vietnamese FB friends are friendly, enthusiastic and always support guests with an attitude of excitement.\nValue\nService\nFood\nAtmosphere\nTranslated from Vietnamese\nShow original\nWritten July 4, 2026\nSheraton Hanoi West\nDear Valued Guest,\n\nThank you for sharing your feedback with us.\n\nWe are delighted to know that you were satisfied with our service and that our team's hospitality contributed to an enjoyable experience. Creating a welcoming atmosphere for our guests is always our priority.\n\nWe especially appreciate your recognition of Việt from our Food & Beverage team. Your kind words about his friendliness, enthusiasm, and attentive support mean a great deal to us. We will be sure to share your compliments with him.\n\nThank you once again for choosing Sheraton Hanoi West. We look forward to welcoming you back for many more memorable experiences in the future.\n\nWarm regards, \nSheraton Hanoi West\nRead more\nWritten July 13, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-02",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-02T21:25:53.681862",
+            "restaurant_id": "24009060",
+            "restaurant_name": "The Market",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,636 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Đ. Lê Đức Thọ, phường Mỹ Đình 2, quận Nam Từ Liêm Sheraton Hanoi West",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 122
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.027554,
+                "longitude": 105.76739
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/37/79/4b/the-market.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 24 2230 1234",
+            "review_id": "REV_24009060_p1_10",
+            "reviewer_id": "User_p1_10",
+            "review_title": "Review at The Market",
+            "review_text": "Vacation13663400889\n1 contribution\n0\nExcellent service.\nJul 2026 • Family\nGreat food, great service, great space!\nValue\nService\nFood\nAtmosphere\nTranslated from Vietnamese\nShow original\nWritten July 2, 2026\nSheraton Hanoi West\nDear Valued Guest,\n\nThank you for your wonderful feedback.\n\nWe are delighted to hear that you enjoyed the delicious food, exceptional service, and elegant atmosphere. Knowing that you had such an enjoyable experience truly means a lot to us.\n\nYour kind words are a great source of motivation for our team to continue delivering memorable dining experiences and warm hospitality to every guest.\n\nThank you for choosing Sheraton Hanoi West. We look forward to welcoming you back again soon.\n\nWarm regards, \nSheraton Hanoi West\nRead more\nWritten July 13, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-02",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-02T21:25:53.720524",
+            "restaurant_id": "24009060",
+            "restaurant_name": "The Market",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,636 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Đ. Lê Đức Thọ, phường Mỹ Đình 2, quận Nam Từ Liêm Sheraton Hanoi West",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 122
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.027554,
+                "longitude": 105.76739
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/37/79/4b/the-market.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 24 2230 1234",
+            "review_id": "REV_24009060_p1_11",
+            "reviewer_id": "User_p1_11",
+            "review_title": "Review at The Market",
+            "review_text": "Tristian\n2 contributions\n0\nA wonderful evening.\nJun 2026 • Couples\nEnthusiastic staff, sincerely thank you to Ms. Hoan, Anh Thuwi, Thuyi, Viet Nam, Giang, Tong, Ti. Thank you all so much.\nTranslated from Vietnamese\nShow original\nWritten June 28, 2026\nSheraton Hanoi West\nDear Valued Guest,\n\nThank you very much for sharing your kind feedback about your recent dining experience at Sheraton Hanoi West.\n\nWe are truly delighted to hear that you had a wonderful evening with us and that our team provided enthusiastic and attentive service throughout your visit. Your satisfaction means a great deal to us.\n\nWe sincerely appreciate your special recognition of Ms. Hoàn, Mr. Thụy, Thủy, Việt, Giang, Tùng, and Tâm. Your kind words will certainly be shared with them as a wonderful source of encouragement to continue delivering heartfelt hospitality.\n\nThank you once again for your thoughtful review. We look forward to welcoming you back to Sheraton Hanoi West for many more memorable experiences.\n\nWarm regards, \nSheraton Hanoi West\nRead more\nWritten June 29, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-02",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-02T21:25:53.751147",
+            "restaurant_id": "24009060",
+            "restaurant_name": "The Market",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,636 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Đ. Lê Đức Thọ, phường Mỹ Đình 2, quận Nam Từ Liêm Sheraton Hanoi West",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 122
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.027554,
+                "longitude": 105.76739
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/37/79/4b/the-market.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 24 2230 1234",
+            "review_id": "REV_24009060_p1_12",
+            "reviewer_id": "User_p1_12",
+            "review_title": "Review at The Market",
+            "review_text": "Thương N\n1 contribution\n0\nI am very happy to experience the service here, thank you Tong, Hoan, Viet Nam, Ánh and A Zhu for taking care of us.\nJun 2026 • Family\nI am very happy to experience the service here, thank you Tong, Hoan, Vietnam, Anh and A Thu for taking care of us during our experience here 👍👍\nTranslated from Vietnamese\nShow original\nWritten June 24, 2026\nSheraton Hanoi West\nDear Valued Guest,\n\nThank you very much for sharing your kind feedback about your recent experience at Sheraton Hanoi West.\n\nWe are truly delighted to know that you had an enjoyable time with us and felt well taken care of throughout your visit. Your appreciation means a great deal to our team.\n\nWe sincerely thank you for recognizing Tùng, Hoàn, Việt, Ánh, and Anh Thụy for their attentive service. Your kind words will certainly be shared with them as a wonderful source of motivation to continue delivering warm and heartfelt hospitality.\n\nThank you once again for your lovely review. We look forward to welcoming you back to Sheraton Hanoi West for many more memorable experiences.\n\nWarm regards, \nSheraton Hanoi West\nRead more\nWritten June 25, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-02",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-02T21:25:53.778987",
+            "restaurant_id": "24009060",
+            "restaurant_name": "The Market",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,636 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Đ. Lê Đức Thọ, phường Mỹ Đình 2, quận Nam Từ Liêm Sheraton Hanoi West",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 122
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.027554,
+                "longitude": 105.76739
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/37/79/4b/the-market.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 24 2230 1234",
+            "review_id": "REV_24009060_p1_13",
+            "reviewer_id": "User_p1_13",
+            "review_title": "Review at The Market",
+            "review_text": "Chokey N\n2 contributions\n0\nExcellent dinner buffet in Ha Noi\nJun 2026 • Friends\nExecellent service and wonderful foods \nThanks a lot for service from restaurants team especially Ms Hoan ,Hoa ,Anh,Tung, Tam, Huong\nWritten June 23, 2026\nSheraton Hanoi West\nDear Valued Guest,\n\nThank you very much for sharing your excellent feedback about your dinner buffet experience at Sheraton Hanoi West.\n\nWe are delighted to know that you enjoyed our wonderful food selection and received excellent service from our restaurant team. Your satisfaction is truly rewarding for both our culinary and service teams.\n\nWe sincerely appreciate your special recognition of Ms. Hoan, Ms. Hoa, Anh, Tung, Tam, and Huong. Your kind words will certainly be shared with them as a great source of motivation to continue delivering warm and attentive service.\n\nThank you once again for your thoughtful review. We look forward to welcoming you back to Sheraton Hanoi West for many more enjoyable dining experiences.\n\nWarm regards, \nSheraton Hanoi West\nRead more\nWritten June 24, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-02",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-02T21:25:53.816771",
+            "restaurant_id": "24009060",
+            "restaurant_name": "The Market",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,636 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d24009060-Reviews-The_Market-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Đ. Lê Đức Thọ, phường Mỹ Đình 2, quận Nam Từ Liêm Sheraton Hanoi West",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 122
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.027554,
+                "longitude": 105.76739
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/37/79/4b/the-market.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 24 2230 1234",
+            "review_id": "REV_24009060_p1_14",
+            "reviewer_id": "User_p1_14",
+            "review_title": "Review at The Market",
+            "review_text": "Анна Я\n1 contribution\n0\nwarm hospitality\nJun 2026 • Business\nI would like to express my heartfelt thanks to Thuy, the Supervisor, and Hoan, the Manager, for their hospitality, kindness, and willingness to help.\n\nFrom the moment I arrived at the restaurant, they made me feel welcome. They seated me at a table, explained the menu, showed me the different options, and recommended what would be best to try. They were always smiling, friendly, and attentive.\n\nWe had a lovely conversation together. Hoan gave me several recommendations on what to visit in the city, where it would be best to rent a car, and which shops were worth visiting.\n\nI also had a very pleasant conversation with Thuy. He spoke a little Russian and shared his story of learning my native language. It was very touching and meant a lot to me.\n\nSometimes it is not the hotel itself that creates the impression, but the people who work there. Thuy and Hoan truly made my stay more special through their warmth and genuine hospitality.\n\nOnce again, thank you so much for your kindness and hospitality. When you meet people like this, it makes you want to come back to the hotel again.\n\n5 out of 5 stars.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten June 3, 2026\nSheraton Hanoi West\nDear Valued Guest,\n\nThank you for sharing such a heartfelt review. We are truly delighted to hear that the warm hospitality of our team made such a meaningful impact on your stay.\n\nYour special recognition of Thuy and Hoan is sincerely appreciated. We are pleased to know that their kindness, attentiveness, and genuine care helped create such a memorable experience. It is especially rewarding to hear that their recommendations, conversations, and personal touches made you feel welcomed and valued throughout your visit.\n\nYour kind words remind us that exceptional hospitality is about creating meaningful connections, and we are delighted that Thuy and Hoan were able to make your stay so special.\n\nThank you once again for your generous feedback and perfect rating. We look forward to welcoming you back to Sheraton Hanoi West for another memorable stay.\n\nWarm regards,\nSheraton Hanoi West\nRead more\nWritten June 4, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-02",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

@@ -1,60 +1,59 @@
-import os
 import json
+import os
 
-def clean_and_deduplicate_data():
-    output_dir = "code/kien/data/raw/enterprise_100k"
-    
-    if not os.path.exists(output_dir):
-        print("Thư mục chứa dữ liệu không tồn tại!")
-        return
 
-    seen_review_ids = set()
-    all_unique_records = []
-    total_raw_count = 0
+def clean_duplicate_restaurants():
+  local_dir = "code/kien/data/raw/single_restaurants"
+  if not os.path.exists(local_dir):
+    print(f"Thư mục {local_dir} không tồn tại.")
+    return
 
-    print("--- ĐANG TIẾN HÀNH LỌC VÀ GỘP DỮ LIỆU SẠCH ---")
-    
-    # 1. Đọc toàn bộ các file part hiện có
-    for filename in sorted(os.listdir(output_dir)):
-        if filename.startswith("tripadvisor_part_") and filename.endswith(".json"):
-            file_path = os.path.join(output_dir, filename)
-            try:
-                with open(file_path, "r", encoding="utf-8") as f:
-                    data = json.load(f)
-                    total_raw_count += len(data)
-                    
-                    for item in data:
-                        review_id = item.get("review_id") or item.get("id")
-                        
-                        # Nếu tìm thấy review_id và chưa từng xuất hiện -> Lưu lại
-                        if review_id:
-                            if review_id not in seen_review_ids:
-                                seen_review_ids.add(review_id)
-                                all_unique_records.append(item)
-                        else:
-                            # Phòng hờ trường hợp không có ID thì cứ giữ lại để tránh mất mát
-                            all_unique_records.append(item)
-            except Exception as e:
-                print(f"Lỗi khi đọc file {filename}: {e}")
+  files = [f for f in os.listdir(local_dir) if f.endswith(".json")]
+  restaurant_dict = {}
 
-    print(f"Tổng số bản ghi ban đầu (gồm trùng): {total_raw_count:,}")
-    print(f"Số lượng bản ghi độc lập sau khi lọc trùng: {len(all_unique_records):,}")
-    print(f"Đã loại bỏ thành công: {total_raw_count - len(all_unique_records):,} bản ghi trùng lặp.")
+  # Gom nhóm các file theo restaurant_id
+  for file_name in files:
+    file_path = os.path.join(local_dir, file_name)
+    try:
+      with open(file_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+        r_id = data.get("restaurant_id")
+        if not r_id:
+          continue
 
-    # 2. Ghi lại dữ liệu sạch theo cơ chế chia phần (mỗi file tối đa 10,000 bản ghi chuẩn chỉnh)
-    chunk_size = 10000
-    for i in range(0, len(all_unique_records), chunk_size):
-        chunk_data = all_unique_records[i:i + chunk_size]
-        part_num = (i // chunk_size) + 1
-        new_filename = f"tripadvisor_part_{part_num}.json"
-        new_file_path = os.path.join(output_dir, new_filename)
-        
-        with open(new_file_path, "w", encoding="utf-8") as f:
-            json.dump(chunk_data, f, ensure_ascii=False, indent=4)
-        print(f"Đã ghi lại file sạch: {new_filename} ({len(chunk_data):,} bản ghi)")
+        if r_id not in restaurant_dict:
+          restaurant_dict[r_id] = []
+        restaurant_dict[r_id].append(
+            {"file_path": file_path, "file_name": file_name}
+        )
+    except Exception as e:
+      print(f"Lỗi đọc file {file_name}: {e}")
 
-    print("---------------------------------------")
-    print("🎉 Hoàn tất dọn dẹp! Dữ liệu của bạn giờ đây hoàn toàn sạch và không bị trùng lặp.")
+  deleted_count = 0
+
+  # Xử lý từng nhóm trùng lặp
+  for r_id, items in restaurant_dict.items():
+    if len(items) > 1:
+      # Ưu tiên giữ lại file không có chữ '_NA' trong tên (tên nhà hàng đầy đủ hơn)
+      items.sort(
+          key=lambda x: (
+              0 if "_NA" not in x["file_name"] else 1,
+              len(x["file_name"]),
+          ),
+          reverse=True,
+      )
+
+      keep_item = items[0]  # Giữ file tốt nhất
+      print(f"\n[Giữ lại] {keep_item['file_name']} (ID: {r_id})")
+
+      # Xóa các file thừa còn lại trong nhóm
+      for duplicate in items[1:]:
+        print(f"  -> [Xóa trùng] {duplicate['file_name']}")
+        os.remove(duplicate["file_path"])
+        deleted_count += 1
+
+  print(f"\n[XONG] Đã dọn dẹp sạch sẽ! Đã xóa thành công {deleted_count} file thừa.")
+
 
 if __name__ == "__main__":
-    clean_and_deduplicate_data()
+  clean_duplicate_restaurants()
