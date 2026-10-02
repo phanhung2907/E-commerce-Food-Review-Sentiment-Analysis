@@ -82,7 +82,7 @@ storage/postgre/*
 
 #storage
 /docker
-
+/.venv-wsl
 #data
 code/hung/data/*
 !code/hung/data/.gitkeep

@@ -657,12 +657,14 @@ uv run python code/hung/src/run_pipeline.py `
 uv run python code/hung/src/run_pipeline.py --workers 50 --db-workers 8
 ```
 
-## Hai tuần sau
+## Hai tuần saus
 
 ```bash
-uv run python code/hung/src/run_pipeline.py \
-  --workers 50 \
-  --db-workers 8
+uv run python code/hung/src/run_pipeline.py --workers 8 --db-workers 4 --page-delay 2
+
+  uv run python code/hung/src/storage/minio_uploader.py --source foody --workers 100 --overwrite
+
+  uv run python code/hung/src/processing/minio_to_postgres.py --source foody --workers 8
 ```
 
 ## Những lần tiếp theo
