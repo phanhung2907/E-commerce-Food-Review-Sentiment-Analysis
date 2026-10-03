@@ -1,0 +1,175 @@
+{
+    "restaurant_id": "34284964",
+    "restaurant_name": "Food court Aeon Midori Park",
+    "city": "13. Thu Dau Mot Restaurants\nSee all 313 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g3311194-d34284964-Reviews-Food_court_Aeon_Midori_Park-Thu_Dau_Mot_Binh_Duong_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g3311194-d34284964-Reviews-Food_court_Aeon_Midori_Park-Thu_Dau_Mot_Binh_Duong_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "Midori Park Square, Lo H8 Tạo luč 5 Phu Chanh ,",
+            "addressLocality": "Thu Dau Mot"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 11.03017,
+            "longitude": 106.64365
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/c7/7c/52/caption.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "08:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "08:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "08:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "08:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "08:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "08:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "08:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Japanese",
+            "American",
+            "European",
+            "Asian",
+            "Korean"
+        ],
+        "telephone": "N/A"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T14:39:26.266174",
+            "restaurant_id": "34284964",
+            "restaurant_name": "Food court Aeon Midori Park",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g3311194-d34284964-Reviews-Food_court_Aeon_Midori_Park-Thu_Dau_Mot_Binh_Duong_Province.html#REVIEWS",
+            "city": "13. Thu Dau Mot Restaurants\nSee all 313 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g3311194-d34284964-Reviews-Food_court_Aeon_Midori_Park-Thu_Dau_Mot_Binh_Duong_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Midori Park Square, Lo H8 Tạo luč 5 Phu Chanh ,",
+                "addressLocality": "Thu Dau Mot"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 11.03017,
+                "longitude": 106.64365
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/c7/7c/52/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Japanese",
+                "American",
+                "European",
+                "Asian",
+                "Korean"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_34284964_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Food court Aeon Midori Park",
+            "review_text": "Soko37\nBudapest, Hungary20530 contributions\n1\nSimple dinner\nMar 2026 • Business\nEvening visit for simple dinner in Aeon food court. The choice of Japanese 🇯🇵 Korean Vietnamese 🇻🇳 American 🇺🇸 or European 🇪🇺 cuisines. You pick the fishy from box, pay and take away or eat in dinning area. Cold and warm dishes for favourable price , almost no waiting. Beside you can make shopping in grocery if needed\nWritten March 24, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}
