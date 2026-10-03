@@ -1,0 +1,107 @@
+{
+    "restaurant_id": "19743092",
+    "restaurant_name": "Little Girl Pub",
+    "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298085-d19743092-Reviews-Little_Girl_Pub-Da_Nang.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g298085-d19743092-Reviews-Little_Girl_Pub-Da_Nang.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Da Nang Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 3
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 16.048601,
+            "longitude": 108.24807
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d3/5d/e6/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "02:00:00",
+                "closes": "17:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "02:00:00",
+                "closes": "17:00:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Pub",
+            "Beer restaurants"
+        ],
+        "telephone": "+84 91 423 19 31"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T05:17:24.715839",
+            "restaurant_id": "19743092",
+            "restaurant_name": "Little Girl Pub",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298085-d19743092-Reviews-Little_Girl_Pub-Da_Nang.html",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298085-d19743092-Reviews-Little_Girl_Pub-Da_Nang.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Da Nang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 3
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.048601,
+                "longitude": 108.24807
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d3/5d/e6/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "02:00:00",
+                    "closes": "17:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "02:00:00",
+                    "closes": "17:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Pub",
+                "Beer restaurants"
+            ],
+            "telephone": "+84 91 423 19 31",
+            "review_id": "REV_19743092_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Little Girl Pub",
+            "review_text": "TomShanghai\nShanghai, China6 contributions\n0\nCheap beer and great pool table\nJan 2020\nNothing wrong with that place if you like rock music, cheap beer and a nice pool table. Friday 8:30 pm is always a pool tournament going on. I can recommend this place.\nWritten January 3, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

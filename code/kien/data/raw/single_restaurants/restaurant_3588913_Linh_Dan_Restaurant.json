@@ -4,46 +4,160 @@
     "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
     "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
     "metadata": {
-        "@id": "N/A",
-        "address": "N/A",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Bai Chay, Hạ Long Bay Vietnam"
+        },
         "aggregateRating": {
-            "ratingValue": "N/A",
-            "reviewCount": "N/A"
+            "@type": "AggregateRating",
+            "ratingValue": 4.5,
+            "reviewCount": 537
         },
         "geo": {
-            "latitude": "N/A",
-            "longitude": "N/A"
+            "@type": "GeoCoordinates",
+            "latitude": 20.957008,
+            "longitude": 107.04601
         },
-        "image": "N/A",
-        "openingHoursSpecification": "N/A",
-        "priceRange": "N/A",
-        "servesCuisine": "N/A",
-        "telephone": "N/A"
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d1/c3/8c/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "08:30:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "08:30:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "08:30:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "08:30:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "08:30:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "08:30:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "08:00:00",
+                "closes": "21:00:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Seafood",
+            "European",
+            "Asian",
+            "Vietnamese"
+        ],
+        "telephone": "+84 91 463 45 98"
     },
     "reviews_count": 15,
     "reviews": [
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T14:55:10.485527",
+            "crawl_timestamp": "2026-10-03T19:47:40.336138",
             "restaurant_id": "3588913",
             "restaurant_name": "Linh Dan Restaurant",
             "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
             "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
-            "@id": "N/A",
-            "address": "N/A",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Bai Chay, Hạ Long Bay Vietnam"
+            },
             "aggregateRating": {
-                "ratingValue": "N/A",
-                "reviewCount": "N/A"
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 537
             },
             "geo": {
-                "latitude": "N/A",
-                "longitude": "N/A"
+                "@type": "GeoCoordinates",
+                "latitude": 20.957008,
+                "longitude": 107.04601
             },
-            "image": "N/A",
-            "openingHoursSpecification": "N/A",
-            "priceRange": "N/A",
-            "servesCuisine": "N/A",
-            "telephone": "N/A",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d1/c3/8c/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 463 45 98",
             "review_id": "REV_3588913_p1_0",
             "reviewer_id": "User_p1_0",
             "review_title": "Review at Linh Dan Restaurant",
@@ -55,26 +169,83 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T14:55:10.513059",
+            "crawl_timestamp": "2026-10-03T19:47:40.354145",
             "restaurant_id": "3588913",
             "restaurant_name": "Linh Dan Restaurant",
             "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
             "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
-            "@id": "N/A",
-            "address": "N/A",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Bai Chay, Hạ Long Bay Vietnam"
+            },
             "aggregateRating": {
-                "ratingValue": "N/A",
-                "reviewCount": "N/A"
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 537
             },
             "geo": {
-                "latitude": "N/A",
-                "longitude": "N/A"
+                "@type": "GeoCoordinates",
+                "latitude": 20.957008,
+                "longitude": 107.04601
             },
-            "image": "N/A",
-            "openingHoursSpecification": "N/A",
-            "priceRange": "N/A",
-            "servesCuisine": "N/A",
-            "telephone": "N/A",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d1/c3/8c/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 463 45 98",
             "review_id": "REV_3588913_p1_1",
             "reviewer_id": "User_p1_1",
             "review_title": "Review at Linh Dan Restaurant",
@@ -86,26 +257,83 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T14:55:10.547874",
+            "crawl_timestamp": "2026-10-03T19:47:40.365835",
             "restaurant_id": "3588913",
             "restaurant_name": "Linh Dan Restaurant",
             "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
             "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
-            "@id": "N/A",
-            "address": "N/A",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Bai Chay, Hạ Long Bay Vietnam"
+            },
             "aggregateRating": {
-                "ratingValue": "N/A",
-                "reviewCount": "N/A"
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 537
             },
             "geo": {
-                "latitude": "N/A",
-                "longitude": "N/A"
+                "@type": "GeoCoordinates",
+                "latitude": 20.957008,
+                "longitude": 107.04601
             },
-            "image": "N/A",
-            "openingHoursSpecification": "N/A",
-            "priceRange": "N/A",
-            "servesCuisine": "N/A",
-            "telephone": "N/A",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d1/c3/8c/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 463 45 98",
             "review_id": "REV_3588913_p1_2",
             "reviewer_id": "User_p1_2",
             "review_title": "Review at Linh Dan Restaurant",
@@ -117,26 +345,83 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T14:55:10.574212",
+            "crawl_timestamp": "2026-10-03T19:47:40.382556",
             "restaurant_id": "3588913",
             "restaurant_name": "Linh Dan Restaurant",
             "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
             "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
-            "@id": "N/A",
-            "address": "N/A",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Bai Chay, Hạ Long Bay Vietnam"
+            },
             "aggregateRating": {
-                "ratingValue": "N/A",
-                "reviewCount": "N/A"
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 537
             },
             "geo": {
-                "latitude": "N/A",
-                "longitude": "N/A"
+                "@type": "GeoCoordinates",
+                "latitude": 20.957008,
+                "longitude": 107.04601
             },
-            "image": "N/A",
-            "openingHoursSpecification": "N/A",
-            "priceRange": "N/A",
-            "servesCuisine": "N/A",
-            "telephone": "N/A",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d1/c3/8c/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 463 45 98",
             "review_id": "REV_3588913_p1_3",
             "reviewer_id": "User_p1_3",
             "review_title": "Review at Linh Dan Restaurant",
@@ -148,26 +433,83 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T14:55:10.610734",
+            "crawl_timestamp": "2026-10-03T19:47:40.394211",
             "restaurant_id": "3588913",
             "restaurant_name": "Linh Dan Restaurant",
             "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
             "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
-            "@id": "N/A",
-            "address": "N/A",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Bai Chay, Hạ Long Bay Vietnam"
+            },
             "aggregateRating": {
-                "ratingValue": "N/A",
-                "reviewCount": "N/A"
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 537
             },
             "geo": {
-                "latitude": "N/A",
-                "longitude": "N/A"
+                "@type": "GeoCoordinates",
+                "latitude": 20.957008,
+                "longitude": 107.04601
             },
-            "image": "N/A",
-            "openingHoursSpecification": "N/A",
-            "priceRange": "N/A",
-            "servesCuisine": "N/A",
-            "telephone": "N/A",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d1/c3/8c/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 463 45 98",
             "review_id": "REV_3588913_p1_4",
             "reviewer_id": "User_p1_4",
             "review_title": "Review at Linh Dan Restaurant",
@@ -179,26 +521,83 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T14:55:10.624241",
+            "crawl_timestamp": "2026-10-03T19:47:40.404212",
             "restaurant_id": "3588913",
             "restaurant_name": "Linh Dan Restaurant",
             "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
             "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
-            "@id": "N/A",
-            "address": "N/A",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Bai Chay, Hạ Long Bay Vietnam"
+            },
             "aggregateRating": {
-                "ratingValue": "N/A",
-                "reviewCount": "N/A"
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 537
             },
             "geo": {
-                "latitude": "N/A",
-                "longitude": "N/A"
+                "@type": "GeoCoordinates",
+                "latitude": 20.957008,
+                "longitude": 107.04601
             },
-            "image": "N/A",
-            "openingHoursSpecification": "N/A",
-            "priceRange": "N/A",
-            "servesCuisine": "N/A",
-            "telephone": "N/A",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d1/c3/8c/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 463 45 98",
             "review_id": "REV_3588913_p1_5",
             "reviewer_id": "User_p1_5",
             "review_title": "Review at Linh Dan Restaurant",
@@ -210,26 +609,83 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T14:55:10.638461",
+            "crawl_timestamp": "2026-10-03T19:47:40.416211",
             "restaurant_id": "3588913",
             "restaurant_name": "Linh Dan Restaurant",
             "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
             "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
-            "@id": "N/A",
-            "address": "N/A",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Bai Chay, Hạ Long Bay Vietnam"
+            },
             "aggregateRating": {
-                "ratingValue": "N/A",
-                "reviewCount": "N/A"
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 537
             },
             "geo": {
-                "latitude": "N/A",
-                "longitude": "N/A"
+                "@type": "GeoCoordinates",
+                "latitude": 20.957008,
+                "longitude": 107.04601
             },
-            "image": "N/A",
-            "openingHoursSpecification": "N/A",
-            "priceRange": "N/A",
-            "servesCuisine": "N/A",
-            "telephone": "N/A",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d1/c3/8c/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 463 45 98",
             "review_id": "REV_3588913_p1_6",
             "reviewer_id": "User_p1_6",
             "review_title": "Review at Linh Dan Restaurant",
@@ -241,26 +697,83 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T14:55:10.653060",
+            "crawl_timestamp": "2026-10-03T19:47:40.426211",
             "restaurant_id": "3588913",
             "restaurant_name": "Linh Dan Restaurant",
             "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
             "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
-            "@id": "N/A",
-            "address": "N/A",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Bai Chay, Hạ Long Bay Vietnam"
+            },
             "aggregateRating": {
-                "ratingValue": "N/A",
-                "reviewCount": "N/A"
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 537
             },
             "geo": {
-                "latitude": "N/A",
-                "longitude": "N/A"
+                "@type": "GeoCoordinates",
+                "latitude": 20.957008,
+                "longitude": 107.04601
             },
-            "image": "N/A",
-            "openingHoursSpecification": "N/A",
-            "priceRange": "N/A",
-            "servesCuisine": "N/A",
-            "telephone": "N/A",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d1/c3/8c/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 463 45 98",
             "review_id": "REV_3588913_p1_7",
             "reviewer_id": "User_p1_7",
             "review_title": "Review at Linh Dan Restaurant",
@@ -272,26 +785,83 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T14:55:10.668197",
+            "crawl_timestamp": "2026-10-03T19:47:40.437211",
             "restaurant_id": "3588913",
             "restaurant_name": "Linh Dan Restaurant",
             "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
             "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
-            "@id": "N/A",
-            "address": "N/A",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Bai Chay, Hạ Long Bay Vietnam"
+            },
             "aggregateRating": {
-                "ratingValue": "N/A",
-                "reviewCount": "N/A"
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 537
             },
             "geo": {
-                "latitude": "N/A",
-                "longitude": "N/A"
+                "@type": "GeoCoordinates",
+                "latitude": 20.957008,
+                "longitude": 107.04601
             },
-            "image": "N/A",
-            "openingHoursSpecification": "N/A",
-            "priceRange": "N/A",
-            "servesCuisine": "N/A",
-            "telephone": "N/A",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d1/c3/8c/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 463 45 98",
             "review_id": "REV_3588913_p1_8",
             "reviewer_id": "User_p1_8",
             "review_title": "Review at Linh Dan Restaurant",
@@ -303,26 +873,83 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T14:55:10.681743",
+            "crawl_timestamp": "2026-10-03T19:47:40.450236",
             "restaurant_id": "3588913",
             "restaurant_name": "Linh Dan Restaurant",
             "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
             "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
-            "@id": "N/A",
-            "address": "N/A",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Bai Chay, Hạ Long Bay Vietnam"
+            },
             "aggregateRating": {
-                "ratingValue": "N/A",
-                "reviewCount": "N/A"
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 537
             },
             "geo": {
-                "latitude": "N/A",
-                "longitude": "N/A"
+                "@type": "GeoCoordinates",
+                "latitude": 20.957008,
+                "longitude": 107.04601
             },
-            "image": "N/A",
-            "openingHoursSpecification": "N/A",
-            "priceRange": "N/A",
-            "servesCuisine": "N/A",
-            "telephone": "N/A",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d1/c3/8c/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 463 45 98",
             "review_id": "REV_3588913_p1_9",
             "reviewer_id": "User_p1_9",
             "review_title": "Review at Linh Dan Restaurant",
@@ -334,26 +961,83 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T14:55:10.702288",
+            "crawl_timestamp": "2026-10-03T19:47:40.466792",
             "restaurant_id": "3588913",
             "restaurant_name": "Linh Dan Restaurant",
             "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
             "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
-            "@id": "N/A",
-            "address": "N/A",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Bai Chay, Hạ Long Bay Vietnam"
+            },
             "aggregateRating": {
-                "ratingValue": "N/A",
-                "reviewCount": "N/A"
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 537
             },
             "geo": {
-                "latitude": "N/A",
-                "longitude": "N/A"
+                "@type": "GeoCoordinates",
+                "latitude": 20.957008,
+                "longitude": 107.04601
             },
-            "image": "N/A",
-            "openingHoursSpecification": "N/A",
-            "priceRange": "N/A",
-            "servesCuisine": "N/A",
-            "telephone": "N/A",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d1/c3/8c/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 463 45 98",
             "review_id": "REV_3588913_p1_10",
             "reviewer_id": "User_p1_10",
             "review_title": "Review at Linh Dan Restaurant",
@@ -365,26 +1049,83 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T14:55:10.728345",
+            "crawl_timestamp": "2026-10-03T19:47:40.483792",
             "restaurant_id": "3588913",
             "restaurant_name": "Linh Dan Restaurant",
             "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
             "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
-            "@id": "N/A",
-            "address": "N/A",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Bai Chay, Hạ Long Bay Vietnam"
+            },
             "aggregateRating": {
-                "ratingValue": "N/A",
-                "reviewCount": "N/A"
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 537
             },
             "geo": {
-                "latitude": "N/A",
-                "longitude": "N/A"
+                "@type": "GeoCoordinates",
+                "latitude": 20.957008,
+                "longitude": 107.04601
             },
-            "image": "N/A",
-            "openingHoursSpecification": "N/A",
-            "priceRange": "N/A",
-            "servesCuisine": "N/A",
-            "telephone": "N/A",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d1/c3/8c/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 463 45 98",
             "review_id": "REV_3588913_p1_11",
             "reviewer_id": "User_p1_11",
             "review_title": "Review at Linh Dan Restaurant",
@@ -396,26 +1137,83 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T14:55:10.742445",
+            "crawl_timestamp": "2026-10-03T19:47:40.494793",
             "restaurant_id": "3588913",
             "restaurant_name": "Linh Dan Restaurant",
             "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
             "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
-            "@id": "N/A",
-            "address": "N/A",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Bai Chay, Hạ Long Bay Vietnam"
+            },
             "aggregateRating": {
-                "ratingValue": "N/A",
-                "reviewCount": "N/A"
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 537
             },
             "geo": {
-                "latitude": "N/A",
-                "longitude": "N/A"
+                "@type": "GeoCoordinates",
+                "latitude": 20.957008,
+                "longitude": 107.04601
             },
-            "image": "N/A",
-            "openingHoursSpecification": "N/A",
-            "priceRange": "N/A",
-            "servesCuisine": "N/A",
-            "telephone": "N/A",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d1/c3/8c/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 463 45 98",
             "review_id": "REV_3588913_p1_12",
             "reviewer_id": "User_p1_12",
             "review_title": "Review at Linh Dan Restaurant",
@@ -427,26 +1225,83 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T14:55:10.755448",
+            "crawl_timestamp": "2026-10-03T19:47:40.505792",
             "restaurant_id": "3588913",
             "restaurant_name": "Linh Dan Restaurant",
             "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
             "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
-            "@id": "N/A",
-            "address": "N/A",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Bai Chay, Hạ Long Bay Vietnam"
+            },
             "aggregateRating": {
-                "ratingValue": "N/A",
-                "reviewCount": "N/A"
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 537
             },
             "geo": {
-                "latitude": "N/A",
-                "longitude": "N/A"
+                "@type": "GeoCoordinates",
+                "latitude": 20.957008,
+                "longitude": 107.04601
             },
-            "image": "N/A",
-            "openingHoursSpecification": "N/A",
-            "priceRange": "N/A",
-            "servesCuisine": "N/A",
-            "telephone": "N/A",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d1/c3/8c/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 463 45 98",
             "review_id": "REV_3588913_p1_13",
             "reviewer_id": "User_p1_13",
             "review_title": "Review at Linh Dan Restaurant",
@@ -458,26 +1313,83 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T14:55:10.769279",
+            "crawl_timestamp": "2026-10-03T19:47:40.516813",
             "restaurant_id": "3588913",
             "restaurant_name": "Linh Dan Restaurant",
             "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
             "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
-            "@id": "N/A",
-            "address": "N/A",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d3588913-Reviews-Linh_Dan_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Bai Chay, Hạ Long Bay Vietnam"
+            },
             "aggregateRating": {
-                "ratingValue": "N/A",
-                "reviewCount": "N/A"
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 537
             },
             "geo": {
-                "latitude": "N/A",
-                "longitude": "N/A"
+                "@type": "GeoCoordinates",
+                "latitude": 20.957008,
+                "longitude": 107.04601
             },
-            "image": "N/A",
-            "openingHoursSpecification": "N/A",
-            "priceRange": "N/A",
-            "servesCuisine": "N/A",
-            "telephone": "N/A",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d1/c3/8c/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 463 45 98",
             "review_id": "REV_3588913_p1_14",
             "reviewer_id": "User_p1_14",
             "review_title": "Review at Linh Dan Restaurant",

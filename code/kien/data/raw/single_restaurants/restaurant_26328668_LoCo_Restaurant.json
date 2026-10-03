@@ -1,0 +1,1403 @@
+{
+    "restaurant_id": "26328668",
+    "restaurant_name": "LoCo Restaurant",
+    "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "1C Lê Duẫn Hàn River Bridge",
+            "addressLocality": "Hai Chau",
+            "postalCode": "550000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.7,
+            "reviewCount": 43
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 16.071638,
+            "longitude": 108.22366
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/1e/40/21/logo-loco.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Seafood",
+            "Vietnamese"
+        ],
+        "telephone": "+84 90 645 67 85"
+    },
+    "reviews_count": 15,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T04:46:47.960320",
+            "restaurant_id": "26328668",
+            "restaurant_name": "LoCo Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "1C Lê Duẫn Hàn River Bridge",
+                "addressLocality": "Hai Chau",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 43
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.071638,
+                "longitude": 108.22366
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/1e/40/21/logo-loco.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 645 67 85",
+            "review_id": "REV_26328668_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at LoCo Restaurant",
+            "review_text": "Deepak Panda\nBengaluru, India15 contributions\n0\nSeafood experience at Loco at da nang Vietnam\nSep 2026 • Couples\nExcellent sea food , ambience, customer service, menu. We had lobster n sea food fried rice, it was well cooked n presented\nValue\nService\nFood\nAtmosphere\nWritten September 22, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T04:46:47.976319",
+            "restaurant_id": "26328668",
+            "restaurant_name": "LoCo Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "1C Lê Duẫn Hàn River Bridge",
+                "addressLocality": "Hai Chau",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 43
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.071638,
+                "longitude": 108.22366
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/1e/40/21/logo-loco.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 645 67 85",
+            "review_id": "REV_26328668_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at LoCo Restaurant",
+            "review_text": "Seaside09702058601\n2 contributions\n0\nI don’t know\nSep 2026 • Friends\nBest restaurant and nice service thanks will back again\nWritten September 8, 2026\nLoco Restaurant\nDear Seaside,\n\nThank you so much for your wonderful 5-star review!\n\n\"Best restaurant and nice service, thanks, will back again\" – that truly means the world to us. We're so glad you enjoyed your experience at LoCo Restaurant - Da Nang Seafood Restaurant, and knowing you'll be back makes us especially happy! 😊\n\nWe look forward to welcoming you again on your next visit to Da Nang!\n\nSincerely,\nLoCo Restaurant Team\nRead more\nWritten September 17, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T04:46:47.991327",
+            "restaurant_id": "26328668",
+            "restaurant_name": "LoCo Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "1C Lê Duẫn Hàn River Bridge",
+                "addressLocality": "Hai Chau",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 43
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.071638,
+                "longitude": 108.22366
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/1e/40/21/logo-loco.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 645 67 85",
+            "review_id": "REV_26328668_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at LoCo Restaurant",
+            "review_text": "Quest16231449602\n2 contributions\n0\nGood restaurent\nSep 2026 • Friends\nGood resturent good stuff friendly\nWritten September 8, 2026\nLoco Restaurant\nDear Quest,\n\nThank you so much for your 5-star review!\n\n\"Good restaurant, good staff, friendly\" – short and sweet, and it makes us really happy! 😊 We're so glad you enjoyed your experience at LoCo Restaurant - Da Nang Seafood Restaurant and found our team friendly.\n\nWe hope to welcome you again on your next visit to Da Nang!\n\nSincerely,\nLoCo Restaurant Team\nRead more\nWritten September 17, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T04:46:48.008565",
+            "restaurant_id": "26328668",
+            "restaurant_name": "LoCo Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "1C Lê Duẫn Hàn River Bridge",
+                "addressLocality": "Hai Chau",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 43
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.071638,
+                "longitude": 108.22366
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/1e/40/21/logo-loco.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 645 67 85",
+            "review_id": "REV_26328668_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at LoCo Restaurant",
+            "review_text": "mihaela c\n6 contributions\n0\nBest oysters\nSep 2026 • Couples\nI looked online to have some fresh oysters and found the right place. Came two days in a row for the best experience at an unbeatable price. All the food was amazing and very friendly staff. Would come back.\nWritten September 6, 2026\nLoco Restaurant\nDear Mihaela,\n\nThank you so much for your wonderful 5-star review!\n\nWe're truly delighted to hear that you found the best oysters at LoCo Restaurant - Da Nang Seafood Restaurant – and even better, that you came back two days in a row! That's the highest compliment we could ever receive. 🦪😊\n\nIt's fantastic to know that all the food was amazing and that our staff were very friendly throughout. And hearing you found the experience unbeatable for the price makes us especially proud.\n\nWe'd love to welcome you back again – whether on your next visit to Da Nang or even a third day in a row! 😄\n\nSincerely,\nLoCo Restaurant Team\nRead more\nWritten September 17, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T04:46:48.030566",
+            "restaurant_id": "26328668",
+            "restaurant_name": "LoCo Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "1C Lê Duẫn Hàn River Bridge",
+                "addressLocality": "Hai Chau",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 43
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.071638,
+                "longitude": 108.22366
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/1e/40/21/logo-loco.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 645 67 85",
+            "review_id": "REV_26328668_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at LoCo Restaurant",
+            "review_text": "Nightlights9876\n3 contributions\n0\nLoco is Fantastic!\nSep 2026 • Family\nThe food is awesome and the staff is super incredible! They were so attentive to our taste as we are non-spicy people and they made sure our food did not have spices on it. The oysters were so good, my wife made sure we came back the very next day! She loved them. I had beef the first night and a platter the second night. The server showed us how to make the rolls! It was great! I also had a pork dish and it was fantastic as well. Can’t say enough about this place!\nRead more\nValue\nService\nFood\nAtmosphere\nWritten September 6, 2026\nLoco Restaurant\nDear Nightlights,\n\nWow – thank you so much for this absolutely wonderful and detailed review!\n\nWe're truly delighted that you found LoCo Restaurant - Da Nang Seafood Restaurant fantastic. It means so much to us that our staff were attentive to your taste preferences as non-spicy diners and made sure your food had no spices – that kind of care is exactly what we want to offer every guest. 😊\n\nWe love that the oysters were so good your wife insisted on coming back the very next day! 🦪 Hearing about your beef the first night, the platter the second night, and the pork dish all being fantastic makes us so happy. And we're glad our server showed you how to make the rolls – that tableside guidance is one of our favorite things to share with guests!\n\n\"Can't say enough about this place\" – that truly means the world to us. We hope to welcome you and your wife again on your next visit to Da Nang!\n\nSincerely,\nLoCo Restaurant Team\nRead more\nWritten September 17, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T04:46:48.060753",
+            "restaurant_id": "26328668",
+            "restaurant_name": "LoCo Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "1C Lê Duẫn Hàn River Bridge",
+                "addressLocality": "Hai Chau",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 43
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.071638,
+                "longitude": 108.22366
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/1e/40/21/logo-loco.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 645 67 85",
+            "review_id": "REV_26328668_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at LoCo Restaurant",
+            "review_text": "Marikono\nOtsu5 contributions\n0\nQuite a treat\nSep 2026 • Couples\nIt is near Hilton Hotel. We we’re searching somewhere to eat after our Museum tour and found this place. The review rate was 4.8so we decided to try it. There was a group of tourists dinning when we arrive but was seated right away. We ordered the Must try Local specialty platter. It was delicious. Just take note that thry only use Visa.\nWritten September 4, 2026\nLoco Restaurant\nDear Marikono,\n\nThank you so much for your wonderful 5-star review!\n\nWe're truly delighted that you found us while searching for a place to eat after your museum tour. It's great to hear that you were seated right away and that you enjoyed the Must-Try Local Specialty Platter – it's definitely one of our favorites too! 😊\n\nWe also appreciate you noting the payment detail – you're right that we currently accept Visa, and we're looking into expanding our payment options to make things easier for our guests in the future.\n\nBeing close to the Hilton makes us a convenient stop, and we're glad you discovered us. We hope to welcome you again on your next visit to Da Nang!\n\nSincerely,\nLoCo Restaurant Team\nRead more\nWritten September 17, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T04:46:48.095917",
+            "restaurant_id": "26328668",
+            "restaurant_name": "LoCo Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "1C Lê Duẫn Hàn River Bridge",
+                "addressLocality": "Hai Chau",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 43
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.071638,
+                "longitude": 108.22366
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/1e/40/21/logo-loco.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 645 67 85",
+            "review_id": "REV_26328668_p1_6",
+            "reviewer_id": "User_p1_6",
+            "review_title": "Review at LoCo Restaurant",
+            "review_text": "Go40002254732\n1 contribution\n0\nFriendly staff\nAug 2026 • Business\napproachable and the foods are good\nWritten August 28, 2026\nLoco Restaurant\nDear Guest,\n\nThank you so much for your 5-star review!\n\n\"Friendly staff, approachable and the foods are good\" – we're so glad to hear that you found our team friendly and approachable, and that you enjoyed the food at LoCo Restaurant - Da Nang Seafood Restaurant. 😊\n\nWe hope to welcome you again on your next visit to Da Nang!\n\nSincerely,\nLoCo Restaurant Team\nRead more\nWritten September 17, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T04:46:48.111918",
+            "restaurant_id": "26328668",
+            "restaurant_name": "LoCo Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "1C Lê Duẫn Hàn River Bridge",
+                "addressLocality": "Hai Chau",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 43
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.071638,
+                "longitude": 108.22366
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/1e/40/21/logo-loco.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 645 67 85",
+            "review_id": "REV_26328668_p1_7",
+            "reviewer_id": "User_p1_7",
+            "review_title": "Review at LoCo Restaurant",
+            "review_text": "Angelo V\n1 contribution\n0\nMore improvements in facilities\nAug 2026 • Business\nFood is ok \nStaff is accommodating \nPlace is so hot\nWritten August 28, 2026\nLoco Restaurant\nDear Angelov,\n\nThank you for taking the time to share your feedback – we appreciate it.\n\nWe're glad to hear that you found the food okay and our staff accommodating. That means a lot to us. 😊\n\nHowever, we sincerely apologize that the heat affected your experience. We understand how uncomfortable that can be, especially in Da Nang's climate. We're actively working on improving our cooling and ventilation systems so that our guests can dine in comfort – your feedback reinforces how important this is, and we'll continue to make it a priority.\n\nThank you for the honest input. We hope to welcome you again on your next visit to Da Nang and show you a more comfortable experience.\n\nSincerely,\nLoCo Restaurant Team\nRead more\nWritten September 17, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T04:46:48.127917",
+            "restaurant_id": "26328668",
+            "restaurant_name": "LoCo Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "1C Lê Duẫn Hàn River Bridge",
+                "addressLocality": "Hai Chau",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 43
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.071638,
+                "longitude": 108.22366
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/1e/40/21/logo-loco.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 645 67 85",
+            "review_id": "REV_26328668_p1_8",
+            "reviewer_id": "User_p1_8",
+            "review_title": "Review at LoCo Restaurant",
+            "review_text": "Resort24597644086\n1 contribution\n0\nFood\nAug 2026 • Business\nDelicious restaurant with quality food\nTranslated from Vietnamese\nShow original\nWritten August 19, 2026\nLoco Restaurant\nThank you so much for your 5-star rating!\n\n\"Delicious restaurant, quality food\" – we're very happy that you were satisfied with the quality of our food at LoCo Restaurant - Da Nang Seafood Restaurant. 😊\n\nWe hope next time you visit Da Nang, you'll come back to support LoCo again!\n\nWarmly,\nLoCo Restaurant\nRead more\nWritten September 17, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T04:46:48.151068",
+            "restaurant_id": "26328668",
+            "restaurant_name": "LoCo Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "1C Lê Duẫn Hàn River Bridge",
+                "addressLocality": "Hai Chau",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 43
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.071638,
+                "longitude": 108.22366
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/1e/40/21/logo-loco.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 645 67 85",
+            "review_id": "REV_26328668_p1_9",
+            "reviewer_id": "User_p1_9",
+            "review_title": "Review at LoCo Restaurant",
+            "review_text": "sal\nSydney, Australia4 contributions\n0\nDelicious food\nAug 2026 • Couples\nFood was amazing no frog served here for anyone who has a phobia like myself and service was outstanding the Singapore crab defs hit the spot. I needed rice with my food to balance the flavours. Recommend this place for sure\nValue\nService\nFood\nAtmosphere\nWritten August 15, 2026\nLoco Restaurant\nDear Guest,\n\nThank you so much for your wonderful 5-star review!\n\nWe're truly delighted that you found the food amazing at LoCo Restaurant - Da Nang Seafood Restaurant – and we're especially glad to reassure you that no frogs are served here! 😄 We're happy to hear the Singapore crab really hit the spot, and we completely understand needing rice to balance the flavors – it's a great pairing for that dish.\n\nThank you for the recommendation and for your kind words about our outstanding service. As a visitor from Sydney, we're honored you chose to dine with us.\n\nWe hope to welcome you again on your next visit to Da Nang!\n\nSincerely,\nLoCo Restaurant Team\nRead more\nWritten September 17, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T04:46:48.166487",
+            "restaurant_id": "26328668",
+            "restaurant_name": "LoCo Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "1C Lê Duẫn Hàn River Bridge",
+                "addressLocality": "Hai Chau",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 43
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.071638,
+                "longitude": 108.22366
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/1e/40/21/logo-loco.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 645 67 85",
+            "review_id": "REV_26328668_p1_10",
+            "reviewer_id": "User_p1_10",
+            "review_title": "Review at LoCo Restaurant",
+            "review_text": "Louise C\n3 contributions\n0\nFantastic\nAug 2026 • Family\nWe were served by Lee Huyen , a lovely young lady so caring and attentive and what can we say about the food , wow ! 10/10 Vietnamese pancakes , steak , scallops three flavours , incredible food and experience . Will be back\nWritten August 12, 2026\nLoco Restaurant\nDear Louise,\n\nWow – thank you so much for this absolutely fantastic review!\n\nWe're truly delighted that you had such an incredible experience at LoCo Restaurant - Da Nang Seafood Restaurant. A special thank you for recognizing Lee Huyen – she will be absolutely thrilled to know that you found her lovely, caring, and attentive. We'll be sure to pass along your kind words to her personally. 😊\n\nHearing that the Vietnamese pancakes, steak, and scallops three flavours were all \"wow\" and 10/10 makes our whole team proud – those are dishes we put a lot of care into.\n\n\"Will be back\" – those are the words we love most! We look forward to welcoming you again on your next visit to Da Nang!\n\nSincerely,\nLoCo Restaurant Team\nRead more\nWritten September 17, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T04:46:48.184486",
+            "restaurant_id": "26328668",
+            "restaurant_name": "LoCo Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "1C Lê Duẫn Hàn River Bridge",
+                "addressLocality": "Hai Chau",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 43
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.071638,
+                "longitude": 108.22366
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/1e/40/21/logo-loco.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 645 67 85",
+            "review_id": "REV_26328668_p1_11",
+            "reviewer_id": "User_p1_11",
+            "review_title": "Review at LoCo Restaurant",
+            "review_text": "Cruiser07576924201\n4 contributions\n0\nNot quite close, but delicious.\nAug 2026 • Family\nLocal characteristics 3. Trifolium (sugar sauce). Three.\n(The eggs are dirty...) Hancock eating. \n120 million won't come.\nThe tiger fell in the middle. \nchanged to cool Laro. \nFood doesn't come out very fast. \nIt came when I wasn't tired and it was generally delicious. \n(I won't evaluate it.)\nEven if you don't speak Vietnamese, you can order.\nRead more\nTranslated from Korean\nShow original\nWritten August 9, 2026\nLoco Restaurant\nDear Cruiser, thank you for such a detailed and cheerful review! 😄\n\n\"Not exactly close to Han Market, but delicious\" – thank you for coming to find us even though we're a bit away from Han Market!\n\nYou enjoyed the three regional specialties (pork belly with shrimp paste sauce, scallops, and spear squid) and with 4 Tiger beers, it came to just under 1.2 million VND – we're glad the value satisfied you! Sorry the Tiger ran out midway and you had to switch to Larue ㅠㅠ We'll stock up better next time 😆\n\n\"The food doesn't come out super fast, but it arrived around the time we weren't exhausted yet, and overall it was delicious\" – this description is so precise and honest that we're actually grateful. We'll work on improving our serving speed a little more.\n\n\"You can order even if you can't speak Vietnamese or English well lol\" – this made us laugh! 😂 Being able to communicate with gestures is part of the fun of traveling.\n\nPlease visit us again on your next trip to Da Nang. You didn't rate the spear squid since it's a personal preference – but do try other dishes next time too!\n\nThank you.\nLoCo Restaurant Team\nRead more\nWritten September 17, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T04:46:48.199995",
+            "restaurant_id": "26328668",
+            "restaurant_name": "LoCo Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "1C Lê Duẫn Hàn River Bridge",
+                "addressLocality": "Hai Chau",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 43
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.071638,
+                "longitude": 108.22366
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/1e/40/21/logo-loco.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 645 67 85",
+            "review_id": "REV_26328668_p1_12",
+            "reviewer_id": "User_p1_12",
+            "review_title": "Review at LoCo Restaurant",
+            "review_text": "The_Traveller\n4 contributions\n0\nAugust Food Trip at LoCo Restaurant\nAug 2026 • Friends\nLocation is easy to find and near to tourist destinations. The Food is great and the price is affordable. The service also nice and very accommodating. The atmosphere is also good very quiet. The wait time is also ok and understandable with the orders we did\nWritten August 9, 2026\nLoco Restaurant\nDear The_traveller,\n\nThank you so much for your wonderful 5-star review!\n\nWe're truly delighted to hear that you enjoyed your August food trip at LoCo Restaurant - Da Nang Seafood Restaurant. It's great to know that our location was easy to find and convenient for your sightseeing, that the food was great and the prices affordable, and that you found the atmosphere quiet and pleasant. 😊\n\nWe're also glad that our service was nice and accommodating, and that the wait time was reasonable for your order. We always try to keep things running smoothly, so your understanding means a lot.\n\nWe hope to welcome you again on your next visit to Da Nang!\n\nSincerely,\nLoCo Restaurant Team\nRead more\nWritten September 17, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T04:46:48.217870",
+            "restaurant_id": "26328668",
+            "restaurant_name": "LoCo Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "1C Lê Duẫn Hàn River Bridge",
+                "addressLocality": "Hai Chau",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 43
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.071638,
+                "longitude": 108.22366
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/1e/40/21/logo-loco.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 645 67 85",
+            "review_id": "REV_26328668_p1_13",
+            "reviewer_id": "User_p1_13",
+            "review_title": "Review at LoCo Restaurant",
+            "review_text": "Global22291615979\n1 contribution\n0\nExperience\nJul 2026 • Family\nIt was delicious and I was glad the female staff listened carefully\nTranslated from Japanese\nShow original\nWritten July 20, 2026\nLoco Restaurant\nGlobal22291615979 様、\n\n素敵なレビューをありがとうございます！\n\n「美味しかったし、女の店員さんがしっかり聞いてくれたのが嬉しかった」— この温かいお言葉、スタッフ一同とても嬉しく拝読しました。特に、店員がしっかりとお話を聞けたことを喜んでいただけたのが何よりです。お客様の声に丁寧に耳を傾けることは、私たちが大切にしていることの一つです。\n\nまたダナンにお越しの際は、ぜひ LoCo Restaurant - Da Nang Seafood Restaurant にお立ち寄りください。心よりお待ちしております。\n\nありがとうございました。\n\nLoCo Restaurant チーム\nRead more\nTranslate response\nWritten September 17, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T04:46:48.232871",
+            "restaurant_id": "26328668",
+            "restaurant_name": "LoCo Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g25231262-d26328668-Reviews-LoCo_Restaurant-Hai_Chau_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "1C Lê Duẫn Hàn River Bridge",
+                "addressLocality": "Hai Chau",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 43
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.071638,
+                "longitude": 108.22366
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/1e/40/21/logo-loco.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 645 67 85",
+            "review_id": "REV_26328668_p1_14",
+            "reviewer_id": "User_p1_14",
+            "review_title": "Review at LoCo Restaurant",
+            "review_text": "Y H\n1 contribution\n0\nExcellent service!\nJul 2026 • Business\nMs. Trang, one of service staff was excellent. I recommend you to stop by when you visit Da Nang.\nWritten July 18, 2026\nLoco Restaurant\nDear Guest,\n\nThank you so much for your wonderful 5-star review!\n\nWe're truly delighted to hear that you received excellent service at LoCo Restaurant - Da Nang Seafood Restaurant. A special thank you for recognizing Ms. Trang – she will be absolutely thrilled to know that she made such a positive impression on you. We'll be sure to pass along your kind words to her personally. 😊\n\nThank you for recommending us to others visiting Da Nang – that means the world to us.\n\nWe hope to welcome you again on your next visit to Da Nang!\n\nSincerely,\nLoCo Restaurant Team\nRead more\nWritten September 17, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

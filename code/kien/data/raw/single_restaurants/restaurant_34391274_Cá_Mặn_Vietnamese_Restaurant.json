@@ -1,0 +1,604 @@
+{
+    "restaurant_id": "34391274",
+    "restaurant_name": "Cá Mặn Vietnamese Restaurant",
+    "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27704560-d34391274-Reviews-Ca_M_n_Vietnamese_Restaurant-Ngu_Hanh_Son_Da_Nang.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g27704560-d34391274-Reviews-Ca_M_n_Vietnamese_Restaurant-Ngu_Hanh_Son_Da_Nang.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "83 Phan Tứ, Ngũ Hành Sơn, Đà Nẵng",
+            "addressLocality": "Ngu Hanh Son",
+            "postalCode": "550000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.3,
+            "reviewCount": 6
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 16.046257,
+            "longitude": 108.24543
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/a6/b6/1b/ca-m-n-vietnamese-restaurant.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:00:00",
+                "closes": "22:30:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Vietnamese"
+        ],
+        "telephone": "N/A"
+    },
+    "reviews_count": 6,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T05:48:55.371358",
+            "restaurant_id": "34391274",
+            "restaurant_name": "Cá Mặn Vietnamese Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27704560-d34391274-Reviews-Ca_M_n_Vietnamese_Restaurant-Ngu_Hanh_Son_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27704560-d34391274-Reviews-Ca_M_n_Vietnamese_Restaurant-Ngu_Hanh_Son_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "83 Phan Tứ, Ngũ Hành Sơn, Đà Nẵng",
+                "addressLocality": "Ngu Hanh Son",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.3,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.046257,
+                "longitude": 108.24543
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/a6/b6/1b/ca-m-n-vietnamese-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_34391274_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Cá Mặn Vietnamese Restaurant",
+            "review_text": "Thomas G\nZurich, Switzerland82 contributions\n0\nVietnamese that convinces, even for skeptics\nApr 2026 • Couples\nVery good Vietnamese restaurant and a clear recommendation for people who may not appreciate the Vietnamese food as much. \n\nThe food was outstandingly good and the service was top. We had various appetizers, a pho and a fish dish, which also tasted very good.\nTranslated from German\nShow original\nWritten May 2, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T05:48:55.383357",
+            "restaurant_id": "34391274",
+            "restaurant_name": "Cá Mặn Vietnamese Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27704560-d34391274-Reviews-Ca_M_n_Vietnamese_Restaurant-Ngu_Hanh_Son_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27704560-d34391274-Reviews-Ca_M_n_Vietnamese_Restaurant-Ngu_Hanh_Son_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "83 Phan Tứ, Ngũ Hành Sơn, Đà Nẵng",
+                "addressLocality": "Ngu Hanh Son",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.3,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.046257,
+                "longitude": 108.24543
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/a6/b6/1b/ca-m-n-vietnamese-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_34391274_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Cá Mặn Vietnamese Restaurant",
+            "review_text": "Tuấn N\n9 contributions\n0\nGood.\nApr 2026 • Couples\nA great experience, delicious food, enthusiastic staff and spacious space at Da Nang\nTranslated from Vietnamese\nShow original\nWritten April 23, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T05:48:55.402681",
+            "restaurant_id": "34391274",
+            "restaurant_name": "Cá Mặn Vietnamese Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27704560-d34391274-Reviews-Ca_M_n_Vietnamese_Restaurant-Ngu_Hanh_Son_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27704560-d34391274-Reviews-Ca_M_n_Vietnamese_Restaurant-Ngu_Hanh_Son_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "83 Phan Tứ, Ngũ Hành Sơn, Đà Nẵng",
+                "addressLocality": "Ngu Hanh Son",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.3,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.046257,
+                "longitude": 108.24543
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/a6/b6/1b/ca-m-n-vietnamese-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_34391274_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Cá Mặn Vietnamese Restaurant",
+            "review_text": "Fiona B\nMelbourne, Australia183 contributions\n0\nLovely venue, staff and great meals\nApr 2026 • Couples\nWe went here for lunch. Staff are polite and attentive with great spoken english. Had the best spring rolls do far on aur trip here. Also ordered Da nang chicken rice which was tasty but not overly hot. My partner ordered bamboo grilled beef which he enjoyed. I also had a cold ice coffee which was great and strong. \nFood was great, presentation lovely and reasonably priced.\nRead more\nInsider tip:\nSpring rolls, Ice coffee\nValue\nService\nFood\nAtmosphere\nWritten April 10, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T05:48:55.416285",
+            "restaurant_id": "34391274",
+            "restaurant_name": "Cá Mặn Vietnamese Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27704560-d34391274-Reviews-Ca_M_n_Vietnamese_Restaurant-Ngu_Hanh_Son_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27704560-d34391274-Reviews-Ca_M_n_Vietnamese_Restaurant-Ngu_Hanh_Son_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "83 Phan Tứ, Ngũ Hành Sơn, Đà Nẵng",
+                "addressLocality": "Ngu Hanh Son",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.3,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.046257,
+                "longitude": 108.24543
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/a6/b6/1b/ca-m-n-vietnamese-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_34391274_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Cá Mặn Vietnamese Restaurant",
+            "review_text": "freediveballenaazul\n26 contributions\n0\nA big disappointment...\nMar 2026 • Couples\nWe chose the restaurant because of the good reviews and were very disappointed. The one meal, chicken with chilli, was okay, but just lukewarm. After multiple reminders, the second meal can only take about 20 minutes later, which is not a professional achievement. The fish was then dry, the side dishes cold. Just in passing, it should be noted that the portions are rather small. In view of these shortcomings, the apology and the partial price waiver - after all, something - are not enough to justify a better assessment.\nRead more\nTranslated from German\nShow original\nWritten March 11, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T05:48:55.435741",
+            "restaurant_id": "34391274",
+            "restaurant_name": "Cá Mặn Vietnamese Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27704560-d34391274-Reviews-Ca_M_n_Vietnamese_Restaurant-Ngu_Hanh_Son_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27704560-d34391274-Reviews-Ca_M_n_Vietnamese_Restaurant-Ngu_Hanh_Son_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "83 Phan Tứ, Ngũ Hành Sơn, Đà Nẵng",
+                "addressLocality": "Ngu Hanh Son",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.3,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.046257,
+                "longitude": 108.24543
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/a6/b6/1b/ca-m-n-vietnamese-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_34391274_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Cá Mặn Vietnamese Restaurant",
+            "review_text": "Carol C\n1 contribution\n0\nAuthentic and special.\nFeb 2026 • Couples\nWe have been in Vietnam for a week now and at this lovely restaurant we had the best authentic Vietnamese food yet.\nAll of our dushes were full of flavour - no chillies as requested!!\nThe staff all had a serene manner which helped make this a truly enjoyable and memorable meal. \nThe lanterns were so decorative a added to that aithenticity.\nWe must make a special mention and compliment to Thai. This young man was attentive in a non intrusive way, we loved talking with him and hope in some small way it helped him gain in confidence when speaking English. Good luck for the future Thai.\nRead more\nInsider tip:\nGo there.\nValue\nService\nFood\nAtmosphere\nWritten February 26, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T05:48:55.454986",
+            "restaurant_id": "34391274",
+            "restaurant_name": "Cá Mặn Vietnamese Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27704560-d34391274-Reviews-Ca_M_n_Vietnamese_Restaurant-Ngu_Hanh_Son_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27704560-d34391274-Reviews-Ca_M_n_Vietnamese_Restaurant-Ngu_Hanh_Son_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "83 Phan Tứ, Ngũ Hành Sơn, Đà Nẵng",
+                "addressLocality": "Ngu Hanh Son",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.3,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.046257,
+                "longitude": 108.24543
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/a6/b6/1b/ca-m-n-vietnamese-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_34391274_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at Cá Mặn Vietnamese Restaurant",
+            "review_text": "sodachanh\n13 contributions\n0\nExcellent Vietnamese Cuisine in Da Nang\nJan 2026 • Business\nNGON Da Nang offers a refined Vietnamese dining experience with authentic flavors, fresh ingredients, and elegant presentation. The open-air setting feels relaxed and welcoming, enhanced by genuinely warm, attentive staff who embody true hospitality. A standout choice in the An Thuong area for travelers seeking quality, comfort, and thoughtful service\nInsider tip:\nMust-try dishes include beef phở, bamboo-grilled beef, Da Nang traditional soup, pink-peach wine duck, garlic butter prawns, and banh xeo\nValue\nService\nFood\nAtmosphere\nWritten January 26, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

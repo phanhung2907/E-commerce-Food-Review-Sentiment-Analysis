@@ -1,0 +1,503 @@
+{
+    "restaurant_id": "11955530",
+    "restaurant_name": "Tri Ky Korean Restaurant",
+    "city": "17. Can Tho Restaurants\nSee all 227 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303942-d11955530-Reviews-Tri_Ky_Korean_Restaurant-Can_Tho_Mekong_Delta.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g303942-d11955530-Reviews-Tri_Ky_Korean_Restaurant-Can_Tho_Mekong_Delta.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "21 Le Loi Cai Khe Ward, Ninh Kieu District",
+            "addressLocality": "Can Tho",
+            "addressRegion": "Mekong Delta"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.9,
+            "reviewCount": 15
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.045107,
+            "longitude": 105.789795
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/be/5e/c8/photo-prise-par-guythu.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "17:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "17:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "17:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "17:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "17:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "17:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "17:00:00",
+                "closes": "23:00:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": "N/A",
+        "telephone": "+84 90 714 79 67"
+    },
+    "reviews_count": 3,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T20:08:06.718158",
+            "restaurant_id": "11955530",
+            "restaurant_name": "Tri Ky Korean Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303942-d11955530-Reviews-Tri_Ky_Korean_Restaurant-Can_Tho_Mekong_Delta.html",
+            "city": "17. Can Tho Restaurants\nSee all 227 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303942-d11955530-Reviews-Tri_Ky_Korean_Restaurant-Can_Tho_Mekong_Delta.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "21 Le Loi Cai Khe Ward, Ninh Kieu District",
+                "addressLocality": "Can Tho",
+                "addressRegion": "Mekong Delta"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 15
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.045107,
+                "longitude": 105.789795
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/be/5e/c8/photo-prise-par-guythu.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 90 714 79 67",
+            "review_id": "REV_11955530_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Tri Ky Korean Restaurant",
+            "review_text": "Curious12795896196\n1 contribution\n0\nDining experience\nApr 2024 • Friends\nGreat\nThe food is very delicious, unique, rich and diverse\nThe restaurant space is clean and hygienic\nFree high quality food\nVery happy\nValue\nService\nFood\nAtmosphere\nShow original\nWritten May 18, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T20:08:06.730158",
+            "restaurant_id": "11955530",
+            "restaurant_name": "Tri Ky Korean Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303942-d11955530-Reviews-Tri_Ky_Korean_Restaurant-Can_Tho_Mekong_Delta.html",
+            "city": "17. Can Tho Restaurants\nSee all 227 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303942-d11955530-Reviews-Tri_Ky_Korean_Restaurant-Can_Tho_Mekong_Delta.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "21 Le Loi Cai Khe Ward, Ninh Kieu District",
+                "addressLocality": "Can Tho",
+                "addressRegion": "Mekong Delta"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 15
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.045107,
+                "longitude": 105.789795
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/be/5e/c8/photo-prise-par-guythu.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 90 714 79 67",
+            "review_id": "REV_11955530_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Tri Ky Korean Restaurant",
+            "review_text": "Stay12370810313\n1 contribution\n0\nAre not\nApr 2024 • Friends\nDelicious, airy and clean space, suitable for cozy families and intimate parties to organize face-to-face meetings\nShow original\nWritten April 26, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T20:08:06.743159",
+            "restaurant_id": "11955530",
+            "restaurant_name": "Tri Ky Korean Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303942-d11955530-Reviews-Tri_Ky_Korean_Restaurant-Can_Tho_Mekong_Delta.html",
+            "city": "17. Can Tho Restaurants\nSee all 227 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303942-d11955530-Reviews-Tri_Ky_Korean_Restaurant-Can_Tho_Mekong_Delta.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "21 Le Loi Cai Khe Ward, Ninh Kieu District",
+                "addressLocality": "Can Tho",
+                "addressRegion": "Mekong Delta"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 15
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.045107,
+                "longitude": 105.789795
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/be/5e/c8/photo-prise-par-guythu.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 90 714 79 67",
+            "review_id": "REV_11955530_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Tri Ky Korean Restaurant",
+            "review_text": "jeffrhee\n3 contributions\n0\nOriginal tastes of korean food\nJan 2017 • Family\nFirst Original tastes korean restaurant in cantho especially pork barbecue and beef korean hotpot is delicious also serving kimchi soup and ginseng chiken soup and seaweed rice roll\nWritten January 5, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}
