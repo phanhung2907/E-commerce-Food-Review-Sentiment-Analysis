@@ -1,0 +1,83 @@
+{
+    "restaurant_id": "25076604",
+    "restaurant_name": "Sapa Riverside Restaurant & Cafe",
+    "city": "10. Sapa Restaurants\nSee all 383 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g311304-d25076604-Reviews-Sapa_Riverside_Restaurant_Cafe-Sapa_Lao_Cai_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g311304-d25076604-Reviews-Sapa_Riverside_Restaurant_Cafe-Sapa_Lao_Cai_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Sapa Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 2
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 22.305124,
+            "longitude": 103.888916
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/61/04/0f/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "$$$$",
+        "servesCuisine": [
+            "Bar",
+            "Cafe",
+            "Barbecue",
+            "Vietnamese",
+            "Indigenous"
+        ],
+        "telephone": "+84 349 493 883"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

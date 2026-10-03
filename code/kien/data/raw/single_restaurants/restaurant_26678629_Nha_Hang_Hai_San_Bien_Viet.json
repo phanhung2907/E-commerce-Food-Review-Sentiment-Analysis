@@ -1,0 +1,541 @@
+{
+    "restaurant_id": "26678629",
+    "restaurant_name": "Nha Hang Hai San Bien Viet",
+    "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g15296807-d26678629-Reviews-Nha_Hang_Hai_San_Bien_Viet-My_An_Da_Nang.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g15296807-d26678629-Reviews-Nha_Hang_Hai_San_Bien_Viet-My_An_Da_Nang.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "64 An Thuong 26",
+            "addressLocality": "My An",
+            "postalCode": "550000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 3,
+            "reviewCount": 5
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 16.055397,
+            "longitude": 108.24571
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7a/a7/7e/tom-d-t-rang-mu-i.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:00:00",
+                "closes": "22:30:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Japanese",
+            "Seafood",
+            "Sushi",
+            "European",
+            "Vietnamese"
+        ],
+        "telephone": "+84 92 699 93 36"
+    },
+    "reviews_count": 5,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T01:37:43.437128",
+            "restaurant_id": "26678629",
+            "restaurant_name": "Nha Hang Hai San Bien Viet",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g15296807-d26678629-Reviews-Nha_Hang_Hai_San_Bien_Viet-My_An_Da_Nang.html",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g15296807-d26678629-Reviews-Nha_Hang_Hai_San_Bien_Viet-My_An_Da_Nang.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "64 An Thuong 26",
+                "addressLocality": "My An",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.055397,
+                "longitude": 108.24571
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7a/a7/7e/tom-d-t-rang-mu-i.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Japanese",
+                "Seafood",
+                "Sushi",
+                "European",
+                "Vietnamese"
+            ],
+            "telephone": "+84 92 699 93 36",
+            "review_id": "REV_26678629_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Nha Hang Hai San Bien Viet",
+            "review_text": "Vicki W\n2 contributions\n0\nLovely food\nMay 2026 • Couples\nFood was lovely. Amazing atmosphere. Well worth a visit if you are nearby\nWritten May 8, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T01:37:43.472575",
+            "restaurant_id": "26678629",
+            "restaurant_name": "Nha Hang Hai San Bien Viet",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g15296807-d26678629-Reviews-Nha_Hang_Hai_San_Bien_Viet-My_An_Da_Nang.html",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g15296807-d26678629-Reviews-Nha_Hang_Hai_San_Bien_Viet-My_An_Da_Nang.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "64 An Thuong 26",
+                "addressLocality": "My An",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.055397,
+                "longitude": 108.24571
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7a/a7/7e/tom-d-t-rang-mu-i.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Japanese",
+                "Seafood",
+                "Sushi",
+                "European",
+                "Vietnamese"
+            ],
+            "telephone": "+84 92 699 93 36",
+            "review_id": "REV_26678629_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Nha Hang Hai San Bien Viet",
+            "review_text": "sage walker\nMontana4 contributions\n0\nNice location\nMay 2024 • Couples\nNice location with great view of coast line and beach.\nProbably the prime location added more on pricing of most of seafood menu. The food quality is average.\nValue\nService\nFood\nAtmosphere\nWritten May 6, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T01:37:43.497964",
+            "restaurant_id": "26678629",
+            "restaurant_name": "Nha Hang Hai San Bien Viet",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g15296807-d26678629-Reviews-Nha_Hang_Hai_San_Bien_Viet-My_An_Da_Nang.html",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g15296807-d26678629-Reviews-Nha_Hang_Hai_San_Bien_Viet-My_An_Da_Nang.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "64 An Thuong 26",
+                "addressLocality": "My An",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.055397,
+                "longitude": 108.24571
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7a/a7/7e/tom-d-t-rang-mu-i.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Japanese",
+                "Seafood",
+                "Sushi",
+                "European",
+                "Vietnamese"
+            ],
+            "telephone": "+84 92 699 93 36",
+            "review_id": "REV_26678629_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Nha Hang Hai San Bien Viet",
+            "review_text": "Takumi P\nSakado, Japan2 contributions\n0\nThe food here was incredible for a great price\nApr 2024 • Couples\nIts a good place, with good ambience\nThe taste of food also literally good, light no bold but tastefully\nI would like to recommend this place when come to Da Nang\nWritten April 18, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T01:37:43.517095",
+            "restaurant_id": "26678629",
+            "restaurant_name": "Nha Hang Hai San Bien Viet",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g15296807-d26678629-Reviews-Nha_Hang_Hai_San_Bien_Viet-My_An_Da_Nang.html",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g15296807-d26678629-Reviews-Nha_Hang_Hai_San_Bien_Viet-My_An_Da_Nang.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "64 An Thuong 26",
+                "addressLocality": "My An",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.055397,
+                "longitude": 108.24571
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7a/a7/7e/tom-d-t-rang-mu-i.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Japanese",
+                "Seafood",
+                "Sushi",
+                "European",
+                "Vietnamese"
+            ],
+            "telephone": "+84 92 699 93 36",
+            "review_id": "REV_26678629_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Nha Hang Hai San Bien Viet",
+            "review_text": "Christian B\nHesse, France6 contributions\n0\nAvoid at all costs!\nApr 2024 • Solo\nTerrible experience! They cheat you with the weight and even serve you frozen stuff. They take out the fresh one of the water tank and will serve you frozen food they prepare. The fresh one of the tank they will put back later.\nValue\nService\nFood\nAtmosphere\nWritten April 9, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T01:37:43.529696",
+            "restaurant_id": "26678629",
+            "restaurant_name": "Nha Hang Hai San Bien Viet",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g15296807-d26678629-Reviews-Nha_Hang_Hai_San_Bien_Viet-My_An_Da_Nang.html",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g15296807-d26678629-Reviews-Nha_Hang_Hai_San_Bien_Viet-My_An_Da_Nang.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "64 An Thuong 26",
+                "addressLocality": "My An",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.055397,
+                "longitude": 108.24571
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7a/a7/7e/tom-d-t-rang-mu-i.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Japanese",
+                "Seafood",
+                "Sushi",
+                "European",
+                "Vietnamese"
+            ],
+            "telephone": "+84 92 699 93 36",
+            "review_id": "REV_26678629_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Nha Hang Hai San Bien Viet",
+            "review_text": "Cristina Q\nSheffield, United Kingdom9 contributions\n0\nHorrific seafood\nNov 2023 • Couples\nWe chose this place based on the reviews. Completely disappointed. We had the snails, crab and oysters. The worse seafood I had ever in my entire life, it was tasteless. I had eaten much better seafood in Vietnam paying a third of the price! Staff tried their best to help\nWritten November 10, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

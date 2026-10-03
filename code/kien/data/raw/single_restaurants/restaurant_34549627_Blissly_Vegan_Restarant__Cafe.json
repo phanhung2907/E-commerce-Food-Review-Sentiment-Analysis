@@ -1,0 +1,954 @@
+{
+    "restaurant_id": "34549627",
+    "restaurant_name": "Blissly Vegan Restarant & Cafe",
+    "city": "19. Quy Nhon Restaurants\nSee all 184 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g608528-d34549627-Reviews-Blissly_Vegan_Restarant_Cafe-Quy_Nhon_Binh_Dinh_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g608528-d34549627-Reviews-Blissly_Vegan_Restarant_Cafe-Quy_Nhon_Binh_Dinh_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Quy Nhon Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 6
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 13.767968,
+            "longitude": 109.2305
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5c/56/8a/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "09:00:00",
+                "closes": "14:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "17:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "09:00:00",
+                "closes": "14:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "17:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "09:00:00",
+                "closes": "14:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "17:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "09:00:00",
+                "closes": "14:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "17:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "09:00:00",
+                "closes": "14:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "17:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "09:00:00",
+                "closes": "14:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "17:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "09:00:00",
+                "closes": "14:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "17:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Mexican",
+            "Chinese",
+            "Indian",
+            "Cafe",
+            "International",
+            "Mediterranean",
+            "Asian",
+            "Korean",
+            "Vietnamese",
+            "Healthy",
+            "Arabic"
+        ],
+        "telephone": "+84766522310"
+    },
+    "reviews_count": 6,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T20:23:58.061383",
+            "restaurant_id": "34549627",
+            "restaurant_name": "Blissly Vegan Restarant & Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g608528-d34549627-Reviews-Blissly_Vegan_Restarant_Cafe-Quy_Nhon_Binh_Dinh_Province.html#REVIEWS",
+            "city": "19. Quy Nhon Restaurants\nSee all 184 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g608528-d34549627-Reviews-Blissly_Vegan_Restarant_Cafe-Quy_Nhon_Binh_Dinh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Quy Nhon Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 13.767968,
+                "longitude": 109.2305
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5c/56/8a/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Mexican",
+                "Chinese",
+                "Indian",
+                "Cafe",
+                "International",
+                "Mediterranean",
+                "Asian",
+                "Korean",
+                "Vietnamese",
+                "Healthy",
+                "Arabic"
+            ],
+            "telephone": "+84766522310",
+            "review_id": "REV_34549627_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Blissly Vegan Restarant & Cafe",
+            "review_text": "Claire C\nPalmerston North, New Zealand10 contributions\n0\nI will be going back. It's beautiful 😍\nJul 2026 • Couples\nMy new favourite place!! Ultra comfortable chaire, great service and the mushroom fettuccine was divine.\nWritten July 30, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T20:23:58.072010",
+            "restaurant_id": "34549627",
+            "restaurant_name": "Blissly Vegan Restarant & Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g608528-d34549627-Reviews-Blissly_Vegan_Restarant_Cafe-Quy_Nhon_Binh_Dinh_Province.html#REVIEWS",
+            "city": "19. Quy Nhon Restaurants\nSee all 184 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g608528-d34549627-Reviews-Blissly_Vegan_Restarant_Cafe-Quy_Nhon_Binh_Dinh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Quy Nhon Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 13.767968,
+                "longitude": 109.2305
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5c/56/8a/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Mexican",
+                "Chinese",
+                "Indian",
+                "Cafe",
+                "International",
+                "Mediterranean",
+                "Asian",
+                "Korean",
+                "Vietnamese",
+                "Healthy",
+                "Arabic"
+            ],
+            "telephone": "+84766522310",
+            "review_id": "REV_34549627_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Blissly Vegan Restarant & Cafe",
+            "review_text": "Nguyen N\n1 contribution\n0\nMust try in Quy Nhon\nJul 2026 • Friends\nI have been eating here for most of my vacation, lovely staffs, nice views and delicious foods, wishing you great success and prosperity\nWritten July 26, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T20:23:58.086009",
+            "restaurant_id": "34549627",
+            "restaurant_name": "Blissly Vegan Restarant & Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g608528-d34549627-Reviews-Blissly_Vegan_Restarant_Cafe-Quy_Nhon_Binh_Dinh_Province.html#REVIEWS",
+            "city": "19. Quy Nhon Restaurants\nSee all 184 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g608528-d34549627-Reviews-Blissly_Vegan_Restarant_Cafe-Quy_Nhon_Binh_Dinh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Quy Nhon Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 13.767968,
+                "longitude": 109.2305
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5c/56/8a/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Mexican",
+                "Chinese",
+                "Indian",
+                "Cafe",
+                "International",
+                "Mediterranean",
+                "Asian",
+                "Korean",
+                "Vietnamese",
+                "Healthy",
+                "Arabic"
+            ],
+            "telephone": "+84766522310",
+            "review_id": "REV_34549627_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Blissly Vegan Restarant & Cafe",
+            "review_text": "Lucie G\nValletta, Malta30 contributions\n0\nGreat food and views\nJul 2026 • Friends\nReally great spot, excellent vegan / veggie menu, dosa as good as any you'd find in India, lovely staff and beach view, thanks guys!\nWritten July 24, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T20:23:58.103011",
+            "restaurant_id": "34549627",
+            "restaurant_name": "Blissly Vegan Restarant & Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g608528-d34549627-Reviews-Blissly_Vegan_Restarant_Cafe-Quy_Nhon_Binh_Dinh_Province.html#REVIEWS",
+            "city": "19. Quy Nhon Restaurants\nSee all 184 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g608528-d34549627-Reviews-Blissly_Vegan_Restarant_Cafe-Quy_Nhon_Binh_Dinh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Quy Nhon Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 13.767968,
+                "longitude": 109.2305
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5c/56/8a/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Mexican",
+                "Chinese",
+                "Indian",
+                "Cafe",
+                "International",
+                "Mediterranean",
+                "Asian",
+                "Korean",
+                "Vietnamese",
+                "Healthy",
+                "Arabic"
+            ],
+            "telephone": "+84766522310",
+            "review_id": "REV_34549627_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Blissly Vegan Restarant & Cafe",
+            "review_text": "Thị Tường An Đ\n1 contribution\n0\nI had a wonderful lunch.\nJul 2026 • Friends\nThe restaurant is near the beach. The food was fresh and delicious, and I didn't have to wait long for my meal. The staff were friendly, and the prices were reasonable. I really enjoyed my visit and would recommend this restaurant.\nWritten July 24, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T20:23:58.119010",
+            "restaurant_id": "34549627",
+            "restaurant_name": "Blissly Vegan Restarant & Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g608528-d34549627-Reviews-Blissly_Vegan_Restarant_Cafe-Quy_Nhon_Binh_Dinh_Province.html#REVIEWS",
+            "city": "19. Quy Nhon Restaurants\nSee all 184 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g608528-d34549627-Reviews-Blissly_Vegan_Restarant_Cafe-Quy_Nhon_Binh_Dinh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Quy Nhon Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 13.767968,
+                "longitude": 109.2305
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5c/56/8a/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Mexican",
+                "Chinese",
+                "Indian",
+                "Cafe",
+                "International",
+                "Mediterranean",
+                "Asian",
+                "Korean",
+                "Vietnamese",
+                "Healthy",
+                "Arabic"
+            ],
+            "telephone": "+84766522310",
+            "review_id": "REV_34549627_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Blissly Vegan Restarant & Cafe",
+            "review_text": "Mia J\n2 contributions\n0\nFlavour explosion\nJul 2026 • Friends\nI got the masala dosa and the morning glory, both dishes were delicious!!\nWritten July 23, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T20:23:58.158546",
+            "restaurant_id": "34549627",
+            "restaurant_name": "Blissly Vegan Restarant & Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g608528-d34549627-Reviews-Blissly_Vegan_Restarant_Cafe-Quy_Nhon_Binh_Dinh_Province.html#REVIEWS",
+            "city": "19. Quy Nhon Restaurants\nSee all 184 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g608528-d34549627-Reviews-Blissly_Vegan_Restarant_Cafe-Quy_Nhon_Binh_Dinh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Quy Nhon Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 13.767968,
+                "longitude": 109.2305
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5c/56/8a/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Mexican",
+                "Chinese",
+                "Indian",
+                "Cafe",
+                "International",
+                "Mediterranean",
+                "Asian",
+                "Korean",
+                "Vietnamese",
+                "Healthy",
+                "Arabic"
+            ],
+            "telephone": "+84766522310",
+            "review_id": "REV_34549627_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at Blissly Vegan Restarant & Cafe",
+            "review_text": "Judy H\nSihanoukville, Cambodia3 contributions\n0\nGreat experience\nJul 2026 • Couples\nWe just tried Blissly Vegan Restaurant & Cafe for the first time and we're so happy. The tacos and burrito bowl were fantastic and the menu is very diverse. Such a great option to have and the view of the ocean is beautiful.\nWritten July 22, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

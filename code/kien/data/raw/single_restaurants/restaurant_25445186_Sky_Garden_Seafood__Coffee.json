@@ -1,0 +1,632 @@
+{
+    "restaurant_id": "25445186",
+    "restaurant_name": "Sky Garden Seafood & Coffee",
+    "city": "14. Vung Tau Restaurants\nSee all 295 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d25445186-Reviews-Sky_Garden_Seafood_Coffee-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d25445186-Reviews-Sky_Garden_Seafood_Coffee-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "69-69A Thùy Vân Phường 2",
+            "addressLocality": "Vung Tau",
+            "postalCode": "78000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.8,
+            "reviewCount": 115
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.33225,
+            "longitude": 107.08897
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/bc/ba/04/ti-c-buffet-bbq-da-d.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Seafood",
+            "Barbecue",
+            "Asian",
+            "Grill",
+            "Vietnamese"
+        ],
+        "telephone": "+84 254 6506 666"
+    },
+    "reviews_count": 6,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:39:41.200694",
+            "restaurant_id": "25445186",
+            "restaurant_name": "Sky Garden Seafood & Coffee",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d25445186-Reviews-Sky_Garden_Seafood_Coffee-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "14. Vung Tau Restaurants\nSee all 295 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d25445186-Reviews-Sky_Garden_Seafood_Coffee-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "69-69A Thùy Vân Phường 2",
+                "addressLocality": "Vung Tau",
+                "postalCode": "78000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 115
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.33225,
+                "longitude": 107.08897
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/bc/ba/04/ti-c-buffet-bbq-da-d.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "Asian",
+                "Grill",
+                "Vietnamese"
+            ],
+            "telephone": "+84 254 6506 666",
+            "review_id": "REV_25445186_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Sky Garden Seafood & Coffee",
+            "review_text": "Garry H\n27 contributions\n0\nBest avoided\nDec 2024 • Couples\nWe had to pay before entering. BIG mistake. If you do decide to eat here would recommend you insist on viewing the buffet before paying - you WILL be disappointed.\nSeafood NOT fresh. Chicken dried out. Noodles okay, fruit okay.\nLocation and roof top view was great, We visited on Xmas Eve with just one other couple in the restaurant. So much dried out food going to waste - or perhaps will be reserved tomorrow \nBest avoid.\nRead more\nWritten December 25, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:39:41.212709",
+            "restaurant_id": "25445186",
+            "restaurant_name": "Sky Garden Seafood & Coffee",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d25445186-Reviews-Sky_Garden_Seafood_Coffee-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "14. Vung Tau Restaurants\nSee all 295 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d25445186-Reviews-Sky_Garden_Seafood_Coffee-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "69-69A Thùy Vân Phường 2",
+                "addressLocality": "Vung Tau",
+                "postalCode": "78000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 115
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.33225,
+                "longitude": 107.08897
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/bc/ba/04/ti-c-buffet-bbq-da-d.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "Asian",
+                "Grill",
+                "Vietnamese"
+            ],
+            "telephone": "+84 254 6506 666",
+            "review_id": "REV_25445186_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Sky Garden Seafood & Coffee",
+            "review_text": "Max\nMoscow, Russia6 contributions\n0\nSucks\nJun 2024 • Couples\nThe food is disgusting. It's like it was prepared a week ago. The staff is disgusting. Watches movies instead of working. The price tag... would be something to pay for.\nShow original\nWritten June 10, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:39:41.223358",
+            "restaurant_id": "25445186",
+            "restaurant_name": "Sky Garden Seafood & Coffee",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d25445186-Reviews-Sky_Garden_Seafood_Coffee-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "14. Vung Tau Restaurants\nSee all 295 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d25445186-Reviews-Sky_Garden_Seafood_Coffee-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "69-69A Thùy Vân Phường 2",
+                "addressLocality": "Vung Tau",
+                "postalCode": "78000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 115
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.33225,
+                "longitude": 107.08897
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/bc/ba/04/ti-c-buffet-bbq-da-d.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "Asian",
+                "Grill",
+                "Vietnamese"
+            ],
+            "telephone": "+84 254 6506 666",
+            "review_id": "REV_25445186_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Sky Garden Seafood & Coffee",
+            "review_text": "Ben L\n65 contributions\n0\nVery good but a bit overrated\nApr 2024 • Couples\nVery good but a bit overrated.\nThe place is awesome and the food is very good, but there are not so many differents choices, especially for seafood. \nBut this is a buffet and you can eat as much as you want.\nWritten April 29, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:39:41.239865",
+            "restaurant_id": "25445186",
+            "restaurant_name": "Sky Garden Seafood & Coffee",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d25445186-Reviews-Sky_Garden_Seafood_Coffee-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "14. Vung Tau Restaurants\nSee all 295 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d25445186-Reviews-Sky_Garden_Seafood_Coffee-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "69-69A Thùy Vân Phường 2",
+                "addressLocality": "Vung Tau",
+                "postalCode": "78000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 115
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.33225,
+                "longitude": 107.08897
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/bc/ba/04/ti-c-buffet-bbq-da-d.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "Asian",
+                "Grill",
+                "Vietnamese"
+            ],
+            "telephone": "+84 254 6506 666",
+            "review_id": "REV_25445186_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Sky Garden Seafood & Coffee",
+            "review_text": "Navigator22056379150\n2 contributions\n0\nThe evening buffet was disappointing\nNov 2023 • Family\nWe paid just under 1,100,000vnd for the evening buffet, the quality was not at all as recommended on tripadvisor and the pictures do not match the reality.\nBeverages do not match the food. There was water and 2 types of juice which taste nothing. Paid about 100,000 vnd extra for drinks.\nValue\nService\nFood\nAtmosphere\nShow original\nWritten November 25, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:39:41.255899",
+            "restaurant_id": "25445186",
+            "restaurant_name": "Sky Garden Seafood & Coffee",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d25445186-Reviews-Sky_Garden_Seafood_Coffee-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "14. Vung Tau Restaurants\nSee all 295 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d25445186-Reviews-Sky_Garden_Seafood_Coffee-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "69-69A Thùy Vân Phường 2",
+                "addressLocality": "Vung Tau",
+                "postalCode": "78000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 115
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.33225,
+                "longitude": 107.08897
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/bc/ba/04/ti-c-buffet-bbq-da-d.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "Asian",
+                "Grill",
+                "Vietnamese"
+            ],
+            "telephone": "+84 254 6506 666",
+            "review_id": "REV_25445186_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Sky Garden Seafood & Coffee",
+            "review_text": "Anh T\n7 contributions\n0\nGood place\nJul 2023 • Business\n- Properties: everything is good (position is in the center so just across the street you can go to the beach. Good buffet. Nice decoration. Fast service)\n- Room is clean when check in \n- Cleaner: Well, Thanh Phuong and Huong Lan are assigned to clean the room but no sweeping or hoovering, no cleaning the tables. All tables are dusty even though I am staying in the room and I pick the trash with them.\nRead more\nWritten July 25, 2023\nPremier Pearl Hotel Vung Tau\nKính chào Anh T,\n\nSky Garden Seafood & Coffee xin gửi lời chào trân trọng tới Quý Khách,\nCám ơn Quý Khách đã tin tưởng và lựa chọn sử dụng dịch vụ của Sky Garden Seafood & Coffee\n\nTập thể nhân viên chân thành cảm ơn Quý Khách đã nhớ đến tên nhân viên và có những bình luận đánh giá tích cực .\n\nSky Garden Seafood & Coffee sẽ luôn ghi nhận và nỗ lực để đem đến trải nghiệm tuyệt vời nhất cho Quý Khách.\n\nSky Garden Seafood & Coffee mong được chào đón Quý Khách một lần nữa trong thời gian không xa.\n\nTrân Trọng,\nTrần Hồng Phúc\nTrưởng Bộ Phận Lễ Tân - Premier Pearl Hotel Vung Tau\nRead more\nWritten July 25, 2023\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:39:41.269903",
+            "restaurant_id": "25445186",
+            "restaurant_name": "Sky Garden Seafood & Coffee",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d25445186-Reviews-Sky_Garden_Seafood_Coffee-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "14. Vung Tau Restaurants\nSee all 295 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d25445186-Reviews-Sky_Garden_Seafood_Coffee-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "69-69A Thùy Vân Phường 2",
+                "addressLocality": "Vung Tau",
+                "postalCode": "78000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 115
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.33225,
+                "longitude": 107.08897
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/bc/ba/04/ti-c-buffet-bbq-da-d.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "Asian",
+                "Grill",
+                "Vietnamese"
+            ],
+            "telephone": "+84 254 6506 666",
+            "review_id": "REV_25445186_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at Sky Garden Seafood & Coffee",
+            "review_text": "Jet01182709244\n2 contributions\n0\nView dep\nJul 2023 • Family\nKhach san view dep tren sky nnhin xuong view rat dep cac mon an ngon mieng hai san tuoi song cac mon cocktail cac loai nhan vien nhiet tinh co ban nhan vien hk ten phuong da gioi thieu\nWritten July 11, 2023\nPremier Pearl Hotel Vung Tau\nKính chào Jet01182709244,\n\nSky Garden Seafood & Coffee xin gửi lời chào trân trọng tới Quý Khách,\nCám ơn Quý Khách đã tin tưởng và lựa chọn sử dụng dịch vụ của Sky Garden Seafood & Coffee\n\nTập thể nhân viên chân thành cảm ơn Quý Khách đã nhớ đến tên nhân viên và có những bình luận đánh giá tích cực .\n\nSky Garden Seafood & Coffee sẽ luôn ghi nhận và nỗ lực để đem đến trải nghiệm tuyệt vời nhất cho Quý Khách.\n\nSky Garden Seafood & Coffee mong được chào đón Quý Khách một lần nữa trong thời gian không xa.\n\nTrân Trọng,\nTrần Hồng Phúc\nTrưởng Bộ Phận Lễ Tân - Premier Pearl Hotel Vung Tau\nRead more\nWritten July 12, 2023\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

@@ -1,223 +1,469 @@
+from datetime import datetime
 import json
 import os
 import random
 import re
 import time
-from datetime import datetime
 import undetected_chromedriver as uc
+from minio import Minio
 from selenium.webdriver.common.by import By
 
-def extract_json_ld_features(driver):
-    schema_data = {
-        "@id": "N/A", "address": "N/A",
-        "aggregateRating": {"ratingValue": "N/A", "reviewCount": "N/A"},
-        "geo": {"latitude": "N/A", "longitude": "N/A"},
-        "image": "N/A", "openingHoursSpecification": "N/A",
-        "priceRange": "N/A", "servesCuisine": "N/A", "telephone": "N/A"
-    }
-    try:
-        scripts = driver.find_elements(By.CSS_SELECTOR, "script[type='application/ld+json']")
-        for s in scripts:
-            try:
-                content = json.loads(s.get_attribute("innerHtml") or s.get_attribute("textContent"))
-                items = content.get("@graph", [content]) if isinstance(content, dict) else content
-                if isinstance(items, list):
-                    for item in items:
-                        if isinstance(item, dict):
-                            t = item.get("@type", "")
-                            if "FoodEstablishment" in t or "Restaurant" in t or item.get("name"):
-                                for key in schema_data.keys():
-                                    if item.get(key): schema_data[key] = item.get(key)
-            except:
-                continue
-    except:
-        pass
-    return schema_data
+TRACKING_FILE_NAME = "crawled_restaurants.json"
 
-def discover_restaurant_urls(driver, city_listing_url, max_pages=8):
-    restaurant_links = set()
-    print(f"\n[Giai đoạn 1] Đang quét danh mục từ: {city_listing_url}")
-    
-    for page in range(max_pages):
-        current_url = city_listing_url if page == 0 else f"{city_listing_url}#oa{page * 30}"
-        driver.get(current_url)
-        time.sleep(random.uniform(4.0, 7.0))
-        
-        for _ in range(4):
-            driver.execute_script("window.scrollBy(0, 1000);")
-            time.sleep(random.uniform(1.2, 2.0))
-            
-        link_elems = driver.find_elements(By.CSS_SELECTOR, "a[href*='Restaurant_Review']")
-        for elem in link_elems:
-            href = elem.get_attribute("href")
-            if href and "Reviews-" in href:
-                restaurant_links.add(href)
-                
-        print(f"-> Trang danh mục {page + 1}: Tích lũy được {len(restaurant_links)} URL nhà hàng.")
-        
-    return list(restaurant_links)
+# ==========================================
+# CƠ CHẾ 1: KẾT NỐI MINIO DATA LAKE
+# ==========================================
+minio_client = Minio(
+    "localhost:9000", access_key="minioadmin", secret_key="minioadmin", secure=False
+)
+MINIO_BUCKET = "tripadvisor-raw-data"
+
+if not minio_client.bucket_exists(MINIO_BUCKET):
+  minio_client.make_bucket(MINIO_BUCKET)
+
+
+def load_crawled_urls(output_dir):
+  tracking_path = os.path.join(output_dir, TRACKING_FILE_NAME)
+  if os.path.exists(tracking_path):
+    try:
+      with open(tracking_path, "r", encoding="utf-8") as f:
+        return set(json.load(f))
+    except:
+      return set()
+  return set()
+
+
+def save_crawled_url(output_dir, restaurant_id):
+  # ==========================================
+  # CƠ CHẾ 2: CHECKPOINT THEO RESTAURANT ID
+  # ==========================================
+  tracking_path = os.path.join(output_dir, TRACKING_FILE_NAME)
+  crawled_set = load_crawled_urls(output_dir)
+  crawled_set.add(str(restaurant_id))
+  with open(tracking_path, "w", encoding="utf-8") as f:
+    json.dump(list(crawled_set), f, ensure_ascii=False, indent=4)
+
+
+def extract_json_ld_features(driver):
+  # ==========================================
+  # CƠ CHẾ 3: TRÍCH XUẤT THÔNG TIN CHUẨN SEO (JSON-LD)
+  # ==========================================
+  schema_data = {
+      "@id": "N/A",
+      "address": "N/A",
+      "aggregateRating": {"ratingValue": "N/A", "reviewCount": "N/A"},
+      "geo": {"latitude": "N/A", "longitude": "N/A"},
+      "image": "N/A",
+      "openingHoursSpecification": "N/A",
+      "priceRange": "N/A",
+      "servesCuisine": "N/A",
+      "telephone": "N/A",
+  }
+  try:
+    scripts = driver.find_elements(
+        By.CSS_SELECTOR, "script[type='application/ld+json']"
+    )
+    for s in scripts:
+      try:
+        content = json.loads(
+            s.get_attribute("innerHtml") or s.get_attribute("textContent")
+        )
+        items = (
+            content.get("@graph", [content])
+            if isinstance(content, dict)
+            else content
+        )
+        if isinstance(items, list):
+          for item in items:
+            if isinstance(item, dict):
+              t = item.get("@type", "")
+              if (
+                  "FoodEstablishment" in t
+                  or "Restaurant" in t
+                  or item.get("name")
+              ):
+                for key in schema_data.keys():
+                  if item.get(key):
+                    schema_data[key] = item.get(key)
+      except:
+        continue
+  except:
+    pass
+  return schema_data
+
+
+def discover_all_cities_automatically(driver, root_country_url):
+  # ==========================================
+  # CƠ CHẾ 4: FULL DYNAMIC LOCATION DISCOVERY
+  # ==========================================
+  print(
+      "[Dynamic Discovery] Đang tự động quét toàn bộ khu vực/tỉnh thành từ:"
+      f" {root_country_url}"
+  )
+  driver.get(root_country_url)
+
+  # [GIẢI THÍCH]: Chờ 10 - 15 giây để trang quốc gia tải hoàn toàn HTML và các script ngầm.
+  # Tránh việc vừa mở trang đã thao tác ngay lập tức sẽ bị hệ thống anti-bot phát hiện.
+  time.sleep(random.uniform(10.0, 15.0))
+
+  try:
+    see_all_buttons = driver.find_elements(
+        By.XPATH,
+        "//span[contains(text(), 'Xem tất') or contains(text(), 'See all')]"
+        " | //button[contains(text(), 'See all')]",
+    )
+    for btn in see_all_buttons:
+      try:
+        driver.execute_script("arguments[0].scrollIntoView(true);", btn)
+
+        # [GIẢI THÍCH]: Dừng 2 giây sau khi cuộn tới nút "Xem tất cả" để giả lập mắt người nhìn thấy nút.
+        time.sleep(2.0)
+        btn.click()
+        print(
+            "[Dynamic Discovery] Đã mở rộng toàn bộ danh sách khu vực thành"
+            " công."
+        )
+
+        # [GIẢI THÍCH]: Chờ 5 giây sau khi click mở rộng để các khối danh sách thành phố mới kịp render ra giao diện.
+        time.sleep(5.0)
+        break
+      except:
+        continue
+  except:
+    pass
+
+  # Vòng lặp cuộn trang tự động để kích hoạt Lazy Load dữ liệu các tỉnh thành phía dưới
+  for _ in range(6):
+    driver.execute_script("window.scrollBy(0, 1000);")
+
+    # [GIẢI THÍCH]: Dừng 2.5 giây giữa mỗi nhịp cuộn trang xuống, giúp trình duyệt kịp load ảnh và các thành phần DOM.
+    time.sleep(2.5)
+
+  city_links = []
+  seen_urls = set()
+
+  elements = driver.find_elements(By.CSS_SELECTOR, "a[href*='Restaurants-g']")
+  for elem in elements:
+    href = elem.get_attribute("href")
+    text = elem.text.strip()
+    if href and "Restaurants-" in href and href not in seen_urls:
+      seen_urls.add(href)
+      city_links.append(
+          {"city": text if text else "Unknown_Region", "url": href}
+      )
+
+  print(
+      f"[SUCCESS] Tự động phát hiện hoàn toàn {len(city_links)} khu vực/tỉnh"
+      " thành tại Việt Nam."
+  )
+  return city_links
+
+
+def discover_restaurant_urls(driver, city_listing_url):
+  # ==========================================
+  # CƠ CHẾ DYNAMIC PAGINATION (CHỜ AN TOÀN)
+  # ==========================================
+  restaurant_links = set()
+  print(f"\n[Category Scan] Quét toàn bộ danh mục từ: {city_listing_url}")
+
+  driver.get(city_listing_url)
+
+  # [GIẢI THÍCH]: Chờ 8 - 12 giây khi vừa mở trang danh mục của một thành phố mới (ví dụ TP.HCM, Hà Nội).
+  time.sleep(random.uniform(8.0, 12.0))
+
+  page = 0
+  while True:
+    page += 1
+    print(f" -> Đang quét trang danh mục thứ {page}...")
+
+    # Cuộn trang từ từ để load hết danh sách nhà hàng trong trang hiện tại
+    for _ in range(3):
+      driver.execute_script("window.scrollBy(0, 1000);")
+
+      # [GIẢI THÍCH]: Dừng 2 giây giữa các nhịp cuộn trong trang danh mục.
+      time.sleep(2.0)
+
+    link_elems = driver.find_elements(
+        By.CSS_SELECTOR, "a[href*='Restaurant_Review']"
+    )
+    found_on_page = 0
+    for elem in link_elems:
+      href = elem.get_attribute("href")
+      if href and "Reviews-" in href and href not in restaurant_links:
+        restaurant_links.add(href)
+        found_on_page += 1
+
+    print(f"    + Tìm thấy thêm {found_on_page} nhà hàng ở trang này.")
+
+    try:
+      next_btns = driver.find_elements(
+          By.CSS_SELECTOR,
+          (
+              "a.nav.next:not(.disabled),"
+              " [data-test-target='pagination-next']:not(.disabled)"
+          ),
+      )
+      if not next_btns:
+        next_btns = driver.find_elements(
+            By.XPATH,
+            "//a[contains(@class, 'next') or contains(@aria-label, 'Next page')"
+            " or contains(text(), 'Next')]",
+        )
+
+      if next_btns:
+        next_btn = next_btns[0]
+        class_attr = next_btn.get_attribute("class") or ""
+        aria_disabled = next_btn.get_attribute("aria-disabled") or ""
+
+        if "disabled" in class_attr or aria_disabled == "true":
+          print(f" -> Đã quét đến trang cuối cùng của khu vực này.")
+          break
+
+        driver.execute_script("arguments[0].scrollIntoView(true);", next_btn)
+
+        # [GIẢI THÍCH]: Dừng 2 giây sau khi cuộn tới nút "Next" trước khi thực hiện hành động click chuyển trang.
+        time.sleep(2.0)
+        next_btn.click()
+
+        # [GIẢI THÍCH]: Chờ 8 - 12 giây để trang danh mục tiếp theo load xong dữ liệu hoàn toàn.
+        time.sleep(random.uniform(8.0, 12.0))
+      else:
+        print(f" -> Không tìm thấy nút Next, kết thúc quét khu vực này.")
+        break
+    except Exception as e:
+      print(f" -> Đã hoàn tất phân trang khu vực này.")
+      break
+
+  print(
+      f"-> Tổng kết: Thu thập được {len(restaurant_links)} URL nhà hàng độc"
+      " nhất từ khu vực này."
+  )
+  return list(restaurant_links)
+
 
 def extract_full_features_from_restaurant(driver, target_url, city):
-    match_id = re.search(r'-d(\d+)-', target_url)
-    restaurant_id = match_id.group(1) if match_id else "000000"
-    
-    schema_info = extract_json_ld_features(driver)
-    
-    restaurant_name = "N/A"
-    try:
-        h1 = driver.find_element(By.TAG_NAME, "h1")
-        if h1.text.strip(): restaurant_name = h1.text.strip()
-    except: pass
+  match_id = re.search(r"-d(\d+)-", target_url)
+  restaurant_id = match_id.group(1) if match_id else "000000"
 
-    print(f"\n---> Đang cào nhà hàng: {restaurant_name} ({city})")
+  schema_info = extract_json_ld_features(driver)
 
-    restaurant_reviews = []
-    page_num = 1
-    max_pages_per_restaurant = 5
+  restaurant_name = "N/A"
+  try:
+    h1 = driver.find_element(By.TAG_NAME, "h1")
+    if h1.text.strip():
+      restaurant_name = h1.text.strip()
+  except:
+    pass
 
-    while page_num <= max_pages_per_restaurant:
-        for _ in range(3):
-            driver.execute_script("window.scrollBy(0, 1000);")
-            time.sleep(random.uniform(1.2, 2.2))
+  print(f"Đang cào dữ liệu nhà hàng: {restaurant_name} ({city})")
 
-        review_containers = driver.find_elements(By.CSS_SELECTOR, "div.cWokd, div.box-card, div.review-container, div[data-automation='reviewCard']")
-        if not review_containers:
-            review_containers = driver.find_elements(By.TAG_NAME, "article")
+  restaurant_reviews = []
+  page_num = 1
+  max_pages_per_restaurant = 10
 
-        count_added = 0
-        for index, container in enumerate(review_containers):
-            try:
-                full_card_text = container.text.strip()
-                if not full_card_text or len(full_card_text) < 40:
-                    continue
-                if any(bad in full_card_text for bad in ["TripAdvisor LLC", "Cookie Policy", "Privacy Policy"]):
-                    continue
+  while page_num <= max_pages_per_restaurant:
+    # Cuộn trang bên trong trang chi tiết nhà hàng để nạp các review ẩn (Lazy load review)
+    for _ in range(2):
+      driver.execute_script("window.scrollBy(0, 800);")
 
-                review_id = f"REV_{restaurant_id}_p{page_num}_{index}"
+      # [GIẢI THÍCH]: Dừng 2.5 - 4 giây giữa các nhịp cuộn trang đọc review, giả lập hành vi người dùng đang cuộn đọc nội dung.
+      time.sleep(random.uniform(2.5, 4.0))
 
-                record = {
-                    "source": "TripAdvisor",
-                    "crawl_timestamp": datetime.now().isoformat(),
-                    "restaurant_id": restaurant_id,
-                    "restaurant_name": restaurant_name,
-                    "restaurant_url": target_url,
-                    "city": city,
-                    "@id": schema_info["@id"],
-                    "address": schema_info["address"],
-                    "aggregateRating": schema_info["aggregateRating"],
-                    "geo": schema_info["geo"],
-                    "image": schema_info["image"],
-                    "openingHoursSpecification": schema_info["openingHoursSpecification"],
-                    "priceRange": schema_info["priceRange"],
-                    "servesCuisine": schema_info["servesCuisine"],
-                    "telephone": schema_info["telephone"],
-                    "review_id": review_id,
-                    "reviewer_id": f"User_p{page_num}_{index}",
-                    "review_title": f"Review at {restaurant_name}",
-                    "review_text": full_card_text,
-                    "rating": 5.0,
-                    "review_date": datetime.now().strftime("%Y-%m-%d"),
-                    "travel_date": "Recent",
-                    "feature_depth_status": "Schema-Full-Features-Validated"
-                }
-                
-                if record not in restaurant_reviews:
-                    restaurant_reviews.append(record)
-                    count_added += 1
-            except:
-                pass
+    review_containers = driver.find_elements(
+        By.CSS_SELECTOR,
+        (
+            "div.cWokd, div.box-card, div.review-container,"
+            " div[data-automation='reviewCard']"
+        ),
+    )
+    if not review_containers:
+      review_containers = driver.find_elements(By.TAG_NAME, "article")
 
-        print(f"   -> Trang review {page_num}: Thu thập được {count_added} bản ghi.")
+    for index, container in enumerate(review_containers):
+      try:
+        full_card_text = container.text.strip()
+        if not full_card_text or len(full_card_text) < 30:
+          continue
+        if any(
+            bad in full_card_text
+            for bad in ["TripAdvisor LLC", "Cookie Policy", "Privacy Policy"]
+        ):
+          continue
 
-        try:
-            next_btn = driver.find_element(By.CSS_SELECTOR, "a.nav.next:not(.disabled), [data-test-target='pagination-next']:not(.disabled)")
-            if next_btn:
-                driver.execute_script("arguments[0].scrollIntoView(true);", next_btn)
-                time.sleep(1)
-                next_btn.click()
-                page_num += 1
-                time.sleep(random.uniform(3.5, 6.0))
-            else:
-                break
-        except:
-            break
-
-    return restaurant_reviews
-
-def run_mass_scale_pipeline():
-    output_dir = "code/kien/data/raw"
-    os.makedirs(output_dir, exist_ok=True)
-    output_file = os.path.join(output_dir, f"tripadvisor_mass_schema_features_2026-09-27.json")
-    
-    # Tính năng thông minh: Nếu file cũ đã tồn tại, tự động nạp lại dữ liệu cũ để chạy tiếp
-    all_dataset = []
-    if os.path.exists(output_file):
-        try:
-            with open(output_file, "r", encoding="utf-8") as f:
-                all_dataset = json.load(f)
-            print(f"📂 Đã tìm thấy file cũ! Tự động khôi phục {len(all_dataset)} bản ghi đã cào trước đó.")
-        except:
-            pass
-
-    options = uc.ChromeOptions()
-    options.add_argument("--start-maximized")
-    
-    print("Đang khởi động hệ thống Mass-Scale Crawler (Chế độ chạy tiếp tục / Resume Mode)...")
-    driver = uc.Chrome(options=options, version_main=153)
-    
-    TARGET_LIMIT = 10000
+        review_id = f"REV_{restaurant_id}_p{page_num}_{index}"
+        record = {
+            "source": "TripAdvisor",
+            "crawl_timestamp": datetime.now().isoformat(),
+            "restaurant_id": restaurant_id,
+            "restaurant_name": restaurant_name,
+            "restaurant_url": target_url,
+            "city": city,
+            "@id": schema_info["@id"],
+            "address": schema_info["address"],
+            "aggregateRating": schema_info["aggregateRating"],
+            "geo": schema_info["geo"],
+            "image": schema_info["image"],
+            "openingHoursSpecification": schema_info[
+                "openingHoursSpecification"
+            ],
+            "priceRange": schema_info["priceRange"],
+            "servesCuisine": schema_info["servesCuisine"],
+            "telephone": schema_info["telephone"],
+            "review_id": review_id,
+            "reviewer_id": f"User_p{page_num}_{index}",
+            "review_title": f"Review at {restaurant_name}",
+            "review_text": full_card_text,
+            "rating": 5.0,
+            "review_date": datetime.now().strftime("%Y-%m-%d"),
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated",
+        }
+        if record not in restaurant_reviews:
+          restaurant_reviews.append(record)
+      except:
+        pass
 
     try:
-        city_listings = [
-            {"city": "Ho Chi Minh City", "url": "https://www.tripadvisor.com/Restaurants-g293925-Ho_Chi_Minh_City.html"},
-            {"city": "Hanoi", "url": "https://www.tripadvisor.com/Restaurants-g293919-Hanoi.html"},
-            {"city": "Da Nang", "url": "https://www.tripadvisor.com/Restaurants-g298085-Da_Nang.html"},
-            {"city": "Hoi An", "url": "https://www.tripadvisor.com/Restaurants-g298082-Hoi_An_Quang_Nam_Province.html"},
-            {"city": "Nha Trang", "url": "https://www.tripadvisor.com/Restaurants-g293928-Nha_Trang_Khanh_Hoa_Province.html"},
-            {"city": "Da Lat", "url": "https://www.tripadvisor.com/Restaurants-g303945-Da_Lat_Lam_Dong_Province.html"},
-            {"city": "Phu Quoc", "url": "https://www.tripadvisor.com/Restaurants-g469421-Phu_Quoc_Island_Kien_Giang_Province.html"},
-            {"city": "Vung Tau", "url": "https://www.tripadvisor.com/Restaurants-g303944-Vung_Tau_Ba_Ria_Vung_Tau_Province.html"}
-        ]
+      next_btn = driver.find_element(
+          By.CSS_SELECTOR,
+          (
+              "a.nav.next:not(.disabled),"
+              " [data-test-target='pagination-next']:not(.disabled)"
+          ),
+      )
+      if next_btn:
+        driver.execute_script("arguments[0].scrollIntoView(true);", next_btn)
 
-        target_restaurants = []
-        for listing in city_listings:
-            urls = discover_restaurant_urls(driver, listing["url"], max_pages=5)
-            for u in urls:
-                target_restaurants.append({"url": u, "city": listing["city"]})
+        # [GIẢI THÍCH]: Dừng 2 giây sau khi cuộn tới nút Next của trang review.
+        time.sleep(2.0)
+        next_btn.click()
+        page_num += 1
 
-        print(f"\n[Giai đoạn 2] Tổng hợp được {len(target_restaurants)} nhà hàng. Tiếp tục tiến trình cào...")
+        # [GIẢI THÍCH]: Chờ 8 - 12 giây để trang review tiếp theo của nhà hàng tải xong.
+        time.sleep(random.uniform(8.0, 12.0))
+      else:
+        break
+    except:
+      break
 
-        # Lọc ra các URL nhà hàng đã có trong dữ liệu cũ để tránh cào trùng lặp
-        existing_urls = {item.get("restaurant_url") for item in all_dataset}
+  # ==========================================
+  # CƠ CHẾ 5: LƯU TRỮ KÉP (LOCAL VS CODE + MINIO)
+  # ==========================================
+  try:
+    safe_name = (
+        "".join(
+            c for c in restaurant_name if c.isalnum() or c in (" ", "_", "-")
+        )
+        .strip()
+        .replace(" ", "_")
+    )
+    file_name = f"restaurant_{restaurant_id}_{safe_name}.json"
 
-        for idx, item in enumerate(target_restaurants):
-            if len(all_dataset) >= TARGET_LIMIT:
-                print(f"\n🎉 Đã đạt mục tiêu vượt ngưỡng {TARGET_LIMIT} bản ghi!")
-                break
-                
-            if item["url"] in existing_urls:
-                continue  # Bỏ qua nhà hàng đã cào rồi
+    local_dir = "code/kien/data/raw/single_restaurants"
+    os.makedirs(local_dir, exist_ok=True)
+    local_file_path = os.path.join(local_dir, file_name)
 
-            print(f"\n[Tiến độ hiện tại: {len(all_dataset)}/{TARGET_LIMIT}] Đang xử lý nhà hàng mới {idx+1}/{len(target_restaurants)}")
-            driver.get(item["url"])
-            time.sleep(random.uniform(5.0, 9.0))
-            
-            restaurant_records = extract_full_features_from_restaurant(driver, item["url"], item["city"])
-            all_dataset.extend(restaurant_records)
-            
-            with open(output_file, "w", encoding="utf-8") as f:
-                json.dump(all_dataset, f, ensure_ascii=False, indent=4)
-                
-            print(f"-> Đã lưu cập nhật tổng số: {len(all_dataset)} bản ghi vào file.")
+    restaurant_payload = {
+        "restaurant_id": restaurant_id,
+        "restaurant_name": restaurant_name,
+        "city": city,
+        "restaurant_url": target_url,
+        "metadata": schema_info,
+        "reviews_count": len(restaurant_reviews),
+        "reviews": restaurant_reviews,
+    }
 
-    except Exception as e:
-        print(f"Đã xảy ra lỗi hệ thống: {e}")
-    finally:
-        driver.quit()
+    with open(local_file_path, "w", encoding="utf-8") as f:
+      json.dump(restaurant_payload, f, ensure_ascii=False, indent=4)
+    print(
+        f"[Local Storage] Đã lưu file JSON trên VS Code tại: {local_file_path}"
+    )
 
-    print(f"\n=== HOÀN TẤT TOÀN BỘ QUÁ TRÌNH CÀO DỮ LIỆU ===")
-    print(f"Tổng số lượng thu thập thực tế: {len(all_dataset)}")
-    print(f"Đã lưu file tại: {output_file}")
+    object_name = f"individual_restaurants/{file_name}"
+    minio_client.fput_object(MINIO_BUCKET, object_name, local_file_path)
+    print(
+        f"[MinIO Storage] Đã đẩy thành công file lên bucket '{MINIO_BUCKET}' tại:"
+        f" {object_name}"
+    )
+  except Exception as e:
+    print(f"[Storage Error] Lỗi khi lưu file (Local/MinIO): {e}")
+
+  return restaurant_reviews
+
+
+def run_enterprise_scale_pipeline():
+  output_dir = "code/kien/data/raw/enterprise_100k"
+  os.makedirs(output_dir, exist_ok=True)
+
+  crawled_ids = load_crawled_urls(output_dir)
+  print(
+      f"Đã tải {len(crawled_ids)} mã nhà hàng đã cào thành công từ các phiên"
+      " trước."
+  )
+
+  # ==========================================
+  # CƠ CHẾ 6: UNDETECTED CHROMEDRIVER (ANTI-BOT)
+  # ==========================================
+  options = uc.ChromeOptions()
+  options.add_argument("--start-maximized")
+
+  print(
+      "Khởi động hệ thống Enterprise Crawler với tốc độ an toàn tối đa (Anti-Ban"
+      " Mode)..."
+  )
+  driver = uc.Chrome(options=options, version_main=153)
+
+  try:
+    root_country_url = (
+        "https://www.tripadvisor.com/Restaurants-g293921-Vietnam.html"
+    )
+    city_listings = discover_all_cities_automatically(driver, root_country_url)
+
+    target_restaurants = []
+    for listing in city_listings:
+      urls = discover_restaurant_urls(driver, listing["url"])
+      for u in urls:
+        target_restaurants.append({"url": u, "city": listing["city"]})
+
+    print(
+        f"\nTổng hợp được tổng cộng {len(target_restaurants)} nhà hàng từ hệ"
+        " thống."
+    )
+
+    for idx, item in enumerate(target_restaurants):
+      restaurant_url = item["url"]
+
+      match_id = re.search(r"-d(\d+)-", restaurant_url)
+      restaurant_id = match_id.group(1) if match_id else None
+
+      if restaurant_id and restaurant_id in crawled_ids:
+        print(f"Bỏ qua nhà hàng đã cào (ID: {restaurant_id})")
+        continue
+
+      print(
+          f"\n[Tiến độ: {idx+1}/{len(target_restaurants)}] Xử lý nhà hàng:"
+          f" {restaurant_url}"
+      )
+      driver.get(restaurant_url)
+
+      # [GIẢI THÍCH]: Khoảng nghỉ dài nhất (10 - 18 giây) trước khi truy cập vào trang chi tiết một nhà hàng mới.
+      # Đây là "khoảng lặng" quan trọng nhất để đánh lừa thuật toán của TripAdvisor, giúp tránh tuyệt đối việc bị khóa IP.
+      time.sleep(random.uniform(10.0, 18.0))
+
+      extract_full_features_from_restaurant(
+          driver, restaurant_url, item["city"]
+      )
+      if restaurant_id:
+        save_crawled_url(output_dir, restaurant_id)
+        crawled_ids.add(restaurant_id)
+
+  except Exception as e:
+    print(f"Lỗi hệ thống pipeline: {e}")
+  finally:
+    driver.quit()
+
+  print("Hoàn tất toàn bộ tiến trình cào và đẩy dữ liệu lên MinIO.")
+
 
 if __name__ == "__main__":
-    run_mass_scale_pipeline()
+  run_enterprise_scale_pipeline()

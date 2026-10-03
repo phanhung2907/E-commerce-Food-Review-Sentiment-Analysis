@@ -1,0 +1,1435 @@
+{
+    "restaurant_id": "17783200",
+    "restaurant_name": "Napoli Pizza - Cafe",
+    "city": "11. Hai Phong Restaurants\nSee all 375 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "12 Chợ Gạo  12 Chợ Gạo Hoàn Kiếm Tp Hà Nội",
+            "addressLocality": "Cat Ba Town",
+            "postalCode": "110000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.6,
+            "reviewCount": 151
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 21.036827,
+            "longitude": 105.852554
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/bf/22/bd/happy-guest.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "12:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "12:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "12:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "12:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "12:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "12:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "12:00:00",
+                "closes": "23:45:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Pizza",
+            "Cafe",
+            "European",
+            "Asian"
+        ],
+        "telephone": "+84 91 973 33 33"
+    },
+    "reviews_count": 15,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:43:20.903474",
+            "restaurant_id": "17783200",
+            "restaurant_name": "Napoli Pizza - Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "city": "11. Hai Phong Restaurants\nSee all 375 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "12 Chợ Gạo  12 Chợ Gạo Hoàn Kiếm Tp Hà Nội",
+                "addressLocality": "Cat Ba Town",
+                "postalCode": "110000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 151
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.036827,
+                "longitude": 105.852554
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/bf/22/bd/happy-guest.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Pizza",
+                "Cafe",
+                "European",
+                "Asian"
+            ],
+            "telephone": "+84 91 973 33 33",
+            "review_id": "REV_17783200_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Napoli Pizza - Cafe",
+            "review_text": "Katie\nCastleford, United Kingdom212 contributions\n0\nVery good\nApr 2026 • Couples\nNo real complaints overall. We shared a nice, fresh tomato salad with a tasty balsamic glaze. We also tried the bruschetta, but it wasn't very flavorful and was a bit dry. My husband had the fajita sandwich, which was tasty and came with chips. I had the banh mi, which was packed full of ingredients and delicious. It’s not trying to be fancy — just good, hearty food done well, and we’d happily eat here again. Improving the bruschetta would bring the review to 5 stars. Good value!\nRead more\nWritten May 5, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:43:20.916889",
+            "restaurant_id": "17783200",
+            "restaurant_name": "Napoli Pizza - Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "city": "11. Hai Phong Restaurants\nSee all 375 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "12 Chợ Gạo  12 Chợ Gạo Hoàn Kiếm Tp Hà Nội",
+                "addressLocality": "Cat Ba Town",
+                "postalCode": "110000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 151
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.036827,
+                "longitude": 105.852554
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/bf/22/bd/happy-guest.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Pizza",
+                "Cafe",
+                "European",
+                "Asian"
+            ],
+            "telephone": "+84 91 973 33 33",
+            "review_id": "REV_17783200_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Napoli Pizza - Cafe",
+            "review_text": "adamsharong\nCoffs Harbour, Australia63 contributions\n0\nGreat pizzas and cocktails\nMar 2026 • Family\nPizza and cocktails were delicious. Beautiful soft, fluffy pizza dough with quality toppings! After days of traditional Vietnamese food, our family was very happy to have pizzas and this place was a bonus find- right beside our hotel too! \nAlso very good service and friendly staff who warmly welcomed many foreigners.\nWritten March 14, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:43:20.928625",
+            "restaurant_id": "17783200",
+            "restaurant_name": "Napoli Pizza - Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "city": "11. Hai Phong Restaurants\nSee all 375 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "12 Chợ Gạo  12 Chợ Gạo Hoàn Kiếm Tp Hà Nội",
+                "addressLocality": "Cat Ba Town",
+                "postalCode": "110000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 151
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.036827,
+                "longitude": 105.852554
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/bf/22/bd/happy-guest.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Pizza",
+                "Cafe",
+                "European",
+                "Asian"
+            ],
+            "telephone": "+84 91 973 33 33",
+            "review_id": "REV_17783200_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Napoli Pizza - Cafe",
+            "review_text": "Nella B\nNarni, Italy193 contributions\n0\nPizza Naples\nJan 2026 • Couples\nWe had dinner in this pizzeria, everything great!!! Also because I with a little allergies I had to make some special requests! Staff very friendly and attentive to service!\nTranslated from Italian\nShow original\nWritten January 31, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:43:20.941297",
+            "restaurant_id": "17783200",
+            "restaurant_name": "Napoli Pizza - Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "city": "11. Hai Phong Restaurants\nSee all 375 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "12 Chợ Gạo  12 Chợ Gạo Hoàn Kiếm Tp Hà Nội",
+                "addressLocality": "Cat Ba Town",
+                "postalCode": "110000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 151
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.036827,
+                "longitude": 105.852554
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/bf/22/bd/happy-guest.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Pizza",
+                "Cafe",
+                "European",
+                "Asian"
+            ],
+            "telephone": "+84 91 973 33 33",
+            "review_id": "REV_17783200_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Napoli Pizza - Cafe",
+            "review_text": "Sam G\nVillefranche-sur-Mer, France2 contributions\n0\nGreat\nDec 2025 • Friends\n10/10 pizza, amazing staff, especially Avil \nNice vibe, will come again for sure \nXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\nWritten December 22, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:43:20.943330",
+            "restaurant_id": "17783200",
+            "restaurant_name": "Napoli Pizza - Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "city": "11. Hai Phong Restaurants\nSee all 375 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "12 Chợ Gạo  12 Chợ Gạo Hoàn Kiếm Tp Hà Nội",
+                "addressLocality": "Cat Ba Town",
+                "postalCode": "110000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 151
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.036827,
+                "longitude": 105.852554
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/bf/22/bd/happy-guest.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Pizza",
+                "Cafe",
+                "European",
+                "Asian"
+            ],
+            "telephone": "+84 91 973 33 33",
+            "review_id": "REV_17783200_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Napoli Pizza - Cafe",
+            "review_text": "Anna T\n3 contributions\n0\nPerfect Spot for Pizza Lovers\nNov 2025 • Friends\n⭐️⭐️⭐️⭐️⭐️ Great Pizza & Friendly Service\n\nDelicious pizza with fresh ingredients and a perfect crust. The staff were welcoming, service was quick, and the atmosphere was cozy. A great spot for a casual meal—highly recommend!\nWritten November 18, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:43:20.967958",
+            "restaurant_id": "17783200",
+            "restaurant_name": "Napoli Pizza - Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "city": "11. Hai Phong Restaurants\nSee all 375 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "12 Chợ Gạo  12 Chợ Gạo Hoàn Kiếm Tp Hà Nội",
+                "addressLocality": "Cat Ba Town",
+                "postalCode": "110000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 151
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.036827,
+                "longitude": 105.852554
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/bf/22/bd/happy-guest.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Pizza",
+                "Cafe",
+                "European",
+                "Asian"
+            ],
+            "telephone": "+84 91 973 33 33",
+            "review_id": "REV_17783200_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at Napoli Pizza - Cafe",
+            "review_text": "Connor C\n3 contributions\n1\nRats in peak dinner time!\nNov 2025 • Couples\nMe and my Wife just came back from eating here, we ordered loads of food which didn’t come in the right order and then as I’m talking to my wife I see rats climbing around the back of the walls. We don’t know how normal this is in Vietnam Catba but completely put us off and we left immediately!\nWritten November 13, 2025\nNapoleon\nThank you \nThis is not my place this TripAdvisor already move to Ha Noi \nThe Address is 12 Cho Gao Hoan Kiem Ha Noi\nWe are very sorry about that thing .. If you have time come to Ha Noi we will Invite your dinner with everything you want . \nI’m the owner Napolis Pizza But Not in Cat Ba Because they doing the wrong way . Thank you\nRead more\nWritten November 14, 2025\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:43:21.001479",
+            "restaurant_id": "17783200",
+            "restaurant_name": "Napoli Pizza - Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "city": "11. Hai Phong Restaurants\nSee all 375 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "12 Chợ Gạo  12 Chợ Gạo Hoàn Kiếm Tp Hà Nội",
+                "addressLocality": "Cat Ba Town",
+                "postalCode": "110000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 151
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.036827,
+                "longitude": 105.852554
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/bf/22/bd/happy-guest.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Pizza",
+                "Cafe",
+                "European",
+                "Asian"
+            ],
+            "telephone": "+84 91 973 33 33",
+            "review_id": "REV_17783200_p1_6",
+            "reviewer_id": "User_p1_6",
+            "review_title": "Review at Napoli Pizza - Cafe",
+            "review_text": "Ellis D\n2 contributions\n0\nBest food on the island\nNov 2024 • Solo\nBest food on the island by far, amazing service and lovely staff. Smoothie bowls so nice and fresh, pizza wood fired to perfection and the spaghetti is perfect.\nVery good prices too\nValue\nService\nFood\nWritten November 8, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:43:21.023450",
+            "restaurant_id": "17783200",
+            "restaurant_name": "Napoli Pizza - Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "city": "11. Hai Phong Restaurants\nSee all 375 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "12 Chợ Gạo  12 Chợ Gạo Hoàn Kiếm Tp Hà Nội",
+                "addressLocality": "Cat Ba Town",
+                "postalCode": "110000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 151
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.036827,
+                "longitude": 105.852554
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/bf/22/bd/happy-guest.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Pizza",
+                "Cafe",
+                "European",
+                "Asian"
+            ],
+            "telephone": "+84 91 973 33 33",
+            "review_id": "REV_17783200_p1_7",
+            "reviewer_id": "User_p1_7",
+            "review_title": "Review at Napoli Pizza - Cafe",
+            "review_text": "David S\n13 contributions\n0\nKanonpizza\nOct 2024 • Friends\nThe pizza was delicious, not like in Italy but great by foreign standards! Unfortunately, it took a little while my friend got his pizza right away. I got some fries to compensate while I waited. The staff was also very nice and spoke good English.\nTranslated from Swedish\nShow original\nWritten October 18, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:43:21.057992",
+            "restaurant_id": "17783200",
+            "restaurant_name": "Napoli Pizza - Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "city": "11. Hai Phong Restaurants\nSee all 375 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "12 Chợ Gạo  12 Chợ Gạo Hoàn Kiếm Tp Hà Nội",
+                "addressLocality": "Cat Ba Town",
+                "postalCode": "110000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 151
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.036827,
+                "longitude": 105.852554
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/bf/22/bd/happy-guest.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Pizza",
+                "Cafe",
+                "European",
+                "Asian"
+            ],
+            "telephone": "+84 91 973 33 33",
+            "review_id": "REV_17783200_p1_8",
+            "reviewer_id": "User_p1_8",
+            "review_title": "Review at Napoli Pizza - Cafe",
+            "review_text": "Tantooine_tour_guide\nNew Zealand76 contributions\n1\nPizza was good and the only safe option. Everyone else ended up getting sick\nApr 2024 • Family\nPizza was good and the only safe option. The others in our group all had other local dishes and ended up with food poisoning. Was an expensive dinner as we ended up missing our cruise the next day and spent the next 24hrs in the hotel. Be warned.\nValue\nService\nFood\nAtmosphere\nWritten April 8, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:43:21.072856",
+            "restaurant_id": "17783200",
+            "restaurant_name": "Napoli Pizza - Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "city": "11. Hai Phong Restaurants\nSee all 375 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "12 Chợ Gạo  12 Chợ Gạo Hoàn Kiếm Tp Hà Nội",
+                "addressLocality": "Cat Ba Town",
+                "postalCode": "110000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 151
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.036827,
+                "longitude": 105.852554
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/bf/22/bd/happy-guest.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Pizza",
+                "Cafe",
+                "European",
+                "Asian"
+            ],
+            "telephone": "+84 91 973 33 33",
+            "review_id": "REV_17783200_p1_9",
+            "reviewer_id": "User_p1_9",
+            "review_title": "Review at Napoli Pizza - Cafe",
+            "review_text": "Joe170995\nNordkirchen, Germany36 contributions\n0\nWe recommend\nMar 2024 • Couples\nGreat restaurant - it provided the hoped-for change from local food. Very good pizza with great service who spoke good English.\nShow original\nWritten March 2, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:43:21.085665",
+            "restaurant_id": "17783200",
+            "restaurant_name": "Napoli Pizza - Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "city": "11. Hai Phong Restaurants\nSee all 375 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "12 Chợ Gạo  12 Chợ Gạo Hoàn Kiếm Tp Hà Nội",
+                "addressLocality": "Cat Ba Town",
+                "postalCode": "110000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 151
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.036827,
+                "longitude": 105.852554
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/bf/22/bd/happy-guest.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Pizza",
+                "Cafe",
+                "European",
+                "Asian"
+            ],
+            "telephone": "+84 91 973 33 33",
+            "review_id": "REV_17783200_p1_10",
+            "reviewer_id": "User_p1_10",
+            "review_title": "Review at Napoli Pizza - Cafe",
+            "review_text": "andreasam91\nAuckland Central, New Zealand3503 contributions\n0\nGood and cheap\nJan 2024 • Couples\nWe had dinner here twice, the pizza is cooked in an open wood oven. Good ingredients, decent mozzarella, not too thin dough. Cheap price for Cat Ba. Courteous staff\nShow original\nWritten January 21, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:43:21.107725",
+            "restaurant_id": "17783200",
+            "restaurant_name": "Napoli Pizza - Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "city": "11. Hai Phong Restaurants\nSee all 375 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "12 Chợ Gạo  12 Chợ Gạo Hoàn Kiếm Tp Hà Nội",
+                "addressLocality": "Cat Ba Town",
+                "postalCode": "110000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 151
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.036827,
+                "longitude": 105.852554
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/bf/22/bd/happy-guest.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Pizza",
+                "Cafe",
+                "European",
+                "Asian"
+            ],
+            "telephone": "+84 91 973 33 33",
+            "review_id": "REV_17783200_p1_11",
+            "reviewer_id": "User_p1_11",
+            "review_title": "Review at Napoli Pizza - Cafe",
+            "review_text": "Cristobal C\nBerlin, Germany1 contribution\n1\nThe best pizza we have eaten in Vietnam\nDec 2023 • Couples\nWe ate delicious pasta and pizza, for us it was excellent to get away from the typical food here, the ingredients are of high quality and they have a pizza oven.\nValue\nService\nFood\nAtmosphere\nShow original\nWritten December 18, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:43:21.120392",
+            "restaurant_id": "17783200",
+            "restaurant_name": "Napoli Pizza - Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "city": "11. Hai Phong Restaurants\nSee all 375 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "12 Chợ Gạo  12 Chợ Gạo Hoàn Kiếm Tp Hà Nội",
+                "addressLocality": "Cat Ba Town",
+                "postalCode": "110000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 151
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.036827,
+                "longitude": 105.852554
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/bf/22/bd/happy-guest.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Pizza",
+                "Cafe",
+                "European",
+                "Asian"
+            ],
+            "telephone": "+84 91 973 33 33",
+            "review_id": "REV_17783200_p1_12",
+            "reviewer_id": "User_p1_12",
+            "review_title": "Review at Napoli Pizza - Cafe",
+            "review_text": "Kobe W\n8 contributions\n2\nItalian food of high quality!\nSep 2023 • Couples\nAmazing Italian food: Pizza's made in wood-oven, real olive oil and tabasco on the table. All for Vietnamese prices! What every European needs after a long time of eating local kitchen!\nWritten September 11, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:43:21.133713",
+            "restaurant_id": "17783200",
+            "restaurant_name": "Napoli Pizza - Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "city": "11. Hai Phong Restaurants\nSee all 375 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "12 Chợ Gạo  12 Chợ Gạo Hoàn Kiếm Tp Hà Nội",
+                "addressLocality": "Cat Ba Town",
+                "postalCode": "110000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 151
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.036827,
+                "longitude": 105.852554
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/bf/22/bd/happy-guest.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Pizza",
+                "Cafe",
+                "European",
+                "Asian"
+            ],
+            "telephone": "+84 91 973 33 33",
+            "review_id": "REV_17783200_p1_13",
+            "reviewer_id": "User_p1_13",
+            "review_title": "Review at Napoli Pizza - Cafe",
+            "review_text": "amarie\nKildare, Ireland13 contributions\n0\nGreat pizza\nJun 2023 • Family\nExcellent pizza and lovely staff. They also do takeaway pizza. Very comfortable to eat in - good AC and music not overbearing. Will come again 😀🍕😃☺️\nWritten June 29, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:43:21.149699",
+            "restaurant_id": "17783200",
+            "restaurant_name": "Napoli Pizza - Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "city": "11. Hai Phong Restaurants\nSee all 375 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g26785533-d17783200-Reviews-Napoli_Pizza_Cafe-Cat_Ba_Town_Cat_Ba_Hai_Phong.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "12 Chợ Gạo  12 Chợ Gạo Hoàn Kiếm Tp Hà Nội",
+                "addressLocality": "Cat Ba Town",
+                "postalCode": "110000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 151
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.036827,
+                "longitude": 105.852554
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/bf/22/bd/happy-guest.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Pizza",
+                "Cafe",
+                "European",
+                "Asian"
+            ],
+            "telephone": "+84 91 973 33 33",
+            "review_id": "REV_17783200_p1_14",
+            "reviewer_id": "User_p1_14",
+            "review_title": "Review at Napoli Pizza - Cafe",
+            "review_text": "Iuliia\n4 contributions\n1\nAwful food poisoning\nJun 2023 • Family\nIt was a terrible experience. We ordered two pizzas for dinner and we didn't eat somewhere else. Later at night we all (4ppl) got TERRIBLE FOOD POISONING. We couldn't sleep and were in bed for the whole next day literally dying. It was awful. The worst food poisoning ever. We think it was spoiled beef meat. I don't recommend anybody to go to eat there.\nRead more\nValue\nService\nFood\nWritten June 22, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

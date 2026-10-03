@@ -1,0 +1,85 @@
+{
+    "restaurant_id": "34320223",
+    "restaurant_name": "The Cog & Compass",
+    "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298085-d34320223-Reviews-The_Cog_Compass-Da_Nang.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g298085-d34320223-Reviews-The_Cog_Compass-Da_Nang.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Da Nang Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 16.047773,
+            "longitude": 108.244385
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6d/13/b5/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "American",
+            "Bar",
+            "Pub",
+            "Dining bars"
+        ],
+        "telephone": "+84 92 797 26 11"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T00:11:12.807261",
+            "restaurant_id": "34320223",
+            "restaurant_name": "The Cog & Compass",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298085-d34320223-Reviews-The_Cog_Compass-Da_Nang.html",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298085-d34320223-Reviews-The_Cog_Compass-Da_Nang.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Da Nang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.047773,
+                "longitude": 108.244385
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6d/13/b5/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "American",
+                "Bar",
+                "Pub",
+                "Dining bars"
+            ],
+            "telephone": "+84 92 797 26 11",
+            "review_id": "REV_34320223_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at The Cog & Compass",
+            "review_text": "Mandy H\n2 contributions\n0\nGood cocktails\nApr 2026 • Couples\nAuthentic cocktails in this newly opened bar and a friendly welcome from Percy the bar dog !\nWritten April 16, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

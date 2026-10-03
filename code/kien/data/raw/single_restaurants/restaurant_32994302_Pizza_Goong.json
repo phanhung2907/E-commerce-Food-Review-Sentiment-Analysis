@@ -1,0 +1,895 @@
+{
+    "restaurant_id": "32994302",
+    "restaurant_name": "Pizza Goong",
+    "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d32994302-Reviews-Pizza_Goong-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d32994302-Reviews-Pizza_Goong-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "Mỹ Gia 4-08 Vinhomes Dragon Bay",
+            "addressLocality": "Ha Long City",
+            "postalCode": "200000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 10
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 20.947384,
+            "longitude": 107.07373
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/36/32/86/caption.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "11:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "11:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "11:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "11:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "11:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "11:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "11:00:00",
+                "closes": "21:00:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Italian",
+            "Pizza",
+            "International",
+            "Deli"
+        ],
+        "telephone": "+84 32 869 1616"
+    },
+    "reviews_count": 9,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:42:26.500379",
+            "restaurant_id": "32994302",
+            "restaurant_name": "Pizza Goong",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d32994302-Reviews-Pizza_Goong-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html",
+            "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d32994302-Reviews-Pizza_Goong-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Mỹ Gia 4-08 Vinhomes Dragon Bay",
+                "addressLocality": "Ha Long City",
+                "postalCode": "200000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 20.947384,
+                "longitude": 107.07373
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/36/32/86/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza",
+                "International",
+                "Deli"
+            ],
+            "telephone": "+84 32 869 1616",
+            "review_id": "REV_32994302_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Pizza Goong",
+            "review_text": "Hưng L\n3 contributions\n0\nGreat experience.\nAug 2026 • Family\nGood food. Professionally enthusiastic staff.\nTranslated from Vietnamese\nShow original\nWritten August 9, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:42:26.513383",
+            "restaurant_id": "32994302",
+            "restaurant_name": "Pizza Goong",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d32994302-Reviews-Pizza_Goong-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html",
+            "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d32994302-Reviews-Pizza_Goong-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Mỹ Gia 4-08 Vinhomes Dragon Bay",
+                "addressLocality": "Ha Long City",
+                "postalCode": "200000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 20.947384,
+                "longitude": 107.07373
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/36/32/86/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza",
+                "International",
+                "Deli"
+            ],
+            "telephone": "+84 32 869 1616",
+            "review_id": "REV_32994302_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Pizza Goong",
+            "review_text": "Discover60253079871\n1 contribution\n0\nGood food, sweet friend.\nJul 2026 • Friends\nGood food, sweet friend.\nTranslated from Vietnamese\nShow original\nWritten July 24, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:42:26.526933",
+            "restaurant_id": "32994302",
+            "restaurant_name": "Pizza Goong",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d32994302-Reviews-Pizza_Goong-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html",
+            "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d32994302-Reviews-Pizza_Goong-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Mỹ Gia 4-08 Vinhomes Dragon Bay",
+                "addressLocality": "Ha Long City",
+                "postalCode": "200000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 20.947384,
+                "longitude": 107.07373
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/36/32/86/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza",
+                "International",
+                "Deli"
+            ],
+            "telephone": "+84 32 869 1616",
+            "review_id": "REV_32994302_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Pizza Goong",
+            "review_text": "Departure51370509445\n1 contribution\n0\n10 stitches.\nJul 2026 • Family\nGood, enthusiastic staff, reasonable price\nTranslated from Vietnamese\nShow original\nWritten July 15, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:42:26.545958",
+            "restaurant_id": "32994302",
+            "restaurant_name": "Pizza Goong",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d32994302-Reviews-Pizza_Goong-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html",
+            "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d32994302-Reviews-Pizza_Goong-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Mỹ Gia 4-08 Vinhomes Dragon Bay",
+                "addressLocality": "Ha Long City",
+                "postalCode": "200000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 20.947384,
+                "longitude": 107.07373
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/36/32/86/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza",
+                "International",
+                "Deli"
+            ],
+            "telephone": "+84 32 869 1616",
+            "review_id": "REV_32994302_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Pizza Goong",
+            "review_text": "Julie M\nFrance11 contributions\n0\nJourney through Vietnam\nJul 2026 • Family\nVery warm welcome, fast, friendly, and efficient service. Light dough, very clean, nice decor.\nValue\nService\nFood\nAtmosphere\nTranslated from French\nShow original\nWritten July 13, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:42:26.558042",
+            "restaurant_id": "32994302",
+            "restaurant_name": "Pizza Goong",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d32994302-Reviews-Pizza_Goong-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html",
+            "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d32994302-Reviews-Pizza_Goong-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Mỹ Gia 4-08 Vinhomes Dragon Bay",
+                "addressLocality": "Ha Long City",
+                "postalCode": "200000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 20.947384,
+                "longitude": 107.07373
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/36/32/86/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza",
+                "International",
+                "Deli"
+            ],
+            "telephone": "+84 32 869 1616",
+            "review_id": "REV_32994302_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Pizza Goong",
+            "review_text": "Jasper Schinkel\n2 contributions\n0\nPizza\nJun 2026 • Friends\nGood food , staff and atmosphere\nWritten June 15, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:42:26.576819",
+            "restaurant_id": "32994302",
+            "restaurant_name": "Pizza Goong",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d32994302-Reviews-Pizza_Goong-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html",
+            "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d32994302-Reviews-Pizza_Goong-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Mỹ Gia 4-08 Vinhomes Dragon Bay",
+                "addressLocality": "Ha Long City",
+                "postalCode": "200000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 20.947384,
+                "longitude": 107.07373
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/36/32/86/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza",
+                "International",
+                "Deli"
+            ],
+            "telephone": "+84 32 869 1616",
+            "review_id": "REV_32994302_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at Pizza Goong",
+            "review_text": "Safari35187475447\n1 contribution\n0\nExcellent food and service\nApr 2026 • Friends\nExcellent pizza and salads! Great food and service fantastic!\nValue\nService\nFood\nAtmosphere\nWritten April 5, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:42:26.593820",
+            "restaurant_id": "32994302",
+            "restaurant_name": "Pizza Goong",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d32994302-Reviews-Pizza_Goong-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html",
+            "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d32994302-Reviews-Pizza_Goong-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Mỹ Gia 4-08 Vinhomes Dragon Bay",
+                "addressLocality": "Ha Long City",
+                "postalCode": "200000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 20.947384,
+                "longitude": 107.07373
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/36/32/86/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza",
+                "International",
+                "Deli"
+            ],
+            "telephone": "+84 32 869 1616",
+            "review_id": "REV_32994302_p1_6",
+            "reviewer_id": "User_p1_6",
+            "review_title": "Review at Pizza Goong",
+            "review_text": "Relax46429033592\n1 contribution\n0\nStay at deja vu!\nMar 2026 • Family\nNice and peaceful location, loves thw atmosphere and ambience, the food was very tasty and the service was excellent\nValue\nService\nFood\nAtmosphere\nWritten March 19, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:42:26.604820",
+            "restaurant_id": "32994302",
+            "restaurant_name": "Pizza Goong",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d32994302-Reviews-Pizza_Goong-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html",
+            "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d32994302-Reviews-Pizza_Goong-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Mỹ Gia 4-08 Vinhomes Dragon Bay",
+                "addressLocality": "Ha Long City",
+                "postalCode": "200000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 20.947384,
+                "longitude": 107.07373
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/36/32/86/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza",
+                "International",
+                "Deli"
+            ],
+            "telephone": "+84 32 869 1616",
+            "review_id": "REV_32994302_p1_7",
+            "reviewer_id": "User_p1_7",
+            "review_title": "Review at Pizza Goong",
+            "review_text": "sydney m\n1 contribution\n0\nAmazing pizza!!\nFeb 2026 • Friends\nWe came here whilst travelling as a group, we had Kim as our server and she was so lovely and helpful!!\nI had the falafel salad, the pepperoni pizza a the veggie pizza, and the lychee tea! All were delicious! highly recommend.\nWritten February 23, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:42:26.616877",
+            "restaurant_id": "32994302",
+            "restaurant_name": "Pizza Goong",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d32994302-Reviews-Pizza_Goong-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html",
+            "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d32994302-Reviews-Pizza_Goong-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Mỹ Gia 4-08 Vinhomes Dragon Bay",
+                "addressLocality": "Ha Long City",
+                "postalCode": "200000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 20.947384,
+                "longitude": 107.07373
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/36/32/86/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza",
+                "International",
+                "Deli"
+            ],
+            "telephone": "+84 32 869 1616",
+            "review_id": "REV_32994302_p1_8",
+            "reviewer_id": "User_p1_8",
+            "review_title": "Review at Pizza Goong",
+            "review_text": "Phillip M\nSydney, Australia63 contributions\n0\nHidden Gem!\nAug 2025 • Friends\nFood was great! We arrived 15 minutes before closing and they still happily accepted us in. Pizza was great I would recommend large size. \nFresh fruit juices were great also.\nLady at the counter was friendly and kind.\nWritten August 13, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}
