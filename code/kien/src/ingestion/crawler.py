@@ -9,6 +9,9 @@ from minio import Minio
 from selenium.webdriver.common.by import By
 
 TRACKING_FILE_NAME = "crawled_restaurants.json"
+TARGET_RECORDS_LIMIT = (
+    100000  # Đặt mục tiêu giới hạn 100.000 records theo yêu cầu đồ án
+)
 
 # ==========================================
 # CƠ CHẾ 1: KẾT NỐI MINIO DATA LAKE
@@ -34,9 +37,6 @@ def load_crawled_urls(output_dir):
 
 
 def save_crawled_url(output_dir, restaurant_id):
-  # ==========================================
-  # CƠ CHẾ 2: CHECKPOINT THEO RESTAURANT ID
-  # ==========================================
   tracking_path = os.path.join(output_dir, TRACKING_FILE_NAME)
   crawled_set = load_crawled_urls(output_dir)
   crawled_set.add(str(restaurant_id))
@@ -44,10 +44,25 @@ def save_crawled_url(output_dir, restaurant_id):
     json.dump(list(crawled_set), f, ensure_ascii=False, indent=4)
 
 
+def count_total_accumulated_records():
+  # Hàm kiểm tra tổng số lượng review thực tế đang có trong thư mục local
+  local_dir = "code/kien/data/raw/single_restaurants"
+  if not os.path.exists(local_dir):
+    return 0
+  total_reviews = 0
+  for file_name in os.listdir(local_dir):
+    if file_name.endswith(".json"):
+      try:
+        file_path = os.path.join(local_dir, file_name)
+        with open(file_path, "r", encoding="utf-8") as f:
+          data = json.load(f)
+          total_reviews += len(data.get("reviews", []))
+      except:
+        continue
+  return total_reviews
+
+
 def extract_json_ld_features(driver):
-  # ==========================================
-  # CƠ CHẾ 3: TRÍCH XUẤT THÔNG TIN CHUẨN SEO (JSON-LD)
-  # ==========================================
   schema_data = {
       "@id": "N/A",
       "address": "N/A",
@@ -93,17 +108,14 @@ def extract_json_ld_features(driver):
 
 
 def discover_all_cities_automatically(driver, root_country_url):
-  # ==========================================
-  # CƠ CHẾ 4: FULL DYNAMIC LOCATION DISCOVERY
-  # ==========================================
   print(
       "[Dynamic Discovery] Đang tự động quét toàn bộ khu vực/tỉnh thành từ:"
       f" {root_country_url}"
   )
   driver.get(root_country_url)
 
-  # [GIẢI THÍCH]: Chờ 10 - 15 giây để trang quốc gia tải hoàn toàn HTML và các script ngầm.
-  # Tránh việc vừa mở trang đã thao tác ngay lập tức sẽ bị hệ thống anti-bot phát hiện.
+  # [TIME.SLEEP 1]: Chờ 10 - 15 giây để trang quốc gia tải hoàn toàn cấu trúc DOM và các script ẩn.
+  # Giúp trình duyệt kịp ổn định trước khi bot thực hiện các thao tác tiếp theo.
   time.sleep(random.uniform(10.0, 15.0))
 
   try:
@@ -116,7 +128,7 @@ def discover_all_cities_automatically(driver, root_country_url):
       try:
         driver.execute_script("arguments[0].scrollIntoView(true);", btn)
 
-        # [GIẢI THÍCH]: Dừng 2 giây sau khi cuộn tới nút "Xem tất cả" để giả lập mắt người nhìn thấy nút.
+        # [TIME.SLEEP 2]: Dừng 2 giây sau khi cuộn tới nút "Xem tất cả" để mô phỏng hành vi mắt người nhận diện nút.
         time.sleep(2.0)
         btn.click()
         print(
@@ -124,7 +136,7 @@ def discover_all_cities_automatically(driver, root_country_url):
             " công."
         )
 
-        # [GIẢI THÍCH]: Chờ 5 giây sau khi click mở rộng để các khối danh sách thành phố mới kịp render ra giao diện.
+        # [TIME.SLEEP 3]: Chờ 5 giây sau khi click mở rộng để các khối danh sách tỉnh thành mới được render đầy đủ.
         time.sleep(5.0)
         break
       except:
@@ -132,11 +144,11 @@ def discover_all_cities_automatically(driver, root_country_url):
   except:
     pass
 
-  # Vòng lặp cuộn trang tự động để kích hoạt Lazy Load dữ liệu các tỉnh thành phía dưới
+  # Vòng lặp cuộn trang tự động để kích hoạt tính năng tải lười (Lazy Load) các thành phần bên dưới
   for _ in range(6):
     driver.execute_script("window.scrollBy(0, 1000);")
 
-    # [GIẢI THÍCH]: Dừng 2.5 giây giữa mỗi nhịp cuộn trang xuống, giúp trình duyệt kịp load ảnh và các thành phần DOM.
+    # [TIME.SLEEP 4]: Dừng 2.5 giây giữa các nhịp cuộn trang, giúp trình duyệt kịp tải hình ảnh và liên kết khu vực.
     time.sleep(2.5)
 
   city_links = []
@@ -160,15 +172,13 @@ def discover_all_cities_automatically(driver, root_country_url):
 
 
 def discover_restaurant_urls(driver, city_listing_url):
-  # ==========================================
-  # CƠ CHẾ DYNAMIC PAGINATION (CHỜ AN TOÀN)
-  # ==========================================
   restaurant_links = set()
   print(f"\n[Category Scan] Quét toàn bộ danh mục từ: {city_listing_url}")
 
   driver.get(city_listing_url)
 
-  # [GIẢI THÍCH]: Chờ 8 - 12 giây khi vừa mở trang danh mục của một thành phố mới (ví dụ TP.HCM, Hà Nội).
+  # [TIME.SLEEP 5]: Chờ 8 - 12 giây khi vừa mở trang danh mục của một tỉnh thành mới (ví dụ: TP.HCM, Hà Nội).
+  # Tránh việc gửi request quá dày đặc làm hệ thống phòng thủ của TripAdvisor nghi ngờ.
   time.sleep(random.uniform(8.0, 12.0))
 
   page = 0
@@ -176,11 +186,11 @@ def discover_restaurant_urls(driver, city_listing_url):
     page += 1
     print(f" -> Đang quét trang danh mục thứ {page}...")
 
-    # Cuộn trang từ từ để load hết danh sách nhà hàng trong trang hiện tại
+    # Cuộn trang từ từ để tải hết các thẻ nhà hàng hiển thị trong trang danh mục hiện tại
     for _ in range(3):
       driver.execute_script("window.scrollBy(0, 1000);")
 
-      # [GIẢI THÍCH]: Dừng 2 giây giữa các nhịp cuộn trong trang danh mục.
+      # [TIME.SLEEP 6]: Dừng 2 giây giữa các nhịp cuộn trang danh mục.
       time.sleep(2.0)
 
     link_elems = driver.find_elements(
@@ -221,11 +231,11 @@ def discover_restaurant_urls(driver, city_listing_url):
 
         driver.execute_script("arguments[0].scrollIntoView(true);", next_btn)
 
-        # [GIẢI THÍCH]: Dừng 2 giây sau khi cuộn tới nút "Next" trước khi thực hiện hành động click chuyển trang.
+        # [TIME.SLEEP 7]: Dừng 2 giây sau khi cuộn tới nút "Next" trước khi thực hiện click chuyển trang danh mục.
         time.sleep(2.0)
         next_btn.click()
 
-        # [GIẢI THÍCH]: Chờ 8 - 12 giây để trang danh mục tiếp theo load xong dữ liệu hoàn toàn.
+        # [TIME.SLEEP 8]: Chờ 8 - 12 giây để trang danh mục tiếp theo tải xong dữ liệu hoàn toàn.
         time.sleep(random.uniform(8.0, 12.0))
       else:
         print(f" -> Không tìm thấy nút Next, kết thúc quét khu vực này.")
@@ -259,14 +269,14 @@ def extract_full_features_from_restaurant(driver, target_url, city):
 
   restaurant_reviews = []
   page_num = 1
-  max_pages_per_restaurant = 10
+  max_pages_per_restaurant = 15
 
   while page_num <= max_pages_per_restaurant:
-    # Cuộn trang bên trong trang chi tiết nhà hàng để nạp các review ẩn (Lazy load review)
+    # Cuộn trang bên trong trang chi tiết nhà hàng để nạp các bình luận ẩn (Lazy load review)
     for _ in range(2):
       driver.execute_script("window.scrollBy(0, 800);")
 
-      # [GIẢI THÍCH]: Dừng 2.5 - 4 giây giữa các nhịp cuộn trang đọc review, giả lập hành vi người dùng đang cuộn đọc nội dung.
+      # [TIME.SLEEP 9]: Dừng 2.5 - 4 giây giữa các nhịp cuộn đọc review, giả lập hành vi người dùng đang đọc nội dung trên trang.
       time.sleep(random.uniform(2.5, 4.0))
 
     review_containers = driver.find_elements(
@@ -334,21 +344,18 @@ def extract_full_features_from_restaurant(driver, target_url, city):
       if next_btn:
         driver.execute_script("arguments[0].scrollIntoView(true);", next_btn)
 
-        # [GIẢI THÍCH]: Dừng 2 giây sau khi cuộn tới nút Next của trang review.
+        # [TIME.SLEEP 10]: Dừng 2 giây sau khi cuộn tới nút "Next" của trang review.
         time.sleep(2.0)
         next_btn.click()
         page_num += 1
 
-        # [GIẢI THÍCH]: Chờ 8 - 12 giây để trang review tiếp theo của nhà hàng tải xong.
+        # [TIME.SLEEP 11]: Chờ 8 - 12 giây để trang review tiếp theo của nhà hàng tải xong hoàn toàn.
         time.sleep(random.uniform(8.0, 12.0))
       else:
         break
     except:
       break
 
-  # ==========================================
-  # CƠ CHẾ 5: LƯU TRỮ KÉP (LOCAL VS CODE + MINIO)
-  # ==========================================
   try:
     safe_name = (
         "".join(
@@ -401,15 +408,12 @@ def run_enterprise_scale_pipeline():
       " trước."
   )
 
-  # ==========================================
-  # CƠ CHẾ 6: UNDETECTED CHROMEDRIVER (ANTI-BOT)
-  # ==========================================
   options = uc.ChromeOptions()
   options.add_argument("--start-maximized")
 
   print(
-      "Khởi động hệ thống Enterprise Crawler với tốc độ an toàn tối đa (Anti-Ban"
-      " Mode)..."
+      "Khởi động hệ thống Enterprise Crawler (Mục tiêu: Đạt đủ"
+      f" {TARGET_RECORDS_LIMIT} records)..."
   )
   driver = uc.Chrome(options=options, version_main=153)
 
@@ -431,8 +435,19 @@ def run_enterprise_scale_pipeline():
     )
 
     for idx, item in enumerate(target_restaurants):
-      restaurant_url = item["url"]
+      # ==========================================
+      # ĐIỀU KIỆN DỪNG TỰ ĐỘNG KHI ĐẠT 100K RECORDS
+      # ==========================================
+      current_records = count_total_accumulated_records()
+      print(f"\n[TIẾN ĐỘ TỔNG QUAN] Hiện tại đã đạt: {current_records} records.")
+      if current_records >= TARGET_RECORDS_LIMIT:
+        print(
+            f"[HOÀN THÀNH XUẤT SẮC] Đã đạt mục tiêu {TARGET_RECORDS_LIMIT}"
+            " records theo yêu cầu của đồ án! Dừng tiến trình cào."
+        )
+        break
 
+      restaurant_url = item["url"]
       match_id = re.search(r"-d(\d+)-", restaurant_url)
       restaurant_id = match_id.group(1) if match_id else None
 
@@ -441,13 +456,13 @@ def run_enterprise_scale_pipeline():
         continue
 
       print(
-          f"\n[Tiến độ: {idx+1}/{len(target_restaurants)}] Xử lý nhà hàng:"
+          f"[Tiến độ xử lý: {idx+1}/{len(target_restaurants)}] Xử lý nhà hàng:"
           f" {restaurant_url}"
       )
       driver.get(restaurant_url)
 
-      # [GIẢI THÍCH]: Khoảng nghỉ dài nhất (10 - 18 giây) trước khi truy cập vào trang chi tiết một nhà hàng mới.
-      # Đây là "khoảng lặng" quan trọng nhất để đánh lừa thuật toán của TripAdvisor, giúp tránh tuyệt đối việc bị khóa IP.
+      # [TIME.SLEEP 12]: Khoảng nghỉ dài và an toàn nhất (10 - 18 giây) trước khi cào trang chi tiết một nhà hàng.
+      # Đây là "khoảng lặng" cốt lõi giúp đánh lừa thuật toán phòng thủ của TripAdvisor, ngăn chặn việc bị khóa IP (Anti-Ban).
       time.sleep(random.uniform(10.0, 18.0))
 
       extract_full_features_from_restaurant(
@@ -462,7 +477,11 @@ def run_enterprise_scale_pipeline():
   finally:
     driver.quit()
 
-  print("Hoàn tất toàn bộ tiến trình cào và đẩy dữ liệu lên MinIO.")
+  final_count = count_total_accumulated_records()
+  print(
+      "Hoàn tất toàn bộ tiến trình. Tổng số records thu thập được:"
+      f" {final_count}"
+  )
 
 
 if __name__ == "__main__":

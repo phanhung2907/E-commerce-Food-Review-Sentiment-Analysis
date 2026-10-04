@@ -1,0 +1,351 @@
+{
+    "restaurant_id": "27834666",
+    "restaurant_name": "moggumeong Danang",
+    "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g19935676-d27834666-Reviews-Moggumeong_Danang-An_Hai_Bac_Son_Tra_Peninsula_Da_Nang.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g19935676-d27834666-Reviews-Moggumeong_Danang-An_Hai_Bac_Son_Tra_Peninsula_Da_Nang.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "103 Nguyễn Xuân Khoát, An Hải Bắc",
+            "addressLocality": "An Hai Bac",
+            "postalCode": "550000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.7,
+            "reviewCount": 3
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 15.994242,
+            "longitude": 108.25743
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/f0/5f/dd/caption.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "15:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "15:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "15:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "15:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "15:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "15:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "15:00:00",
+                "closes": "23:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Barbecue",
+            "Asian",
+            "Korean"
+        ],
+        "telephone": "+84 96 865 31 24"
+    },
+    "reviews_count": 3,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T20:51:34.223833",
+            "restaurant_id": "27834666",
+            "restaurant_name": "moggumeong Danang",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g19935676-d27834666-Reviews-Moggumeong_Danang-An_Hai_Bac_Son_Tra_Peninsula_Da_Nang.html",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g19935676-d27834666-Reviews-Moggumeong_Danang-An_Hai_Bac_Son_Tra_Peninsula_Da_Nang.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "103 Nguyễn Xuân Khoát, An Hải Bắc",
+                "addressLocality": "An Hai Bac",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 3
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 15.994242,
+                "longitude": 108.25743
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/f0/5f/dd/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "15:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "15:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "15:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "15:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "15:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "15:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "15:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Barbecue",
+                "Asian",
+                "Korean"
+            ],
+            "telephone": "+84 96 865 31 24",
+            "review_id": "REV_27834666_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at moggumeong Danang",
+            "review_text": "Sally Lindsay\nMassachusetts2 contributions\n0\nOrdered Pork Belly\nApr 2026 • Solo\nWent during non-peak time, so the wait wasn’t bad. Just a heads-up: there’s an 8% tax, so the final bill came to 237k. They also accept international Visa debit cards, which was convenient.\n\nAs for the food, I’d rate it 4/5. The pork was decent overall, but the quality felt a bit inconsistent. Service was okay, though the overall experience didn’t fully live up to the hype. Still, going at a quieter time definitely made the meal more comfortable.\nWritten April 20, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T20:51:34.258515",
+            "restaurant_id": "27834666",
+            "restaurant_name": "moggumeong Danang",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g19935676-d27834666-Reviews-Moggumeong_Danang-An_Hai_Bac_Son_Tra_Peninsula_Da_Nang.html",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g19935676-d27834666-Reviews-Moggumeong_Danang-An_Hai_Bac_Son_Tra_Peninsula_Da_Nang.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "103 Nguyễn Xuân Khoát, An Hải Bắc",
+                "addressLocality": "An Hai Bac",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 3
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 15.994242,
+                "longitude": 108.25743
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/f0/5f/dd/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "15:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "15:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "15:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "15:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "15:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "15:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "15:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Barbecue",
+                "Asian",
+                "Korean"
+            ],
+            "telephone": "+84 96 865 31 24",
+            "review_id": "REV_27834666_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at moggumeong Danang",
+            "review_text": "Todd P\n2 contributions\n0\nGreat Korean Restaurant\nDec 2024 • Family\nGreat atmosphere and friendly staff. Excellent experience of Korean BBQ and grilled meat. The staff went out of their way to ensure your meal was well prepared and you had an amazing experience.\nWritten December 14, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T20:51:34.398037",
+            "restaurant_id": "27834666",
+            "restaurant_name": "moggumeong Danang",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g19935676-d27834666-Reviews-Moggumeong_Danang-An_Hai_Bac_Son_Tra_Peninsula_Da_Nang.html",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g19935676-d27834666-Reviews-Moggumeong_Danang-An_Hai_Bac_Son_Tra_Peninsula_Da_Nang.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "103 Nguyễn Xuân Khoát, An Hải Bắc",
+                "addressLocality": "An Hai Bac",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 3
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 15.994242,
+                "longitude": 108.25743
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/f0/5f/dd/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "15:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "15:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "15:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "15:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "15:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "15:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "15:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Barbecue",
+                "Asian",
+                "Korean"
+            ],
+            "telephone": "+84 96 865 31 24",
+            "review_id": "REV_27834666_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at moggumeong Danang",
+            "review_text": "LOTRing\nSingapore453 contributions\n0\nGreat Korean bbq\nOct 2024 • Friends\nIt's interesting to find high-quality Korean bbq in Vietnam. The menu is simple. We only need to choose from 4 types of meat, and they took care of the rest. Service was prompt, and ambience was cosy. The boss is Korean, and he seems to be supervising all processes. Seems like 80% of customers are Koreans, so it's very authentic. We enjoyed the meal.\nWritten October 30, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

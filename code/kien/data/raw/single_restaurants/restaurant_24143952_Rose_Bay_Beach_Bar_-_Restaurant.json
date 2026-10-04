@@ -1,0 +1,81 @@
+{
+    "restaurant_id": "24143952",
+    "restaurant_name": "Rose Bay Beach Bar - Restaurant",
+    "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d24143952-Reviews-Rose_Bay_Beach_Bar_Restaurant-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d24143952-Reviews-Rose_Bay_Beach_Bar_Restaurant-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ha Long City, Hạ Long Bay Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 7
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 20.924784,
+            "longitude": 106.992226
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b8/9f/86/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Bar",
+            "Pub",
+            "Dining bars"
+        ],
+        "telephone": "+84 94 535 99 26"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

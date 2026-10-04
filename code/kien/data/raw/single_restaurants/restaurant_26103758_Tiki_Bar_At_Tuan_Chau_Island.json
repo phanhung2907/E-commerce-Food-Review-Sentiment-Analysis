@@ -1,0 +1,618 @@
+{
+    "restaurant_id": "26103758",
+    "restaurant_name": "Tiki Bar At Tuan Chau Island",
+    "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g3737857-d26103758-Reviews-Tiki_Bar_At_Tuan_Chau_Island-Tuan_Chau_Island_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g3737857-d26103758-Reviews-Tiki_Bar_At_Tuan_Chau_Island-Tuan_Chau_Island_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Hạ Long Bay, Tuan Chau Island Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.3,
+            "reviewCount": 7
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 20.928812,
+            "longitude": 106.99431
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/c4/73/f9/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "12:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "13:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "13:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "13:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "13:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "13:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "12:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Bar",
+            "European",
+            "Pub",
+            "Vietnamese",
+            "Dining bars"
+        ],
+        "telephone": "+84 347 666 607"
+    },
+    "reviews_count": 6,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T15:50:46.611688",
+            "restaurant_id": "26103758",
+            "restaurant_name": "Tiki Bar At Tuan Chau Island",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g3737857-d26103758-Reviews-Tiki_Bar_At_Tuan_Chau_Island-Tuan_Chau_Island_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g3737857-d26103758-Reviews-Tiki_Bar_At_Tuan_Chau_Island-Tuan_Chau_Island_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Hạ Long Bay, Tuan Chau Island Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.3,
+                "reviewCount": 7
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 20.928812,
+                "longitude": 106.99431
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/c4/73/f9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Bar",
+                "European",
+                "Pub",
+                "Vietnamese",
+                "Dining bars"
+            ],
+            "telephone": "+84 347 666 607",
+            "review_id": "REV_26103758_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Tiki Bar At Tuan Chau Island",
+            "review_text": "Анжелика К\n5 contributions\n0\nPleasant place for a beach holiday\nAug 2024 • Couples\nClear place🙂\nThe menu is familiar. Wings, burgers, bread with garlic (baguette with garlic butter). On garlic bread immediately presented croutons from Borodinsky, but alas)))\nThe bar has delicious cocktails, local cold beer.\nA very cozy place with good music. \nNear the cafe there are umbrellas and sun loungers, you can order food and while it is prepared to swim in the sea. \nView from the cafe to the bay. It's super beautiful.\nBeautiful interior. \nThe fun part is there's no dump of food waste, rags, dirty kitchenware near the cafe, with the characteristic smell of rotten fish. The bar owner clearly knows what service is available in other countries.\nRead more\nTranslated from Russian\nShow original\nWritten August 3, 2024\nSergio\nThank you for taking the time to share your thoughts! We're delighted you enjoyed our cozy atmosphere, music, cocktails, and cold local beer. It’s great to hear that our view of the bay and our comfortable beach setup added to your experience.\n\nWe appreciate your feedback on the garlic bread; we'll keep that in mind for future menu updates. Cleanliness and maintaining a pleasant environment are top priorities for us, and we’re glad you noticed! Thank you again for visiting, and we hope to welcome you back for more relaxing moments by the sea.\n\nWarm regards,\nSergio\nRead more\nWritten November 13, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T15:50:46.625933",
+            "restaurant_id": "26103758",
+            "restaurant_name": "Tiki Bar At Tuan Chau Island",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g3737857-d26103758-Reviews-Tiki_Bar_At_Tuan_Chau_Island-Tuan_Chau_Island_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g3737857-d26103758-Reviews-Tiki_Bar_At_Tuan_Chau_Island-Tuan_Chau_Island_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Hạ Long Bay, Tuan Chau Island Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.3,
+                "reviewCount": 7
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 20.928812,
+                "longitude": 106.99431
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/c4/73/f9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Bar",
+                "European",
+                "Pub",
+                "Vietnamese",
+                "Dining bars"
+            ],
+            "telephone": "+84 347 666 607",
+            "review_id": "REV_26103758_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Tiki Bar At Tuan Chau Island",
+            "review_text": "Sem N\n1 contribution\n0\nVery good bar!\nJul 2024 • Family\nGreat spot, excellent food, fair prices and great hospiltality. What do you want more? Number #1 bar/restaurant here at the beach.\nWritten July 27, 2024\nSergio\nThank you for your wonderful review! We're delighted to hear you enjoyed our food, prices, and hospitality. It's an honor to be considered the top spot on the beach. We can't wait to serve you again soon!\nWritten July 31, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T15:50:46.644933",
+            "restaurant_id": "26103758",
+            "restaurant_name": "Tiki Bar At Tuan Chau Island",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g3737857-d26103758-Reviews-Tiki_Bar_At_Tuan_Chau_Island-Tuan_Chau_Island_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g3737857-d26103758-Reviews-Tiki_Bar_At_Tuan_Chau_Island-Tuan_Chau_Island_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Hạ Long Bay, Tuan Chau Island Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.3,
+                "reviewCount": 7
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 20.928812,
+                "longitude": 106.99431
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/c4/73/f9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Bar",
+                "European",
+                "Pub",
+                "Vietnamese",
+                "Dining bars"
+            ],
+            "telephone": "+84 347 666 607",
+            "review_id": "REV_26103758_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Tiki Bar At Tuan Chau Island",
+            "review_text": "Stray Cat\nHạ Long Bay, Vietnam44 contributions\n0\nBest Thai food in Ha Long (& the drinks/western food are fab as well) - 'On the beach\"!\nJun 2024 • Couples\nYes, very nice indeed. Good menu with an excellent new chef who can make both Western & Thai dishes. Had a few of the dishes and also the cocktails to check the place out. Yep, very, very good for this area. Well worth a visit and will come here again very soon - it's on our radar! Only heard good things about this place and its owner (Sergio - top man). The 'proof is in the pudding' as the saying goes in England. Top notch (and you can swim as it's right on the beach)!\nValue\nService\nFood\nAtmosphere\nWritten June 24, 2024\nSergio\nDear Sean,\n\nThank you for your fantastic review! We're delighted to hear you enjoyed the diverse menu and cocktails at TIKI Bar. It's wonderful to know our new chef's skills in both Western and Thai dishes impressed you. Me, the owner and the entire team truly appreciate your kind words. We look forward to welcoming you back soon for another memorable experience on the beach. \n\nBest regards, \nSergio\n\n---\nRead more\nWritten June 27, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T15:50:46.664937",
+            "restaurant_id": "26103758",
+            "restaurant_name": "Tiki Bar At Tuan Chau Island",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g3737857-d26103758-Reviews-Tiki_Bar_At_Tuan_Chau_Island-Tuan_Chau_Island_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g3737857-d26103758-Reviews-Tiki_Bar_At_Tuan_Chau_Island-Tuan_Chau_Island_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Hạ Long Bay, Tuan Chau Island Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.3,
+                "reviewCount": 7
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 20.928812,
+                "longitude": 106.99431
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/c4/73/f9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Bar",
+                "European",
+                "Pub",
+                "Vietnamese",
+                "Dining bars"
+            ],
+            "telephone": "+84 347 666 607",
+            "review_id": "REV_26103758_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Tiki Bar At Tuan Chau Island",
+            "review_text": "Graham J\nEngland, United Kingdom10 contributions\n0\nBeach bars in Tuan Chau.\nMay 2024 • Couples\nThe Tiki Bar is ideally situated on the beach with a breathtaking view of the islands. We usually have the chicken wings washed down with a couple of beers. Great place to unwind.\nValue\nService\nFood\nAtmosphere\nWritten May 19, 2024\nSergio\nThank you for your kind words! We're delighted that you enjoy our beachfront location and the stunning island views. It's great to hear that our TIKI Chicken wings and beers helps you to unwind. We look forward to welcoming you back for more relaxing moments.\nWritten June 15, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T15:50:46.679072",
+            "restaurant_id": "26103758",
+            "restaurant_name": "Tiki Bar At Tuan Chau Island",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g3737857-d26103758-Reviews-Tiki_Bar_At_Tuan_Chau_Island-Tuan_Chau_Island_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g3737857-d26103758-Reviews-Tiki_Bar_At_Tuan_Chau_Island-Tuan_Chau_Island_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Hạ Long Bay, Tuan Chau Island Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.3,
+                "reviewCount": 7
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 20.928812,
+                "longitude": 106.99431
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/c4/73/f9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Bar",
+                "European",
+                "Pub",
+                "Vietnamese",
+                "Dining bars"
+            ],
+            "telephone": "+84 347 666 607",
+            "review_id": "REV_26103758_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Tiki Bar At Tuan Chau Island",
+            "review_text": "Larysa L\n4 contributions\n0\nChill\nNov 2023 • Friends\nAmazing place with good service, menu and view) definitely love it and will come back 100%. Have a lot of special parties, live music. Best place in the island\nWritten November 20, 2023\nSergio\nThank you so much for your wonderful review! We're thrilled to hear that you enjoyed our service, menu and the view. It's fantastic to know you had a great time at our special parties. We look forward to welcoming you back soon for more amazing experiences!\nWritten June 15, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T15:50:46.696214",
+            "restaurant_id": "26103758",
+            "restaurant_name": "Tiki Bar At Tuan Chau Island",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g3737857-d26103758-Reviews-Tiki_Bar_At_Tuan_Chau_Island-Tuan_Chau_Island_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "city": "15. Hạ Long Bay Restaurants\nSee all 272 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g3737857-d26103758-Reviews-Tiki_Bar_At_Tuan_Chau_Island-Tuan_Chau_Island_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Hạ Long Bay, Tuan Chau Island Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.3,
+                "reviewCount": 7
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 20.928812,
+                "longitude": 106.99431
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/c4/73/f9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "13:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Bar",
+                "European",
+                "Pub",
+                "Vietnamese",
+                "Dining bars"
+            ],
+            "telephone": "+84 347 666 607",
+            "review_id": "REV_26103758_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at Tiki Bar At Tuan Chau Island",
+            "review_text": "Xavier_rosset\nVerbier, Switzerland33 contributions\n0\nGo for a nice drink on the beach\nNov 2023 • Solo\nVery nice beach bar.\nNice cocktails and some beach food.\nTh place is very clean, even the beach in the front of the bar is daily cleaned.\nWritten November 8, 2023\nSergio\nThank you, Xavier Rosset, for your wonderful review of TIKI Bar!\n\nWe're delighted to hear that you had a great experience at our beach bar. It's our pleasure to serve you delicious cocktails and beach-inspired food. We take great pride in maintaining a clean and inviting environment for our guests, including the pristine beach right in front of the bar.\nYour positive feedback means a lot to us, and we look forward to welcoming you back to TIKI Bar for more beachside enjoyment. Cheers to many more memorable moments by the sea! 🏖️🍹\nRead more\nWritten November 12, 2023\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}
