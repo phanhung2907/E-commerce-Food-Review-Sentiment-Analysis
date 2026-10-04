@@ -1,0 +1,83 @@
+{
+    "restaurant_id": "24994202",
+    "restaurant_name": "Com Gia Dinh Da Nang Hai San Tuoi Song",
+    "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298085-d24994202-Reviews-Com_Gia_Dinh_Da_Nang_Hai_San_Tuoi_Song-Da_Nang.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g298085-d24994202-Reviews-Com_Gia_Dinh_Da_Nang_Hai_San_Tuoi_Song-Da_Nang.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Da Nang Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 16.044289,
+            "longitude": 108.248184
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/22/bc/79/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "09:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "09:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "09:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "09:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "09:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "09:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "09:00:00",
+                "closes": "02:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Cafe",
+            "Seafood",
+            "Barbecue",
+            "Asian",
+            "Indigenous"
+        ],
+        "telephone": "+84 98 680 74 44"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

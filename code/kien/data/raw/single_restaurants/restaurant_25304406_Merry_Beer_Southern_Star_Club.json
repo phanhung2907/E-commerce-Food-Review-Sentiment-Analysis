@@ -1,0 +1,86 @@
+{
+    "restaurant_id": "25304406",
+    "restaurant_name": "Merry Beer Southern Star Club",
+    "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g19339361-d25304406-Reviews-Merry_Beer_Southern_Star_Club-An_Hai_Tay_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g19339361-d25304406-Reviews-Merry_Beer_Southern_Star_Club-An_Hai_Tay_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "338 Đ. Trần Hưng Đạo",
+            "addressLocality": "An Hai Tay",
+            "postalCode": "50406"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.5,
+            "reviewCount": 2
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 16.053099,
+            "longitude": 108.23265
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/97/57/a2/this-is-outside-restaurant.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:00:00",
+                "closes": "23:45:00"
+            }
+        ],
+        "priceRange": "$$$$",
+        "servesCuisine": [
+            "Belgian",
+            "European",
+            "Grill",
+            "Fusion",
+            "Diner",
+            "Indigenous"
+        ],
+        "telephone": "+84 343 400 246"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

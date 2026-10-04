@@ -1,0 +1,81 @@
+{
+    "restaurant_id": "23023182",
+    "restaurant_name": "Okela Pizza",
+    "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298085-d23023182-Reviews-Okela_Pizza-Da_Nang.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g298085-d23023182-Reviews-Okela_Pizza-Da_Nang.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "26 Tiểu La",
+            "postalCode": "55000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 16.046577,
+            "longitude": 108.22155
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/77/8d/66/m-t-tr-i-nghi-m-tuy-t.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Italian",
+            "Pizza"
+        ],
+        "telephone": "0768252279"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

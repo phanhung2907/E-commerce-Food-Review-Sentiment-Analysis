@@ -1,0 +1,103 @@
+{
+    "restaurant_id": "25321393",
+    "restaurant_name": "Chill Hub Milktea And Cocktails",
+    "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298085-d25321393-Reviews-Chill_Hub_Milktea_And_Cocktails-Da_Nang.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g298085-d25321393-Reviews-Chill_Hub_Milktea_And_Cocktails-Da_Nang.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Da Nang Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 16.064789,
+            "longitude": 108.24589
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/f0/40/76/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Bar",
+            "Fast Food",
+            "International",
+            "Pub",
+            "Wine Bar",
+            "Beer restaurants"
+        ],
+        "telephone": "+84 389 788 213"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T04:07:17.479409",
+            "restaurant_id": "25321393",
+            "restaurant_name": "Chill Hub Milktea And Cocktails",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298085-d25321393-Reviews-Chill_Hub_Milktea_And_Cocktails-Da_Nang.html",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298085-d25321393-Reviews-Chill_Hub_Milktea_And_Cocktails-Da_Nang.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Da Nang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.064789,
+                "longitude": 108.24589
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/f0/40/76/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Bar",
+                "Fast Food",
+                "International",
+                "Pub",
+                "Wine Bar",
+                "Beer restaurants"
+            ],
+            "telephone": "+84 389 788 213",
+            "review_id": "REV_25321393_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Chill Hub Milktea And Cocktails",
+            "review_text": "Carl\n2 contributions\n0\nGreat experience\nFeb 2023\nVery friendly staff, good food and great location at the beach! Have good cocktails, beers and food! overall 10/10 for me!\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten February 20, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

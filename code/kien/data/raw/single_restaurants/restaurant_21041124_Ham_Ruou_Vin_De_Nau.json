@@ -1,0 +1,79 @@
+{
+    "restaurant_id": "21041124",
+    "restaurant_name": "Ham Ruou Vin De Nau",
+    "city": "19. Quy Nhon Restaurants\nSee all 184 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g608528-d21041124-Reviews-Ham_Ruou_Vin_De_Nau-Quy_Nhon_Binh_Dinh_Province.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g608528-d21041124-Reviews-Ham_Ruou_Vin_De_Nau-Quy_Nhon_Binh_Dinh_Province.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "58 Xuan DIeu",
+            "postalCode": "52000"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 13.771142,
+            "longitude": 109.24744
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/75/f6/13/phong-kin-dao-rieng-bi.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "09:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "09:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "09:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "09:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "09:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "09:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "09:00:00",
+                "closes": "23:45:00"
+            }
+        ],
+        "priceRange": "$$$$",
+        "servesCuisine": [
+            "Seafood"
+        ],
+        "telephone": "+84 97 502 88 58"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

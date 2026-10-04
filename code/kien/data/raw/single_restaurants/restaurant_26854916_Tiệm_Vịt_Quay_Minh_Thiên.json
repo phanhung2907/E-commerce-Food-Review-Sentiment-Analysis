@@ -1,0 +1,805 @@
+{
+    "restaurant_id": "26854916",
+    "restaurant_name": "Tiệm Vịt Quay Minh Thiên",
+    "city": "18. Duong To Restaurants\nSee all 213 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184676-d26854916-Reviews-Ti_m_V_t_Quay_Minh_Thien-Duong_To_Phu_Quoc_Island_Kien_Giang_Province.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184676-d26854916-Reviews-Ti_m_V_t_Quay_Minh_Thien-Duong_To_Phu_Quoc_Island_Kien_Giang_Province.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "Chợ Đường Bào Dương Tơ Thành Phố Phú Quốc",
+            "postalCode": "92500"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 8
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.151834,
+            "longitude": 103.97949
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ee/c1/ce/ph-c-v-com-m-v-t-quay.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "11:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "11:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "11:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "11:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "11:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "11:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "11:00:00",
+                "closes": "00:00:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Chinese",
+            "Cafe",
+            "Asian",
+            "Deli",
+            "Indigenous"
+        ],
+        "telephone": "+84 358 503 123"
+    },
+    "reviews_count": 8,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T20:18:55.189135",
+            "restaurant_id": "26854916",
+            "restaurant_name": "Tiệm Vịt Quay Minh Thiên",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184676-d26854916-Reviews-Ti_m_V_t_Quay_Minh_Thien-Duong_To_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "18. Duong To Restaurants\nSee all 213 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184676-d26854916-Reviews-Ti_m_V_t_Quay_Minh_Thien-Duong_To_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Chợ Đường Bào Dương Tơ Thành Phố Phú Quốc",
+                "postalCode": "92500"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.151834,
+                "longitude": 103.97949
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ee/c1/ce/ph-c-v-com-m-v-t-quay.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Cafe",
+                "Asian",
+                "Deli",
+                "Indigenous"
+            ],
+            "telephone": "+84 358 503 123",
+            "review_id": "REV_26854916_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Tiệm Vịt Quay Minh Thiên",
+            "review_text": "Glenn_20c\n67 contributions\n0\nGreat food\nApr 2026 • Family\nGreat food especially the roast duck and char su pork noodles\nWritten April 20, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T20:18:55.203134",
+            "restaurant_id": "26854916",
+            "restaurant_name": "Tiệm Vịt Quay Minh Thiên",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184676-d26854916-Reviews-Ti_m_V_t_Quay_Minh_Thien-Duong_To_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "18. Duong To Restaurants\nSee all 213 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184676-d26854916-Reviews-Ti_m_V_t_Quay_Minh_Thien-Duong_To_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Chợ Đường Bào Dương Tơ Thành Phố Phú Quốc",
+                "postalCode": "92500"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.151834,
+                "longitude": 103.97949
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ee/c1/ce/ph-c-v-com-m-v-t-quay.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Cafe",
+                "Asian",
+                "Deli",
+                "Indigenous"
+            ],
+            "telephone": "+84 358 503 123",
+            "review_id": "REV_26854916_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Tiệm Vịt Quay Minh Thiên",
+            "review_text": "C B\nRickmansworth, United Kingdom867 contributions\n0\nGreat Duck !\nMar 2026 • Couples\nGreat duck and super cheap\nFriendly service \nSadly massive road works being done outside the restaurant but life goes on and doesn’t disrupt the food or service\nWritten March 28, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T20:18:55.218135",
+            "restaurant_id": "26854916",
+            "restaurant_name": "Tiệm Vịt Quay Minh Thiên",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184676-d26854916-Reviews-Ti_m_V_t_Quay_Minh_Thien-Duong_To_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "18. Duong To Restaurants\nSee all 213 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184676-d26854916-Reviews-Ti_m_V_t_Quay_Minh_Thien-Duong_To_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Chợ Đường Bào Dương Tơ Thành Phố Phú Quốc",
+                "postalCode": "92500"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.151834,
+                "longitude": 103.97949
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ee/c1/ce/ph-c-v-com-m-v-t-quay.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Cafe",
+                "Asian",
+                "Deli",
+                "Indigenous"
+            ],
+            "telephone": "+84 358 503 123",
+            "review_id": "REV_26854916_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Tiệm Vịt Quay Minh Thiên",
+            "review_text": "Юлия У\n12 contributions\n0\nDuck, this is something special!!!\nNov 2025 • Couples\nReturning from the cable car accidentally saw the completion and decided to try,all the dishes at an affordable price, while everything is clean, sofas,treated free cold oolong tea(while waiting for the order) took and soup 60 dong(the noodles taste better than rice, like homemade with lagman),and vegetables and dumplings 60 dong - all just delicious!!! We are thrilled, we will definitely come back and tell our own in the hotel, also the employee advised the second point and she was closer to us by free bus (near the airport) Thank you very much from Belarus\nRead more\nTranslated from Russian\nShow original\nWritten November 30, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T20:18:55.229135",
+            "restaurant_id": "26854916",
+            "restaurant_name": "Tiệm Vịt Quay Minh Thiên",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184676-d26854916-Reviews-Ti_m_V_t_Quay_Minh_Thien-Duong_To_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "18. Duong To Restaurants\nSee all 213 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184676-d26854916-Reviews-Ti_m_V_t_Quay_Minh_Thien-Duong_To_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Chợ Đường Bào Dương Tơ Thành Phố Phú Quốc",
+                "postalCode": "92500"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.151834,
+                "longitude": 103.97949
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ee/c1/ce/ph-c-v-com-m-v-t-quay.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Cafe",
+                "Asian",
+                "Deli",
+                "Indigenous"
+            ],
+            "telephone": "+84 358 503 123",
+            "review_id": "REV_26854916_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Tiệm Vịt Quay Minh Thiên",
+            "review_text": "Brendan T\n1 contribution\n0\nBest duck ever\nAug 2025 • Family\nAbsolutely delicious duck with generous portions at a low price. Amazing coconut coffee and drinks served by amazing people\nWritten August 19, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T20:18:55.240139",
+            "restaurant_id": "26854916",
+            "restaurant_name": "Tiệm Vịt Quay Minh Thiên",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184676-d26854916-Reviews-Ti_m_V_t_Quay_Minh_Thien-Duong_To_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "18. Duong To Restaurants\nSee all 213 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184676-d26854916-Reviews-Ti_m_V_t_Quay_Minh_Thien-Duong_To_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Chợ Đường Bào Dương Tơ Thành Phố Phú Quốc",
+                "postalCode": "92500"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.151834,
+                "longitude": 103.97949
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ee/c1/ce/ph-c-v-com-m-v-t-quay.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Cafe",
+                "Asian",
+                "Deli",
+                "Indigenous"
+            ],
+            "telephone": "+84 358 503 123",
+            "review_id": "REV_26854916_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Tiệm Vịt Quay Minh Thiên",
+            "review_text": "KathiMeier\nAugsburg, Germany26 contributions\n0\nBest Duck in Vietnam\nFeb 2025 • Couples\nIf you are looking for a good Peking duck, you will definitely find it here. \nOur dish was with one of the tastiest and cheapest we got on our Vietnam trip. Because it tasted so good, we even ordered a side duck. Also our fruit juices and the Coconut Coffee were freshly prepared and delicious. Clear recommendation!\nTranslated from German\nShow original\nWritten February 17, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T20:18:55.253646",
+            "restaurant_id": "26854916",
+            "restaurant_name": "Tiệm Vịt Quay Minh Thiên",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184676-d26854916-Reviews-Ti_m_V_t_Quay_Minh_Thien-Duong_To_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "18. Duong To Restaurants\nSee all 213 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184676-d26854916-Reviews-Ti_m_V_t_Quay_Minh_Thien-Duong_To_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Chợ Đường Bào Dương Tơ Thành Phố Phú Quốc",
+                "postalCode": "92500"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.151834,
+                "longitude": 103.97949
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ee/c1/ce/ph-c-v-com-m-v-t-quay.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Cafe",
+                "Asian",
+                "Deli",
+                "Indigenous"
+            ],
+            "telephone": "+84 358 503 123",
+            "review_id": "REV_26854916_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at Tiệm Vịt Quay Minh Thiên",
+            "review_text": "James G\n4 contributions\n0\nExceptional Duck!!\nMar 2024 • Couples\nBRILLIANT restaurant selling Peking Duck dishes.\n\nI’m shocked this place isn’t higher up the TripAdvisor ranks.\n\nSet up is minimal, but very cute! You can tell in the quality of the food that the owner really cares about his dishes. What is really special about this place is that all the dishes revolve around one main ingredient, a simple idea with incredible results!\n\nA definite recommend for any trip to Phu Quoc, especially for duck fans, even though it is a little bit off the beaten track! This place is filled with locals.\n\nI’d recommend getting the duck with noodles (and obviously, a peking duck!)\nRead more\nWritten March 28, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T20:18:55.264647",
+            "restaurant_id": "26854916",
+            "restaurant_name": "Tiệm Vịt Quay Minh Thiên",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184676-d26854916-Reviews-Ti_m_V_t_Quay_Minh_Thien-Duong_To_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "18. Duong To Restaurants\nSee all 213 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184676-d26854916-Reviews-Ti_m_V_t_Quay_Minh_Thien-Duong_To_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Chợ Đường Bào Dương Tơ Thành Phố Phú Quốc",
+                "postalCode": "92500"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.151834,
+                "longitude": 103.97949
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ee/c1/ce/ph-c-v-com-m-v-t-quay.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Cafe",
+                "Asian",
+                "Deli",
+                "Indigenous"
+            ],
+            "telephone": "+84 358 503 123",
+            "review_id": "REV_26854916_p1_6",
+            "reviewer_id": "User_p1_6",
+            "review_title": "Review at Tiệm Vịt Quay Minh Thiên",
+            "review_text": "Trail68152215122\nPhu Quoc Island, Vietnam1 contribution\n0\nDinner at the duck restaurant near home\nMar 2024 • Couples\nThe food comes out quickly, the noodles are good, the broth is delicious, the duck is fragrant, the big plus is the dipping sauce and chili sauce, the drinks are good, my wife really likes the mango smoothie here.\nShow original\nWritten March 9, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T20:18:55.281647",
+            "restaurant_id": "26854916",
+            "restaurant_name": "Tiệm Vịt Quay Minh Thiên",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184676-d26854916-Reviews-Ti_m_V_t_Quay_Minh_Thien-Duong_To_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "18. Duong To Restaurants\nSee all 213 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184676-d26854916-Reviews-Ti_m_V_t_Quay_Minh_Thien-Duong_To_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Chợ Đường Bào Dương Tơ Thành Phố Phú Quốc",
+                "postalCode": "92500"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.151834,
+                "longitude": 103.97949
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ee/c1/ce/ph-c-v-com-m-v-t-quay.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "00:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Cafe",
+                "Asian",
+                "Deli",
+                "Indigenous"
+            ],
+            "telephone": "+84 358 503 123",
+            "review_id": "REV_26854916_p1_7",
+            "reviewer_id": "User_p1_7",
+            "review_title": "Review at Tiệm Vịt Quay Minh Thiên",
+            "review_text": "Don T\n2 contributions\n0\nThe best in town!\nJan 2024 • Friends\nPretty decoration. The duck noodle are so delicious. I really got impressived by the duck meat rolls. Highly recommend those.\nNở - the owner is so kind. She so friendly!\nValue\nService\nFood\nAtmosphere\nWritten February 1, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

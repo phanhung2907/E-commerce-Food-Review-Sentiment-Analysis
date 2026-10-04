@@ -1,0 +1,79 @@
+{
+    "restaurant_id": "33352221",
+    "restaurant_name": "Cơm Mẹ Nấu",
+    "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g17786366-d33352221-Reviews-Com_M_N_u-Son_Tra_Peninsula_Da_Nang.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g17786366-d33352221-Reviews-Com_M_N_u-Son_Tra_Peninsula_Da_Nang.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "149 Tô Hiến Thành Sơn Trà Đà Nẵng"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 16.057158,
+            "longitude": 108.24412
+        },
+        "image": "N/A",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:15:00",
+                "closes": "20:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:15:00",
+                "closes": "20:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:15:00",
+                "closes": "20:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:15:00",
+                "closes": "20:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:15:00",
+                "closes": "20:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:15:00",
+                "closes": "20:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:15:00",
+                "closes": "20:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Vietnamese",
+            "Indigenous"
+        ],
+        "telephone": "+84344166566"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

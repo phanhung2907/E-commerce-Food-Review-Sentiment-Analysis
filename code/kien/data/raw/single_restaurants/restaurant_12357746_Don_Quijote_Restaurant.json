@@ -1,0 +1,1435 @@
+{
+    "restaurant_id": "12357746",
+    "restaurant_name": "Don Quijote Restaurant",
+    "city": "14. Vung Tau Restaurants\nSee all 295 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "36 Trần Hưng Đạo Phường 1",
+            "addressLocality": "Vung Tau",
+            "postalCode": "79000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.5,
+            "reviewCount": 160
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.344895,
+            "longitude": 107.07684
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/aa/a4/ed/romantic-setup.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "11:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "11:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "11:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "11:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "11:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "11:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "11:00:00",
+                "closes": "22:30:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "French",
+            "Bar",
+            "Barbecue",
+            "Spanish"
+        ],
+        "telephone": "+84 254 6508 033"
+    },
+    "reviews_count": 15,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:39:27.019686",
+            "restaurant_id": "12357746",
+            "restaurant_name": "Don Quijote Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "14. Vung Tau Restaurants\nSee all 295 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Trần Hưng Đạo Phường 1",
+                "addressLocality": "Vung Tau",
+                "postalCode": "79000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 160
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.344895,
+                "longitude": 107.07684
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/aa/a4/ed/romantic-setup.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Bar",
+                "Barbecue",
+                "Spanish"
+            ],
+            "telephone": "+84 254 6508 033",
+            "review_id": "REV_12357746_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Don Quijote Restaurant",
+            "review_text": "Philippe C\nPARIS215 contributions\n0\nFriendly place to share.\nJul 2026 • Couples\nPleasant surprise with the discovery of this place where everything is done to make you forget the heat of the city. Very good value for money and attentive service. A must-visit!\nTranslated from French\nShow original\nWritten July 5, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:39:27.031725",
+            "restaurant_id": "12357746",
+            "restaurant_name": "Don Quijote Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "14. Vung Tau Restaurants\nSee all 295 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Trần Hưng Đạo Phường 1",
+                "addressLocality": "Vung Tau",
+                "postalCode": "79000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 160
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.344895,
+                "longitude": 107.07684
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/aa/a4/ed/romantic-setup.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Bar",
+                "Barbecue",
+                "Spanish"
+            ],
+            "telephone": "+84 254 6508 033",
+            "review_id": "REV_12357746_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Don Quijote Restaurant",
+            "review_text": "Allistair M\nBallarat, Australia38 contributions\n0\nA WONDERFUL DINING EXPERIENCE\nMay 2026 • Couples\nWe've been coming here for years. Never disappointed. Exceptional food and service at a very reasonable price. AIR CONDITIONED COMFORT and very attentive staff.\nTHANH, our main waitress this trip, is deserved of much praise for her professional approach and utterly delightful personality. \nI can't recommend highly enough. Do yourselves a favour and savour their wonderful fare.\nRead more\nWritten May 17, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:39:27.042283",
+            "restaurant_id": "12357746",
+            "restaurant_name": "Don Quijote Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "14. Vung Tau Restaurants\nSee all 295 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Trần Hưng Đạo Phường 1",
+                "addressLocality": "Vung Tau",
+                "postalCode": "79000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 160
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.344895,
+                "longitude": 107.07684
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/aa/a4/ed/romantic-setup.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Bar",
+                "Barbecue",
+                "Spanish"
+            ],
+            "telephone": "+84 254 6508 033",
+            "review_id": "REV_12357746_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Don Quijote Restaurant",
+            "review_text": "Voyage08522729571\n1 contribution\n0\nmust try\nApr 2026 • Friends\nsuper great food, i love beef on the bone and chicken penne\nWritten April 2, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:39:27.053655",
+            "restaurant_id": "12357746",
+            "restaurant_name": "Don Quijote Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "14. Vung Tau Restaurants\nSee all 295 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Trần Hưng Đạo Phường 1",
+                "addressLocality": "Vung Tau",
+                "postalCode": "79000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 160
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.344895,
+                "longitude": 107.07684
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/aa/a4/ed/romantic-setup.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Bar",
+                "Barbecue",
+                "Spanish"
+            ],
+            "telephone": "+84 254 6508 033",
+            "review_id": "REV_12357746_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Don Quijote Restaurant",
+            "review_text": "Helena\nGislaved, Sweden4 contributions\n0\nSuper good food.\nMar 2026 • Couples\nCozy place with good food,perfectly cooked. Come here and eat!\nTranslated from Swedish\nShow original\nWritten March 30, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:39:27.071640",
+            "restaurant_id": "12357746",
+            "restaurant_name": "Don Quijote Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "14. Vung Tau Restaurants\nSee all 295 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Trần Hưng Đạo Phường 1",
+                "addressLocality": "Vung Tau",
+                "postalCode": "79000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 160
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.344895,
+                "longitude": 107.07684
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/aa/a4/ed/romantic-setup.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Bar",
+                "Barbecue",
+                "Spanish"
+            ],
+            "telephone": "+84 254 6508 033",
+            "review_id": "REV_12357746_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Don Quijote Restaurant",
+            "review_text": "Elena T\nIasi, Romania65 contributions\n0\nGood european restaurant\nDec 2025 • Family\nThis is an european restaurant serving good food comparing traditional restaurants in Vung Tău. It is clean and cozy. The goat cheese salad and the deserts were very tasty, but Paella and the burger could have been better.\nValue\nService\nFood\nAtmosphere\nWritten December 28, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:39:27.084130",
+            "restaurant_id": "12357746",
+            "restaurant_name": "Don Quijote Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "14. Vung Tau Restaurants\nSee all 295 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Trần Hưng Đạo Phường 1",
+                "addressLocality": "Vung Tau",
+                "postalCode": "79000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 160
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.344895,
+                "longitude": 107.07684
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/aa/a4/ed/romantic-setup.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Bar",
+                "Barbecue",
+                "Spanish"
+            ],
+            "telephone": "+84 254 6508 033",
+            "review_id": "REV_12357746_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at Don Quijote Restaurant",
+            "review_text": "Karin\nMunich, Germany4 contributions\n0\nPerfect\nDec 2025 • Couples\nWe arrived in the beautiful city today. The food was so 😋 that we come more often. Fine cuisine that makes us happy. Merry Christmas 🎄. Karin from germany\nTranslated from German\nShow original\nWritten December 22, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:39:27.101718",
+            "restaurant_id": "12357746",
+            "restaurant_name": "Don Quijote Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "14. Vung Tau Restaurants\nSee all 295 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Trần Hưng Đạo Phường 1",
+                "addressLocality": "Vung Tau",
+                "postalCode": "79000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 160
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.344895,
+                "longitude": 107.07684
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/aa/a4/ed/romantic-setup.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Bar",
+                "Barbecue",
+                "Spanish"
+            ],
+            "telephone": "+84 254 6508 033",
+            "review_id": "REV_12357746_p1_6",
+            "reviewer_id": "User_p1_6",
+            "review_title": "Review at Don Quijote Restaurant",
+            "review_text": "Francis P\nToulouse, France6 contributions\n0\nAime la vie et profite\nJul 2025 • Friends\nI am mainly addressing people who go to restaurants for a pleasant moment and not just \"to eat\". In this restaurant, the owner Ben, has managed to restore French-style dining through his cuisine and the quality of his staff. For those who are going to compare just the price with the price of Vietnamese restaurants \"Go away\" you are OUT!. When I enter this restaurant I feel an atmosphere that I came to buy with a very diverse, well-balanced menu. Courage to you Ben because you have a much more interesting Vietnamese clientele and that you will satisfy with your culinary knowledge. You are a beautiful encounter through your career\nRead more\nValue\nService\nFood\nAtmosphere\nWritten August 1, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:39:27.119734",
+            "restaurant_id": "12357746",
+            "restaurant_name": "Don Quijote Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "14. Vung Tau Restaurants\nSee all 295 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Trần Hưng Đạo Phường 1",
+                "addressLocality": "Vung Tau",
+                "postalCode": "79000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 160
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.344895,
+                "longitude": 107.07684
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/aa/a4/ed/romantic-setup.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Bar",
+                "Barbecue",
+                "Spanish"
+            ],
+            "telephone": "+84 254 6508 033",
+            "review_id": "REV_12357746_p1_7",
+            "reviewer_id": "User_p1_7",
+            "review_title": "Review at Don Quijote Restaurant",
+            "review_text": "LAURENT E\nHo Chi Minh City, Vietnam2 contributions\n0\nGood food\nApr 2025 • Friends\nPerfect very good and very nice catering and very good and very hearty \nThe staff is very nice I recommend\nValue\nService\nFood\nAtmosphere\nTranslated from French\nShow original\nWritten May 2, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:39:27.130737",
+            "restaurant_id": "12357746",
+            "restaurant_name": "Don Quijote Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "14. Vung Tau Restaurants\nSee all 295 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Trần Hưng Đạo Phường 1",
+                "addressLocality": "Vung Tau",
+                "postalCode": "79000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 160
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.344895,
+                "longitude": 107.07684
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/aa/a4/ed/romantic-setup.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Bar",
+                "Barbecue",
+                "Spanish"
+            ],
+            "telephone": "+84 254 6508 033",
+            "review_id": "REV_12357746_p1_8",
+            "reviewer_id": "User_p1_8",
+            "review_title": "Review at Don Quijote Restaurant",
+            "review_text": "Ali\nBrigg, United Kingdom7 contributions\n0\nNice enough\nFeb 2025 • Couples\nNice food but limited vegetarian meals.\nStaff friendly resturant clean .\nNot really much more i can say about this place didn't knock my socks off sorru\nWritten February 7, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:39:27.144718",
+            "restaurant_id": "12357746",
+            "restaurant_name": "Don Quijote Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "14. Vung Tau Restaurants\nSee all 295 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Trần Hưng Đạo Phường 1",
+                "addressLocality": "Vung Tau",
+                "postalCode": "79000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 160
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.344895,
+                "longitude": 107.07684
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/aa/a4/ed/romantic-setup.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Bar",
+                "Barbecue",
+                "Spanish"
+            ],
+            "telephone": "+84 254 6508 033",
+            "review_id": "REV_12357746_p1_9",
+            "reviewer_id": "User_p1_9",
+            "review_title": "Review at Don Quijote Restaurant",
+            "review_text": "Essadiki\nStockholm County, Sweden131 contributions\n0\nThe outdoor upstairs was wonderful. The food was average. Tasteless\nDec 2024 • Family\nThe environment is nice upstairs under the bare sky. Ambitious chef but unfortunately not getting through. We ordered tuna for the main course that was dry and tasteless. The duck breasts were ok but not more than that. No seasoning or sensational flavors. The service was quick and the girl who helped us was very attentive and helpful. The wine was good.\nRead more\nTranslated from Swedish\nShow original\nWritten December 29, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:39:27.157717",
+            "restaurant_id": "12357746",
+            "restaurant_name": "Don Quijote Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "14. Vung Tau Restaurants\nSee all 295 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Trần Hưng Đạo Phường 1",
+                "addressLocality": "Vung Tau",
+                "postalCode": "79000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 160
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.344895,
+                "longitude": 107.07684
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/aa/a4/ed/romantic-setup.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Bar",
+                "Barbecue",
+                "Spanish"
+            ],
+            "telephone": "+84 254 6508 033",
+            "review_id": "REV_12357746_p1_10",
+            "reviewer_id": "User_p1_10",
+            "review_title": "Review at Don Quijote Restaurant",
+            "review_text": "Cecilia L\nLund, Sweden50 contributions\n0\nThe best in Vung tau\nDec 2024 • Family\nAmazing food. Especially the cheese platter and the homemade bread. Really nice french owner. But the staff is one of a kind. Really nice and service minded. The best restaurant in Ving tau. I highly recommend\nWritten December 27, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:39:27.176721",
+            "restaurant_id": "12357746",
+            "restaurant_name": "Don Quijote Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "14. Vung Tau Restaurants\nSee all 295 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Trần Hưng Đạo Phường 1",
+                "addressLocality": "Vung Tau",
+                "postalCode": "79000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 160
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.344895,
+                "longitude": 107.07684
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/aa/a4/ed/romantic-setup.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Bar",
+                "Barbecue",
+                "Spanish"
+            ],
+            "telephone": "+84 254 6508 033",
+            "review_id": "REV_12357746_p1_11",
+            "reviewer_id": "User_p1_11",
+            "review_title": "Review at Don Quijote Restaurant",
+            "review_text": "Pat C\nFrance7 contributions\n0\nAs it is to be avoided\nDec 2024 • Couples\nProbably one night without ..a pitiful dinner that we cut short after the entrance ..so everything was lamentable and internet advertising baseless and more than. False\nTranslated from French\nShow original\nWritten December 25, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:39:27.190256",
+            "restaurant_id": "12357746",
+            "restaurant_name": "Don Quijote Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "14. Vung Tau Restaurants\nSee all 295 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Trần Hưng Đạo Phường 1",
+                "addressLocality": "Vung Tau",
+                "postalCode": "79000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 160
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.344895,
+                "longitude": 107.07684
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/aa/a4/ed/romantic-setup.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Bar",
+                "Barbecue",
+                "Spanish"
+            ],
+            "telephone": "+84 254 6508 033",
+            "review_id": "REV_12357746_p1_12",
+            "reviewer_id": "User_p1_12",
+            "review_title": "Review at Don Quijote Restaurant",
+            "review_text": "Jonathan\nLiege Province, Belgium6 contributions\n0\nMy experience\nDec 2024 • Couples\nPerfect as always and for several years. Diversified menu and always new. Very good balance between quantity and quality\nTranslated from French\nShow original\nWritten December 15, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:39:27.208127",
+            "restaurant_id": "12357746",
+            "restaurant_name": "Don Quijote Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "14. Vung Tau Restaurants\nSee all 295 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Trần Hưng Đạo Phường 1",
+                "addressLocality": "Vung Tau",
+                "postalCode": "79000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 160
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.344895,
+                "longitude": 107.07684
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/aa/a4/ed/romantic-setup.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Bar",
+                "Barbecue",
+                "Spanish"
+            ],
+            "telephone": "+84 254 6508 033",
+            "review_id": "REV_12357746_p1_13",
+            "reviewer_id": "User_p1_13",
+            "review_title": "Review at Don Quijote Restaurant",
+            "review_text": "Stacy D\nWellington, New Zealand82 contributions\n0\nFind somewhere else to eat/drink\nJun 2024 • Solo\nNice if you like \"corked\" or oxidized wine, tasteless pasta or rubber pork belly. On the positive side, staff very friendly.\nValue\nService\nFood\nAtmosphere\nWritten August 22, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:39:27.227159",
+            "restaurant_id": "12357746",
+            "restaurant_name": "Don Quijote Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "14. Vung Tau Restaurants\nSee all 295 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d12357746-Reviews-Don_Quijote_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Trần Hưng Đạo Phường 1",
+                "addressLocality": "Vung Tau",
+                "postalCode": "79000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 160
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.344895,
+                "longitude": 107.07684
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/aa/a4/ed/romantic-setup.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Bar",
+                "Barbecue",
+                "Spanish"
+            ],
+            "telephone": "+84 254 6508 033",
+            "review_id": "REV_12357746_p1_14",
+            "reviewer_id": "User_p1_14",
+            "review_title": "Review at Don Quijote Restaurant",
+            "review_text": "gandke54\nNanango, Australia121 contributions\n0\nSuperb Dining Experience in Vung Tau.\nMay 2024 • Couples\nThis was one of the best meals I’ve ever had and definitely the best we’ve had in Vietnam to date….and we’ve been here a month. The atmosphere was welcoming, service was excellent, great aircon…and the food was just divine. Such a varied menu that we had trouble choosing, but ended up sharing the foie gras, pork terrine, tuna tartar, mussels, asparagus, rib fillet and the most divine profiteroles I’ve ever tasted. With a pre-dinner drink each and wine, about AUD$139 all up - expensive for Vietnam but worth every cent. We couldn’t fault a thing.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten May 27, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

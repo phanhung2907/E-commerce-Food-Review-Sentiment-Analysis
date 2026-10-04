@@ -1,0 +1,1419 @@
+{
+    "restaurant_id": "15101104",
+    "restaurant_name": "Spice India Halal Restaurant",
+    "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "99A Tran Hung Dao Hamlet 7",
+            "addressLocality": "Duong Dong",
+            "postalCode": "920000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.5,
+            "reviewCount": 177
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.204198,
+            "longitude": 103.964294
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/36/55/64/exterior.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Indian",
+            "Asian",
+            "Healthy"
+        ],
+        "telephone": "+84 121 228 1786"
+    },
+    "reviews_count": 15,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:55:28.835558",
+            "restaurant_id": "15101104",
+            "restaurant_name": "Spice India Halal Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "99A Tran Hung Dao Hamlet 7",
+                "addressLocality": "Duong Dong",
+                "postalCode": "920000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 177
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.204198,
+                "longitude": 103.964294
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/36/55/64/exterior.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian",
+                "Asian",
+                "Healthy"
+            ],
+            "telephone": "+84 121 228 1786",
+            "review_id": "REV_15101104_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Spice India Halal Restaurant",
+            "review_text": "Patricia\n2 contributions\n0\nIncredible food, wonderful staff\nSep 2026 • Family\nWe had the most incredible experience. The food was wonderful, tasty and authentic. The staff were so hospitable making our whole evening even more enjoyable. They allowed us to bring our own wine, as they dont stock this. Definitely deserve more than 4.5. We would rate them a 4.7.\nWritten September 11, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:55:28.851573",
+            "restaurant_id": "15101104",
+            "restaurant_name": "Spice India Halal Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "99A Tran Hung Dao Hamlet 7",
+                "addressLocality": "Duong Dong",
+                "postalCode": "920000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 177
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.204198,
+                "longitude": 103.964294
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/36/55/64/exterior.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian",
+                "Asian",
+                "Healthy"
+            ],
+            "telephone": "+84 121 228 1786",
+            "review_id": "REV_15101104_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Spice India Halal Restaurant",
+            "review_text": "Flyer36463433580\n1 contribution\n0\nA very good eperience at a little Indian Restaurant in Ho Chi Minh City\nJul 2026 • Solo\nVery acoustic, the staff are very friendly and the foods are good but also very delicious. Plus Halal and Vegan options are always available. 10/10 would dine again.\nValue\nService\nFood\nAtmosphere\nWritten July 26, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:55:28.868562",
+            "restaurant_id": "15101104",
+            "restaurant_name": "Spice India Halal Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "99A Tran Hung Dao Hamlet 7",
+                "addressLocality": "Duong Dong",
+                "postalCode": "920000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 177
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.204198,
+                "longitude": 103.964294
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/36/55/64/exterior.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian",
+                "Asian",
+                "Healthy"
+            ],
+            "telephone": "+84 121 228 1786",
+            "review_id": "REV_15101104_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Spice India Halal Restaurant",
+            "review_text": "Haroon Q\n1 contribution\n0\nExcellent food quality\nJul 2025 • Friends\nRecently I visited there with my friends nd the place was great the staff was polite nd the food was very delicious. Loved the place\nValue\nService\nFood\nAtmosphere\nWritten July 19, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:55:28.880102",
+            "restaurant_id": "15101104",
+            "restaurant_name": "Spice India Halal Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "99A Tran Hung Dao Hamlet 7",
+                "addressLocality": "Duong Dong",
+                "postalCode": "920000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 177
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.204198,
+                "longitude": 103.964294
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/36/55/64/exterior.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian",
+                "Asian",
+                "Healthy"
+            ],
+            "telephone": "+84 121 228 1786",
+            "review_id": "REV_15101104_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Spice India Halal Restaurant",
+            "review_text": "Waseem Ahmed\n157 contributions\n0\nGood food\nMar 2020 • Couples\nWe visit to enjoy Indian food in phu quoc spice India.. we enjoy the food.. staff is attentive and food flavour is good.. we order many food items but i like paneer pokeda and veg samosa.. hope to visit again..\nWritten March 10, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:55:28.890105",
+            "restaurant_id": "15101104",
+            "restaurant_name": "Spice India Halal Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "99A Tran Hung Dao Hamlet 7",
+                "addressLocality": "Duong Dong",
+                "postalCode": "920000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 177
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.204198,
+                "longitude": 103.964294
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/36/55/64/exterior.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian",
+                "Asian",
+                "Healthy"
+            ],
+            "telephone": "+84 121 228 1786",
+            "review_id": "REV_15101104_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Spice India Halal Restaurant",
+            "review_text": "Valerie Ray\nAbu Dhabi, United Arab Emirates45 contributions\n1\nThe best Indian restaurant in Phu Quoc.\nFeb 2020 • Solo\nThis restaurant was recommended to me as the best Indian restaurant in Phu Quoc and it did not disappoint ! I do not eat animal products and find it rather challenging to find a restaurant here that would cater to my dietary needs. But I found my happiness at Spice India! I order the vegetable shashlik (if you are vegan, specify you don’t want them to add paneer to the brochette) and the Manchuria mushrooms. The food was delicious, very taste, with just the right amount of spice and exquisite flavors. The naan was fluffy, chewy and warm. I will definitely go back before the end of my stay. A little pricey but highly recommended !\nRead more\nWritten February 23, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:55:28.902307",
+            "restaurant_id": "15101104",
+            "restaurant_name": "Spice India Halal Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "99A Tran Hung Dao Hamlet 7",
+                "addressLocality": "Duong Dong",
+                "postalCode": "920000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 177
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.204198,
+                "longitude": 103.964294
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/36/55/64/exterior.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian",
+                "Asian",
+                "Healthy"
+            ],
+            "telephone": "+84 121 228 1786",
+            "review_id": "REV_15101104_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at Spice India Halal Restaurant",
+            "review_text": "janegartside\nManchester, United Kingdom344 contributions\n1\nVery nice\nJan 2020 • Couples\nWe met another couple on holiday and decided to meet them again for a curry one night , my husband googled where was nearest and sent them details . We all had a nice meal . All 4 of us had starters and different Curries with rice , naans and beers . Didn't cost much and we were all full . \nMet the owner who was friendly and welcoming . Would recommend. \n( waited a while for starters but chatted that much it didn't really matter )\nRead more\nWritten February 12, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:55:28.913591",
+            "restaurant_id": "15101104",
+            "restaurant_name": "Spice India Halal Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "99A Tran Hung Dao Hamlet 7",
+                "addressLocality": "Duong Dong",
+                "postalCode": "920000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 177
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.204198,
+                "longitude": 103.964294
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/36/55/64/exterior.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian",
+                "Asian",
+                "Healthy"
+            ],
+            "telephone": "+84 121 228 1786",
+            "review_id": "REV_15101104_p1_6",
+            "reviewer_id": "User_p1_6",
+            "review_title": "Review at Spice India Halal Restaurant",
+            "review_text": "Hajra Essack\n4 contributions\n1\nHajuSA\nFeb 2020 • Couples\nGood halal restaurant.Nice area with a good vibe.Ahmad the host was very good with his information.Chicken boti 🍗 and fish tikka 🥘 were good\nWritten February 10, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:55:28.929886",
+            "restaurant_id": "15101104",
+            "restaurant_name": "Spice India Halal Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "99A Tran Hung Dao Hamlet 7",
+                "addressLocality": "Duong Dong",
+                "postalCode": "920000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 177
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.204198,
+                "longitude": 103.964294
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/36/55/64/exterior.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian",
+                "Asian",
+                "Healthy"
+            ],
+            "telephone": "+84 121 228 1786",
+            "review_id": "REV_15101104_p1_7",
+            "reviewer_id": "User_p1_7",
+            "review_title": "Review at Spice India Halal Restaurant",
+            "review_text": "pete3837\nPlymouth, United Kingdom91 contributions\n1\nVery tasty food\nJan 2020\nMy wife and I both enjoyed a meal at this restaurant. It was very comparable to the curries we have at home in England, in fact it was one of the best we have had.\nOur only disapointment was that we could only eat here the once due to time schedules!\nIt was reasonably priced and you could a good portion. One rice between us was enough unless you are really hungry.\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten February 8, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:55:28.941885",
+            "restaurant_id": "15101104",
+            "restaurant_name": "Spice India Halal Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "99A Tran Hung Dao Hamlet 7",
+                "addressLocality": "Duong Dong",
+                "postalCode": "920000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 177
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.204198,
+                "longitude": 103.964294
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/36/55/64/exterior.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian",
+                "Asian",
+                "Healthy"
+            ],
+            "telephone": "+84 121 228 1786",
+            "review_id": "REV_15101104_p1_8",
+            "reviewer_id": "User_p1_8",
+            "review_title": "Review at Spice India Halal Restaurant",
+            "review_text": "Jordan\n5 contributions\n0\nFood ok, service shocking\nJan 2020 • Couples\nAte here with my partner one evening after seeing good reviews on Tripadvisor however our experience seemed completely the opposite!\n\nIt was clear from the start that the waiter didn't want to serve us at all, refused to even ask the chef if they could do a Chicken Tikka Korma (usually a very simple request in an indian restaurant).\n\nOrdered starters and mains however I guess he couldn't be bothered doing two trips to the kitchen as he brought everything at once.\n\nThe food it's self was ok, nothing special. Popadoms tasted stale and the Currys we ordered were a bit bland.\n\nWaiter didn't even make eye contact for the rest of the meal and completely ignored us when we tried to get his attention to get extra drinks or even when we wanted to pay.\n\nThere are better Indian restaurants a few minutes walk from here so avoid this place at all costs.\nRead more\nWritten January 30, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:55:28.952901",
+            "restaurant_id": "15101104",
+            "restaurant_name": "Spice India Halal Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "99A Tran Hung Dao Hamlet 7",
+                "addressLocality": "Duong Dong",
+                "postalCode": "920000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 177
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.204198,
+                "longitude": 103.964294
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/36/55/64/exterior.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian",
+                "Asian",
+                "Healthy"
+            ],
+            "telephone": "+84 121 228 1786",
+            "review_id": "REV_15101104_p1_9",
+            "reviewer_id": "User_p1_9",
+            "review_title": "Review at Spice India Halal Restaurant",
+            "review_text": "Aj874\nCorby, United Kingdom84 contributions\n1\nVery bad\nJan 2020 • Couples\nThis has to be one of the worst Indian meals I've ever eaten at, staff not interested and one guy was quite rude, starters were stone cold and dry as a bone , partner only ate some because she was that hungry, the only thing that was ok was the curry sauce and even then it was supposed to be butter chicken and was spicy so might not of even been that, they also gave us wrong order and forgot 2 items. Can't believe how this place is ranked 15 in phu quoc. Terrible dining experience, the worst meal in phu quoc by a mile.\nRead more\nWritten January 23, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:55:28.964891",
+            "restaurant_id": "15101104",
+            "restaurant_name": "Spice India Halal Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "99A Tran Hung Dao Hamlet 7",
+                "addressLocality": "Duong Dong",
+                "postalCode": "920000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 177
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.204198,
+                "longitude": 103.964294
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/36/55/64/exterior.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian",
+                "Asian",
+                "Healthy"
+            ],
+            "telephone": "+84 121 228 1786",
+            "review_id": "REV_15101104_p1_10",
+            "reviewer_id": "User_p1_10",
+            "review_title": "Review at Spice India Halal Restaurant",
+            "review_text": "Henry T\nBasildon, United Kingdom4 contributions\n1\nA taste of India restaurant\nJan 2020 • Couples\nA taste of India restaurant. Had a fantastic meal here tonight we couldn’t rate it highly enough . Authentic Indian food beautiful presented and so tasty. Staff are all very friendly and helpful. A great experience and compliments to the wonderful chefs .\nWritten January 10, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:55:28.976447",
+            "restaurant_id": "15101104",
+            "restaurant_name": "Spice India Halal Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "99A Tran Hung Dao Hamlet 7",
+                "addressLocality": "Duong Dong",
+                "postalCode": "920000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 177
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.204198,
+                "longitude": 103.964294
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/36/55/64/exterior.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian",
+                "Asian",
+                "Healthy"
+            ],
+            "telephone": "+84 121 228 1786",
+            "review_id": "REV_15101104_p1_11",
+            "reviewer_id": "User_p1_11",
+            "review_title": "Review at Spice India Halal Restaurant",
+            "review_text": "bink b\n15 contributions\n1\nExcellent\nJan 2020 • Family\nComing from a brit (brummy) the food was class. All Indian chefs, cheap beer and the scran was quality\nReview collected in partnership with this restaurant \nWritten January 9, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:55:28.987445",
+            "restaurant_id": "15101104",
+            "restaurant_name": "Spice India Halal Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "99A Tran Hung Dao Hamlet 7",
+                "addressLocality": "Duong Dong",
+                "postalCode": "920000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 177
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.204198,
+                "longitude": 103.964294
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/36/55/64/exterior.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian",
+                "Asian",
+                "Healthy"
+            ],
+            "telephone": "+84 121 228 1786",
+            "review_id": "REV_15101104_p1_12",
+            "reviewer_id": "User_p1_12",
+            "review_title": "Review at Spice India Halal Restaurant",
+            "review_text": "Michelle V\n81 contributions\n0\nFood was decent, not deserving of 4.5 stars though\nJan 2020\nWent here for dinner with my bf. I ordered the veg thali and he got butter chicken and some bread. The waitress made a massive point of asking me how spicy I wanted my food and I made the point back that indeed I wanted it spicy. All of this was ridiculous considering not a single curry that came in the thali ended up spicy at all. Anyways. The dal and raita were pretty good. The other curries were meh - mostly just potatoes. The rice wasn't basmati. I tasted my bf's butter chicken and it didn't taste anything like what I've had before in India or otherwise. Mainly it was very sweet which I found strange. The gulab jamun that came in the thali was SOOOOOOO far from what gulab jamun usually tastes like (no cardamon, no rose water), I couldn't eat it, and I love that dessert! Anyway, it was an okay meal but I'm not sure why they have such outstanding reviews.\nRead more\nWritten January 7, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:55:28.997446",
+            "restaurant_id": "15101104",
+            "restaurant_name": "Spice India Halal Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "99A Tran Hung Dao Hamlet 7",
+                "addressLocality": "Duong Dong",
+                "postalCode": "920000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 177
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.204198,
+                "longitude": 103.964294
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/36/55/64/exterior.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian",
+                "Asian",
+                "Healthy"
+            ],
+            "telephone": "+84 121 228 1786",
+            "review_id": "REV_15101104_p1_13",
+            "reviewer_id": "User_p1_13",
+            "review_title": "Review at Spice India Halal Restaurant",
+            "review_text": "KickingKAM\nSouthampton, United Kingdom20 contributions\n0\nAlmost better than him indoors makes (have to say that in case he reads this review) xxx\nJan 2020 • Couples\nClean, welcoming and excellent service - food better than any other Indian I've ever eaten in, glad we have a month left to sample the whole menu\nWritten January 7, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T19:55:29.009445",
+            "restaurant_id": "15101104",
+            "restaurant_name": "Spice India Halal Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d15101104-Reviews-Spice_India_Halal_Restaurant-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "99A Tran Hung Dao Hamlet 7",
+                "addressLocality": "Duong Dong",
+                "postalCode": "920000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 177
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.204198,
+                "longitude": 103.964294
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/36/55/64/exterior.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian",
+                "Asian",
+                "Healthy"
+            ],
+            "telephone": "+84 121 228 1786",
+            "review_id": "REV_15101104_p1_14",
+            "reviewer_id": "User_p1_14",
+            "review_title": "Review at Spice India Halal Restaurant",
+            "review_text": "jimguinn\nKamloops, Canada12 contributions\n0\nTop quality\nJan 2020 • Couples\nWent here twice. Great food and great staff. The coconut curry mutton was to die for. I highly recommend this restaurant!\nReview collected in partnership with this restaurant \nWritten January 6, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}
