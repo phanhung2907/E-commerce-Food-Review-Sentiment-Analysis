@@ -1,165 +1,173 @@
 {
-    "restaurant_id": "33259249",
-    "restaurant_name": "Streetside Dining",
-    "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+    "restaurant_id": "25343403",
+    "restaurant_name": "Nage Eatery",
+    "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
             "addressLocality": "",
             "addressRegion": "",
             "postalCode": "",
-            "streetAddress": "Hanoi Vietnam"
+            "streetAddress": "Duong Dong, Phu Quoc Island Vietnam"
         },
         "aggregateRating": {
             "@type": "AggregateRating",
-            "ratingValue": 4.9,
-            "reviewCount": 192
+            "ratingValue": 4.7,
+            "reviewCount": 37
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 21.035727,
-            "longitude": 105.84715
+            "latitude": 10.214178,
+            "longitude": 103.958855
         },
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/99/d2/31/caption.jpg?w=600&h=400&s=1",
         "openingHoursSpecification": [
             {
                 "@type": "OpeningHoursSpecification",
                 "dayOfWeek": "Sunday",
-                "opens": "10:00:00",
+                "opens": "11:00:00",
                 "closes": "22:00:00"
             },
             {
                 "@type": "OpeningHoursSpecification",
                 "dayOfWeek": "Monday",
-                "opens": "10:00:00",
+                "opens": "11:00:00",
                 "closes": "22:00:00"
             },
             {
                 "@type": "OpeningHoursSpecification",
                 "dayOfWeek": "Tuesday",
-                "opens": "10:00:00",
+                "opens": "11:00:00",
                 "closes": "22:00:00"
             },
             {
                 "@type": "OpeningHoursSpecification",
                 "dayOfWeek": "Wednesday",
-                "opens": "10:00:00",
+                "opens": "11:00:00",
                 "closes": "22:00:00"
             },
             {
                 "@type": "OpeningHoursSpecification",
                 "dayOfWeek": "Thursday",
-                "opens": "10:00:00",
+                "opens": "11:00:00",
                 "closes": "22:00:00"
             },
             {
                 "@type": "OpeningHoursSpecification",
                 "dayOfWeek": "Friday",
-                "opens": "10:00:00",
+                "opens": "11:00:00",
                 "closes": "22:00:00"
             },
             {
                 "@type": "OpeningHoursSpecification",
                 "dayOfWeek": "Saturday",
-                "opens": "10:00:00",
+                "opens": "11:00:00",
                 "closes": "22:00:00"
             }
         ],
         "priceRange": "$$ - $$$",
         "servesCuisine": [
+            "Seafood",
+            "Barbecue",
+            "European",
             "Asian",
-            "Vietnamese",
-            "Healthy"
+            "Thai",
+            "Fusion",
+            "Vietnamese"
         ],
-        "telephone": "+84 91 104 99 55"
+        "telephone": "+84 90 948 99 56"
     },
     "reviews_count": 15,
     "reviews": [
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.213485",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:45:17.331275",
+            "restaurant_id": "25343403",
+            "restaurant_name": "Nage Eatery",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Duong Dong, Phu Quoc Island Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
-                "ratingValue": 4.9,
-                "reviewCount": 192
+                "ratingValue": 4.7,
+                "reviewCount": 37
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.214178,
+                "longitude": 103.958855
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/99/d2/31/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Thai",
+                "Fusion",
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_0",
+            "telephone": "+84 90 948 99 56",
+            "review_id": "REV_25343403_p1_0",
             "reviewer_id": "User_p1_0",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "Scenic14027988173\n1 contribution\n0\nThe food is delicious.\nSep 2026 • Couples\nThe food is so delicious and clean. \n The atmosphere was so good, I'll come again next time.\nTranslated from Korean\nShow original\nWritten September 27, 2026",
+            "review_title": "Review at Nage Eatery",
+            "review_text": "Anneli B\nMalmö, Sweden289 contributions\n0\nBest on the island\nMar 2026 • Couples\nProbably one of the best restaurants on the island. Nice almost Scandinavian inspired environment. Very friendly service. And divine food. Seafood in all shapes and so fresh, creative and delicious. Risoton is “to die for”!!\nTranslated from Swedish\nShow original\nWritten March 15, 2026",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -167,86 +175,90 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.231231",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:45:17.344091",
+            "restaurant_id": "25343403",
+            "restaurant_name": "Nage Eatery",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Duong Dong, Phu Quoc Island Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
-                "ratingValue": 4.9,
-                "reviewCount": 192
+                "ratingValue": 4.7,
+                "reviewCount": 37
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.214178,
+                "longitude": 103.958855
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/99/d2/31/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Thai",
+                "Fusion",
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_1",
+            "telephone": "+84 90 948 99 56",
+            "review_id": "REV_25343403_p1_1",
             "reviewer_id": "User_p1_1",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "26patetcel\nVoreppe, France21 contributions\n0\nHanoi, dinner for two\nSep 2026 • Couples\nVery nice experience. We ate very well. Very warm welcome from Dai. Quiet restaurant with a pleasant musical atmosphere. We recommend this restaurant\nValue\nService\nFood\nAtmosphere\nTranslated from French\nShow original\nWritten September 21, 2026",
+            "review_title": "Review at Nage Eatery",
+            "review_text": "serge M\nMontreal, Canada37 contributions\n0\nTo do absolutely\nMar 2026 • Couples\nSo the surprise we are here in a restaurant of fine cuisine.beautiful refined decor,very good service.the cuisine is the one we eat in good restaurants, very fresh crab salad,perfect excellent liver,fish ceviche served in mini tartlet and cobia crudités with chimichurri.all in very modern dishes.and for the whole a more than reasonable price.\nTranslated from French\nShow original\nWritten March 13, 2026",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -254,86 +266,90 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.241940",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:45:17.357101",
+            "restaurant_id": "25343403",
+            "restaurant_name": "Nage Eatery",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Duong Dong, Phu Quoc Island Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
-                "ratingValue": 4.9,
-                "reviewCount": 192
+                "ratingValue": 4.7,
+                "reviewCount": 37
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.214178,
+                "longitude": 103.958855
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/99/d2/31/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Thai",
+                "Fusion",
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_2",
+            "telephone": "+84 90 948 99 56",
+            "review_id": "REV_25343403_p1_2",
             "reviewer_id": "User_p1_2",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "sivan s\n1 contribution\n0\nVietnam food\nSep 2026 • Friends\nDai was very nice and patient with us helped a lot and the food was great \nThank you\nWritten September 16, 2026",
+            "review_title": "Review at Nage Eatery",
+            "review_text": "sarah\nMunich, Germany38 contributions\n0\nSuperlative fine dining experience\nFeb 2026 • Couples\nFine dining in the heart of Duong Dong. What can we say,each of the 2 starters, 2 mains and dessert ordered were presented beautifully and tasted phenomenal, coupled with a bottle of san Pellegrino. Finally, a sparkling water, as well as the first palatable rose encountered in SEA. Service was professional and discrete. Sunset views were stunning. More expensive than the average restaurant in PhuQuov, but this is no average restaurant. Absolutely wonderful. Not an everday place, but definitely for a special occasion. Nothing negative to report from this establishment. We wish them well !\nWritten February 2, 2026",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -341,86 +357,90 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.253583",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:45:17.376666",
+            "restaurant_id": "25343403",
+            "restaurant_name": "Nage Eatery",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Duong Dong, Phu Quoc Island Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
-                "ratingValue": 4.9,
-                "reviewCount": 192
+                "ratingValue": 4.7,
+                "reviewCount": 37
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.214178,
+                "longitude": 103.958855
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/99/d2/31/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Thai",
+                "Fusion",
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_3",
+            "telephone": "+84 90 948 99 56",
+            "review_id": "REV_25343403_p1_3",
             "reviewer_id": "User_p1_3",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "Maria Slavova\n35 contributions\n0\nDelicious and kind\nSep 2026 • Family\nFood is very delicious and Dai was very kind. Thank you\nWritten September 14, 2026",
+            "review_title": "Review at Nage Eatery",
+            "review_text": "Kari In Alaska\n7 contributions\n0\nLovely seafood & wine!\nJan 2026 • Solo\nWhat a gem! Amazing serene atmosphere, delicious seafood options, and indoor or outdoor seating options. Extensive wine list with many options available by the glass. I’ll be returning during my trip- don’t miss this romantic spot in Phu Quoc. Very close to Seashells hotel.\nInsider tip:\nWine list is wonderful. Options for mild dishes like fish and chips in addition to scallops, tuna, octopus and crab pasta. What a dream.\nValue\nService\nFood\nAtmosphere\nWritten January 20, 2026",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -428,86 +448,90 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.267091",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:45:17.396679",
+            "restaurant_id": "25343403",
+            "restaurant_name": "Nage Eatery",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Duong Dong, Phu Quoc Island Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
-                "ratingValue": 4.9,
-                "reviewCount": 192
+                "ratingValue": 4.7,
+                "reviewCount": 37
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.214178,
+                "longitude": 103.958855
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/99/d2/31/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Thai",
+                "Fusion",
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_4",
+            "telephone": "+84 90 948 99 56",
+            "review_id": "REV_25343403_p1_4",
             "reviewer_id": "User_p1_4",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "liammm\nUnited Kingdom5 contributions\n0\nFamily dinner at my fave honey ribs spot 🥹\nSep 2026 • Family\nFood was pretty decent imo!\n\nMy friend Lindsay rcm’d this place to me after her trip, so I finally got the chance to try it myself. First thing I gotta give them credit for is the decor — it’s sooo nice + honestly such a good vibe for a lil dinner w/ my fam.\n\n2nd compliment goes to the food. Everything I ordered was pretty easy to eat + totally my kinda food. The honey ribs were sooo good tho!! 😭 My mom was also a big fan of the lobster, and my dad said the wine was pretty good too. I don’t really know much abt wine tho, so I have no idea what kind it was 😭\n\nLast but not least, the service! There was this guy serving us named Hoang, and he was rlly attentive + super nice the whole time. Big shoutout to him fr. If I ever come back, I’d def love to have him serve us again!!\nRead more\nWritten September 12, 2026",
+            "review_title": "Review at Nage Eatery",
+            "review_text": "Iris v\n17 contributions\n0\nGood food!\nJun 2025 • Couples\nIt was definitely good food! However, for the price you would expect a bit more. There are no side dishes and the beers are of mini size.\nValue\nService\nFood\nAtmosphere\nTranslated from Dutch\nShow original\nWritten June 7, 2025",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -515,86 +539,90 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.279091",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:45:17.410873",
+            "restaurant_id": "25343403",
+            "restaurant_name": "Nage Eatery",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Duong Dong, Phu Quoc Island Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
-                "ratingValue": 4.9,
-                "reviewCount": 192
+                "ratingValue": 4.7,
+                "reviewCount": 37
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.214178,
+                "longitude": 103.958855
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/99/d2/31/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Thai",
+                "Fusion",
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_5",
+            "telephone": "+84 90 948 99 56",
+            "review_id": "REV_25343403_p1_5",
             "reviewer_id": "User_p1_5",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "Emma H\n28 contributions\n0\nHidden gem\nSep 2026 • Couples\nStubbled across this place on a rainy afternoon the way to do laundry. Totally unexpected find! Amazing cocktails, amazing food and amazingly patient staff with our lack of Vietnamese! Ordered 3 dishes which were all outstanding! Hyen was our waitress who excelled!\nWritten September 9, 2026",
+            "review_title": "Review at Nage Eatery",
+            "review_text": "Xavier A\n3 contributions\n0\nFor a nice meal halfway in gastronomy and local cuisine!\nMar 2025 • Family\nOne of our most beautiful address on the island, fine cuisine, beautiful wine list, service to the little care, really top!!\nTranslated from French\nShow original\nWritten March 9, 2025",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -602,86 +630,90 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.291092",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:45:17.430921",
+            "restaurant_id": "25343403",
+            "restaurant_name": "Nage Eatery",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Duong Dong, Phu Quoc Island Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
-                "ratingValue": 4.9,
-                "reviewCount": 192
+                "ratingValue": 4.7,
+                "reviewCount": 37
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.214178,
+                "longitude": 103.958855
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/99/d2/31/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Thai",
+                "Fusion",
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_6",
+            "telephone": "+84 90 948 99 56",
+            "review_id": "REV_25343403_p1_6",
             "reviewer_id": "User_p1_6",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "悠人 悠\n2 contributions\n0\nLunch\nJul 2026 • Friends\nI ate the best meal at \"Street Side Dining\" today, and I'm totally hooked! All the dishes are incredibly fresh and packed with umami, and it's the best value for your money. I can tell that each dish is made with great care.\nAnd a huge thank you to Hoang for the best service! Friendly and thoughtful, professional... and honestly, super handsome!\nA hidden gem that offers delicious food, reasonable prices, and top-class service. I will definitely repeat it!\nTranslated from Japanese\nShow original\nWritten August 26, 2026",
+            "review_title": "Review at Nage Eatery",
+            "review_text": "Portland124\nManchester, United Kingdom14 contributions\n0\nGood quality amongst the ‘noise’\nFeb 2025 • Couples\nFound this restaurant amid the hurly burly of the surrounding area. An oasis of calm! Lovely food - not over fussy, just well cooked and presented. Delightful staff. Really appreciated that they kept our white wine cool between glasses. This restaurant deserves to be better known - top notch for quality of ingredients and service. Look forward to trying the partner restaurant in HCMC in a few days.\nInsider tip:\nRooftop is great but hard work if you don’t like stairs so choose the ground or first floor\nValue\nService\nFood\nAtmosphere\nWritten February 27, 2025",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -689,86 +721,90 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.309091",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:45:17.450273",
+            "restaurant_id": "25343403",
+            "restaurant_name": "Nage Eatery",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Duong Dong, Phu Quoc Island Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
-                "ratingValue": 4.9,
-                "reviewCount": 192
+                "ratingValue": 4.7,
+                "reviewCount": 37
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.214178,
+                "longitude": 103.958855
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/99/d2/31/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Thai",
+                "Fusion",
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_7",
+            "telephone": "+84 90 948 99 56",
+            "review_id": "REV_25343403_p1_7",
             "reviewer_id": "User_p1_7",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "Linh B\n4 contributions\n0\nImpression\nAug 2026 • Friends\nI like the food at the restaurant Street Side Dining.Yu is very clean, his attitude is very good and I am impressed, Viet Hoang.He is a diligent person.I will be back as soon as possible.\nValue\nService\nFood\nAtmosphere\nTranslated from Norwegian\nShow original\nWritten August 24, 2026",
+            "review_title": "Review at Nage Eatery",
+            "review_text": "Christian D\nBrussels, Belgium162 contributions\n1\nThe great refinement by the sea\nFeb 2025 • Couples\nVery nice restaurant by the sea. We took the excellent Valentine's Day menu. Well controlled dishes, great finesse, impeccable quality, attentive service, very good wines. Very good value for money. The finest restaurant of the entire trip to Vietnam.\nValue\nService\nFood\nAtmosphere\nTranslated from French\nShow original\nWritten February 27, 2025",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -776,86 +812,90 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.321090",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:45:17.473417",
+            "restaurant_id": "25343403",
+            "restaurant_name": "Nage Eatery",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Duong Dong, Phu Quoc Island Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
-                "ratingValue": 4.9,
-                "reviewCount": 192
+                "ratingValue": 4.7,
+                "reviewCount": 37
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.214178,
+                "longitude": 103.958855
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/99/d2/31/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Thai",
+                "Fusion",
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_8",
+            "telephone": "+84 90 948 99 56",
+            "review_id": "REV_25343403_p1_8",
             "reviewer_id": "User_p1_8",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "Melvin M\n1 contribution\n0\nPerfect\nAug 2026 • Family\nExcellent meal and we were served very well by Chris\nTranslated from French\nShow original\nWritten August 10, 2026",
+            "review_title": "Review at Nage Eatery",
+            "review_text": "jonathan\nStratford-upon-Avon, United Kingdom20 contributions\n0\nFantastic food and great service!\nJan 2025 • Friends\nI enjoyed a lovely dinner recently at Nage in Phu Quoc.\nThe menu was very seafood centric which was fantastic for me and my brother as we love sea food.\nI paticularly enjoyed the Tuna Wellington for my main course which was simply fantastic! I had the prawns to start with which were very good too.\n\nShould you be looking for a great seafood dinner then this is the location for you\nValue\nService\nFood\nAtmosphere\nWritten January 25, 2025",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -863,86 +903,90 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.332307",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:45:17.494225",
+            "restaurant_id": "25343403",
+            "restaurant_name": "Nage Eatery",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Duong Dong, Phu Quoc Island Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
-                "ratingValue": 4.9,
-                "reviewCount": 192
+                "ratingValue": 4.7,
+                "reviewCount": 37
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.214178,
+                "longitude": 103.958855
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/99/d2/31/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Thai",
+                "Fusion",
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_9",
+            "telephone": "+84 90 948 99 56",
+            "review_id": "REV_25343403_p1_9",
             "reviewer_id": "User_p1_9",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "Tanya A\n3 contributions\n0\nNice meal close to our hotel!\nAug 2026 • Family\nGreat food and great service by Chris and the other lovely lady!\nWritten August 9, 2026",
+            "review_title": "Review at Nage Eatery",
+            "review_text": "Salil C\nSingapore, Singapore134 contributions\n0\nGem in Phu Quoc\nDec 2024 • Family\nGem in Phu Quoc. Food was delicious and well presented. Good wine selection as well. Tried the catch of the day. Was with a big family group and everyone raved about the food.\nWritten December 29, 2024",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -950,86 +994,90 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.350871",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:45:17.521202",
+            "restaurant_id": "25343403",
+            "restaurant_name": "Nage Eatery",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Duong Dong, Phu Quoc Island Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
-                "ratingValue": 4.9,
-                "reviewCount": 192
+                "ratingValue": 4.7,
+                "reviewCount": 37
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.214178,
+                "longitude": 103.958855
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/99/d2/31/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Thai",
+                "Fusion",
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_10",
+            "telephone": "+84 90 948 99 56",
+            "review_id": "REV_25343403_p1_10",
             "reviewer_id": "User_p1_10",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "Stay16569640043\n1 contribution\n0\nBeautiful Vietnamese traditional cuisine\nAug 2026 • Family\nThe food and atmosphere were really good. Koy-san's service was very helpful and it was easy to understand how to eat Vietnamese omelets. My 10-year-old son was happy to finish his meal!\nValue\nService\nFood\nAtmosphere\nTranslated from Japanese\nShow original\nWritten August 9, 2026",
+            "review_title": "Review at Nage Eatery",
+            "review_text": "Ngoc Le\n6 contributions\n0\nDissappointing\nOct 2024 • Couples\nExcept fancy looking and expensive price, food is not special and amount is little. For some reasons, their food ingredients quality is not high. \n\nWe ordered 2 dishes, crab pasta and grilled fish with Thai curry.\nCrab pasta: cold, dried, shrimp satay sauce taste\nGrilled fish: tasteless fish, serve with green bean like cheap dish.\n\nThere are many other restaurants with better food and much cheaper on the islands.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten October 25, 2024",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -1037,86 +1085,90 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.362872",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:45:17.545761",
+            "restaurant_id": "25343403",
+            "restaurant_name": "Nage Eatery",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Duong Dong, Phu Quoc Island Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
-                "ratingValue": 4.9,
-                "reviewCount": 192
+                "ratingValue": 4.7,
+                "reviewCount": 37
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.214178,
+                "longitude": 103.958855
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/99/d2/31/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Thai",
+                "Fusion",
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_11",
+            "telephone": "+84 90 948 99 56",
+            "review_id": "REV_25343403_p1_11",
             "reviewer_id": "User_p1_11",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "Uvini E\n1 contribution\n0\nExcellent!!!\nAug 2026 • Couples\nExcellent dining experience!\nTranslated from French\nShow original\nWritten August 7, 2026",
+            "review_title": "Review at Nage Eatery",
+            "review_text": "NatDelAguila\nOrdino Parish, Andorra92 contributions\n0\nBeautiful little corner with exquisite food\nJul 2024 • Couples\nA hidden restaurant worth discovering. Every last detail is taken care of: a relaxing atmosphere, very successful decoration in white tones, unbeatable treatment and incredibly delicious dishes. Everything was exquisite! The service is a little slow, but that allows you to enjoy more of the sea breeze from your terrace on the top floor. \nWithout a doubt, INDISPENSABLE VISIT if you are in the area.\nTranslated from Spanish\nShow original\nWritten July 30, 2024",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -1124,86 +1176,90 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.374035",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:45:17.560776",
+            "restaurant_id": "25343403",
+            "restaurant_name": "Nage Eatery",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Duong Dong, Phu Quoc Island Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
-                "ratingValue": 4.9,
-                "reviewCount": 192
+                "ratingValue": 4.7,
+                "reviewCount": 37
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.214178,
+                "longitude": 103.958855
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/99/d2/31/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Thai",
+                "Fusion",
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_12",
+            "telephone": "+84 90 948 99 56",
+            "review_id": "REV_25343403_p1_12",
             "reviewer_id": "User_p1_12",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "Nora S\n3 contributions\n0\nDinner at streetside dining\nAug 2026 • Family\nA great restaurant with a super friendly staff. The cocktails were very good, and the food was delicious as well. I had the Wagyu beef, which was incredibly tasty. Definitely recommended if you’re visiting Hanoi!\nWritten August 6, 2026",
+            "review_title": "Review at Nage Eatery",
+            "review_text": "Andy Barnes\nSutton, United Kingdom2650 contributions\n0\nDelicious seafood and lovely atmosphere\nMay 2024 • Couples\nWe have just finished a lovely meal here.\nWe hadn’t booked but were met at the door by a very friendly lady.\nLots of seafood which my wife loved, I don’t like seafood so had a lovely pasta meal.\nApparently the scallops were amazing and so too was the barracuda fish.\nA lovely chocolate fondant desert as well and reasonably priced at £50\nReally lovely and friendly staff and very attentive\nWritten May 20, 2024",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -1211,86 +1267,90 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.389926",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:45:17.573428",
+            "restaurant_id": "25343403",
+            "restaurant_name": "Nage Eatery",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Duong Dong, Phu Quoc Island Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
-                "ratingValue": 4.9,
-                "reviewCount": 192
+                "ratingValue": 4.7,
+                "reviewCount": 37
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.214178,
+                "longitude": 103.958855
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/99/d2/31/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Thai",
+                "Fusion",
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_13",
+            "telephone": "+84 90 948 99 56",
+            "review_id": "REV_25343403_p1_13",
             "reviewer_id": "User_p1_13",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "Resort60375196106\n4 contributions\n0\nPoor plates, high prices\nAug 2026 • Family\nWe’ve dined here after two weeks of Vietnam. Highest bill, poorest dinner. Prawns with mango sauce sounded delightful to us, but four (!) prawns, almost no sauce, no veggies on the plate and additional white rice we had to pay as extra was such a disappointment. Please, be honest about the prices you ask. This is way too high!\nValue\nService\nFood\nAtmosphere\nWritten August 6, 2026",
+            "review_title": "Review at Nage Eatery",
+            "review_text": "Jack’s Lee\n2 contributions\n0\nFantastic\nMar 2024 • Business\nBest restaurant we have been to overall in two weeks in PhuQuoc. Recommend the Wagyu surf and tur, and the Scallop crudo , indulging in a dessert is a must.\nWritten May 3, 2024",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -1298,86 +1358,90 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.416444",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:45:17.587433",
+            "restaurant_id": "25343403",
+            "restaurant_name": "Nage Eatery",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "16. Duong Dong Restaurants\nSee all 268 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1184679-d25343403-Reviews-Nage_Eatery-Duong_Dong_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Duong Dong, Phu Quoc Island Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
-                "ratingValue": 4.9,
-                "reviewCount": 192
+                "ratingValue": 4.7,
+                "reviewCount": 37
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.214178,
+                "longitude": 103.958855
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/99/d2/31/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "11:00:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Thai",
+                "Fusion",
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_14",
+            "telephone": "+84 90 948 99 56",
+            "review_id": "REV_25343403_p1_14",
             "reviewer_id": "User_p1_14",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "Maps42809473500\n1 contribution\n0\nAn Imperial Journey Through Flavour\nJul 2026 • Friends\nPhenomenal service and food \nThe beer was great too\nWritten July 25, 2026",
+            "review_title": "Review at Nage Eatery",
+            "review_text": "June E\nEly, England, United Kingdom5 contributions\n1\nMost expensive and worse meal so far\nApr 2024 • Couples\nPretentious and trying to something it isn’t.\nAmazing sunset veiws but that’s all. 2 small slices of bread given , asked for more but they didn’t have enough ( at 5 .30 pm).\nMojito wine - got about an inch in a glass for 150,000 vmd.\nPate ok , raw prawn dish not . \nChicken main chewy with a spoon of cauliflower purée and nothing else . Fish and chips was ok but served in a bowl for some reason. \nWaitress spent most of the time on her phone.\nAsked if we enjoyed our meal when we left , we said no , but no one was bothered.\n3 times more expensive than any other meal we have had on the island and by far the worst .\nRead more\nWritten April 20, 2024",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",

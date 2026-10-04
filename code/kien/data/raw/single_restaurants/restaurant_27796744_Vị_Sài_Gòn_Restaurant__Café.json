@@ -1,165 +1,165 @@
 {
-    "restaurant_id": "33259249",
-    "restaurant_name": "Streetside Dining",
-    "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+    "restaurant_id": "27796744",
+    "restaurant_name": "Vị Sài Gòn Restaurant & Café",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
             "addressLocality": "",
             "addressRegion": "",
             "postalCode": "",
-            "streetAddress": "Hanoi Vietnam"
+            "streetAddress": "Ho Chi Minh City Vietnam"
         },
         "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": 4.9,
-            "reviewCount": 192
+            "reviewCount": 426
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 21.035727,
-            "longitude": 105.84715
+            "latitude": 10.776989,
+            "longitude": 106.68845
         },
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/db/21/caption.jpg?w=600&h=400&s=1",
         "openingHoursSpecification": [
             {
                 "@type": "OpeningHoursSpecification",
                 "dayOfWeek": "Sunday",
-                "opens": "10:00:00",
+                "opens": "08:30:00",
                 "closes": "22:00:00"
             },
             {
                 "@type": "OpeningHoursSpecification",
                 "dayOfWeek": "Monday",
-                "opens": "10:00:00",
+                "opens": "08:30:00",
                 "closes": "22:00:00"
             },
             {
                 "@type": "OpeningHoursSpecification",
                 "dayOfWeek": "Tuesday",
-                "opens": "10:00:00",
+                "opens": "08:30:00",
                 "closes": "22:00:00"
             },
             {
                 "@type": "OpeningHoursSpecification",
                 "dayOfWeek": "Wednesday",
-                "opens": "10:00:00",
+                "opens": "08:30:00",
                 "closes": "22:00:00"
             },
             {
                 "@type": "OpeningHoursSpecification",
                 "dayOfWeek": "Thursday",
-                "opens": "10:00:00",
+                "opens": "08:30:00",
                 "closes": "22:00:00"
             },
             {
                 "@type": "OpeningHoursSpecification",
                 "dayOfWeek": "Friday",
-                "opens": "10:00:00",
+                "opens": "08:30:00",
                 "closes": "22:00:00"
             },
             {
                 "@type": "OpeningHoursSpecification",
                 "dayOfWeek": "Saturday",
-                "opens": "10:00:00",
+                "opens": "08:30:00",
                 "closes": "22:00:00"
             }
         ],
         "priceRange": "$$ - $$$",
         "servesCuisine": [
+            "Brew Pub",
             "Asian",
-            "Vietnamese",
-            "Healthy"
+            "Vietnamese"
         ],
-        "telephone": "+84 91 104 99 55"
+        "telephone": "+84 91 616 89 76"
     },
     "reviews_count": 15,
     "reviews": [
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.213485",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:37:28.624945",
+            "restaurant_id": "27796744",
+            "restaurant_name": "Vị Sài Gòn Restaurant & Café",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Ho Chi Minh City Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 192
+                "reviewCount": 426
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.776989,
+                "longitude": 106.68845
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/db/21/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Brew Pub",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_0",
+            "telephone": "+84 91 616 89 76",
+            "review_id": "REV_27796744_p1_0",
             "reviewer_id": "User_p1_0",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "Scenic14027988173\n1 contribution\n0\nThe food is delicious.\nSep 2026 • Couples\nThe food is so delicious and clean. \n The atmosphere was so good, I'll come again next time.\nTranslated from Korean\nShow original\nWritten September 27, 2026",
+            "review_title": "Review at Vị Sài Gòn Restaurant & Café",
+            "review_text": "Archie R\n2 contributions\n0\nGreat Food\nOct 2026 • Friends\nGreat food well served and had the restaurant to ourselves.\nWritten October 2, 2026",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -167,86 +167,86 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.231231",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:37:28.636392",
+            "restaurant_id": "27796744",
+            "restaurant_name": "Vị Sài Gòn Restaurant & Café",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Ho Chi Minh City Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 192
+                "reviewCount": 426
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.776989,
+                "longitude": 106.68845
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/db/21/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Brew Pub",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_1",
+            "telephone": "+84 91 616 89 76",
+            "review_id": "REV_27796744_p1_1",
             "reviewer_id": "User_p1_1",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "26patetcel\nVoreppe, France21 contributions\n0\nHanoi, dinner for two\nSep 2026 • Couples\nVery nice experience. We ate very well. Very warm welcome from Dai. Quiet restaurant with a pleasant musical atmosphere. We recommend this restaurant\nValue\nService\nFood\nAtmosphere\nTranslated from French\nShow original\nWritten September 21, 2026",
+            "review_title": "Review at Vị Sài Gòn Restaurant & Café",
+            "review_text": "Scott B\n2 contributions\n0\nGood experience\nOct 2026 • Friends\nI the experience was very pleasant the food was also very nice and left satisfied. The staff were especially nice and Leon was very good.\nWritten October 2, 2026",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -254,86 +254,86 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.241940",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:37:28.648393",
+            "restaurant_id": "27796744",
+            "restaurant_name": "Vị Sài Gòn Restaurant & Café",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Ho Chi Minh City Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 192
+                "reviewCount": 426
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.776989,
+                "longitude": 106.68845
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/db/21/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Brew Pub",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_2",
+            "telephone": "+84 91 616 89 76",
+            "review_id": "REV_27796744_p1_2",
             "reviewer_id": "User_p1_2",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "sivan s\n1 contribution\n0\nVietnam food\nSep 2026 • Friends\nDai was very nice and patient with us helped a lot and the food was great \nThank you\nWritten September 16, 2026",
+            "review_title": "Review at Vị Sài Gòn Restaurant & Café",
+            "review_text": "Flynn H\n3 contributions\n0\nGreat food, great company\nOct 2026 • Friends\nLeon is a great guy and waiter and the food was so good\nWritten October 2, 2026",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -341,86 +341,86 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.253583",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:37:28.658984",
+            "restaurant_id": "27796744",
+            "restaurant_name": "Vị Sài Gòn Restaurant & Café",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Ho Chi Minh City Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 192
+                "reviewCount": 426
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.776989,
+                "longitude": 106.68845
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/db/21/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Brew Pub",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_3",
+            "telephone": "+84 91 616 89 76",
+            "review_id": "REV_27796744_p1_3",
             "reviewer_id": "User_p1_3",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "Maria Slavova\n35 contributions\n0\nDelicious and kind\nSep 2026 • Family\nFood is very delicious and Dai was very kind. Thank you\nWritten September 14, 2026",
+            "review_title": "Review at Vị Sài Gòn Restaurant & Café",
+            "review_text": "Kace W\n2 contributions\n0\nGreat Food better service, Thanks Leon.\nOct 2026 • Friends\nDinner was amazing and every course was professionally plated and delivered. Leon who took care of our group was excellent and very friendly making a great environment to have a delicious meal.\nWritten October 2, 2026",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -428,86 +428,86 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.267091",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:37:28.670069",
+            "restaurant_id": "27796744",
+            "restaurant_name": "Vị Sài Gòn Restaurant & Café",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Ho Chi Minh City Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 192
+                "reviewCount": 426
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.776989,
+                "longitude": 106.68845
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/db/21/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Brew Pub",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_4",
+            "telephone": "+84 91 616 89 76",
+            "review_id": "REV_27796744_p1_4",
             "reviewer_id": "User_p1_4",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "liammm\nUnited Kingdom5 contributions\n0\nFamily dinner at my fave honey ribs spot 🥹\nSep 2026 • Family\nFood was pretty decent imo!\n\nMy friend Lindsay rcm’d this place to me after her trip, so I finally got the chance to try it myself. First thing I gotta give them credit for is the decor — it’s sooo nice + honestly such a good vibe for a lil dinner w/ my fam.\n\n2nd compliment goes to the food. Everything I ordered was pretty easy to eat + totally my kinda food. The honey ribs were sooo good tho!! 😭 My mom was also a big fan of the lobster, and my dad said the wine was pretty good too. I don’t really know much abt wine tho, so I have no idea what kind it was 😭\n\nLast but not least, the service! There was this guy serving us named Hoang, and he was rlly attentive + super nice the whole time. Big shoutout to him fr. If I ever come back, I’d def love to have him serve us again!!\nRead more\nWritten September 12, 2026",
+            "review_title": "Review at Vị Sài Gòn Restaurant & Café",
+            "review_text": "mgard2015\nGold Coast, Australia15 contributions\n0\nGreat Vietnamese\nOct 2026 • Friends\nExcellent Vietnamese menu and great service.\nWritten October 2, 2026",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -515,86 +515,86 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.279091",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:37:28.680736",
+            "restaurant_id": "27796744",
+            "restaurant_name": "Vị Sài Gòn Restaurant & Café",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Ho Chi Minh City Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 192
+                "reviewCount": 426
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.776989,
+                "longitude": 106.68845
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/db/21/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Brew Pub",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_5",
+            "telephone": "+84 91 616 89 76",
+            "review_id": "REV_27796744_p1_5",
             "reviewer_id": "User_p1_5",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "Emma H\n28 contributions\n0\nHidden gem\nSep 2026 • Couples\nStubbled across this place on a rainy afternoon the way to do laundry. Totally unexpected find! Amazing cocktails, amazing food and amazingly patient staff with our lack of Vietnamese! Ordered 3 dishes which were all outstanding! Hyen was our waitress who excelled!\nWritten September 9, 2026",
+            "review_title": "Review at Vị Sài Gòn Restaurant & Café",
+            "review_text": "EI V\n1 contribution\n0\nRose\nOct 2026 • Couples\nRose was terrific and could not do enough for us.\nWritten October 2, 2026",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -602,86 +602,86 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.291092",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:37:28.692739",
+            "restaurant_id": "27796744",
+            "restaurant_name": "Vị Sài Gòn Restaurant & Café",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Ho Chi Minh City Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 192
+                "reviewCount": 426
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.776989,
+                "longitude": 106.68845
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/db/21/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Brew Pub",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_6",
+            "telephone": "+84 91 616 89 76",
+            "review_id": "REV_27796744_p1_6",
             "reviewer_id": "User_p1_6",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "悠人 悠\n2 contributions\n0\nLunch\nJul 2026 • Friends\nI ate the best meal at \"Street Side Dining\" today, and I'm totally hooked! All the dishes are incredibly fresh and packed with umami, and it's the best value for your money. I can tell that each dish is made with great care.\nAnd a huge thank you to Hoang for the best service! Friendly and thoughtful, professional... and honestly, super handsome!\nA hidden gem that offers delicious food, reasonable prices, and top-class service. I will definitely repeat it!\nTranslated from Japanese\nShow original\nWritten August 26, 2026",
+            "review_title": "Review at Vị Sài Gòn Restaurant & Café",
+            "review_text": "Safari10319343937\n2 contributions\n0\nDinner\nSep 2026 • Family\nThe restaurant serves well, the food is delicious, and the staff is enthusiastic. Will support next time\nTranslated from Vietnamese\nShow original\nWritten September 30, 2026",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -689,86 +689,86 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.309091",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:37:28.708170",
+            "restaurant_id": "27796744",
+            "restaurant_name": "Vị Sài Gòn Restaurant & Café",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Ho Chi Minh City Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 192
+                "reviewCount": 426
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.776989,
+                "longitude": 106.68845
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/db/21/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Brew Pub",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_7",
+            "telephone": "+84 91 616 89 76",
+            "review_id": "REV_27796744_p1_7",
             "reviewer_id": "User_p1_7",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "Linh B\n4 contributions\n0\nImpression\nAug 2026 • Friends\nI like the food at the restaurant Street Side Dining.Yu is very clean, his attitude is very good and I am impressed, Viet Hoang.He is a diligent person.I will be back as soon as possible.\nValue\nService\nFood\nAtmosphere\nTranslated from Norwegian\nShow original\nWritten August 24, 2026",
+            "review_title": "Review at Vị Sài Gòn Restaurant & Café",
+            "review_text": "Malika M\nMorocco1 contribution\n0\nPleasant experience\nSep 2026 • Friends\nExcellent food, we were well served by Mr. Bao\nValue\nService\nFood\nAtmosphere\nTranslated from French\nShow original\nWritten September 29, 2026",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -776,86 +776,86 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.321090",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:37:28.719992",
+            "restaurant_id": "27796744",
+            "restaurant_name": "Vị Sài Gòn Restaurant & Café",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Ho Chi Minh City Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 192
+                "reviewCount": 426
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.776989,
+                "longitude": 106.68845
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/db/21/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Brew Pub",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_8",
+            "telephone": "+84 91 616 89 76",
+            "review_id": "REV_27796744_p1_8",
             "reviewer_id": "User_p1_8",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "Melvin M\n1 contribution\n0\nPerfect\nAug 2026 • Family\nExcellent meal and we were served very well by Chris\nTranslated from French\nShow original\nWritten August 10, 2026",
+            "review_title": "Review at Vị Sài Gòn Restaurant & Café",
+            "review_text": "Isabelle L\n3 contributions\n0\nPleasant meal\nSep 2026 • Couples\nVery good meal served by Happy! Very pleasant service!\nTranslated from French\nShow original\nWritten September 28, 2026",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -863,86 +863,86 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.332307",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:37:28.736963",
+            "restaurant_id": "27796744",
+            "restaurant_name": "Vị Sài Gòn Restaurant & Café",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Ho Chi Minh City Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 192
+                "reviewCount": 426
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.776989,
+                "longitude": 106.68845
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/db/21/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Brew Pub",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_9",
+            "telephone": "+84 91 616 89 76",
+            "review_id": "REV_27796744_p1_9",
             "reviewer_id": "User_p1_9",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "Tanya A\n3 contributions\n0\nNice meal close to our hotel!\nAug 2026 • Family\nGreat food and great service by Chris and the other lovely lady!\nWritten August 9, 2026",
+            "review_title": "Review at Vị Sài Gòn Restaurant & Café",
+            "review_text": "Anthony M\nUnited Kingdom4 contributions\n0\nSai Restaurant\nSep 2026 • Solo\nSophia was my waitress she was very kind and helpful. I had their set menu which was very nice. Would recommend this restaurant\nValue\nService\nFood\nAtmosphere\nWritten September 28, 2026",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -950,86 +950,86 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.350871",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:37:28.747962",
+            "restaurant_id": "27796744",
+            "restaurant_name": "Vị Sài Gòn Restaurant & Café",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Ho Chi Minh City Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 192
+                "reviewCount": 426
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.776989,
+                "longitude": 106.68845
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/db/21/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Brew Pub",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_10",
+            "telephone": "+84 91 616 89 76",
+            "review_id": "REV_27796744_p1_10",
             "reviewer_id": "User_p1_10",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "Stay16569640043\n1 contribution\n0\nBeautiful Vietnamese traditional cuisine\nAug 2026 • Family\nThe food and atmosphere were really good. Koy-san's service was very helpful and it was easy to understand how to eat Vietnamese omelets. My 10-year-old son was happy to finish his meal!\nValue\nService\nFood\nAtmosphere\nTranslated from Japanese\nShow original\nWritten August 9, 2026",
+            "review_title": "Review at Vị Sài Gòn Restaurant & Café",
+            "review_text": "Summer H\n2 contributions\n0\nFood was great\nSep 2026 • Family\nThis was a amazing restaurant Rose was an absolute legend and helped us with everything we needed\nWritten September 28, 2026",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -1037,86 +1037,86 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.362872",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:37:28.757536",
+            "restaurant_id": "27796744",
+            "restaurant_name": "Vị Sài Gòn Restaurant & Café",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Ho Chi Minh City Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 192
+                "reviewCount": 426
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.776989,
+                "longitude": 106.68845
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/db/21/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Brew Pub",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_11",
+            "telephone": "+84 91 616 89 76",
+            "review_id": "REV_27796744_p1_11",
             "reviewer_id": "User_p1_11",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "Uvini E\n1 contribution\n0\nExcellent!!!\nAug 2026 • Couples\nExcellent dining experience!\nTranslated from French\nShow original\nWritten August 7, 2026",
+            "review_title": "Review at Vị Sài Gòn Restaurant & Café",
+            "review_text": "Sam M\n1 contribution\n0\nGreat experience\nSep 2026 • Friends\nGreat food, people were so nice and great company.\nWritten September 28, 2026",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -1124,86 +1124,86 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.374035",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:37:28.768515",
+            "restaurant_id": "27796744",
+            "restaurant_name": "Vị Sài Gòn Restaurant & Café",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Ho Chi Minh City Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 192
+                "reviewCount": 426
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.776989,
+                "longitude": 106.68845
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/db/21/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Brew Pub",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_12",
+            "telephone": "+84 91 616 89 76",
+            "review_id": "REV_27796744_p1_12",
             "reviewer_id": "User_p1_12",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "Nora S\n3 contributions\n0\nDinner at streetside dining\nAug 2026 • Family\nA great restaurant with a super friendly staff. The cocktails were very good, and the food was delicious as well. I had the Wagyu beef, which was incredibly tasty. Definitely recommended if you’re visiting Hanoi!\nWritten August 6, 2026",
+            "review_title": "Review at Vị Sài Gòn Restaurant & Café",
+            "review_text": "Darcy B\n2 contributions\n0\nGreat place for lunch or dinner\nSep 2026 • Friends\nGreat location and amazing service Rose was very kind the atmosphere was also very relaxing and the food tasted amazing\nWritten September 28, 2026",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -1211,86 +1211,86 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.389926",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:37:28.784516",
+            "restaurant_id": "27796744",
+            "restaurant_name": "Vị Sài Gòn Restaurant & Café",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Ho Chi Minh City Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 192
+                "reviewCount": 426
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.776989,
+                "longitude": 106.68845
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/db/21/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Brew Pub",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_13",
+            "telephone": "+84 91 616 89 76",
+            "review_id": "REV_27796744_p1_13",
             "reviewer_id": "User_p1_13",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "Resort60375196106\n4 contributions\n0\nPoor plates, high prices\nAug 2026 • Family\nWe’ve dined here after two weeks of Vietnam. Highest bill, poorest dinner. Prawns with mango sauce sounded delightful to us, but four (!) prawns, almost no sauce, no veggies on the plate and additional white rice we had to pay as extra was such a disappointment. Please, be honest about the prices you ask. This is way too high!\nValue\nService\nFood\nAtmosphere\nWritten August 6, 2026",
+            "review_title": "Review at Vị Sài Gòn Restaurant & Café",
+            "review_text": "Resort59759772023\nNeuville, Canada3 contributions\n0\nGreat!😃\nSep 2026 • Couples\nDelicious meal and excellent service from Rose!\nValue\nService\nFood\nAtmosphere\nTranslated from French\nShow original\nWritten September 25, 2026",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
@@ -1298,86 +1298,86 @@
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:41:06.416444",
-            "restaurant_id": "33259249",
-            "restaurant_name": "Streetside Dining",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33259249-Reviews-Streetside_Dining-Hanoi.html#REVIEWS",
+            "crawl_timestamp": "2026-10-04T14:37:28.801516",
+            "restaurant_id": "27796744",
+            "restaurant_name": "Vị Sài Gòn Restaurant & Café",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27796744-Reviews-V_Sai_Gon_Restaurant_Cafe-Ho_Chi_Minh_City.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
                 "addressLocality": "",
                 "addressRegion": "",
                 "postalCode": "",
-                "streetAddress": "Hanoi Vietnam"
+                "streetAddress": "Ho Chi Minh City Vietnam"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 192
+                "reviewCount": 426
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": 21.035727,
-                "longitude": 105.84715
+                "latitude": 10.776989,
+                "longitude": 106.68845
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/ac/bc/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/db/21/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
-                    "opens": "10:00:00",
+                    "opens": "08:30:00",
                     "closes": "22:00:00"
                 }
             ],
             "priceRange": "$$ - $$$",
             "servesCuisine": [
+                "Brew Pub",
                 "Asian",
-                "Vietnamese",
-                "Healthy"
+                "Vietnamese"
             ],
-            "telephone": "+84 91 104 99 55",
-            "review_id": "REV_33259249_p1_14",
+            "telephone": "+84 91 616 89 76",
+            "review_id": "REV_27796744_p1_14",
             "reviewer_id": "User_p1_14",
-            "review_title": "Review at Streetside Dining",
-            "review_text": "Maps42809473500\n1 contribution\n0\nAn Imperial Journey Through Flavour\nJul 2026 • Friends\nPhenomenal service and food \nThe beer was great too\nWritten July 25, 2026",
+            "review_title": "Review at Vị Sài Gòn Restaurant & Café",
+            "review_text": "Possaune3\nGreater Sydney, Australia13 contributions\n0\nGreat value, really worth a visit.\nSep 2026 • Couples\nLovely restaurant, excellent food and a spectacular wine and drinks list. We were there for lunch with a group of 10 people. We all enjoyed the overall experience and the expert and efficient service of Rose and her team.\nValue\nService\nFood\nAtmosphere\nWritten September 24, 2026",
             "rating": 5.0,
             "review_date": "2026-10-04",
             "travel_date": "Recent",
