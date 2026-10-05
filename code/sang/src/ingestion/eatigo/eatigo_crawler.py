@@ -73,7 +73,7 @@ def crawl_eatigo_raw_dict(product_ids: list, total_target: int = 100000):
                 print(f"   📥 Tổng tích lũy hệ thống: {len(all_records)} / {total_target}")
                 
                 start += size
-                time.sleep(1.0) 
+                time.sleep(0.5) 
                 
                 if len(comments) < size:
                     break
@@ -100,6 +100,10 @@ if __name__ == "__main__":
         "3656885431811", "3638655628138", "3643726237638","3641932708008","3643841361830","3674898079695","3711180147382","3700200121859",
         "3680874337807", "3638655628138", "3643726237638","3680874337807","3721117548429","3713638141091","3638758552776","3639341448151",
         "3638717580992", "3640181192993", "3723437570376","3635773831742","3636886912174","3638474107062","3685394307549","3728274503383",
-    ]   
+    ]  
+
+    # 👉 ĐẶT LỆNH LỌC TRÙNG Ở ĐÂY
+    sample_product_ids = list(set(sample_product_ids))
+    print(f"Số lượng ID sau khi lọc trùng là: {len(sample_product_ids)}")
 
     crawl_eatigo_raw_dict(product_ids=sample_product_ids, total_target=100000)
