@@ -1,0 +1,161 @@
+{
+    "restaurant_id": "16695437",
+    "restaurant_name": "Tropical Luxe",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d16695437-Reviews-Tropical_Luxe-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d16695437-Reviews-Tropical_Luxe-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.78321,
+            "longitude": 106.69144
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/fd/f9/1e/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:00:00",
+                "closes": "21:00:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "French",
+            "American",
+            "Cafe",
+            "Asian",
+            "Native American"
+        ],
+        "telephone": "+84 90 369 47 24"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-05T10:57:15.407730",
+            "restaurant_id": "16695437",
+            "restaurant_name": "Tropical Luxe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d16695437-Reviews-Tropical_Luxe-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d16695437-Reviews-Tropical_Luxe-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78321,
+                "longitude": 106.69144
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/fd/f9/1e/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "French",
+                "American",
+                "Cafe",
+                "Asian",
+                "Native American"
+            ],
+            "telephone": "+84 90 369 47 24",
+            "review_id": "REV_16695437_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Tropical Luxe",
+            "review_text": "Christophe W\nAix-en-Provence, France31 contributions\n0\nGreat food and sharing. Enjoyable moment with enjoyable and tasty food. Service and food quality are just good\nJun 2019 • Friends\nEnjoyable moment with tasty food and drink, especially for the beef rice.\nNice interior design and nice service as well.\nWritten June 18, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-05",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

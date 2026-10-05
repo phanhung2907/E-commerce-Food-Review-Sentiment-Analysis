@@ -1,0 +1,249 @@
+{
+    "restaurant_id": "34246054",
+    "restaurant_name": "The London Stop",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34246054-Reviews-The_London_Stop-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34246054-Reviews-The_London_Stop-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "số 72 đường N3D Khu Đô Thị Sài Gòn Bình An (Global City)đường Đỗ Xuân Hợp, P. Bình Trưng, Thành phố Hồ Chí Minh",
+            "addressLocality": "Ho Chi Minh City",
+            "postalCode": "70000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.82302,
+            "longitude": 106.62965
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b2/5f/dc/asian-food-in-the-heart.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "05:00:00",
+                "closes": "08:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "08:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "05:00:00",
+                "closes": "08:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "08:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "05:00:00",
+                "closes": "08:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "08:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "05:00:00",
+                "closes": "08:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "08:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "05:00:00",
+                "closes": "08:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "08:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "05:00:00",
+                "closes": "08:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "08:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "05:00:00",
+                "closes": "08:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "08:00:00",
+                "closes": "02:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": "N/A",
+        "telephone": "+84 90 662 20 26"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-05T11:35:10.931022",
+            "restaurant_id": "34246054",
+            "restaurant_name": "The London Stop",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34246054-Reviews-The_London_Stop-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34246054-Reviews-The_London_Stop-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "số 72 đường N3D Khu Đô Thị Sài Gòn Bình An (Global City)đường Đỗ Xuân Hợp, P. Bình Trưng, Thành phố Hồ Chí Minh",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "70000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.82302,
+                "longitude": 106.62965
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b2/5f/dc/asian-food-in-the-heart.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "05:00:00",
+                    "closes": "08:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "05:00:00",
+                    "closes": "08:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "05:00:00",
+                    "closes": "08:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "05:00:00",
+                    "closes": "08:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "05:00:00",
+                    "closes": "08:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "05:00:00",
+                    "closes": "08:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "05:00:00",
+                    "closes": "08:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "02:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": "N/A",
+            "telephone": "+84 90 662 20 26",
+            "review_id": "REV_34246054_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at The London Stop",
+            "review_text": "GogoCebuCity\nHo Chi Minh City, Vietnam44 contributions\n0\nBrilliant steak and chips\nJun 2026 • Family\nMy son and I took a trip over to Global City last Saturday morning to try out the go-kart racing I had promised him. Afterwards, we decided to have lunch at the nearby London Stop restaurant and sample their steak lunch.\nIt turned out to be an excellent choice. The steak and chips, served with salad and mushrooms, were delicious and perfectly cooked, (triple cooked fries were superb) making for a lovely meal after an exciting morning on the track.\nUnfortunately, we had to rush our lunch as we had another appointment to get to, so we didn’t have as much time to relax and savour the experience as we would have liked. However, we did have the pleasure of meeting the owner, Len, who took great care of us and made us feel very welcome. We will definitely be back.\nRead more\nWritten June 8, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-05",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

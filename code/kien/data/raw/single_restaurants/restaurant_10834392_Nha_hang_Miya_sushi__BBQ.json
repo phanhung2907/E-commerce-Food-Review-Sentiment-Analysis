@@ -1,0 +1,420 @@
+{
+    "restaurant_id": "10834392",
+    "restaurant_name": "Nha hang Miya sushi & BBQ",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10834392-Reviews-Nha_hang_Miya_sushi_BBQ-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10834392-Reviews-Nha_hang_Miya_sushi_BBQ-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "150/26, Nguyen Trai, Phuong Ben Thanh, Quan 1, Ho Chi Minh",
+            "addressLocality": "Ho Chi Minh City",
+            "postalCode": "700000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.9,
+            "reviewCount": 8
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.771147,
+            "longitude": 106.69281
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/60/e4/07/minh-di-nhom-6-ngu-i.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": "N/A",
+        "telephone": "+84 8 3925 9908"
+    },
+    "reviews_count": 4,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-05T10:16:15.329893",
+            "restaurant_id": "10834392",
+            "restaurant_name": "Nha hang Miya sushi & BBQ",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10834392-Reviews-Nha_hang_Miya_sushi_BBQ-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10834392-Reviews-Nha_hang_Miya_sushi_BBQ-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "150/26, Nguyen Trai, Phuong Ben Thanh, Quan 1, Ho Chi Minh",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.771147,
+                "longitude": 106.69281
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/60/e4/07/minh-di-nhom-6-ngu-i.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": "N/A",
+            "telephone": "+84 8 3925 9908",
+            "review_id": "REV_10834392_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Nha hang Miya sushi & BBQ",
+            "review_text": "telvin\nTürkiye39 contributions\n0\nso delicious sushi\nMar 2019\nMe&my friend just arrive Saigon try to find a place to eat it was suprisinly we find the miya sush.it is so delicious sushi.highly recommended.\nWritten March 9, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-05",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-05T10:16:15.340841",
+            "restaurant_id": "10834392",
+            "restaurant_name": "Nha hang Miya sushi & BBQ",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10834392-Reviews-Nha_hang_Miya_sushi_BBQ-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10834392-Reviews-Nha_hang_Miya_sushi_BBQ-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "150/26, Nguyen Trai, Phuong Ben Thanh, Quan 1, Ho Chi Minh",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.771147,
+                "longitude": 106.69281
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/60/e4/07/minh-di-nhom-6-ngu-i.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": "N/A",
+            "telephone": "+84 8 3925 9908",
+            "review_id": "REV_10834392_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Nha hang Miya sushi & BBQ",
+            "review_text": "Chiara Mru\nCopenhagen, Denmark59 contributions\n0\nMy absolute favorite sushi place!\nNov 2018 • Solo\nI always come here when in HCM for work. The sushi is just amazing and I’m in love with the simplicity of this place! It’s a little hidden gem and so much worth to go there for sushi and their peach tea !!\nWritten November 3, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-05",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-05T10:16:15.356342",
+            "restaurant_id": "10834392",
+            "restaurant_name": "Nha hang Miya sushi & BBQ",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10834392-Reviews-Nha_hang_Miya_sushi_BBQ-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10834392-Reviews-Nha_hang_Miya_sushi_BBQ-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "150/26, Nguyen Trai, Phuong Ben Thanh, Quan 1, Ho Chi Minh",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.771147,
+                "longitude": 106.69281
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/60/e4/07/minh-di-nhom-6-ngu-i.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": "N/A",
+            "telephone": "+84 8 3925 9908",
+            "review_id": "REV_10834392_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Nha hang Miya sushi & BBQ",
+            "review_text": "Miranda H\nHo Chi Minh City, Vietnam18 contributions\n0\nMust try!\nOct 2017 • Couples\nWe stumbled across reviews for this location both on TripAdvisor and Google, and decided to swing by for dinner. Oh my goodness, it was delicious and SO AFFORDABLE! We ordered a sushi boat with four pieces of a sushi roll and about eight pieces of nigiri, plus four other pieces of nigiri and two waters all for less than $10USD. The fish was melt-in-your-mouth good. We were very impressed and will be going back! Tucked away off a quiet street, it is a hidden gem.\nRead more\nWritten October 3, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-05",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-05T10:16:15.374242",
+            "restaurant_id": "10834392",
+            "restaurant_name": "Nha hang Miya sushi & BBQ",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10834392-Reviews-Nha_hang_Miya_sushi_BBQ-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10834392-Reviews-Nha_hang_Miya_sushi_BBQ-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "150/26, Nguyen Trai, Phuong Ben Thanh, Quan 1, Ho Chi Minh",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.771147,
+                "longitude": 106.69281
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/60/e4/07/minh-di-nhom-6-ngu-i.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": "N/A",
+            "telephone": "+84 8 3925 9908",
+            "review_id": "REV_10834392_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Nha hang Miya sushi & BBQ",
+            "review_text": "Ballooner66\n4 contributions\n0\nAmazing and cheap japanese and korean food!\nJan 2017 • Couples\nWhat a gem! Cute little booths and friendly staff serving every type of japanese or korean you could want! Sushi rolls start from 30 000 and the fancy ones are around 60 000. Japanese Pork cutlet curry was amazing and the kimchi is rocking! Defo worth a stop if you are in the area.\nWritten January 27, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-05",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

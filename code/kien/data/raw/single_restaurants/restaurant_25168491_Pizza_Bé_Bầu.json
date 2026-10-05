@@ -1,0 +1,81 @@
+{
+    "restaurant_id": "25168491",
+    "restaurant_name": "Pizza Bé Bầu",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25168491-Reviews-Pizza_Be_B_u-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25168491-Reviews-Pizza_Be_B_u-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "137 Đ. Hoàng Diệu 2, Phường Linh Trung, Thủ Đức, T",
+            "addressLocality": "Ho Chi Minh City"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 3,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.855358,
+            "longitude": 106.76744
+        },
+        "image": "N/A",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Pizza"
+        ],
+        "telephone": "+84 90 303 31 25"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-05T10:07:38.412876",
+            "restaurant_id": "25168491",
+            "restaurant_name": "Pizza Bé Bầu",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25168491-Reviews-Pizza_Be_B_u-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25168491-Reviews-Pizza_Be_B_u-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "137 Đ. Hoàng Diệu 2, Phường Linh Trung, Thủ Đức, T",
+                "addressLocality": "Ho Chi Minh City"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.855358,
+                "longitude": 106.76744
+            },
+            "image": "N/A",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Pizza"
+            ],
+            "telephone": "+84 90 303 31 25",
+            "review_id": "REV_25168491_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Pizza Bé Bầu",
+            "review_text": "Rob Nesbit\nWarsaw, Poland6887 contributions\n0\nOk\nNov 2022\nPizza ordered on delivery with bike, ok, not the best i have ever eaten, and just about edible for me\nValue\nService\nFood\nWritten November 24, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-05",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

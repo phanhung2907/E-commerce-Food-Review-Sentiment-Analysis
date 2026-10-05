@@ -1,0 +1,81 @@
+{
+    "restaurant_id": "16859140",
+    "restaurant_name": "Family Food Paradise - Cantavil Premier Mall",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d16859140-Reviews-Family_Food_Paradise_Cantavil_Premier_Mall-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d16859140-Reviews-Family_Food_Paradise_Cantavil_Premier_Mall-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "5th Floor, 01 Song Hanh An Phu, District 2",
+            "addressLocality": "Ho Chi Minh City",
+            "postalCode": "700000"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.801754,
+            "longitude": 106.748436
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/e6/10/4e/khong-gian-r-ng-rai-menu.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "09:30:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "09:30:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "09:30:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "09:30:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "09:30:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "09:30:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "09:30:00",
+                "closes": "21:30:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Fast Food",
+            "Deli"
+        ],
+        "telephone": "+84 28 3740 7020"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}
