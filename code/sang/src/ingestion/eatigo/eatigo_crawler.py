@@ -16,13 +16,12 @@ def fetch_product_tags(product_id: str, headers: dict) -> dict:
 def crawl_eatigo_raw_dict(product_ids: list, total_target: int = 100000):
     all_records = []
     
-    # Sử dụng os thuần túy để tạo thư mục và đường dẫn an toàn trên Windows
-    import os
-    output_dir = "code/sang/data/raw/eatigo"
-    os.makedirs(output_dir, exist_ok=True)
-    output_file = f"{output_dir}/eatigo_raw_objects_final.json"
+    # Sử dụng thư viện Pathlib (đã import sẵn) để xử lý đường dẫn an toàn tuyệt đối trên Windows
+    output_dir = Path("code/sang/data/raw/eatigo")
+    output_dir.mkdir(parents=True, exist_ok=True) 
+    output_file = output_dir / "eatigo_raw_objects_final.json"
     
-    print(" Bắt đầu crawl dữ liệu dưới dạng Python Dict Object nguyên bản...")
+    print("🚀 Bắt đầu crawl dữ liệu dưới dạng Python Dict Object nguyên bản...")
     
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -39,7 +38,7 @@ def crawl_eatigo_raw_dict(product_ids: list, total_target: int = 100000):
         start = 0
         size = 50  
         
-        print(f"📍 [{idx+1}/{len(product_ids)}] Đang crawl product_id: {product_id}")
+        print(f"\n📍 [{idx+1}/{len(product_ids)}] Đang crawl product_id: {product_id}")
         
         while len(all_records) < total_target:
             params = {"start": start, "size": size, "sortby": "default"}
@@ -57,16 +56,15 @@ def crawl_eatigo_raw_dict(product_ids: list, total_target: int = 100000):
                     print(f"   ✅ Đã lấy hết review của product_id {product_id}.")
                     break
                 
-                # YÊU CẦU: Không bóc tách key-value lẻ tẻ, giữ nguyên bản object dict từ API
                 for item in comments:
                     if len(all_records) >= total_target:
                         break
                         
                     raw_object_record = {
                         "product_id": product_id,
-                        "restaurant_tags_raw": product_tags_summary, # Giữ nguyên dict tags
-                        "comment_container_raw": inner_data,       # Giữ nguyên toàn bộ dict chứa thông tin chung
-                        "review_item_raw": item                    # Giữ nguyên toàn bộ dict nguyên bản của từng bình luận
+                        "restaurant_tags_raw": product_tags_summary,
+                        "comment_container_raw": inner_data,
+                        "review_item_raw": item
                     }
                     all_records.append(raw_object_record)
                 
@@ -82,11 +80,16 @@ def crawl_eatigo_raw_dict(product_ids: list, total_target: int = 100000):
                 print(f"   ❌ Lỗi kết nối tại product_id {product_id}: {e}")
                 break
         
-        # Lưu checkpoint sau mỗi nhà hàng
-        with open(output_file, "w", encoding="utf-8") as f:
-            json.dump(all_records, f, ensure_ascii=False, indent=4)
+        # Lưu checkpoint sau mỗi nhà hàng (đã bỏ indent=4 để giảm dung lượng file)
+        # Thêm Try-Except để đảm bảo nếu Windows có vô tình khóa file 1 nhịp, code vẫn không bị crash
+        try:
+            with open(output_file, "w", encoding="utf-8") as f:
+                json.dump(all_records, f, ensure_ascii=False)
+        except Exception as e:
+            print(f"   ⚠️ Không thể lưu checkpoint cho nhà hàng này do lỗi HĐH: {e} (Sẽ thử lại ở nhà hàng sau)")
             
     print(f"\n✨ Hoàn tất! Đã lưu {len(all_records)} records dạng raw object vào: {output_file}")
+
 
 if __name__ == "__main__":
     sample_product_ids = [
@@ -102,7 +105,6 @@ if __name__ == "__main__":
         "3638717580992", "3640181192993", "3723437570376","3635773831742","3636886912174","3638474107062","3685394307549","3728274503383",
     ]  
 
-    # 👉 ĐẶT LỆNH LỌC TRÙNG Ở ĐÂY
     sample_product_ids = list(set(sample_product_ids))
     print(f"Số lượng ID sau khi lọc trùng là: {len(sample_product_ids)}")
 
