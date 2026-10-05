@@ -88,4 +88,9 @@ if __name__ == "__main__":
     import datetime
     date_str = datetime.datetime.now().strftime('%Y-%m-%d')
     # Lưu ý: Cần chạy file raw_to_minio.py trước để file này có sẵn trên MinIO
+    
+    # Giữ nguyên luồng nạp BeFood
     process_and_insert(f"raw/befood/{date_str}/restaurant_9965.json")
+    
+    # Thêm luôn luồng nạp Capichi ngay bên dưới (thay tên file JSON cho đúng thực tế nhé)
+    process_and_insert("raw/capichi_final_20260926.json")
