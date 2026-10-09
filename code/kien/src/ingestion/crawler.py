@@ -396,7 +396,12 @@ def run_enterprise_scale_pipeline():
       "Khởi động hệ thống Enterprise Crawler (Mục tiêu: Đạt đủ"
       f" {TARGET_RECORDS_LIMIT} records)..."
   )
-  driver = uc.Chrome(options=options, version_main=153)
+
+  # [ĐÃ SỬA]: Bỏ tham số cứng version_main=153 để tránh bị treo driver,
+  # đồng thời thêm lệnh print kiểm tra trạng thái khởi tạo.
+  print("[Driver] Đang khởi tạo trình duyệt undetected_chromedriver...")
+  driver = uc.Chrome(options=options)
+  print("[Driver] Khởi tạo trình duyệt thành công!")
 
   try:
     root_country_url = (
