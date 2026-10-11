@@ -1,0 +1,80 @@
+{
+    "restaurant_id": "33182342",
+    "restaurant_name": "Mongkok Nha Trang",
+    "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d33182342-Reviews-Mongkok_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d33182342-Reviews-Mongkok_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "28a Văn Đồn, Phường Phước Hòa",
+            "addressLocality": "Nha Trang",
+            "postalCode": "65000"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.235275,
+            "longitude": 109.18413
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/03/4d/5a/caption.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Chinese"
+        ],
+        "telephone": "+84798289289"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

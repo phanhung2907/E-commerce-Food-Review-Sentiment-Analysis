@@ -1,0 +1,82 @@
+{
+    "restaurant_id": "26781300",
+    "restaurant_name": "Meat Universe",
+    "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d26781300-Reviews-Meat_Universe-Nha_Trang_Khanh_Hoa_Province.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d26781300-Reviews-Meat_Universe-Nha_Trang_Khanh_Hoa_Province.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "72 Đoàn Trần Nghiệp, Vĩnh Phước, Nha Trang, Khánh Hòa ",
+            "addressLocality": "Nha Trang"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.271156,
+            "longitude": 109.19998
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/a7/34/4d/caption.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "18:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "18:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "18:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "18:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "18:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "18:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "18:00:00",
+                "closes": "00:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Bar",
+            "European",
+            "Pub",
+            "Dining bars"
+        ],
+        "telephone": "+84 773 407 135"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

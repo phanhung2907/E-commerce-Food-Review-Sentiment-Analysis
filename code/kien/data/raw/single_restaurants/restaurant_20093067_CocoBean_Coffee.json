@@ -1,0 +1,82 @@
+{
+    "restaurant_id": "20093067",
+    "restaurant_name": "CocoBean Coffee",
+    "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d20093067-Reviews-CocoBean_Coffee-Nha_Trang_Khanh_Hoa_Province.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d20093067-Reviews-CocoBean_Coffee-Nha_Trang_Khanh_Hoa_Province.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "2 Tran Phu Muong Thanh Building",
+            "addressLocality": "Nha Trang",
+            "postalCode": "650000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.258573,
+            "longitude": 109.19779
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/e0/8d/09/20191001-172915-largejpg.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "06:30:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "06:30:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "06:30:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "06:30:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "06:30:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "06:30:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "06:30:00",
+                "closes": "22:30:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "European",
+            "Asian"
+        ],
+        "telephone": "+84 8 4888 6879"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

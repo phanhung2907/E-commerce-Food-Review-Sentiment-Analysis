@@ -1,0 +1,541 @@
+{
+    "restaurant_id": "25075568",
+    "restaurant_name": "Nhà Hàng Mộc Mộc",
+    "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d25075568-Reviews-Nha_Hang_M_c_M_c-Nha_Trang_Khanh_Hoa_Province.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d25075568-Reviews-Nha_Hang_M_c_M_c-Nha_Trang_Khanh_Hoa_Province.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "12 Trần Quang Khải Phường Lộc Thọ",
+            "addressLocality": "Nha Trang",
+            "postalCode": "650000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.9,
+            "reviewCount": 10
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.233511,
+            "longitude": 109.19649
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/7c/5e/ee/t-ng-2-co-may-l-nh.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:00:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:00:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:00:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:00:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:00:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:00:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:00:00",
+                "closes": "21:30:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Italian",
+            "Steakhouse",
+            "Asian",
+            "Diner",
+            "Australian"
+        ],
+        "telephone": "+84 326 999 749"
+    },
+    "reviews_count": 5,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T10:48:17.146052",
+            "restaurant_id": "25075568",
+            "restaurant_name": "Nhà Hàng Mộc Mộc",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d25075568-Reviews-Nha_Hang_M_c_M_c-Nha_Trang_Khanh_Hoa_Province.html",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d25075568-Reviews-Nha_Hang_M_c_M_c-Nha_Trang_Khanh_Hoa_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "12 Trần Quang Khải Phường Lộc Thọ",
+                "addressLocality": "Nha Trang",
+                "postalCode": "650000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.233511,
+                "longitude": 109.19649
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/7c/5e/ee/t-ng-2-co-may-l-nh.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Steakhouse",
+                "Asian",
+                "Diner",
+                "Australian"
+            ],
+            "telephone": "+84 326 999 749",
+            "review_id": "REV_25075568_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Nhà Hàng Mộc Mộc",
+            "review_text": "Василий К\n2 contributions\n0\nSteaks are good.\nJan 2025 • Family\nVery good steaks. Cafe staff are courteous, friendly, prices do not bite, accept union pay card.\nTranslated from Russian\nShow original\nWritten January 12, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T10:48:17.164867",
+            "restaurant_id": "25075568",
+            "restaurant_name": "Nhà Hàng Mộc Mộc",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d25075568-Reviews-Nha_Hang_M_c_M_c-Nha_Trang_Khanh_Hoa_Province.html",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d25075568-Reviews-Nha_Hang_M_c_M_c-Nha_Trang_Khanh_Hoa_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "12 Trần Quang Khải Phường Lộc Thọ",
+                "addressLocality": "Nha Trang",
+                "postalCode": "650000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.233511,
+                "longitude": 109.19649
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/7c/5e/ee/t-ng-2-co-may-l-nh.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Steakhouse",
+                "Asian",
+                "Diner",
+                "Australian"
+            ],
+            "telephone": "+84 326 999 749",
+            "review_id": "REV_25075568_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Nhà Hàng Mộc Mộc",
+            "review_text": "Kseomi\nKaliningrad, Russia426 contributions\n0\nDefinitely steaks 🔥\nFeb 2024 • Couples\nWe have been visiting this place for many months. We always order only steaks and in this regard everything is in order: they are cooked to the required level, the meat is tasty and tender, the prices are normal. Steaks are served with a small portion of salad, potatoes, a sauce of your choice (pepper, mushroom, barbecue), and a crispy baguette.\n\nA small portion of steak with salad, potatoes, baguette costs VND 125,000 (price as of February 14, 2024).\nA larger portion costs VND 165,000.\nThere is also another type of meat.\nIt’s nice that the establishment does not have additional surcharges on the check. What you see on the menu is what you pay.\nThe exception was in TET - New Year (visited on February 14, 2024. There was a holiday bonus of +10% on your check)\n\nWe ordered spaghetti Bolognese to try - it was not at all like that. It felt like a very strange soup, not pasta... and we didn’t find any meat there at all. It does not stand out in terms of taste. We didn't like it and started eating it. The charity employees immediately realized this and in the end excluded this item from the order. Thank you for this.\n\nYou don't have to book a table in advance, but sometimes you need to wait a little. There are not many tables in the establishment, but they are of a good size (you can visit with a group).\n\nThe establishment from the outside does not look anything remarkable, and the passage to the toilet is a bit reminiscent of a horror movie with a long narrow corridor, and we also sometimes try to close our eyes to cleanliness (if you look at the kitchen, there is a garbage dump under the refrigerator, the tables are not always clean, and under your feet there is trash lying around). However, there are wet and dry wipes on the tables, sometimes a sanitizer, and you can wipe them yourself.\n\nThe establishment has free Wi-Fi.\n\nI can add that I would like a large portion of steak to differ from a small steak (for a given price) not only with a little more meat, but also to add a little salad, potatoes and baguette. It would also be nice to get other sauces for dishes (I'm not talking about hot or peppery ingredients... For example: garlic, cheese, sour cream, ketchup, wine)\n\nAs long as this establishment continues to serve delicious steaks, we will continue to visit this establishment.\n\n👍I hope my review will be useful. And the owners of the establishment will take into account some points.\n\nThank you.\nRead more\nShow original\nWritten February 24, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T10:48:17.184872",
+            "restaurant_id": "25075568",
+            "restaurant_name": "Nhà Hàng Mộc Mộc",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d25075568-Reviews-Nha_Hang_M_c_M_c-Nha_Trang_Khanh_Hoa_Province.html",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d25075568-Reviews-Nha_Hang_M_c_M_c-Nha_Trang_Khanh_Hoa_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "12 Trần Quang Khải Phường Lộc Thọ",
+                "addressLocality": "Nha Trang",
+                "postalCode": "650000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.233511,
+                "longitude": 109.19649
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/7c/5e/ee/t-ng-2-co-may-l-nh.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Steakhouse",
+                "Asian",
+                "Diner",
+                "Australian"
+            ],
+            "telephone": "+84 326 999 749",
+            "review_id": "REV_25075568_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Nhà Hàng Mộc Mộc",
+            "review_text": "hk-san\nTokyo Prefecture, Japan609 contributions\n0\nDelicious Italian food\nNov 2023 • Solo\nIf you get tired of Vietnamese food in Nha Trang, this is the place to go.\n\nThe steak looked good, but I had carbonara. It was a delicious pasta.\n\nIf I had stayed longer, I would probably go again.\n\nThe restaurant was cute. It's located near the sea.\nRead more\nValue\nService\nFood\nAtmosphere\nShow original\nWritten November 27, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T10:48:17.197381",
+            "restaurant_id": "25075568",
+            "restaurant_name": "Nhà Hàng Mộc Mộc",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d25075568-Reviews-Nha_Hang_M_c_M_c-Nha_Trang_Khanh_Hoa_Province.html",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d25075568-Reviews-Nha_Hang_M_c_M_c-Nha_Trang_Khanh_Hoa_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "12 Trần Quang Khải Phường Lộc Thọ",
+                "addressLocality": "Nha Trang",
+                "postalCode": "650000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.233511,
+                "longitude": 109.19649
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/7c/5e/ee/t-ng-2-co-may-l-nh.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Steakhouse",
+                "Asian",
+                "Diner",
+                "Australian"
+            ],
+            "telephone": "+84 326 999 749",
+            "review_id": "REV_25075568_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Nhà Hàng Mộc Mộc",
+            "review_text": "Rachael B\nMelbourne, Australia88 contributions\n0\nAbsolutely worth a visit!\nMar 2023 • Couples\nFantastic food\nGreat service\nStreamlined menu - what they do - they do well!\nGood ‘combo’ options - great steak, pasta and wine. \nAbsolutely delicious!\nWritten March 1, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T10:48:17.209381",
+            "restaurant_id": "25075568",
+            "restaurant_name": "Nhà Hàng Mộc Mộc",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d25075568-Reviews-Nha_Hang_M_c_M_c-Nha_Trang_Khanh_Hoa_Province.html",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d25075568-Reviews-Nha_Hang_M_c_M_c-Nha_Trang_Khanh_Hoa_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "12 Trần Quang Khải Phường Lộc Thọ",
+                "addressLocality": "Nha Trang",
+                "postalCode": "650000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.233511,
+                "longitude": 109.19649
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/7c/5e/ee/t-ng-2-co-may-l-nh.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Steakhouse",
+                "Asian",
+                "Diner",
+                "Australian"
+            ],
+            "telephone": "+84 326 999 749",
+            "review_id": "REV_25075568_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Nhà Hàng Mộc Mộc",
+            "review_text": "fcplattner\nWalker, Minnesota120 contributions\n0\nA delicious surprise\nFeb 2023 • Solo\nHad the 200gm steak, potatoes, salad and pepper sauce for steak. Steak was cooked perfectly. Salad and dressing was very good along with potatoes and garlic bread. Price was extremely reasonable. Good, clean place\nI will be back\nWritten February 18, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

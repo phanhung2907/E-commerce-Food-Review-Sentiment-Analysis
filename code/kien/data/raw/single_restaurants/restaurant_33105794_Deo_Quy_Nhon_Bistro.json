@@ -7,11 +7,12 @@
         "@id": "https://www.tripadvisor.com/Restaurant_Review-g608528-d33105794-Reviews-Deo_Quy_Nhon_Bistro-Quy_Nhon_Binh_Dinh_Province.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
-            "addressCountry": "Vietnam",
-            "addressLocality": "",
-            "addressRegion": "",
-            "postalCode": "",
-            "streetAddress": "Quy Nhon Vietnam"
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "Quốc Lộ 1d",
+            "postalCode": "55100"
         },
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -23,7 +24,7 @@
             "latitude": 13.743045,
             "longitude": 109.20748
         },
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/17/f0/4b/caption.jpg?w=600&h=400&s=1",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/df/00/88/with-the-enormous-view.jpg?w=500&h=-1&s=1",
         "openingHoursSpecification": [
             {
                 "@type": "OpeningHoursSpecification",
@@ -82,7 +83,7 @@
     "reviews": [
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T20:20:45.861890",
+            "crawl_timestamp": "2026-10-11T18:02:12.493365",
             "restaurant_id": "33105794",
             "restaurant_name": "Deo Quy Nhon Bistro",
             "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g608528-d33105794-Reviews-Deo_Quy_Nhon_Bistro-Quy_Nhon_Binh_Dinh_Province.html#REVIEWS",
@@ -90,11 +91,12 @@
             "@id": "https://www.tripadvisor.com/Restaurant_Review-g608528-d33105794-Reviews-Deo_Quy_Nhon_Bistro-Quy_Nhon_Binh_Dinh_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
-                "addressCountry": "Vietnam",
-                "addressLocality": "",
-                "addressRegion": "",
-                "postalCode": "",
-                "streetAddress": "Quy Nhon Vietnam"
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Quốc Lộ 1d",
+                "postalCode": "55100"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
@@ -106,7 +108,7 @@
                 "latitude": 13.743045,
                 "longitude": 109.20748
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/17/f0/4b/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/df/00/88/with-the-enormous-view.jpg?w=500&h=-1&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
@@ -165,13 +167,13 @@
             "review_title": "Review at Deo Quy Nhon Bistro",
             "review_text": "Happiness09436433775\n1 contribution\n0\nFeel satisfied when coming to bistro restaurant\nMay 2025 • Friends\nThis is a wonderful place in my trip to Quy Nhon city. The space here is very beautiful and the quality service is good. When i go to here, i feel chill and relax.\nInsider tip:\nThe place should go when going to Quy Nhon city\nValue\nService\nFood\nAtmosphere\nWritten May 16, 2025",
             "rating": 5.0,
-            "review_date": "2026-10-03",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T20:20:45.879905",
+            "crawl_timestamp": "2026-10-11T18:02:12.515663",
             "restaurant_id": "33105794",
             "restaurant_name": "Deo Quy Nhon Bistro",
             "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g608528-d33105794-Reviews-Deo_Quy_Nhon_Bistro-Quy_Nhon_Binh_Dinh_Province.html#REVIEWS",
@@ -179,11 +181,12 @@
             "@id": "https://www.tripadvisor.com/Restaurant_Review-g608528-d33105794-Reviews-Deo_Quy_Nhon_Bistro-Quy_Nhon_Binh_Dinh_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
-                "addressCountry": "Vietnam",
-                "addressLocality": "",
-                "addressRegion": "",
-                "postalCode": "",
-                "streetAddress": "Quy Nhon Vietnam"
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Quốc Lộ 1d",
+                "postalCode": "55100"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
@@ -195,7 +198,7 @@
                 "latitude": 13.743045,
                 "longitude": 109.20748
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/17/f0/4b/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/df/00/88/with-the-enormous-view.jpg?w=500&h=-1&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
@@ -254,13 +257,13 @@
             "review_title": "Review at Deo Quy Nhon Bistro",
             "review_text": "Sightsee38054928430\n4 contributions\n0\nStunning View & Soulful Music – A Must-Visit Spot in Quy Nhơn\nMay 2025 • Friends\nAmazing experience at a mountain pass restaurant in Quy Nhơn! The view is absolutely breathtaking, perfect for check-in photos. The space is beautifully designed, blending nature and comfort. The live music performance was a highlight — emotional, intimate, and truly impressive. A perfect place to relax, enjoy the atmosphere, and take in the beauty of Binh Dinh. Highly recommend!\nRead more\nInsider tip:\nA chill spot perfect for 420-friendly homies.\nValue\nService\nFood\nAtmosphere\nWritten May 15, 2025",
             "rating": 5.0,
-            "review_date": "2026-10-03",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T20:20:45.899470",
+            "crawl_timestamp": "2026-10-11T18:02:12.538246",
             "restaurant_id": "33105794",
             "restaurant_name": "Deo Quy Nhon Bistro",
             "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g608528-d33105794-Reviews-Deo_Quy_Nhon_Bistro-Quy_Nhon_Binh_Dinh_Province.html#REVIEWS",
@@ -268,11 +271,12 @@
             "@id": "https://www.tripadvisor.com/Restaurant_Review-g608528-d33105794-Reviews-Deo_Quy_Nhon_Bistro-Quy_Nhon_Binh_Dinh_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
-                "addressCountry": "Vietnam",
-                "addressLocality": "",
-                "addressRegion": "",
-                "postalCode": "",
-                "streetAddress": "Quy Nhon Vietnam"
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Quốc Lộ 1d",
+                "postalCode": "55100"
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
@@ -284,7 +288,7 @@
                 "latitude": 13.743045,
                 "longitude": 109.20748
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/17/f0/4b/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/df/00/88/with-the-enormous-view.jpg?w=500&h=-1&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
@@ -343,7 +347,7 @@
             "review_title": "Review at Deo Quy Nhon Bistro",
             "review_text": "Hoang Tour Guide\nNorway9 contributions\n0\nSo Amazing\nApr 2025 • Friends\nI visited this place on a beautiful day. It can be said that this is the beer bar with the most beautiful view of Quy Nhon. Everything is so relaxing. I met the homie brothers. We went from strangers to acquaintances. We drank beer together, smoked together, watched the city and enjoyed delicious food. The bar also has rock and indie rock music nights. The singers and bands sing very well. The space is vibrant and fun. I find it suitable for friends from all over the world to gather here. Will come back many more times.\nRead more\nInsider tip:\nshould book in advance to get a good location\nValue\nService\nFood\nAtmosphere\nWritten May 15, 2025",
             "rating": 5.0,
-            "review_date": "2026-10-03",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

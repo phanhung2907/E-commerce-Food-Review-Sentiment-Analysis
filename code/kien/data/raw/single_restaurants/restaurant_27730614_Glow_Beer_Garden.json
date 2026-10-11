@@ -1,0 +1,83 @@
+{
+    "restaurant_id": "27730614",
+    "restaurant_name": "Glow Beer Garden",
+    "city": "13. Thu Dau Mot Restaurants\nSee all 314 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g3311194-d27730614-Reviews-Glow_Beer_Garden-Thu_Dau_Mot_Binh_Duong_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g3311194-d27730614-Reviews-Glow_Beer_Garden-Thu_Dau_Mot_Binh_Duong_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "113/37, Đường 30/4 Phường Phú Hòa",
+            "addressLocality": "Thu Dau Mot",
+            "postalCode": "820000"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.975254,
+            "longitude": 106.67391
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/38/db/d5/khong-gian-nha-hang.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "16:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "16:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "16:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "16:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "16:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "16:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "16:00:00",
+                "closes": "23:45:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Vietnamese",
+            "Diner",
+            "Dining bars",
+            "Beer restaurants"
+        ],
+        "telephone": "+840797556060"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

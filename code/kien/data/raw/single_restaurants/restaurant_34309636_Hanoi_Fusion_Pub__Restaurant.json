@@ -1,10 +1,10 @@
 {
     "restaurant_id": "34309636",
     "restaurant_name": "Hanoi Fusion Pub & Restaurant",
-    "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
+    "city": "2. Hanoi Restaurants\nSee all 6,641 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -16,63 +16,60 @@
         "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": 5,
-            "reviewCount": 119
+            "reviewCount": 158
         },
         "geo": {
             "@type": "GeoCoordinates",
             "latitude": 21.032408,
             "longitude": 105.84759
         },
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/ea/32/07/caption.jpg?w=600&h=400&s=1",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/2a/00/d4/caption.jpg?w=600&h=400&s=1",
         "openingHoursSpecification": [
             {
                 "@type": "OpeningHoursSpecification",
                 "dayOfWeek": "Sunday",
-                "opens": "10:30:00",
-                "closes": "22:15:00"
+                "opens": "11:30:00",
+                "closes": "22:45:00"
             },
             {
                 "@type": "OpeningHoursSpecification",
                 "dayOfWeek": "Monday",
-                "opens": "10:30:00",
-                "closes": "22:15:00"
+                "opens": "11:30:00",
+                "closes": "22:45:00"
             },
             {
                 "@type": "OpeningHoursSpecification",
                 "dayOfWeek": "Tuesday",
-                "opens": "10:15:00",
-                "closes": "22:15:00"
+                "opens": "11:30:00",
+                "closes": "22:45:00"
             },
             {
                 "@type": "OpeningHoursSpecification",
                 "dayOfWeek": "Wednesday",
-                "opens": "10:15:00",
-                "closes": "22:15:00"
+                "opens": "11:30:00",
+                "closes": "22:45:00"
             },
             {
                 "@type": "OpeningHoursSpecification",
                 "dayOfWeek": "Thursday",
-                "opens": "10:15:00",
-                "closes": "22:15:00"
+                "opens": "11:30:00",
+                "closes": "22:45:00"
             },
             {
                 "@type": "OpeningHoursSpecification",
                 "dayOfWeek": "Friday",
-                "opens": "10:15:00",
-                "closes": "22:15:00"
+                "opens": "11:30:00",
+                "closes": "22:45:00"
             },
             {
                 "@type": "OpeningHoursSpecification",
                 "dayOfWeek": "Saturday",
                 "opens": "10:15:00",
-                "closes": "22:15:00"
+                "closes": "22:45:00"
             }
         ],
         "priceRange": "$",
         "servesCuisine": [
-            "Italian",
-            "Cafe",
-            "European",
             "Fusion",
             "Vietnamese"
         ],
@@ -82,12 +79,12 @@
     "reviews": [
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:40:40.537951",
+            "crawl_timestamp": "2026-10-11T08:18:53.102100",
             "restaurant_id": "34309636",
             "restaurant_name": "Hanoi Fusion Pub & Restaurant",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,641 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -99,63 +96,60 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 5,
-                "reviewCount": 119
+                "reviewCount": 158
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 21.032408,
                 "longitude": 105.84759
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/ea/32/07/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/2a/00/d4/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
                     "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "closes": "22:45:00"
                 }
             ],
             "priceRange": "$",
             "servesCuisine": [
-                "Italian",
-                "Cafe",
-                "European",
                 "Fusion",
                 "Vietnamese"
             ],
@@ -163,20 +157,20 @@
             "review_id": "REV_34309636_p1_0",
             "reviewer_id": "User_p1_0",
             "review_title": "Review at Hanoi Fusion Pub & Restaurant",
-            "review_text": "shinya takemoto\nLas Vegas, Nevada3 contributions\n0\nLove craft beer\nOct 2026 • Friends\nWe enjoyed beer,\nalso the meal!thank you guys\nValue\nService\nFood\nAtmosphere\nWritten October 3, 2026",
+            "review_text": "Global30051896100\n5 contributions\n0\nRice\nOct 2026 • Friends\nAmazing food and fantastic service from tom!!!! Definitely will drop by again!!!🥰\nWritten October 10, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-04",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:40:40.548454",
+            "crawl_timestamp": "2026-10-11T08:18:53.117618",
             "restaurant_id": "34309636",
             "restaurant_name": "Hanoi Fusion Pub & Restaurant",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,641 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -188,63 +182,60 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 5,
-                "reviewCount": 119
+                "reviewCount": 158
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 21.032408,
                 "longitude": 105.84759
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/ea/32/07/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/2a/00/d4/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
                     "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "closes": "22:45:00"
                 }
             ],
             "priceRange": "$",
             "servesCuisine": [
-                "Italian",
-                "Cafe",
-                "European",
                 "Fusion",
                 "Vietnamese"
             ],
@@ -252,20 +243,20 @@
             "review_id": "REV_34309636_p1_1",
             "reviewer_id": "User_p1_1",
             "review_title": "Review at Hanoi Fusion Pub & Restaurant",
-            "review_text": "Erin D\n1 contribution\n0\nTasty\nOct 2026 • Friends\nTasty food\nGood service especially RO\nWritten October 3, 2026",
+            "review_text": "GoPlaces43974377719\n1 contribution\n0\nTom is the best\nOct 2026 • Friends\nWe had a delicious meal and were served by Tom. He was so attentive and went above and beyond to make us have a great experience. Thank you Tom!\nWritten October 10, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-04",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:40:40.559998",
+            "crawl_timestamp": "2026-10-11T08:18:53.140309",
             "restaurant_id": "34309636",
             "restaurant_name": "Hanoi Fusion Pub & Restaurant",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,641 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -277,63 +268,60 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 5,
-                "reviewCount": 119
+                "reviewCount": 158
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 21.032408,
                 "longitude": 105.84759
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/ea/32/07/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/2a/00/d4/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
                     "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "closes": "22:45:00"
                 }
             ],
             "priceRange": "$",
             "servesCuisine": [
-                "Italian",
-                "Cafe",
-                "European",
                 "Fusion",
                 "Vietnamese"
             ],
@@ -341,20 +329,20 @@
             "review_id": "REV_34309636_p1_2",
             "reviewer_id": "User_p1_2",
             "review_title": "Review at Hanoi Fusion Pub & Restaurant",
-            "review_text": "cam\nUpper Hutt, New Zealand6 contributions\n0\nHighly recommend!\nOct 2026 • Friends\nFood was great, good service from Ro\nWritten October 3, 2026",
+            "review_text": "kj\nPhilippines2 contributions\n0\nSuperb Food, ambiance and staff\nOct 2026 • Friends\nThe place is so comforting, the food we ordered were so good. What I love the most is their mountain salt which is homemade. The staff are very accommodating especially Ms. Bao, she always asks us if the food was delicious and if we are good. I highly recommend the resto 😎\nValue\nService\nFood\nAtmosphere\nWritten October 10, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-04",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:40:40.571601",
+            "crawl_timestamp": "2026-10-11T08:18:53.164312",
             "restaurant_id": "34309636",
             "restaurant_name": "Hanoi Fusion Pub & Restaurant",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,641 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -366,63 +354,60 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 5,
-                "reviewCount": 119
+                "reviewCount": 158
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 21.032408,
                 "longitude": 105.84759
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/ea/32/07/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/2a/00/d4/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
                     "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "closes": "22:45:00"
                 }
             ],
             "priceRange": "$",
             "servesCuisine": [
-                "Italian",
-                "Cafe",
-                "European",
                 "Fusion",
                 "Vietnamese"
             ],
@@ -430,20 +415,20 @@
             "review_id": "REV_34309636_p1_3",
             "reviewer_id": "User_p1_3",
             "review_title": "Review at Hanoi Fusion Pub & Restaurant",
-            "review_text": "Leah g\nSydney, Australia2 contributions\n0\nGreat bar\nOct 2026 • Couples\nGreat place to have drinks! Ro provided great service\nWritten October 2, 2026",
+            "review_text": "Benz R\nPhilippines2 contributions\n0\nHappy Tummy 💙\nOct 2026 • Family\nThe staff is very polite and responsive, and the food is very delicious 💙.\nValue\nService\nFood\nAtmosphere\nWritten October 10, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-04",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:40:40.581600",
+            "crawl_timestamp": "2026-10-11T08:18:53.185350",
             "restaurant_id": "34309636",
             "restaurant_name": "Hanoi Fusion Pub & Restaurant",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,641 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -455,63 +440,60 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 5,
-                "reviewCount": 119
+                "reviewCount": 158
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 21.032408,
                 "longitude": 105.84759
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/ea/32/07/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/2a/00/d4/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
                     "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "closes": "22:45:00"
                 }
             ],
             "priceRange": "$",
             "servesCuisine": [
-                "Italian",
-                "Cafe",
-                "European",
                 "Fusion",
                 "Vietnamese"
             ],
@@ -519,20 +501,20 @@
             "review_id": "REV_34309636_p1_4",
             "reviewer_id": "User_p1_4",
             "review_title": "Review at Hanoi Fusion Pub & Restaurant",
-            "review_text": "Morgan B\n1 contribution\n0\nAwesome\nOct 2026 • Friends\nRo is the best host, he was very attentive and made the experience so much fun. Went in for dinner but stayed for the atmosphere and good drink. Good times and good food\nWritten October 2, 2026",
+            "review_text": "Charie R\n1 contribution\n0\nSuper happy and solve.\nOct 2026 • Family\nThe staffs are very accommodating. Always smiling face and ready to serve.\nWritten October 10, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-04",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:40:40.591600",
+            "crawl_timestamp": "2026-10-11T08:18:53.198795",
             "restaurant_id": "34309636",
             "restaurant_name": "Hanoi Fusion Pub & Restaurant",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,641 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -544,63 +526,60 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 5,
-                "reviewCount": 119
+                "reviewCount": 158
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 21.032408,
                 "longitude": 105.84759
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/ea/32/07/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/2a/00/d4/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
                     "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "closes": "22:45:00"
                 }
             ],
             "priceRange": "$",
             "servesCuisine": [
-                "Italian",
-                "Cafe",
-                "European",
                 "Fusion",
                 "Vietnamese"
             ],
@@ -608,20 +587,20 @@
             "review_id": "REV_34309636_p1_5",
             "reviewer_id": "User_p1_5",
             "review_title": "Review at Hanoi Fusion Pub & Restaurant",
-            "review_text": "Hashini D\n1 contribution\n0\nGood food good times ❤️🥰\nOct 2026 • Couples\nGood food with reasonable price ☺️\nRo was really attentive and helpful. Will comeback again for sure😍\nWritten October 2, 2026",
+            "review_text": "DayTrip12849144020\n1 contribution\n0\n服務生非常棒\nOct 2026 • Friends\nTom is good!!!!!!!!!!!!!!!!!!\nWritten October 9, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-04",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:40:40.602605",
+            "crawl_timestamp": "2026-10-11T08:18:53.216338",
             "restaurant_id": "34309636",
             "restaurant_name": "Hanoi Fusion Pub & Restaurant",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,641 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -633,63 +612,60 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 5,
-                "reviewCount": 119
+                "reviewCount": 158
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 21.032408,
                 "longitude": 105.84759
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/ea/32/07/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/2a/00/d4/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
                     "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "closes": "22:45:00"
                 }
             ],
             "priceRange": "$",
             "servesCuisine": [
-                "Italian",
-                "Cafe",
-                "European",
                 "Fusion",
                 "Vietnamese"
             ],
@@ -697,20 +673,20 @@
             "review_id": "REV_34309636_p1_6",
             "reviewer_id": "User_p1_6",
             "review_title": "Review at Hanoi Fusion Pub & Restaurant",
-            "review_text": "Kalindu K\n1 contribution\n0\nFood and customer service\nOct 2026 • Friends\nEverything was really good. Ro was helpful to choose the food and he speaks English. Friendly service. Can recommend. ❤️\nWritten October 2, 2026",
+            "review_text": "Quy D\n2 contributions\n0\nFood\nOct 2026 • Solo\n⭐️⭐️⭐️⭐️⭐️ 5/5 – Excellent Food and Wonderful Service!\n\nI had a wonderful dining experience at Hanoi Fusion Pub & Restaurant, located at 41 Hàng Nón Street in Hanoi’s Old Quarter.\n\nThe food was absolutely delicious, especially the fresh spring rolls with shrimp, which were fresh, flavorful, and beautifully prepared. The staff were incredibly friendly, welcoming, attentive, and professional, making me feel comfortable throughout my visit.\n\nThe atmosphere was pleasant and relaxing, and the prices were very reasonable for the quality of food and service.\n\nHighly recommended for anyone visiting Hanoi who wants to enjoy authentic Vietnamese food and warm hospitality!\n\nThank you to the amazing staff for such a lovely experience. I will definitely come back again! 🇻🇳❤️\nRead more\nWritten October 8, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-04",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:40:40.613112",
+            "crawl_timestamp": "2026-10-11T08:18:53.231276",
             "restaurant_id": "34309636",
             "restaurant_name": "Hanoi Fusion Pub & Restaurant",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,641 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -722,63 +698,60 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 5,
-                "reviewCount": 119
+                "reviewCount": 158
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 21.032408,
                 "longitude": 105.84759
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/ea/32/07/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/2a/00/d4/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
                     "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "closes": "22:45:00"
                 }
             ],
             "priceRange": "$",
             "servesCuisine": [
-                "Italian",
-                "Cafe",
-                "European",
                 "Fusion",
                 "Vietnamese"
             ],
@@ -786,20 +759,20 @@
             "review_id": "REV_34309636_p1_7",
             "reviewer_id": "User_p1_7",
             "review_title": "Review at Hanoi Fusion Pub & Restaurant",
-            "review_text": "Mobile20620074392\n2 contributions\n0\nGreat experience\nOct 2026 • Solo\ngreat experience and food taste really good! Also their staff is very attentive and accomodating, especially Tom. He’s very kind and friendly. This place is highly recommended.\nWritten October 1, 2026",
+            "review_text": "sabrina t\n11 contributions\n0\nnice experience\nOct 2026 • Couples\nTom the waiter was great!\nTranslated from Italian\nShow original\nWritten October 8, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-04",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:40:40.624112",
+            "crawl_timestamp": "2026-10-11T08:18:53.246864",
             "restaurant_id": "34309636",
             "restaurant_name": "Hanoi Fusion Pub & Restaurant",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,641 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -811,63 +784,60 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 5,
-                "reviewCount": 119
+                "reviewCount": 158
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 21.032408,
                 "longitude": 105.84759
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/ea/32/07/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/2a/00/d4/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
                     "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "closes": "22:45:00"
                 }
             ],
             "priceRange": "$",
             "servesCuisine": [
-                "Italian",
-                "Cafe",
-                "European",
                 "Fusion",
                 "Vietnamese"
             ],
@@ -875,20 +845,20 @@
             "review_id": "REV_34309636_p1_8",
             "reviewer_id": "User_p1_8",
             "review_title": "Review at Hanoi Fusion Pub & Restaurant",
-            "review_text": "pmillot\nSix-Fours-les-Plages, France3 contributions\n0\nA meal\nOct 2026 • Family\nI highly recommend this excellent restaurant. Their beers and their dishes are excellent and very affordable :)\nTranslated from French\nShow original\nWritten October 1, 2026",
+            "review_text": "Lisardo V\n2 contributions\n0\nsuper friendly service\nOct 2026 • Couples\nFantastic food and Tom super friendly\nTranslated from Spanish\nShow original\nWritten October 8, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-04",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:40:40.639112",
+            "crawl_timestamp": "2026-10-11T08:18:53.263135",
             "restaurant_id": "34309636",
             "restaurant_name": "Hanoi Fusion Pub & Restaurant",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,641 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -900,63 +870,60 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 5,
-                "reviewCount": 119
+                "reviewCount": 158
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 21.032408,
                 "longitude": 105.84759
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/ea/32/07/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/2a/00/d4/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
                     "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "closes": "22:45:00"
                 }
             ],
             "priceRange": "$",
             "servesCuisine": [
-                "Italian",
-                "Cafe",
-                "European",
                 "Fusion",
                 "Vietnamese"
             ],
@@ -964,20 +931,20 @@
             "review_id": "REV_34309636_p1_9",
             "reviewer_id": "User_p1_9",
             "review_title": "Review at Hanoi Fusion Pub & Restaurant",
-            "review_text": "Matilda L\n1 contribution\n0\nDefinitely on my top 10\nOct 2026 • Family\nIt was amazing from the food service to the cold drinks every drink was poured right in front of you which is handy when travelling I also loved how every drink wasn’t warm it was nice cold and tasted brand new\nValue\nService\nFood\nAtmosphere\nWritten October 1, 2026",
+            "review_text": "Charelle U\n1 contribution\n0\nAmazing!\nOct 2026 • Friends\nTom was super Nice and helpful! He gave us tips for what to do and the food was great!\nWritten October 8, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-04",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:40:40.652412",
+            "crawl_timestamp": "2026-10-11T08:18:53.279140",
             "restaurant_id": "34309636",
             "restaurant_name": "Hanoi Fusion Pub & Restaurant",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,641 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -989,63 +956,60 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 5,
-                "reviewCount": 119
+                "reviewCount": 158
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 21.032408,
                 "longitude": 105.84759
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/ea/32/07/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/2a/00/d4/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
                     "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "closes": "22:45:00"
                 }
             ],
             "priceRange": "$",
             "servesCuisine": [
-                "Italian",
-                "Cafe",
-                "European",
                 "Fusion",
                 "Vietnamese"
             ],
@@ -1053,20 +1017,20 @@
             "review_id": "REV_34309636_p1_10",
             "reviewer_id": "User_p1_10",
             "review_title": "Review at Hanoi Fusion Pub & Restaurant",
-            "review_text": "Belle L\n1 contribution\n0\nHanoi fusion\nOct 2026 • Family\nThe service was excellent by Ro \nThe food was simple yet so delicious \nMultiple options for cocktails, beer , wine and no alcohol drinks\nThoroughly enjoyed this beautiful restaurant\nWritten October 1, 2026",
+            "review_text": "527garrys\nMonmouth, United Kingdom2 contributions\n0\nWell worth a visit\nOct 2026 • Couples\nTo be honest I can in because they accept credit cards. But it was popularr and busy and, the staff are friendly. Food was great, very fresh and tasty. Place very ckean and Tom our server couldn’t do enough for us. I’ll be coming back before I leave the city.\nWritten October 8, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-04",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:40:40.679476",
+            "crawl_timestamp": "2026-10-11T08:18:53.294007",
             "restaurant_id": "34309636",
             "restaurant_name": "Hanoi Fusion Pub & Restaurant",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,641 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -1078,63 +1042,60 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 5,
-                "reviewCount": 119
+                "reviewCount": 158
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 21.032408,
                 "longitude": 105.84759
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/ea/32/07/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/2a/00/d4/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
                     "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "closes": "22:45:00"
                 }
             ],
             "priceRange": "$",
             "servesCuisine": [
-                "Italian",
-                "Cafe",
-                "European",
                 "Fusion",
                 "Vietnamese"
             ],
@@ -1142,20 +1103,20 @@
             "review_id": "REV_34309636_p1_11",
             "reviewer_id": "User_p1_11",
             "review_title": "Review at Hanoi Fusion Pub & Restaurant",
-            "review_text": "Ghea Anne C\n4 contributions\n0\nService Excellence\nSep 2026 • Couples\nMr. Tom was very accommodating and very responsive!!! And the food was great at a very affordable price\nWritten September 30, 2026",
+            "review_text": "sylvainc\n7 contributions\n0\nVery nice\nOct 2026 • Friends\nTom was really helpful and so kind \nThanks a lot\nWritten October 7, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-04",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:40:40.708777",
+            "crawl_timestamp": "2026-10-11T08:18:53.310008",
             "restaurant_id": "34309636",
             "restaurant_name": "Hanoi Fusion Pub & Restaurant",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,641 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -1167,63 +1128,60 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 5,
-                "reviewCount": 119
+                "reviewCount": 158
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 21.032408,
                 "longitude": 105.84759
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/ea/32/07/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/2a/00/d4/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
                     "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "closes": "22:45:00"
                 }
             ],
             "priceRange": "$",
             "servesCuisine": [
-                "Italian",
-                "Cafe",
-                "European",
                 "Fusion",
                 "Vietnamese"
             ],
@@ -1231,20 +1189,20 @@
             "review_id": "REV_34309636_p1_12",
             "reviewer_id": "User_p1_12",
             "review_title": "Review at Hanoi Fusion Pub & Restaurant",
-            "review_text": "Journey58047257111\n3 contributions\n0\nHad a 2 course meal. All really good.\nSep 2026 • Family\nVery good experience. Tom was excellent.\nWritten September 30, 2026",
+            "review_text": "Inès P\n3 contributions\n0\nTom very good waiter\nOct 2026 • Couples\nTom is the nicest waiter. This pub is very cool for a few drinks!\nWritten October 7, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-04",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:40:40.719212",
+            "crawl_timestamp": "2026-10-11T08:18:53.328007",
             "restaurant_id": "34309636",
             "restaurant_name": "Hanoi Fusion Pub & Restaurant",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,641 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -1256,63 +1214,60 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 5,
-                "reviewCount": 119
+                "reviewCount": 158
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 21.032408,
                 "longitude": 105.84759
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/ea/32/07/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/2a/00/d4/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
                     "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "closes": "22:45:00"
                 }
             ],
             "priceRange": "$",
             "servesCuisine": [
-                "Italian",
-                "Cafe",
-                "European",
                 "Fusion",
                 "Vietnamese"
             ],
@@ -1320,20 +1275,20 @@
             "review_id": "REV_34309636_p1_13",
             "reviewer_id": "User_p1_13",
             "review_title": "Review at Hanoi Fusion Pub & Restaurant",
-            "review_text": "Sean G\n4 contributions\n0\nHanoi fusion\nSep 2026 • Family\nTom was an excellent server and was very attentive\nWritten September 30, 2026",
+            "review_text": "Umutcan S\n1 contribution\n0\nGood\nOct 2026 • Solo\nTom was very friendly and helpful\nWritten October 7, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-04",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-04T14:40:40.732685",
+            "crawl_timestamp": "2026-10-11T08:18:53.355038",
             "restaurant_id": "34309636",
             "restaurant_name": "Hanoi Fusion Pub & Restaurant",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
-            "city": "2. Hanoi Restaurants\nSee all 6,640 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html#REVIEWS",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,641 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d34309636-Reviews-Hanoi_Fusion_Pub_Restaurant-Hanoi.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -1345,63 +1300,60 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 5,
-                "reviewCount": 119
+                "reviewCount": 158
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 21.032408,
                 "longitude": 105.84759
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/ea/32/07/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/2a/00/d4/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Sunday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Monday",
-                    "opens": "10:30:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Tuesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Wednesday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Thursday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
-                    "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "opens": "11:30:00",
+                    "closes": "22:45:00"
                 },
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Saturday",
                     "opens": "10:15:00",
-                    "closes": "22:15:00"
+                    "closes": "22:45:00"
                 }
             ],
             "priceRange": "$",
             "servesCuisine": [
-                "Italian",
-                "Cafe",
-                "European",
                 "Fusion",
                 "Vietnamese"
             ],
@@ -1409,9 +1361,9 @@
             "review_id": "REV_34309636_p1_14",
             "reviewer_id": "User_p1_14",
             "review_title": "Review at Hanoi Fusion Pub & Restaurant",
-            "review_text": "Anne P\n3 contributions\n0\n10/10\nSep 2026 • Friends\nGood food and good service💚 Must Try!\nWritten September 30, 2026",
+            "review_text": "828TJA\nEverett, Washington605 contributions\n0\nNew restaurant, good location, tasty local delicacies, Engish speaking staff\nSep 2026 • Family\nIt's a new restaurant that opened earlier this year. The owner speaks fluent English and the waiters speak English well.\nThe menu offers a variety of tasty foods. Rather than ourselves choosing, we asked Tho (the owner) to choose local specialties for us. We were delighted. Everything was wonderful. They have local draft beer, too.\nPrices are good.\nIt is near the lake tourist area, a short walk, so easy to go there.\nRead more\nInsider tip:\nIt's new so not many know about it yet. Not crowded.\nValue\nService\nFood\nAtmosphere\nWritten October 7, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-04",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

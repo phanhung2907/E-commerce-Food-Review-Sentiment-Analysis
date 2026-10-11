@@ -2,9 +2,9 @@
     "restaurant_id": "12453466",
     "restaurant_name": "Nhan's Kitchen",
     "city": "4. Hoi An Restaurants\nSee all 1,757 restaurants",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -16,14 +16,14 @@
         "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": 4.9,
-            "reviewCount": 3105
+            "reviewCount": 3107
         },
         "geo": {
             "@type": "GeoCoordinates",
             "latitude": 15.878102,
             "longitude": 108.34514
         },
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/c0/37/a1/caption.jpg?w=600&h=400&s=1",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/3d/e7/e6/caption.jpg?w=600&h=400&s=1",
         "openingHoursSpecification": [
             {
                 "@type": "OpeningHoursSpecification",
@@ -60,6 +60,12 @@
                 "dayOfWeek": "Friday",
                 "opens": "11:00:00",
                 "closes": "21:15:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "11:00:00",
+                "closes": "21:15:00"
             }
         ],
         "priceRange": "$",
@@ -76,12 +82,12 @@
     "reviews": [
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T17:36:02.394455",
+            "crawl_timestamp": "2026-10-11T08:50:53.081098",
             "restaurant_id": "12453466",
             "restaurant_name": "Nhan's Kitchen",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "city": "4. Hoi An Restaurants\nSee all 1,757 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -93,14 +99,14 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 3105
+                "reviewCount": 3107
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 15.878102,
                 "longitude": 108.34514
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/c0/37/a1/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/3d/e7/e6/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
@@ -135,6 +141,12 @@
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
                     "opens": "11:00:00",
                     "closes": "21:15:00"
                 }
@@ -151,20 +163,20 @@
             "review_id": "REV_12453466_p1_0",
             "reviewer_id": "User_p1_0",
             "review_title": "Review at Nhan's Kitchen",
-            "review_text": "M Y\nEngland, United Kingdom5 contributions\n0\nWell worth a visit great food. Very helpful staff.\nOct 2026 • Couples\nWe went on the back of a recommendation. It was a little further to walk than we originally thought. Well worth it. Very helpful staff guided us through the menu options. They even filited the red snapper for me. The food was so tasty. Well worth a visit.\nInsider tip:\nA small restaurant. Great selection of dishes. Staff happy to offer help with ordering, to ensure you get the best out of dinning. Would go\nValue\nService\nFood\nAtmosphere\nWritten October 2, 2026",
+            "review_text": "Maya W\n2 contributions\n0\nDelicious Pho\nOct 2026 • Family\nSpectacular Pho! My favourite I’ve had in Vietnam. Lovely atmosphere and the staff are super welcoming. 100% recommend!\nValue\nService\nFood\nAtmosphere\nWritten October 6, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-03",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T17:36:02.430063",
+            "crawl_timestamp": "2026-10-11T08:50:53.098993",
             "restaurant_id": "12453466",
             "restaurant_name": "Nhan's Kitchen",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "city": "4. Hoi An Restaurants\nSee all 1,757 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -176,14 +188,14 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 3105
+                "reviewCount": 3107
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 15.878102,
                 "longitude": 108.34514
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/c0/37/a1/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/3d/e7/e6/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
@@ -218,6 +230,12 @@
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
                     "opens": "11:00:00",
                     "closes": "21:15:00"
                 }
@@ -234,20 +252,20 @@
             "review_id": "REV_12453466_p1_1",
             "reviewer_id": "User_p1_1",
             "review_title": "Review at Nhan's Kitchen",
-            "review_text": "M4432NWjohnj\nPanzano in Chianti, Italy8 contributions\n0\nHoi An dinner\nSep 2026 • Couples\nGood food at good prices at Khan kitchen\nWritten September 29, 2026",
+            "review_text": "M Y\nEngland, United Kingdom5 contributions\n0\nWell worth a visit great food. Very helpful staff.\nOct 2026 • Couples\nWe went on the back of a recommendation. It was a little further to walk than we originally thought. Well worth it. Very helpful staff guided us through the menu options. They even filited the red snapper for me. The food was so tasty. Well worth a visit.\nInsider tip:\nA small restaurant. Great selection of dishes. Staff happy to offer help with ordering, to ensure you get the best out of dinning. Would go\nValue\nService\nFood\nAtmosphere\nWritten October 2, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-03",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T17:36:02.447552",
+            "crawl_timestamp": "2026-10-11T08:50:53.110497",
             "restaurant_id": "12453466",
             "restaurant_name": "Nhan's Kitchen",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "city": "4. Hoi An Restaurants\nSee all 1,757 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -259,14 +277,14 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 3105
+                "reviewCount": 3107
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 15.878102,
                 "longitude": 108.34514
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/c0/37/a1/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/3d/e7/e6/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
@@ -301,6 +319,12 @@
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
                     "opens": "11:00:00",
                     "closes": "21:15:00"
                 }
@@ -317,20 +341,20 @@
             "review_id": "REV_12453466_p1_2",
             "reviewer_id": "User_p1_2",
             "review_title": "Review at Nhan's Kitchen",
-            "review_text": "Sonja M\n7 contributions\n0\nIt was great\nSep 2026 • Couples\nWe are quite critical about food, but the reviews on TripAdvisor are definitely true!\nEverything we ordered was delicious.\nBeen twice.\nSuperrrrrrr lovely staff\nTranslated from Dutch\nShow original\nWritten September 9, 2026",
+            "review_text": "M4432NWjohnj\nPanzano in Chianti, Italy8 contributions\n0\nHoi An dinner\nSep 2026 • Couples\nGood food at good prices at Khan kitchen\nWritten September 29, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-03",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T17:36:02.465606",
+            "crawl_timestamp": "2026-10-11T08:50:53.123283",
             "restaurant_id": "12453466",
             "restaurant_name": "Nhan's Kitchen",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "city": "4. Hoi An Restaurants\nSee all 1,757 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -342,14 +366,14 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 3105
+                "reviewCount": 3107
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 15.878102,
                 "longitude": 108.34514
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/c0/37/a1/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/3d/e7/e6/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
@@ -384,6 +408,12 @@
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
                     "opens": "11:00:00",
                     "closes": "21:15:00"
                 }
@@ -400,20 +430,20 @@
             "review_id": "REV_12453466_p1_3",
             "reviewer_id": "User_p1_3",
             "review_title": "Review at Nhan's Kitchen",
-            "review_text": "michael f\n5 contributions\n0\nAmazing Vietnam cuisine\nAug 2026 • Family\nWhat a fabulous restaurant. If you are hungry and available to get here get here . Food is amazing fresh and service is amazing\nWritten August 23, 2026",
+            "review_text": "Sonja M\n7 contributions\n0\nIt was great\nSep 2026 • Couples\nWe are quite critical about food, but the reviews on TripAdvisor are definitely true!\nEverything we ordered was delicious.\nBeen twice.\nSuperrrrrrr lovely staff\nTranslated from Dutch\nShow original\nWritten September 9, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-03",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T17:36:02.465606",
+            "crawl_timestamp": "2026-10-11T08:50:53.134289",
             "restaurant_id": "12453466",
             "restaurant_name": "Nhan's Kitchen",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "city": "4. Hoi An Restaurants\nSee all 1,757 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -425,14 +455,14 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 3105
+                "reviewCount": 3107
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 15.878102,
                 "longitude": 108.34514
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/c0/37/a1/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/3d/e7/e6/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
@@ -467,6 +497,12 @@
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
                     "opens": "11:00:00",
                     "closes": "21:15:00"
                 }
@@ -483,20 +519,20 @@
             "review_id": "REV_12453466_p1_4",
             "reviewer_id": "User_p1_4",
             "review_title": "Review at Nhan's Kitchen",
-            "review_text": "britt o\n6 contributions\n0\nPerfect place, perfect food.\nAug 2026 • Couples\nAmazing food, also gluten-free options. the waitress was so sweet, we loved it and came back the next day!\nWritten August 6, 2026",
+            "review_text": "michael f\n5 contributions\n0\nAmazing Vietnam cuisine\nAug 2026 • Family\nWhat a fabulous restaurant. If you are hungry and available to get here get here . Food is amazing fresh and service is amazing\nWritten August 23, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-03",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T17:36:02.488395",
+            "crawl_timestamp": "2026-10-11T08:50:53.145617",
             "restaurant_id": "12453466",
             "restaurant_name": "Nhan's Kitchen",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "city": "4. Hoi An Restaurants\nSee all 1,757 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -508,14 +544,14 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 3105
+                "reviewCount": 3107
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 15.878102,
                 "longitude": 108.34514
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/c0/37/a1/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/3d/e7/e6/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
@@ -550,6 +586,12 @@
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
                     "opens": "11:00:00",
                     "closes": "21:15:00"
                 }
@@ -566,20 +608,20 @@
             "review_id": "REV_12453466_p1_5",
             "reviewer_id": "User_p1_5",
             "review_title": "Review at Nhan's Kitchen",
-            "review_text": "ymuratti\n43 contributions\n0\nGreat place to eat. Prices are good and food is delicious!!\nJul 2026 • Solo\nThe ladies that run the show are always smiling and eager to help. The food is delicious and I have been back 3 times so far. The stuffed squid is delicious !!!\nWritten July 7, 2026",
+            "review_text": "britt o\n6 contributions\n0\nPerfect place, perfect food.\nAug 2026 • Couples\nAmazing food, also gluten-free options. the waitress was so sweet, we loved it and came back the next day!\nWritten August 6, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-03",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T17:36:02.494963",
+            "crawl_timestamp": "2026-10-11T08:50:53.158035",
             "restaurant_id": "12453466",
             "restaurant_name": "Nhan's Kitchen",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "city": "4. Hoi An Restaurants\nSee all 1,757 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -591,14 +633,14 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 3105
+                "reviewCount": 3107
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 15.878102,
                 "longitude": 108.34514
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/c0/37/a1/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/3d/e7/e6/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
@@ -633,6 +675,12 @@
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
                     "opens": "11:00:00",
                     "closes": "21:15:00"
                 }
@@ -649,20 +697,20 @@
             "review_id": "REV_12453466_p1_6",
             "reviewer_id": "User_p1_6",
             "review_title": "Review at Nhan's Kitchen",
-            "review_text": "AARELI\nMirfield, United Kingdom38 contributions\n0\nExcellent Food\nJun 2026 • Couples\nGreat food, excellent service and friendly helpful staff\nWritten June 24, 2026",
+            "review_text": "ymuratti\n43 contributions\n0\nGreat place to eat. Prices are good and food is delicious!!\nJul 2026 • Solo\nThe ladies that run the show are always smiling and eager to help. The food is delicious and I have been back 3 times so far. The stuffed squid is delicious !!!\nWritten July 7, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-03",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T17:36:02.510096",
+            "crawl_timestamp": "2026-10-11T08:50:53.169089",
             "restaurant_id": "12453466",
             "restaurant_name": "Nhan's Kitchen",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "city": "4. Hoi An Restaurants\nSee all 1,757 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -674,14 +722,14 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 3105
+                "reviewCount": 3107
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 15.878102,
                 "longitude": 108.34514
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/c0/37/a1/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/3d/e7/e6/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
@@ -716,6 +764,12 @@
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
                     "opens": "11:00:00",
                     "closes": "21:15:00"
                 }
@@ -732,20 +786,20 @@
             "review_id": "REV_12453466_p1_7",
             "reviewer_id": "User_p1_7",
             "review_title": "Review at Nhan's Kitchen",
-            "review_text": "Lena C\n5 contributions\n0\nGood experience\nJun 2026 • Family\nServing staff were very friendly and helpful. Food was good.\nWritten June 14, 2026",
+            "review_text": "AARELI\nMirfield, United Kingdom38 contributions\n0\nExcellent Food\nJun 2026 • Couples\nGreat food, excellent service and friendly helpful staff\nWritten June 24, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-03",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T17:36:02.516797",
+            "crawl_timestamp": "2026-10-11T08:50:53.181360",
             "restaurant_id": "12453466",
             "restaurant_name": "Nhan's Kitchen",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "city": "4. Hoi An Restaurants\nSee all 1,757 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -757,14 +811,14 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 3105
+                "reviewCount": 3107
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 15.878102,
                 "longitude": 108.34514
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/c0/37/a1/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/3d/e7/e6/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
@@ -799,6 +853,12 @@
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
                     "opens": "11:00:00",
                     "closes": "21:15:00"
                 }
@@ -815,20 +875,20 @@
             "review_id": "REV_12453466_p1_8",
             "reviewer_id": "User_p1_8",
             "review_title": "Review at Nhan's Kitchen",
-            "review_text": "Johnnygoldmine\nPerth, Australia5 contributions\n0\nCant go wrong eating here\nJun 2026 • Solo\nFreshly cooked food. Great taste\nWritten June 9, 2026",
+            "review_text": "Lena C\n5 contributions\n0\nGood experience\nJun 2026 • Family\nServing staff were very friendly and helpful. Food was good.\nWritten June 14, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-03",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T17:36:02.532537",
+            "crawl_timestamp": "2026-10-11T08:50:53.193326",
             "restaurant_id": "12453466",
             "restaurant_name": "Nhan's Kitchen",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "city": "4. Hoi An Restaurants\nSee all 1,757 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -840,14 +900,14 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 3105
+                "reviewCount": 3107
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 15.878102,
                 "longitude": 108.34514
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/c0/37/a1/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/3d/e7/e6/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
@@ -882,6 +942,12 @@
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
                     "opens": "11:00:00",
                     "closes": "21:15:00"
                 }
@@ -898,20 +964,20 @@
             "review_id": "REV_12453466_p1_9",
             "reviewer_id": "User_p1_9",
             "review_title": "Review at Nhan's Kitchen",
-            "review_text": "olivia j\n3 contributions\n0\nGreat food and service\nMay 2026 • Couples\nWe walked in off the street with no expectation as we were a little bit lost but the food was amazing. The service was amazing and value was great.\nWritten May 29, 2026",
+            "review_text": "Johnnygoldmine\nPerth, Australia5 contributions\n0\nCant go wrong eating here\nJun 2026 • Solo\nFreshly cooked food. Great taste\nWritten June 9, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-03",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T17:36:02.547784",
+            "crawl_timestamp": "2026-10-11T08:50:53.205709",
             "restaurant_id": "12453466",
             "restaurant_name": "Nhan's Kitchen",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "city": "4. Hoi An Restaurants\nSee all 1,757 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -923,14 +989,14 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 3105
+                "reviewCount": 3107
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 15.878102,
                 "longitude": 108.34514
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/c0/37/a1/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/3d/e7/e6/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
@@ -965,6 +1031,12 @@
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
                     "opens": "11:00:00",
                     "closes": "21:15:00"
                 }
@@ -981,20 +1053,20 @@
             "review_id": "REV_12453466_p1_10",
             "reviewer_id": "User_p1_10",
             "review_title": "Review at Nhan's Kitchen",
-            "review_text": "Petitgiaco\nChambery, France475 contributions\n0\nSmall getaway in Hoi An\nMay 2026 • Friends\nSmall restaurant far from the center but very tasty and despite the passage of time, constant cuisine , service. To discover in the evening or for lunch you will not be disappointed\nTranslated from French\nShow original\nWritten May 11, 2026\nthi n\nDear Mr/ Ms: Petitgiaco\nThank you so much for your kind words and continued support. \nWe’re happy to know you enjoyed both our food and service once again. Your recommendation means a lot to us. We hope to welcome you back to Nhan’s Kitchen for another lovely lunch or dinner soon! \nBest Regard,\nNhan’s Kitchen Team\nRead more\nWritten May 27, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "review_text": "olivia j\n3 contributions\n0\nGreat food and service\nMay 2026 • Couples\nWe walked in off the street with no expectation as we were a little bit lost but the food was amazing. The service was amazing and value was great.\nWritten May 29, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-03",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T17:36:02.558338",
+            "crawl_timestamp": "2026-10-11T08:50:53.227699",
             "restaurant_id": "12453466",
             "restaurant_name": "Nhan's Kitchen",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "city": "4. Hoi An Restaurants\nSee all 1,757 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -1006,14 +1078,14 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 3105
+                "reviewCount": 3107
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 15.878102,
                 "longitude": 108.34514
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/c0/37/a1/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/3d/e7/e6/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
@@ -1048,6 +1120,12 @@
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
                     "opens": "11:00:00",
                     "closes": "21:15:00"
                 }
@@ -1064,20 +1142,20 @@
             "review_id": "REV_12453466_p1_11",
             "reviewer_id": "User_p1_11",
             "review_title": "Review at Nhan's Kitchen",
-            "review_text": "Elly S\n8 contributions\n0\nTasty food and great service!\nMay 2026 • Family\nVery reasonably priced tasty meals and great friendly service! You can find a mix of local and western dishes to cater for any taste. Highly recommend!!\nWritten May 6, 2026",
+            "review_text": "Petitgiaco\nChambery, France477 contributions\n0\nSmall getaway in Hoi An\nMay 2026 • Friends\nSmall restaurant far from the center but very tasty and despite the passage of time, constant cuisine , service. To discover in the evening or for lunch you will not be disappointed\nTranslated from French\nShow original\nWritten May 11, 2026\nthi n\nDear Mr/ Ms: Petitgiaco\nThank you so much for your kind words and continued support. \nWe’re happy to know you enjoyed both our food and service once again. Your recommendation means a lot to us. We hope to welcome you back to Nhan’s Kitchen for another lovely lunch or dinner soon! \nBest Regard,\nNhan’s Kitchen Team\nRead more\nWritten May 27, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
             "rating": 5.0,
-            "review_date": "2026-10-03",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T17:36:02.564592",
+            "crawl_timestamp": "2026-10-11T08:50:53.240345",
             "restaurant_id": "12453466",
             "restaurant_name": "Nhan's Kitchen",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "city": "4. Hoi An Restaurants\nSee all 1,757 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -1089,14 +1167,14 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 3105
+                "reviewCount": 3107
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 15.878102,
                 "longitude": 108.34514
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/c0/37/a1/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/3d/e7/e6/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
@@ -1131,6 +1209,12 @@
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
                     "opens": "11:00:00",
                     "closes": "21:15:00"
                 }
@@ -1147,20 +1231,20 @@
             "review_id": "REV_12453466_p1_12",
             "reviewer_id": "User_p1_12",
             "review_title": "Review at Nhan's Kitchen",
-            "review_text": "Michael S\n37 contributions\n0\nA Lovely Restaurant\nApr 2026 • Couples\nLovely food with good choices and friendly staff.\nWritten April 9, 2026",
+            "review_text": "Elly S\n8 contributions\n0\nTasty food and great service!\nMay 2026 • Family\nVery reasonably priced tasty meals and great friendly service! You can find a mix of local and western dishes to cater for any taste. Highly recommend!!\nWritten May 6, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-03",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T17:36:02.587561",
+            "crawl_timestamp": "2026-10-11T08:50:53.251345",
             "restaurant_id": "12453466",
             "restaurant_name": "Nhan's Kitchen",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "city": "4. Hoi An Restaurants\nSee all 1,757 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -1172,14 +1256,14 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 3105
+                "reviewCount": 3107
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 15.878102,
                 "longitude": 108.34514
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/c0/37/a1/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/3d/e7/e6/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
@@ -1214,6 +1298,12 @@
                 {
                     "@type": "OpeningHoursSpecification",
                     "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
                     "opens": "11:00:00",
                     "closes": "21:15:00"
                 }
@@ -1230,20 +1320,20 @@
             "review_id": "REV_12453466_p1_13",
             "reviewer_id": "User_p1_13",
             "review_title": "Review at Nhan's Kitchen",
-            "review_text": "Ulli G.\nBendorf, Germany48 contributions\n1\nGreat Food\nApr 2026 • Couples\nThe restaurant was absolutely delicious. The long walk was definitely worth it. The staff were very friendly and the dishes were flavorful and well-seasoned.\n\nHighly recommended!\nInsider tip:\nMy favorite dish is the chicken served on a banana leaf.\nValue\nService\nFood\nAtmosphere\nWritten April 7, 2026",
+            "review_text": "Michael S\n37 contributions\n0\nA Lovely Restaurant\nApr 2026 • Couples\nLovely food with good choices and friendly staff.\nWritten April 9, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-03",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-03T17:36:02.600458",
+            "crawl_timestamp": "2026-10-11T08:50:53.269445",
             "restaurant_id": "12453466",
             "restaurant_name": "Nhan's Kitchen",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "city": "4. Hoi An Restaurants\nSee all 1,757 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298082-d12453466-Reviews-Nhan_s_Kitchen-Hoi_An_Quang_Nam_Province.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -1255,14 +1345,14 @@
             "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": 4.9,
-                "reviewCount": 3105
+                "reviewCount": 3107
             },
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 15.878102,
                 "longitude": 108.34514
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/c0/37/a1/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/3d/e7/e6/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
@@ -1299,6 +1389,12 @@
                     "dayOfWeek": "Friday",
                     "opens": "11:00:00",
                     "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "21:15:00"
                 }
             ],
             "priceRange": "$",
@@ -1313,9 +1409,9 @@
             "review_id": "REV_12453466_p1_14",
             "reviewer_id": "User_p1_14",
             "review_title": "Review at Nhan's Kitchen",
-            "review_text": "Getaway800970\nRotorua, New Zealand39 contributions\n0\nHome away from home\nMar 2026 • Couples\nWe ate many times at Nhan’s in 2024. At that time we thought the food was amazing and the host and staff were the friendliest we had come across anywhere in Vietnam. We returned last week to find the food as good as ever and the host and staff had the same charm friendliness and attentiveness you only find in family restaurants. You actually feel a local family has invited you home for a family dinner. It’s an easy walk from the old town or a short grab ride - go !! you won’t be disappointed.\nDavid & Tina NZ\nRead more\nWritten April 1, 2026",
+            "review_text": "Ulli G.\nBendorf, Germany48 contributions\n1\nGreat Food\nApr 2026 • Couples\nThe restaurant was absolutely delicious. The long walk was definitely worth it. The staff were very friendly and the dishes were flavorful and well-seasoned.\n\nHighly recommended!\nInsider tip:\nMy favorite dish is the chicken served on a banana leaf.\nValue\nService\nFood\nAtmosphere\nWritten April 7, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-03",
+            "review_date": "2026-10-11",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

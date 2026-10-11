@@ -1,0 +1,82 @@
+{
+    "restaurant_id": "23869707",
+    "restaurant_name": "Quán Hải Sản Sóng Biển Nha Trang",
+    "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d23869707-Reviews-Quan_H_i_S_n_Song_Bi_n_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d23869707-Reviews-Quan_H_i_S_n_Song_Bi_n_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Nha Trang Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.228694,
+            "longitude": 109.19596
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/d6/10/fe/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "09:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "09:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "09:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "09:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "09:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "09:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "09:00:00",
+                "closes": "23:45:00"
+            }
+        ],
+        "priceRange": "$$$$",
+        "servesCuisine": [
+            "Seafood",
+            "Asian",
+            "Vietnamese",
+            "Singaporean"
+        ],
+        "telephone": "+84 70 2446 282"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}
