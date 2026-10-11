@@ -1,0 +1,80 @@
+{
+    "restaurant_id": "26575503",
+    "restaurant_name": "Cau Ca Food & Chill",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26575503-Reviews-Cau_Ca_Food_Chill-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26575503-Reviews-Cau_Ca_Food_Chill-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.770345,
+            "longitude": 106.70161
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/d2/01/11/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "15:00:00",
+                "closes": "03:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "15:00:00",
+                "closes": "03:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "15:00:00",
+                "closes": "03:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "15:00:00",
+                "closes": "03:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "15:00:00",
+                "closes": "03:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "15:00:00",
+                "closes": "03:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "15:00:00",
+                "closes": "03:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Thai",
+            "Vietnamese",
+            "Japanese Fusion"
+        ],
+        "telephone": "+84 8 3522 7979"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

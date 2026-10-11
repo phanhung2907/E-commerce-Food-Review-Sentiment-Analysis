@@ -1,0 +1,80 @@
+{
+    "restaurant_id": "17627066",
+    "restaurant_name": "Pho Lan Huong",
+    "city": "29. Bien Hoa Restaurants\nSee all 76 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1749176-d17627066-Reviews-Pho_Lan_Huong-Bien_Hoa_Dong_Nai_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g1749176-d17627066-Reviews-Pho_Lan_Huong-Bien_Hoa_Dong_Nai_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "National Route 1A",
+            "addressLocality": "Bien Hoa"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 1,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.905529,
+            "longitude": 106.84588
+        },
+        "image": "N/A",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "05:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "05:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "05:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "05:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "05:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "05:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "05:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Vietnamese"
+        ],
+        "telephone": "+84 61 3892 951"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

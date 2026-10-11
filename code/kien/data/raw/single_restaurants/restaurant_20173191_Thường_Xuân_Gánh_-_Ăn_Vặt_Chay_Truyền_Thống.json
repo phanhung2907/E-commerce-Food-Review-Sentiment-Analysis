@@ -1,0 +1,52 @@
+{
+    "restaurant_id": "20173191",
+    "restaurant_name": "Thường Xuân Gánh - Ăn Vặt Chay Truyền Thống",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d20173191-Reviews-Thu_ng_Xuan_Ganh_An_V_t_Chay_Truy_n_Th_ng-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d20173191-Reviews-Thu_ng_Xuan_Ganh_An_V_t_Chay_Truy_n_Th_ng-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.788203,
+            "longitude": 106.7029
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "15:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "15:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Asian",
+            "Deli",
+            "Vietnamese",
+            "Healthy",
+            "Street Food"
+        ],
+        "telephone": "+84 93 287 63 08"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

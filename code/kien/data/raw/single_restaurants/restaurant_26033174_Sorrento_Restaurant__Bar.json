@@ -1,0 +1,941 @@
+{
+    "restaurant_id": "26033174",
+    "restaurant_name": "Sorrento Restaurant & Bar",
+    "city": "27. An Thoi Restaurants\nSee all 83 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12520037-d26033174-Reviews-Sorrento_Restaurant_Bar-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g12520037-d26033174-Reviews-Sorrento_Restaurant_Bar-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "An Thoi, Phu Quoc Island Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 3.3,
+            "reviewCount": 11
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.289879,
+            "longitude": 103.98402
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/a5/8d/4e/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "09:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "09:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "09:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "09:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "09:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "09:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "09:00:00",
+                "closes": "23:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Seafood",
+            "Indigenous"
+        ],
+        "telephone": "+84 97 912 19 77"
+    },
+    "reviews_count": 10,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:21:40.284216",
+            "restaurant_id": "26033174",
+            "restaurant_name": "Sorrento Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12520037-d26033174-Reviews-Sorrento_Restaurant_Bar-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "27. An Thoi Restaurants\nSee all 83 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12520037-d26033174-Reviews-Sorrento_Restaurant_Bar-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "An Thoi, Phu Quoc Island Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.3,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.289879,
+                "longitude": 103.98402
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/a5/8d/4e/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Seafood",
+                "Indigenous"
+            ],
+            "telephone": "+84 97 912 19 77",
+            "review_id": "REV_26033174_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Sorrento Restaurant & Bar",
+            "review_text": "Mariusz P\n2 contributions\n0\nVery poor service\nAug 2026 • Family\nI don't know where these positive reviews come from. The food was bad, didn't match the menu description, and was of very poor quality. The service was terrible—dishes were served haphazardly, with the appetizer arriving at the end of the meal. A terrible restaurant; I do not recommend it.\nInsider tip:\nI don't know where these positive reviews come from. The food was bad, didn't match the menu description, and was of very poor quality. The\nValue\nService\nFood\nAtmosphere\nWritten August 8, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:21:40.299808",
+            "restaurant_id": "26033174",
+            "restaurant_name": "Sorrento Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12520037-d26033174-Reviews-Sorrento_Restaurant_Bar-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "27. An Thoi Restaurants\nSee all 83 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12520037-d26033174-Reviews-Sorrento_Restaurant_Bar-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "An Thoi, Phu Quoc Island Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.3,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.289879,
+                "longitude": 103.98402
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/a5/8d/4e/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Seafood",
+                "Indigenous"
+            ],
+            "telephone": "+84 97 912 19 77",
+            "review_id": "REV_26033174_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Sorrento Restaurant & Bar",
+            "review_text": "LondonLola17\nLondon, United Kingdom370 contributions\n0\nCould really try harder\nMar 2026 • Couples\nThe evening felt as if we were just there to inconvenience the staff. It’s possibly partly a lack of easy communication as they didn’t speak very much English, however, a smile goes a long way. The food wasn’t great quality and didn’t seem fresh, but it was nice to sit outside by the water. The setting is great and with better management could be a lovely place to enjoy local food.\nRead more\nWritten March 4, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:21:40.315331",
+            "restaurant_id": "26033174",
+            "restaurant_name": "Sorrento Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12520037-d26033174-Reviews-Sorrento_Restaurant_Bar-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "27. An Thoi Restaurants\nSee all 83 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12520037-d26033174-Reviews-Sorrento_Restaurant_Bar-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "An Thoi, Phu Quoc Island Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.3,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.289879,
+                "longitude": 103.98402
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/a5/8d/4e/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Seafood",
+                "Indigenous"
+            ],
+            "telephone": "+84 97 912 19 77",
+            "review_id": "REV_26033174_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Sorrento Restaurant & Bar",
+            "review_text": "Tristan B\n8 contributions\n0\nVery poor organisation and customer service\nJan 2026 • Couples\nWe visited Sorrento two nights ago for cocktails and a light lunch. The views were unbelievable and the service was decent, so we decided to book a table for today (Saturday) at 5:30pm, specifically requesting a seat down by the water for my partner’s birthday. The waiter confirmed the booking, and I even wrote the table request in Vietnamese so there would be no misunderstanding.\n\nWhen we arrived on time, it looked like the entire restaurant had been booked out for an event — yet the exact tables by the water that we reserved were completely free. The waiter repeatedly told us there was space upstairs, but the only reason we booked this restaurant again was for the waterfront seating. If these tables weren’t available, the booking shouldn’t have been taken.\n\nAfter insisting that we had booked downstairs, the waiter laughed and said “yes, ok,” but then left us sitting there with no further contact for about 15 minutes. We obviously left at that point.\n\nIt’s such a shame because the place is genuinely beautiful, and our first experience a couple of days ago was perfect. The owners really need to speak with their younger staff and remind them that customers should be treated with respect and fairness. A great location doesn’t excuse poor service.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten January 24, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:21:40.332529",
+            "restaurant_id": "26033174",
+            "restaurant_name": "Sorrento Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12520037-d26033174-Reviews-Sorrento_Restaurant_Bar-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "27. An Thoi Restaurants\nSee all 83 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12520037-d26033174-Reviews-Sorrento_Restaurant_Bar-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "An Thoi, Phu Quoc Island Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.3,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.289879,
+                "longitude": 103.98402
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/a5/8d/4e/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Seafood",
+                "Indigenous"
+            ],
+            "telephone": "+84 97 912 19 77",
+            "review_id": "REV_26033174_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Sorrento Restaurant & Bar",
+            "review_text": "anthony b\n7 contributions\n0\nGood service. Great views. Polite staff\nApr 2025 • Family\nExceptional view from table. Very nice lunch. Attentive , helpful staff. Paid for my taxi when driver did not have change. \nGood advice about food\n\nHOÀI THƯƠNG the supervisor was excellent.\nWritten April 17, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:21:40.351640",
+            "restaurant_id": "26033174",
+            "restaurant_name": "Sorrento Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12520037-d26033174-Reviews-Sorrento_Restaurant_Bar-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "27. An Thoi Restaurants\nSee all 83 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12520037-d26033174-Reviews-Sorrento_Restaurant_Bar-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "An Thoi, Phu Quoc Island Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.3,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.289879,
+                "longitude": 103.98402
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/a5/8d/4e/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Seafood",
+                "Indigenous"
+            ],
+            "telephone": "+84 97 912 19 77",
+            "review_id": "REV_26033174_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Sorrento Restaurant & Bar",
+            "review_text": "kazu y\n2 contributions\n0\nnot to recommend\nJan 2025 • Family\nwe ordered shrimp and scallop but never come. just sorry. no recommended at all,\nnot only us many guests complaint.paid but no changes. terrible.\nValue\nService\nFood\nAtmosphere\nWritten January 28, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:21:40.366523",
+            "restaurant_id": "26033174",
+            "restaurant_name": "Sorrento Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12520037-d26033174-Reviews-Sorrento_Restaurant_Bar-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "27. An Thoi Restaurants\nSee all 83 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12520037-d26033174-Reviews-Sorrento_Restaurant_Bar-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "An Thoi, Phu Quoc Island Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.3,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.289879,
+                "longitude": 103.98402
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/a5/8d/4e/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Seafood",
+                "Indigenous"
+            ],
+            "telephone": "+84 97 912 19 77",
+            "review_id": "REV_26033174_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at Sorrento Restaurant & Bar",
+            "review_text": "chumph11\nNavarre, Florida60 contributions\n0\ngreat find\nJan 2025 • Couples\nThuong was our server and made the dinner wonderful. she was very good at explaining everything on the menu and the choices of preparation. we had the Cobia soup and it was fantastic. we also had mantas shrimp, large nail and she recommended sashimi and it was wonderful. \n\ni would eat here again and again. I have been in vietnam for a few weeks and this is one if not the best meal of the trip\nRead more\nWritten January 17, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:21:40.377105",
+            "restaurant_id": "26033174",
+            "restaurant_name": "Sorrento Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12520037-d26033174-Reviews-Sorrento_Restaurant_Bar-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "27. An Thoi Restaurants\nSee all 83 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12520037-d26033174-Reviews-Sorrento_Restaurant_Bar-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "An Thoi, Phu Quoc Island Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.3,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.289879,
+                "longitude": 103.98402
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/a5/8d/4e/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Seafood",
+                "Indigenous"
+            ],
+            "telephone": "+84 97 912 19 77",
+            "review_id": "REV_26033174_p1_6",
+            "reviewer_id": "User_p1_6",
+            "review_title": "Review at Sorrento Restaurant & Bar",
+            "review_text": "Beverley K\nMelbourne, Australia3 contributions\n0\nYummy meal with friendly staff\nDec 2024 • Couples\nFriendly staff, delicious food, and good service. \nThe salad was heresy and tasty and spring rolls for a light snack are delicious.\nWritten December 29, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:21:40.391006",
+            "restaurant_id": "26033174",
+            "restaurant_name": "Sorrento Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12520037-d26033174-Reviews-Sorrento_Restaurant_Bar-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "27. An Thoi Restaurants\nSee all 83 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12520037-d26033174-Reviews-Sorrento_Restaurant_Bar-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "An Thoi, Phu Quoc Island Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.3,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.289879,
+                "longitude": 103.98402
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/a5/8d/4e/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Seafood",
+                "Indigenous"
+            ],
+            "telephone": "+84 97 912 19 77",
+            "review_id": "REV_26033174_p1_7",
+            "reviewer_id": "User_p1_7",
+            "review_title": "Review at Sorrento Restaurant & Bar",
+            "review_text": "Hieu Le\nGoreme, Türkiye6 contributions\n0\nAwful place , expensive and lied to customers\nAug 2024 • Family\nTerrible experience. This place is ridiculously expensive and also lied to customers. You should ignore the reviews on google. Probably fake. \nWe went for dinner and asked price of prawns. It was 1.250k per kilo and I asked how many prawns per half a kilo, the owner said 6-7 (ok that is reasonable I guessed). The plate came out and it was 12-15 prawns and they are very small. I immediately complained to the owner and he ignored. We went to Duong Dong next day and price for double size prawns are half of what this loudsy place charged us. Absolutely disgusted! This place should be avoided. Food is average but the price is so expensive, go somewhere else!\nRead more\nWritten August 31, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:21:40.405554",
+            "restaurant_id": "26033174",
+            "restaurant_name": "Sorrento Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12520037-d26033174-Reviews-Sorrento_Restaurant_Bar-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "27. An Thoi Restaurants\nSee all 83 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12520037-d26033174-Reviews-Sorrento_Restaurant_Bar-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "An Thoi, Phu Quoc Island Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.3,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.289879,
+                "longitude": 103.98402
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/a5/8d/4e/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Seafood",
+                "Indigenous"
+            ],
+            "telephone": "+84 97 912 19 77",
+            "review_id": "REV_26033174_p1_8",
+            "reviewer_id": "User_p1_8",
+            "review_title": "Review at Sorrento Restaurant & Bar",
+            "review_text": "Sidhath\nPhu Quoc Island, Vietnam21 contributions\n0\nA very nice restaurant, Hightly recomend\nAug 2024 • Business\nThe foods are nice, the staffs are friendly, especially, the beachfront view are amazing!!!\nYou can also enjoy cool breeze, direct view to the Kiss bridge\nWritten August 5, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:21:40.427133",
+            "restaurant_id": "26033174",
+            "restaurant_name": "Sorrento Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12520037-d26033174-Reviews-Sorrento_Restaurant_Bar-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "city": "27. An Thoi Restaurants\nSee all 83 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12520037-d26033174-Reviews-Sorrento_Restaurant_Bar-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "An Thoi, Phu Quoc Island Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.3,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.289879,
+                "longitude": 103.98402
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/a5/8d/4e/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Seafood",
+                "Indigenous"
+            ],
+            "telephone": "+84 97 912 19 77",
+            "review_id": "REV_26033174_p1_9",
+            "reviewer_id": "User_p1_9",
+            "review_title": "Review at Sorrento Restaurant & Bar",
+            "review_text": "Maps48391735769\n1 contribution\n0\nImpressive restaurant is Sorrento\nMar 2024 • Friends\nNice view, delicious food, lovely staff, good price 😍😍😍\nEverytime i come to Sorrento, i'm satisfied with not only the food, but also the service here\nValue\nService\nFood\nAtmosphere\nWritten March 12, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

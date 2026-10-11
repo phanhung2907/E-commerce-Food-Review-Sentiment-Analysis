@@ -1,0 +1,253 @@
+{
+    "restaurant_id": "28031256",
+    "restaurant_name": "Cafe 1600 - The Cloud Hunting Cafe",
+    "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d28031256-Reviews-Cafe_1600_The_Cloud_Hunting_Cafe-Lao_Cai_Lao_Cai_Province.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d28031256-Reviews-Cafe_1600_The_Cloud_Hunting_Cafe-Lao_Cai_Lao_Cai_Province.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "Tổ 7, Phường Sa Pa, Thị Xã Sa Pa, Lào Cai, Vietnam",
+            "addressLocality": "Lao Cai"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.5,
+            "reviewCount": 2
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 22.334206,
+            "longitude": 103.846886
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/ed/e7/62/view-t-quan.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "08:00:00",
+                "closes": "18:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "08:00:00",
+                "closes": "18:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "08:00:00",
+                "closes": "18:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "08:00:00",
+                "closes": "18:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "08:00:00",
+                "closes": "18:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "08:00:00",
+                "closes": "18:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "08:00:00",
+                "closes": "18:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Indigenous"
+        ],
+        "telephone": "+84 96 118 22 66"
+    },
+    "reviews_count": 2,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T02:11:04.868543",
+            "restaurant_id": "28031256",
+            "restaurant_name": "Cafe 1600 - The Cloud Hunting Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d28031256-Reviews-Cafe_1600_The_Cloud_Hunting_Cafe-Lao_Cai_Lao_Cai_Province.html",
+            "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d28031256-Reviews-Cafe_1600_The_Cloud_Hunting_Cafe-Lao_Cai_Lao_Cai_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Tổ 7, Phường Sa Pa, Thị Xã Sa Pa, Lào Cai, Vietnam",
+                "addressLocality": "Lao Cai"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 2
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.334206,
+                "longitude": 103.846886
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/ed/e7/62/view-t-quan.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "18:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "18:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "18:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "18:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "18:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "18:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "18:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Indigenous"
+            ],
+            "telephone": "+84 96 118 22 66",
+            "review_id": "REV_28031256_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Cafe 1600 - The Cloud Hunting Cafe",
+            "review_text": "Charlotte240401\nAmble, United Kingdom2 contributions\n0\nStunning views for a morning coffee\nAug 2026 • Couples\nAfter initially going the wrong way thanks to google maps, we came to this wonderful cafe overlooking the valley. 250k per person which included a drink, pastry and a golf cart up the hill but worth every penny. Drinks reasonable once up there. Very tasty drinks. Excellent views. Definitely not one to miss (unless it’s raining!!)\nWritten August 14, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T02:11:04.884346",
+            "restaurant_id": "28031256",
+            "restaurant_name": "Cafe 1600 - The Cloud Hunting Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d28031256-Reviews-Cafe_1600_The_Cloud_Hunting_Cafe-Lao_Cai_Lao_Cai_Province.html",
+            "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d28031256-Reviews-Cafe_1600_The_Cloud_Hunting_Cafe-Lao_Cai_Lao_Cai_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Tổ 7, Phường Sa Pa, Thị Xã Sa Pa, Lào Cai, Vietnam",
+                "addressLocality": "Lao Cai"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 2
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.334206,
+                "longitude": 103.846886
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/ed/e7/62/view-t-quan.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "18:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "18:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "18:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "18:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "18:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "18:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "18:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Indigenous"
+            ],
+            "telephone": "+84 96 118 22 66",
+            "review_id": "REV_28031256_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Cafe 1600 - The Cloud Hunting Cafe",
+            "review_text": "Peter\n264 contributions\n0\nNice top view\nNov 2025 • Friends\nA nice cool area to savour fruit juices as well as coffee with eggs. It goes well with croissant. Needs to go up by buggy rides at the common parking area near Ville De Mont. \nA nice view if the neighboring places. A nice place to take pics with the setting of the sun over the mountain ranges in the background.\nWritten November 28, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

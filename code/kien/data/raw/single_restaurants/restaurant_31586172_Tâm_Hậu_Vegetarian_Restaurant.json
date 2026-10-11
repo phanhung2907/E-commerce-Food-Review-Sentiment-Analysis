@@ -1,0 +1,781 @@
+{
+    "restaurant_id": "31586172",
+    "restaurant_name": "Tâm Hậu Vegetarian Restaurant",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d31586172-Reviews-Tam_H_u_Vegetarian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d31586172-Reviews-Tam_H_u_Vegetarian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 5
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.750214,
+            "longitude": 106.71577
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "07:00:00",
+                "closes": "13:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "15:30:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "07:00:00",
+                "closes": "13:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "15:30:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "07:00:00",
+                "closes": "13:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "15:30:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "07:00:00",
+                "closes": "13:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "15:30:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "07:00:00",
+                "closes": "13:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "15:30:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "07:00:00",
+                "closes": "13:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "15:30:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "07:00:00",
+                "closes": "13:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "15:30:00",
+                "closes": "21:00:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Chinese",
+            "Vietnamese",
+            "Healthy",
+            "Soups",
+            "Central Asian"
+        ],
+        "telephone": "+840768493618"
+    },
+    "reviews_count": 5,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T12:13:02.609783",
+            "restaurant_id": "31586172",
+            "restaurant_name": "Tâm Hậu Vegetarian Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d31586172-Reviews-Tam_H_u_Vegetarian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d31586172-Reviews-Tam_H_u_Vegetarian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.750214,
+                "longitude": 106.71577
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Vietnamese",
+                "Healthy",
+                "Soups",
+                "Central Asian"
+            ],
+            "telephone": "+840768493618",
+            "review_id": "REV_31586172_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Tâm Hậu Vegetarian Restaurant",
+            "review_text": "Voyage12877060473\n2 contributions\n0\nhumor\nSep 2026 • Family\nAfter having an experience at this restaurant, I would like to talk about the dishes, the service, the quality from the food and the service, and I highly recommend it to everyone to come eat.\nTranslated from Vietnamese\nShow original\nWritten October 4, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T12:13:02.634495",
+            "restaurant_id": "31586172",
+            "restaurant_name": "Tâm Hậu Vegetarian Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d31586172-Reviews-Tam_H_u_Vegetarian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d31586172-Reviews-Tam_H_u_Vegetarian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.750214,
+                "longitude": 106.71577
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Vietnamese",
+                "Healthy",
+                "Soups",
+                "Central Asian"
+            ],
+            "telephone": "+840768493618",
+            "review_id": "REV_31586172_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Tâm Hậu Vegetarian Restaurant",
+            "review_text": "My Đ\nVietnam6 contributions\n0\nFamily and friends gatherings\nAug 2026 • Family\nTam Hau has both outdoor and air-conditioned areas, with a cozy decorated space. Delicious food and suitable for our family, especially salads and stir-fries. Although it sells vegetarian food, the menu is very diverse and has dishes suitable for all ages. In addition, Tam Hau also has a very distinctive and unique eel hotpot.\nTranslated from Vietnamese\nShow original\nWritten September 28, 2026\nTâm Hậu Q\nCảm ơn bạn rất nhiều vì đã lựa chọn Tâm Hậu cho bữa ăn của mình! Sự hài lòng của bạn về món ăn và khẩu phần lớn là động lực to lớn cho quán. Chúc bạn và gia đình luôn an lạc! \n\nThank you so much for choosing Tam Hau! Your satisfaction with our delicious dishes and generous portions means the world to us. Wishing you and your family peace and happiness!\nRead more\nWritten October 4, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T12:13:02.654471",
+            "restaurant_id": "31586172",
+            "restaurant_name": "Tâm Hậu Vegetarian Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d31586172-Reviews-Tam_H_u_Vegetarian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d31586172-Reviews-Tam_H_u_Vegetarian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.750214,
+                "longitude": 106.71577
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Vietnamese",
+                "Healthy",
+                "Soups",
+                "Central Asian"
+            ],
+            "telephone": "+840768493618",
+            "review_id": "REV_31586172_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Tâm Hậu Vegetarian Restaurant",
+            "review_text": "JasmineLe\nHo Chi Minh City, Vietnam2 contributions\n0\nFood experience\nSep 2026 • Couples\nThe food is very diverse, suitable for family outings. I like dishes that can be eaten with rice, diverse, flavorful, and visually appealing too 🥰 I will come back.\nTranslated from Vietnamese\nShow original\nWritten September 22, 2026\nTâm Hậu Q\nCảm ơn bạn rất nhiều vì đã lựa chọn Tâm Hậu cho bữa ăn của mình! Sự hài lòng của bạn về món ăn và khẩu phần lớn là động lực to lớn cho quán. Chúc bạn và gia đình luôn an lạc! \n\nThank you so much for choosing Tam Hau! Your satisfaction with our delicious dishes and generous portions means the world to us. Wishing you and your family peace and happiness!\nRead more\nWritten October 4, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T12:13:02.669781",
+            "restaurant_id": "31586172",
+            "restaurant_name": "Tâm Hậu Vegetarian Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d31586172-Reviews-Tam_H_u_Vegetarian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d31586172-Reviews-Tam_H_u_Vegetarian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.750214,
+                "longitude": 106.71577
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Vietnamese",
+                "Healthy",
+                "Soups",
+                "Central Asian"
+            ],
+            "telephone": "+840768493618",
+            "review_id": "REV_31586172_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Tâm Hậu Vegetarian Restaurant",
+            "review_text": "Hoa D\n1 contribution\n0\nDelicious food, large portions\nSep 2026 • Couples\nI really love the crispy stir-fried noodles and the twin-swallow hotpot at the restaurant. Large portions should be eaten in a group to try many dishes.\nTranslated from Vietnamese\nShow original\nWritten September 19, 2026\nTâm Hậu Q\nCảm ơn bạn rất nhiều vì đã lựa chọn Tâm Hậu cho bữa ăn của mình! Sự hài lòng của bạn về món ăn và khẩu phần lớn là động lực to lớn cho quán. Chúc bạn và gia đình luôn an lạc! \n\nThank you so much for choosing Tam Hau! Your satisfaction with our delicious dishes and generous portions means the world to us. Wishing you and your family peace and happiness!\nRead more\nWritten October 4, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T12:13:02.686279",
+            "restaurant_id": "31586172",
+            "restaurant_name": "Tâm Hậu Vegetarian Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d31586172-Reviews-Tam_H_u_Vegetarian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d31586172-Reviews-Tam_H_u_Vegetarian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.750214,
+                "longitude": 106.71577
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "15:30:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Vietnamese",
+                "Healthy",
+                "Soups",
+                "Central Asian"
+            ],
+            "telephone": "+840768493618",
+            "review_id": "REV_31586172_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Tâm Hậu Vegetarian Restaurant",
+            "review_text": "Daydream63163495172\n1 contribution\n0\nNo complain, just feel it\nAug 2026 • Solo\nyo, this is a place that i really impress in delicious food, specialized for green apple tea (drink) with cozy atmosphere\nWritten September 6, 2026\nTâm Hậu Q\nCảm ơn bạn rất nhiều vì đã lựa chọn Tâm Hậu cho bữa ăn của mình! Sự hài lòng của bạn về món ăn và khẩu phần lớn là động lực to lớn cho quán. Chúc bạn và gia đình luôn an lạc! \n\nThank you so much for choosing Tam Hau! Your satisfaction with our delicious dishes and generous portions means the world to us. Wishing you and your family peace and happiness!\nRead more\nWritten October 4, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "restaurant_id": "11445335",
+    "restaurant_name": "Zcafe",
+    "city": "29. Bien Hoa Restaurants\nSee all 76 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1749176-d11445335-Reviews-Zcafe-Bien_Hoa_Dong_Nai_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g1749176-d11445335-Reviews-Zcafe-Bien_Hoa_Dong_Nai_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "R132 Vo Thi Sau Thong Nhat District",
+            "addressLocality": "Bien Hoa"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.947149,
+            "longitude": 106.82921
+        },
+        "image": "N/A",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "06:30:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "06:30:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "06:30:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "06:30:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "06:30:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "06:30:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "06:30:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": "N/A",
+        "telephone": "+84 93 728 83 83"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

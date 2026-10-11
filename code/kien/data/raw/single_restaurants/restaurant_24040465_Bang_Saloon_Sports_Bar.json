@@ -1,0 +1,81 @@
+{
+    "restaurant_id": "24040465",
+    "restaurant_name": "Bang Saloon Sports Bar",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24040465-Reviews-Bang_Saloon_Sports_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24040465-Reviews-Bang_Saloon_Sports_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.803561,
+            "longitude": 106.7154
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/87/90/c7/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "07:00:00",
+                "closes": "04:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "07:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "07:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "07:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "07:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "07:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "07:00:00",
+                "closes": "04:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Bar",
+            "Cafe",
+            "Pub"
+        ],
+        "telephone": "+84 93 645 39 24"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

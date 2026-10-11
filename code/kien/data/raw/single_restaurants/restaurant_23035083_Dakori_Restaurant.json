@@ -1,0 +1,84 @@
+{
+    "restaurant_id": "23035083",
+    "restaurant_name": "Dakori Restaurant",
+    "city": "25. Buon Ma Thuot Restaurants\nSee all 100 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g670918-d23035083-Reviews-Dakori_Restaurant-Buon_Ma_Thuot_Dak_Lak_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g670918-d23035083-Reviews-Dakori_Restaurant-Buon_Ma_Thuot_Dak_Lak_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "224 Nguyễn Công Trứ",
+            "addressLocality": "Buon Ma Thuot",
+            "postalCode": "630000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 4
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.66667,
+            "longitude": 108.05
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/84/ff/c9/nha-hang-dakori-224-nguy.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "06:30:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "06:30:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "06:30:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "06:30:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "06:30:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "06:30:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "06:30:00",
+                "closes": "22:30:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "French",
+            "Pizza",
+            "Cafe",
+            "European"
+        ],
+        "telephone": "+84 8 2626 5252"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

@@ -1,0 +1,171 @@
+{
+    "restaurant_id": "11864717",
+    "restaurant_name": "Burger King Phu My Hung Restaurant",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d11864717-Reviews-Burger_King_Phu_My_Hung_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d11864717-Reviews-Burger_King_Phu_My_Hung_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "39 Nguyen Van Linh Street, My Khanh 1-H5-2 Zone, District 7",
+            "addressLocality": "Ho Chi Minh City",
+            "postalCode": "700000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 3.4,
+            "reviewCount": 5
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.728152,
+            "longitude": 106.70885
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/05/5f/c0/getlstd-property-photo.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "American",
+            "Fast Food"
+        ],
+        "telephone": "+(84)54124521"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T16:02:46.635300",
+            "restaurant_id": "11864717",
+            "restaurant_name": "Burger King Phu My Hung Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d11864717-Reviews-Burger_King_Phu_My_Hung_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d11864717-Reviews-Burger_King_Phu_My_Hung_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "39 Nguyen Van Linh Street, My Khanh 1-H5-2 Zone, District 7",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.4,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.728152,
+                "longitude": 106.70885
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/05/5f/c0/getlstd-property-photo.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Fast Food"
+            ],
+            "telephone": "+(84)54124521",
+            "review_id": "REV_11864717_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Burger King Phu My Hung Restaurant",
+            "review_text": "Randall S\n24 contributions\n0\nBurger King Vietnam is a TERRIBLE DISASTER as a whole Organization !\nOct 2019\nLong words short : Burger King Vietnam is a TERRIBLE DISASTER as a whole Organization !\n\nBurger King restaurant in HCMC, Phu My Hung tried to cheat us.. Then we called their customer \n\nservice, but it is more terrible than their restaurants, nobody helped us to solve the issue.. \n\nJust for a simple problem which has an extreme simple solution, I had to make around 15 times phone \n\nconversation in 2 hours, contacted their Facebook site and chat, and submit their web form and send \n\ndirectly email to them..\n\nBUT FINALLY THEY DO NOT DO ANYTHING !\n\nI never see this much terrible customer service before ... Burger King Vietnam is Total DISASTER !!!\n\nSTORY was as this : They said that there is a promotion \"Buy 1 get 1 Free\" and we ordered 2 \n\nTendergrill Burgers, 4 Whoopers, 3 Chicken Burgers for delivery to home.. Which means they will bring \n\nthe DOUBLE of all quantities..\n\nWe buy them and after that when we open the packages we saw that all of them are double quantity, \n\nexcept Whoopers.. Whoopers must be 8 but they bring ONLY 4...So we called back the restaurant again \n\nto tell this, after 5 minutes checking they called back us and said \"SORRY the other burgers written \n\nas in Promotion but we forgot to write Whoopers in promotion..we are sending 4 more now\"\n\nWe thought that they are correcting their mistake and started to wait their 2nd delivery. But when \n\nthis 2nd delivery arrived THEY TRIED TO CHARGE US AGAIN for this NEW 4 Whooper AGAIN !!!!\n\nCan you imagine this? They are not thinking about correcting any mistake (if it is a really \n\nmistake) but they are requesting more money this time..\nAdditionally I am not sure this is a REAL mistake or intentionally they did this..In the same bill \n\nHOW CAN 1ST ITEM IN PROMOTION, 2ND ITEM OUT OF PROMOTION, AND 3RD ITEM IN PROMOTION AGAIN??? I cannot \n\nunderstand this !!! What kind of mistake is this???\n\nIt looks like they are PLAYING WITH US..\nIt was like a very bad joke that they require payment again in the 2nd delivery, instead of \n\ncorrecting the wrong situation !!\n\nSince 7pm until 9.30pm we made maybe 15 phone conversation both with restaurant and with Burger King \n\nHeadquarters ...BUT NO SOLUTION came for this simple problem !!!!\n\nAnd the second part of the DISASTER was their Customer Service. It is MUCH MUCH MORE TERRIBLE than \n\ntheir restaurant..\n\nI've recorded all phone calls into my phone, I have strong evidence.\nIn this 2 hours , totally 6 times they said me \"Please hang up the phone, our manager will call you \n\nin next 5 minutes..\n\nBUT IN NONE OF THEM NOBODY CALLED !! NEVER EVER ANYBODY CALLED \"İN ALL OF THİS STORY !!\n\nIn each case after waiting 20-30 minutes \"their calling\" finally I had to call them back again..\nAnd in each time they said the same thing !!! This was a REAL DISASTER !!!!\n\nI continued calling, \n\nBECAUSE SUBJECT WAS NOT THE WHOOPERS ANYMORE !!!!!\n\nI just wanted to REPORT THESE PEOPLE TO SOMEBODY\n\nBUT IT WAS IMPOSSIBLE TO FIND ANYBODY IN CUSTOMER SERVICE FOR TALKING !!!\n\nThen I contacted Facebook page by message and somebody respond. \nI chated and toll all this story, he said that \"Okay we will solve the subject, and inform you\"\n\nBUT EVEN AFTER NEXT DAYS, THEY NEVER EVER CONTACTED WITH ME AGAİN !!\n\nThen I go to their website and filled their form. Very shortly I told that somebody is trying to play \n\nwith us, cheating in the promotion in their restaurant, and I left my phone number with a note \"call \n\nme to talk on details\" .. Additionally I send this by direct email also..\n\nBUT EVEN AFTER NEXT DAYS, THEY NEVER EVER CALLED ME Oor NEVER WRITE ME EVEN ANY SHORT REPLY!!\n\nFinally,\nAs you can see,\n\nBurger King Vietnam is a TERRIBLE DISASTER as a whole Organization !\nRead more\nValue\nService\nFood\nWritten October 11, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

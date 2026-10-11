@@ -1,0 +1,79 @@
+{
+    "restaurant_id": "33025488",
+    "restaurant_name": "Sakaba Sasuke Izakaya",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33025488-Reviews-Sakaba_Sasuke_Izakaya-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33025488-Reviews-Sakaba_Sasuke_Izakaya-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "8a/a22 Thai Van Lung Street, Ben Nghe Wards, District 1, Ho Chi Minh City",
+            "addressLocality": "Ho Chi Minh City"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.779254,
+            "longitude": 106.704704
+        },
+        "image": "N/A",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "17:30:00",
+                "closes": "01:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "17:30:00",
+                "closes": "01:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "17:30:00",
+                "closes": "01:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "17:30:00",
+                "closes": "01:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "17:30:00",
+                "closes": "01:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "17:30:00",
+                "closes": "01:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "17:30:00",
+                "closes": "01:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Japanese"
+        ],
+        "telephone": "N/A"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

@@ -1,0 +1,36 @@
+{
+    "restaurant_id": "11444406",
+    "restaurant_name": "Hoa Bien Restaurant",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d11444406-Reviews-Hoa_Bien_Restaurant-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d11444406-Reviews-Hoa_Bien_Restaurant-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.77099,
+            "longitude": 106.65434
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/89/cc/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Vietnamese"
+        ],
+        "telephone": "+84 8 3865 3830"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

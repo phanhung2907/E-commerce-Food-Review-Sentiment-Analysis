@@ -1,0 +1,78 @@
+{
+    "restaurant_id": "33297698",
+    "restaurant_name": "Xôi Gà 315",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33297698-Reviews-Xoi_Ga_315-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33297698-Reviews-Xoi_Ga_315-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "17, Tran Quoc Toan",
+            "addressLocality": "Ho Chi Minh City",
+            "postalCode": "72400"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.789188,
+            "longitude": 106.689316
+        },
+        "image": "N/A",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "06:30:00",
+                "closes": "12:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "06:30:00",
+                "closes": "12:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "06:30:00",
+                "closes": "12:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "06:30:00",
+                "closes": "12:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "06:30:00",
+                "closes": "12:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "06:30:00",
+                "closes": "12:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "06:30:00",
+                "closes": "12:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": "N/A",
+        "telephone": "N/A"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

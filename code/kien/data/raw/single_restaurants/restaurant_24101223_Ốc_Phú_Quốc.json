@@ -1,0 +1,79 @@
+{
+    "restaurant_id": "24101223",
+    "restaurant_name": "Ốc Phú Quốc",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24101223-Reviews-C_Phu_Qu_c-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24101223-Reviews-C_Phu_Qu_c-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 3,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.832667,
+            "longitude": 106.726036
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/c9/20/d7/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Vietnamese"
+        ],
+        "telephone": "N/A"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T20:02:08.480756",
+            "restaurant_id": "24101223",
+            "restaurant_name": "Ốc Phú Quốc",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24101223-Reviews-C_Phu_Qu_c-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24101223-Reviews-C_Phu_Qu_c-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.832667,
+                "longitude": 106.726036
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/c9/20/d7/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_24101223_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Ốc Phú Quốc",
+            "review_text": "Rob Nesbit\nWarsaw, Poland6919 contributions\n0\nMr Ratty\nApr 2022\nStreet restaurant with plastic chairs and tables, next to train tracks and dump.....\nWas very busy, but service was quick and friendly\nOrdered a few sea food dishes and fish............ for me the fish was very delicious.\nAnd a few beers\nWas enjoyable enough, but my western sensibilities got the better of me, as right beside us were a good few rats........ha....something I am not used to seeing as I dine.....but heh maybe this is the Vietnamese way and who am I to argue?\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten June 5, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

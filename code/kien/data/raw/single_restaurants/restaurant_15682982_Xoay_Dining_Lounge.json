@@ -1,0 +1,83 @@
+{
+    "restaurant_id": "15682982",
+    "restaurant_name": "Xoay Dining Lounge",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15682982-Reviews-Xoay_Dining_Lounge-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15682982-Reviews-Xoay_Dining_Lounge-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.77194,
+            "longitude": 106.6927
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d2/31/ed/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "16:30:00",
+                "closes": "00:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "16:30:00",
+                "closes": "23:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "16:30:00",
+                "closes": "23:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "16:30:00",
+                "closes": "23:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "16:30:00",
+                "closes": "23:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "16:30:00",
+                "closes": "23:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "16:30:00",
+                "closes": "00:30:00"
+            }
+        ],
+        "priceRange": "$$$$",
+        "servesCuisine": [
+            "Brew Pub",
+            "Bar",
+            "International",
+            "European",
+            "Pub",
+            "Wine Bar"
+        ],
+        "telephone": "+84 8 3931 3388"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

@@ -1,0 +1,81 @@
+{
+    "restaurant_id": "25183812",
+    "restaurant_name": "Maybay - Cafe & Rooftop Bar",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25183812-Reviews-Maybay_Cafe_Rooftop_Bar-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25183812-Reviews-Maybay_Cafe_Rooftop_Bar-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.788139,
+            "longitude": 106.71104
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/f9/f3/65/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "08:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "08:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "08:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "08:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "08:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "08:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "08:00:00",
+                "closes": "00:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Brew Pub",
+            "Bar",
+            "Cafe",
+            "Pub"
+        ],
+        "telephone": "+84 93 630 48 98"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

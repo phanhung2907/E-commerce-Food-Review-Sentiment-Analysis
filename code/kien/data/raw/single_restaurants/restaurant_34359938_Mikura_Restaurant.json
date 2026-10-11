@@ -1,0 +1,81 @@
+{
+    "restaurant_id": "34359938",
+    "restaurant_name": "Mikura Restaurant",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34359938-Reviews-Mikura_Restaurant-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34359938-Reviews-Mikura_Restaurant-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "39 Le Duan Phuong (Inside Marriotts)",
+            "addressLocality": "Ho Chi Minh City"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.781536,
+            "longitude": 106.70008
+        },
+        "image": "N/A",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Japanese"
+        ],
+        "telephone": "+84 28 3520 9999"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T14:17:01.264631",
+            "restaurant_id": "34359938",
+            "restaurant_name": "Mikura Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34359938-Reviews-Mikura_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34359938-Reviews-Mikura_Restaurant-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "39 Le Duan Phuong (Inside Marriotts)",
+                "addressLocality": "Ho Chi Minh City"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.781536,
+                "longitude": 106.70008
+            },
+            "image": "N/A",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Japanese"
+            ],
+            "telephone": "+84 28 3520 9999",
+            "review_id": "REV_34359938_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Mikura Restaurant",
+            "review_text": "will h\nSan Jose, California41 contributions\n0\nA great Japanese Restaurant\nMay 2026 • Couples\nThis Restaurant just opened approximately one month ago. The staff was excellent and the food was absolutely delicious. The decor was also beautiful. \n My wife had Salmon with vegetables and she said it was amazing. I had the Wagu Steak that was also amazing, it melted in my mouth.\n The Restaurant is inside the Marriotts.\nWe are definitely going to back and will let our friends and relatives know about this spot.\n Thank you for the great food and your great staff!\nRead more\nWritten May 1, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

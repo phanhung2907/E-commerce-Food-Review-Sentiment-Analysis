@@ -1,0 +1,445 @@
+{
+    "restaurant_id": "33072380",
+    "restaurant_name": "The Royal Restaurant",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33072380-Reviews-The_Royal_Restaurant-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33072380-Reviews-The_Royal_Restaurant-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "41-47 Dong Du, Ben Nghe Ward, District 1, Ho Chi Minh City, Viet Nam",
+            "addressLocality": "Ho Chi Minh City"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 4
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.775803,
+            "longitude": 106.704506
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/a7/eb/9b/caption.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "07:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "07:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "07:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "07:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "07:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "07:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "07:00:00",
+                "closes": "23:00:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Italian",
+            "French",
+            "Peruvian",
+            "Deli",
+            "South American"
+        ],
+        "telephone": "+84 93 146 05 05"
+    },
+    "reviews_count": 4,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T12:49:31.657156",
+            "restaurant_id": "33072380",
+            "restaurant_name": "The Royal Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33072380-Reviews-The_Royal_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33072380-Reviews-The_Royal_Restaurant-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "41-47 Dong Du, Ben Nghe Ward, District 1, Ho Chi Minh City, Viet Nam",
+                "addressLocality": "Ho Chi Minh City"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 4
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.775803,
+                "longitude": 106.704506
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/a7/eb/9b/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "French",
+                "Peruvian",
+                "Deli",
+                "South American"
+            ],
+            "telephone": "+84 93 146 05 05",
+            "review_id": "REV_33072380_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at The Royal Restaurant",
+            "review_text": "Dream51097867705\n1 contribution\n0\nRất tuyệt vời ♥️♥️♥️\nSep 2025 • Family\nThe Royal is definitely a place worth experiencing!\nDelicious food, great service, and a nice atmosphere.\nThey also offer kid-friendly meals, so it's perfect for families.\nEverything was well-prepared and thoughtful. I really enjoyed my time here and will definitely come back!\nAddress: 41 Dong Du, District 1\nRead more\nValue\nService\nFood\nAtmosphere\nWritten October 16, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T12:49:31.666471",
+            "restaurant_id": "33072380",
+            "restaurant_name": "The Royal Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33072380-Reviews-The_Royal_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33072380-Reviews-The_Royal_Restaurant-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "41-47 Dong Du, Ben Nghe Ward, District 1, Ho Chi Minh City, Viet Nam",
+                "addressLocality": "Ho Chi Minh City"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 4
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.775803,
+                "longitude": 106.704506
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/a7/eb/9b/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "French",
+                "Peruvian",
+                "Deli",
+                "South American"
+            ],
+            "telephone": "+84 93 146 05 05",
+            "review_id": "REV_33072380_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at The Royal Restaurant",
+            "review_text": "Lynn G\n6 contributions\n0\nA fantastic meal\nSep 2025 • Business\nA small restaurant almost diagonally opposite the Sheraton Grand Opera Hotel and a perfect venue for dinner. A wonderful menu with great options . I ordered the Surf and Turf which was outstanding and a mouth watering dessert. The staff were wonderful and the pricing was good.\nWritten September 19, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T12:49:31.689986",
+            "restaurant_id": "33072380",
+            "restaurant_name": "The Royal Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33072380-Reviews-The_Royal_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33072380-Reviews-The_Royal_Restaurant-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "41-47 Dong Du, Ben Nghe Ward, District 1, Ho Chi Minh City, Viet Nam",
+                "addressLocality": "Ho Chi Minh City"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 4
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.775803,
+                "longitude": 106.704506
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/a7/eb/9b/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "French",
+                "Peruvian",
+                "Deli",
+                "South American"
+            ],
+            "telephone": "+84 93 146 05 05",
+            "review_id": "REV_33072380_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at The Royal Restaurant",
+            "review_text": "Yuichiro H\nHong Kong, China2 contributions\n0\nExcellent restaurant\nAug 2025 • Business\nIt was a very atmospheric restaurant located in the city center.\nThe prices were very reasonable, the food was delicious, and the staff’s service was perfect.\nI will definitely visit again!\nValue\nService\nFood\nAtmosphere\nWritten August 8, 2025\nNguyen Thi Hai\nThank you so much for your kind words and for sharing your experience with us.\nWe’re delighted to hear you enjoyed the atmosphere, food, and service.\nWe look forward to welcoming you back soon!\nThe Royal Team\nRead more\nWritten August 10, 2025\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T12:49:31.718103",
+            "restaurant_id": "33072380",
+            "restaurant_name": "The Royal Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33072380-Reviews-The_Royal_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33072380-Reviews-The_Royal_Restaurant-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "41-47 Dong Du, Ben Nghe Ward, District 1, Ho Chi Minh City, Viet Nam",
+                "addressLocality": "Ho Chi Minh City"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 4
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.775803,
+                "longitude": 106.704506
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/a7/eb/9b/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "French",
+                "Peruvian",
+                "Deli",
+                "South American"
+            ],
+            "telephone": "+84 93 146 05 05",
+            "review_id": "REV_33072380_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at The Royal Restaurant",
+            "review_text": "Nguyen Thi Hai\nHo Chi Minh City, Vietnam54 contributions\n0\nLunch time\nApr 2025 • Family\nA newly opened restaurant in April, Ho chi minh City. \nThe food is good and fresh. The staff serves well and recommends to try\nInsider tip:\nShould make a reservation before coming.\nValue\nService\nFood\nAtmosphere\nWritten April 21, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

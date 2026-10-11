@@ -1,0 +1,79 @@
+{
+    "restaurant_id": "27116865",
+    "restaurant_name": "A Mà kitchen",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27116865-Reviews-A_Ma_kitchen-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27116865-Reviews-A_Ma_kitchen-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.76699,
+            "longitude": 106.68704
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/43/57/ab/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:30:00",
+                "closes": "22:15:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:30:00",
+                "closes": "22:15:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:30:00",
+                "closes": "22:15:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:30:00",
+                "closes": "22:15:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:30:00",
+                "closes": "22:15:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:30:00",
+                "closes": "22:15:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:30:00",
+                "closes": "22:15:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Chinese",
+            "Asian"
+        ],
+        "telephone": "+84 327 378 800"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

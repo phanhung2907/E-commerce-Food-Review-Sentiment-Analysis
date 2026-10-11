@@ -1,0 +1,77 @@
+{
+    "restaurant_id": "25448248",
+    "restaurant_name": "Bột Craft Beers",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25448248-Reviews-B_t_Craft_Beers-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25448248-Reviews-B_t_Craft_Beers-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.789477,
+            "longitude": 106.71459
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/6d/05/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "17:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "17:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "17:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "17:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "17:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "17:00:00",
+                "closes": "00:00:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Brew Pub",
+            "International",
+            "Asian",
+            "Grill",
+            "Pub",
+            "Beer restaurants"
+        ],
+        "telephone": "+84 38 606 2547"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

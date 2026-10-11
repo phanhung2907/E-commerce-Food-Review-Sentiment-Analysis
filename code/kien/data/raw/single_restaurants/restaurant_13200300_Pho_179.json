@@ -1,0 +1,78 @@
+{
+    "restaurant_id": "13200300",
+    "restaurant_name": "Pho 179",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13200300-Reviews-Pho_179-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13200300-Reviews-Pho_179-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.748542,
+            "longitude": 106.61668
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/9d/54/82/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "06:00:00",
+                "closes": "10:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "06:00:00",
+                "closes": "10:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "06:00:00",
+                "closes": "10:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "06:00:00",
+                "closes": "10:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "06:00:00",
+                "closes": "10:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "06:00:00",
+                "closes": "10:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "06:00:00",
+                "closes": "10:30:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Vietnamese"
+        ],
+        "telephone": "+84 93 213 26 26"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

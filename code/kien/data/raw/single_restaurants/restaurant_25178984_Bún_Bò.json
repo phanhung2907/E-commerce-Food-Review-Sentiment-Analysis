@@ -1,0 +1,44 @@
+{
+    "restaurant_id": "25178984",
+    "restaurant_name": "Bún Bò",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25178984-Reviews-Bun_Bo-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25178984-Reviews-Bun_Bo-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.796377,
+            "longitude": 106.706024
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "American",
+            "Native American",
+            "Indigenous"
+        ],
+        "telephone": "+84 94 553 40 02"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

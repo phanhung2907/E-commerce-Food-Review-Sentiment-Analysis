@@ -1,0 +1,79 @@
+{
+    "restaurant_id": "13076864",
+    "restaurant_name": "King BBQ Buffet Bien Hoa",
+    "city": "29. Bien Hoa Restaurants\nSee all 76 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1749176-d13076864-Reviews-King_BBQ_Buffet_Bien_Hoa-Bien_Hoa_Dong_Nai_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g1749176-d13076864-Reviews-King_BBQ_Buffet_Bien_Hoa-Bien_Hoa_Dong_Nai_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "1096 Pham Van Thuan L4 -03, 4th Floor, Vincom Bien Hoa",
+            "addressLocality": "Bien Hoa",
+            "postalCode": "810000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.95392,
+            "longitude": 106.85256
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/29/bf/9c/king-bbq-buffet-bien.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": "N/A",
+        "telephone": "+84 251 3918 880"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

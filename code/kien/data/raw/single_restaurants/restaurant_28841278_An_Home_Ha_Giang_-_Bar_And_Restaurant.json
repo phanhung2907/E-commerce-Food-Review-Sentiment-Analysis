@@ -1,0 +1,87 @@
+{
+    "restaurant_id": "28841278",
+    "restaurant_name": "An Home Ha Giang - Bar And Restaurant",
+    "city": "28. Ha Giang Restaurants\nSee all 80 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d28841278-Reviews-An_Home_Ha_Giang_Bar_And_Restaurant-Ha_Giang_Ha_Giang_Province.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d28841278-Reviews-An_Home_Ha_Giang_Bar_And_Restaurant-Ha_Giang_Ha_Giang_Province.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ha Giang Vietnam"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 22.818016,
+            "longitude": 104.95786
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/3c/6a/91/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Bar",
+            "Pizza",
+            "Cafe",
+            "International",
+            "Pub",
+            "Wine Bar",
+            "Gastropub",
+            "Dining bars",
+            "Beer restaurants",
+            "Indigenous"
+        ],
+        "telephone": "+84 92 991 97 97"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

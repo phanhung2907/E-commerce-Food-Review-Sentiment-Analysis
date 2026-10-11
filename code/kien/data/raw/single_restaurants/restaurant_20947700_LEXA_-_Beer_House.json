@@ -1,0 +1,80 @@
+{
+    "restaurant_id": "20947700",
+    "restaurant_name": "LEXA - Beer House",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d20947700-Reviews-LEXA_Beer_House-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d20947700-Reviews-LEXA_Beer_House-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.754608,
+            "longitude": 106.683624
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/15/5f/a7/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "18:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "18:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "18:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "18:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "18:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "18:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "18:00:00",
+                "closes": "00:00:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Brew Pub",
+            "Pub",
+            "Dining bars"
+        ],
+        "telephone": "+84 90 927 25 19"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

@@ -1,0 +1,363 @@
+{
+    "restaurant_id": "34114924",
+    "restaurant_name": "The Sushi Bar Thien Que",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34114924-Reviews-The_Sushi_Bar_Thien_Que-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34114924-Reviews-The_Sushi_Bar_Thien_Que-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 3
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.742156,
+            "longitude": 106.71474
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/cd/e1/66/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "11:00:00",
+                "closes": "14:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "17:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "17:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "17:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "17:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "17:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "11:00:00",
+                "closes": "14:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "17:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Japanese",
+            "Sushi"
+        ],
+        "telephone": "+84 90 858 23 18"
+    },
+    "reviews_count": 3,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T14:08:50.507248",
+            "restaurant_id": "34114924",
+            "restaurant_name": "The Sushi Bar Thien Que",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34114924-Reviews-The_Sushi_Bar_Thien_Que-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34114924-Reviews-The_Sushi_Bar_Thien_Que-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 3
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.742156,
+                "longitude": 106.71474
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/cd/e1/66/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Japanese",
+                "Sushi"
+            ],
+            "telephone": "+84 90 858 23 18",
+            "review_id": "REV_34114924_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at The Sushi Bar Thien Que",
+            "review_text": "Bert V\n1 contribution\n0\nDon’t forget to visit this restaurant\nJan 2026 • Couples\nThis is an excellent restaurant with high quality and very tasteful food.\nYou will be served by very friendly staff.\nTonight we will go back for the fifth in our thirteen days trip to Ho Chi Minh City.\nThis place is amazing with very fair prices!\nWritten January 16, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T14:08:50.520331",
+            "restaurant_id": "34114924",
+            "restaurant_name": "The Sushi Bar Thien Que",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34114924-Reviews-The_Sushi_Bar_Thien_Que-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34114924-Reviews-The_Sushi_Bar_Thien_Que-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 3
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.742156,
+                "longitude": 106.71474
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/cd/e1/66/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Japanese",
+                "Sushi"
+            ],
+            "telephone": "+84 90 858 23 18",
+            "review_id": "REV_34114924_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at The Sushi Bar Thien Que",
+            "review_text": "Tai P\n5 contributions\n0\nOmakase fresh fish from Japan\nJan 2026 • Friends\nThey have fresh fish from Japan that being imported weekly. Omakase options for Sashimi as well. This restaurant is a must try!!\nWritten January 13, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T14:08:50.538331",
+            "restaurant_id": "34114924",
+            "restaurant_name": "The Sushi Bar Thien Que",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34114924-Reviews-The_Sushi_Bar_Thien_Que-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34114924-Reviews-The_Sushi_Bar_Thien_Que-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 3
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.742156,
+                "longitude": 106.71474
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/cd/e1/66/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Japanese",
+                "Sushi"
+            ],
+            "telephone": "+84 90 858 23 18",
+            "review_id": "REV_34114924_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at The Sushi Bar Thien Que",
+            "review_text": "Max P\n2 contributions\n0\nGreat Sushi restaurant in District 7\nJan 2026 • Family\nGreat services with good food. I am glad the place has come back after Covid-19 hit. Definitely will come back!!\nInsider tip:\nYou guys should try Yakitori skews on the grill with Tare sauce!! Amazing!!\nValue\nService\nFood\nAtmosphere\nWritten January 13, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

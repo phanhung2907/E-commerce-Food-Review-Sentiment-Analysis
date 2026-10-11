@@ -1,0 +1,996 @@
+{
+    "restaurant_id": "13307427",
+    "restaurant_name": "Cơm Niêu An Nhiên",
+    "city": "28. Ha Giang Restaurants\nSee all 80 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d13307427-Reviews-Com_Nieu_An_Nhien-Ha_Giang_Ha_Giang_Province.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d13307427-Reviews-Com_Nieu_An_Nhien-Ha_Giang_Ha_Giang_Province.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "31b Nguyen Thai Hoc Minh Khai Ward",
+            "addressLocality": "Ha Giang",
+            "postalCode": "310000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 3.3,
+            "reviewCount": 11
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 22.82098,
+            "longitude": 104.98442
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/94/a7/f6/nha-hang-com-nieu-an.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "08:00:00",
+                "closes": "23:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "08:00:00",
+                "closes": "23:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "08:00:00",
+                "closes": "23:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "08:00:00",
+                "closes": "23:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "08:00:00",
+                "closes": "23:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "08:00:00",
+                "closes": "23:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "08:00:00",
+                "closes": "23:30:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Cafe",
+            "Fast Food",
+            "Asian",
+            "Fusion",
+            "Vietnamese"
+        ],
+        "telephone": "+84 91 222 86 62"
+    },
+    "reviews_count": 10,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:37:31.488155",
+            "restaurant_id": "13307427",
+            "restaurant_name": "Cơm Niêu An Nhiên",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d13307427-Reviews-Com_Nieu_An_Nhien-Ha_Giang_Ha_Giang_Province.html",
+            "city": "28. Ha Giang Restaurants\nSee all 80 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d13307427-Reviews-Com_Nieu_An_Nhien-Ha_Giang_Ha_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "31b Nguyen Thai Hoc Minh Khai Ward",
+                "addressLocality": "Ha Giang",
+                "postalCode": "310000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.3,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.82098,
+                "longitude": 104.98442
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/94/a7/f6/nha-hang-com-nieu-an.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Fast Food",
+                "Asian",
+                "Fusion",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 222 86 62",
+            "review_id": "REV_13307427_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Cơm Niêu An Nhiên",
+            "review_text": "Jake B\n2 contributions\n0\nMaggot chips\nJun 2025 • Friends\nI don’t ever write reviews but I had to after this. Had chips that came with maggots in them and fried chicken noodles that were clearly packet noodles. The noodles were undercooked and crunchy. \nWhen I went and showed the waitress the maggot in my food she laughed which is not a joking matter. \n\nHowever there was one lovely waitress there that took my chips off the bill and she was very apologetic.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten June 14, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:37:31.500996",
+            "restaurant_id": "13307427",
+            "restaurant_name": "Cơm Niêu An Nhiên",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d13307427-Reviews-Com_Nieu_An_Nhien-Ha_Giang_Ha_Giang_Province.html",
+            "city": "28. Ha Giang Restaurants\nSee all 80 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d13307427-Reviews-Com_Nieu_An_Nhien-Ha_Giang_Ha_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "31b Nguyen Thai Hoc Minh Khai Ward",
+                "addressLocality": "Ha Giang",
+                "postalCode": "310000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.3,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.82098,
+                "longitude": 104.98442
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/94/a7/f6/nha-hang-com-nieu-an.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Fast Food",
+                "Asian",
+                "Fusion",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 222 86 62",
+            "review_id": "REV_13307427_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Cơm Niêu An Nhiên",
+            "review_text": "Rebecca C\n1 contribution\n0\nTerrible service and chicken with just bones\nJan 2024 • Couples\nService was terrible, and if you are European it is an experience that will make you go vegetarian. The chicken we got was only the feet of the chicken and only bone, no meat. Would not recommend. Ordered drinks and didn’t get it.\nWritten January 6, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:37:31.514215",
+            "restaurant_id": "13307427",
+            "restaurant_name": "Cơm Niêu An Nhiên",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d13307427-Reviews-Com_Nieu_An_Nhien-Ha_Giang_Ha_Giang_Province.html",
+            "city": "28. Ha Giang Restaurants\nSee all 80 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d13307427-Reviews-Com_Nieu_An_Nhien-Ha_Giang_Ha_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "31b Nguyen Thai Hoc Minh Khai Ward",
+                "addressLocality": "Ha Giang",
+                "postalCode": "310000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.3,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.82098,
+                "longitude": 104.98442
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/94/a7/f6/nha-hang-com-nieu-an.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Fast Food",
+                "Asian",
+                "Fusion",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 222 86 62",
+            "review_id": "REV_13307427_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Cơm Niêu An Nhiên",
+            "review_text": "Global14808020216\n2 contributions\n0\nUnhappy experience\nOct 2023 • Family\nPoorly slow service, unprofessional staff, average food, okay space. The food had iron balls stuck in it, so I called the staff but they only came to take that part away and didn't say anything else\nShow original\nWritten October 20, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:37:31.535171",
+            "restaurant_id": "13307427",
+            "restaurant_name": "Cơm Niêu An Nhiên",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d13307427-Reviews-Com_Nieu_An_Nhien-Ha_Giang_Ha_Giang_Province.html",
+            "city": "28. Ha Giang Restaurants\nSee all 80 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d13307427-Reviews-Com_Nieu_An_Nhien-Ha_Giang_Ha_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "31b Nguyen Thai Hoc Minh Khai Ward",
+                "addressLocality": "Ha Giang",
+                "postalCode": "310000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.3,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.82098,
+                "longitude": 104.98442
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/94/a7/f6/nha-hang-com-nieu-an.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Fast Food",
+                "Asian",
+                "Fusion",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 222 86 62",
+            "review_id": "REV_13307427_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Cơm Niêu An Nhiên",
+            "review_text": "Wsea3h\nAsia4514 contributions\n0\nGood taste. Too big dishes for 2 persons\nJan 2023\nThe taste is quite good and price is reasonable. I wish they could cook smaller dishes. We ordered only 2 types of main dishes and 1 vegetable soup and couldn’t finish the pork. The chair setting is low chairs in relaxing mode. This restaurant is suitable for families and friends. We came early before normal dinner time in Ha Giang so most of the eateries didn’t open yet. Luckily we found this restaurant. The rice is a bit dry to our liking but tastes good and smells good.\nRead more\nValue\nService\nFood\nWritten January 17, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:37:31.547576",
+            "restaurant_id": "13307427",
+            "restaurant_name": "Cơm Niêu An Nhiên",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d13307427-Reviews-Com_Nieu_An_Nhien-Ha_Giang_Ha_Giang_Province.html",
+            "city": "28. Ha Giang Restaurants\nSee all 80 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d13307427-Reviews-Com_Nieu_An_Nhien-Ha_Giang_Ha_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "31b Nguyen Thai Hoc Minh Khai Ward",
+                "addressLocality": "Ha Giang",
+                "postalCode": "310000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.3,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.82098,
+                "longitude": 104.98442
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/94/a7/f6/nha-hang-com-nieu-an.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Fast Food",
+                "Asian",
+                "Fusion",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 222 86 62",
+            "review_id": "REV_13307427_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Cơm Niêu An Nhiên",
+            "review_text": "SARAGUEV\nTokyo, Japan620 contributions\n1\nClean, decent food, could b better\nJul 2019 • Couples\nTried to find a good place to eat, w/ some air conditioner but wasn't easy in Ha Giang. Following advice from travel agency got to this big restaurant, w/ little air conditioner but huge fans. \n\nMenu in English, food was good, service could be better. Not fantastic but definitely a good option here.\nRead more\nWritten July 29, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:37:31.563536",
+            "restaurant_id": "13307427",
+            "restaurant_name": "Cơm Niêu An Nhiên",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d13307427-Reviews-Com_Nieu_An_Nhien-Ha_Giang_Ha_Giang_Province.html",
+            "city": "28. Ha Giang Restaurants\nSee all 80 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d13307427-Reviews-Com_Nieu_An_Nhien-Ha_Giang_Ha_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "31b Nguyen Thai Hoc Minh Khai Ward",
+                "addressLocality": "Ha Giang",
+                "postalCode": "310000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.3,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.82098,
+                "longitude": 104.98442
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/94/a7/f6/nha-hang-com-nieu-an.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Fast Food",
+                "Asian",
+                "Fusion",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 222 86 62",
+            "review_id": "REV_13307427_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at Cơm Niêu An Nhiên",
+            "review_text": "Shuttr Panda\nDubai, United Arab Emirates4 contributions\n1\nClean, Good Food & Good Service\nOct 2018 • Solo\nThis place is one of the very few places to go to if you are looking for good food, good service and a clean place. They have varieties of dishes in their menu and definitely also a place for you if you are a vegetarian or vegan!\n\nThe manager/owner is also very accommodating!\n\nHighly recommended!\nRead more\nWritten October 31, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:37:31.578659",
+            "restaurant_id": "13307427",
+            "restaurant_name": "Cơm Niêu An Nhiên",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d13307427-Reviews-Com_Nieu_An_Nhien-Ha_Giang_Ha_Giang_Province.html",
+            "city": "28. Ha Giang Restaurants\nSee all 80 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d13307427-Reviews-Com_Nieu_An_Nhien-Ha_Giang_Ha_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "31b Nguyen Thai Hoc Minh Khai Ward",
+                "addressLocality": "Ha Giang",
+                "postalCode": "310000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.3,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.82098,
+                "longitude": 104.98442
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/94/a7/f6/nha-hang-com-nieu-an.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Fast Food",
+                "Asian",
+                "Fusion",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 222 86 62",
+            "review_id": "REV_13307427_p1_6",
+            "reviewer_id": "User_p1_6",
+            "review_title": "Review at Cơm Niêu An Nhiên",
+            "review_text": "hannostamm\nSiem Reap, Cambodia1028 contributions\n1\nEat the Hot Pot\nApr 2018 • Friends\nMaybe all the people complaining about the food should see what everybody comes to eat here. That's right, hot pot. This restaurant does not really cater to backpackers looking for cheap noodle dishes.\n\nThe hotpot on the other hand is excellent and service was good. We were there on teacher's day and the restaurant was full but our food still came very quickly.\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten July 14, 2018\nXuyen’s Kitchen\nthank you so much :)\nWritten August 5, 2018\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:37:31.602668",
+            "restaurant_id": "13307427",
+            "restaurant_name": "Cơm Niêu An Nhiên",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d13307427-Reviews-Com_Nieu_An_Nhien-Ha_Giang_Ha_Giang_Province.html",
+            "city": "28. Ha Giang Restaurants\nSee all 80 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d13307427-Reviews-Com_Nieu_An_Nhien-Ha_Giang_Ha_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "31b Nguyen Thai Hoc Minh Khai Ward",
+                "addressLocality": "Ha Giang",
+                "postalCode": "310000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.3,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.82098,
+                "longitude": 104.98442
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/94/a7/f6/nha-hang-com-nieu-an.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Fast Food",
+                "Asian",
+                "Fusion",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 222 86 62",
+            "review_id": "REV_13307427_p1_7",
+            "reviewer_id": "User_p1_7",
+            "review_title": "Review at Cơm Niêu An Nhiên",
+            "review_text": "Thành M\n2 contributions\n0\nThank \" Cơm Niêu An Nhiên\"\nJan 2018 • Friends\nVery excellent. Moreover, the restaurant An the right of Natural those like me. Delicious food, attentive service enthusiastically. I am very happy and will be back.\nWritten January 9, 2018\nXuyen’s Kitchen\nthank so much.\nWritten January 10, 2018\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:37:31.618186",
+            "restaurant_id": "13307427",
+            "restaurant_name": "Cơm Niêu An Nhiên",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d13307427-Reviews-Com_Nieu_An_Nhien-Ha_Giang_Ha_Giang_Province.html",
+            "city": "28. Ha Giang Restaurants\nSee all 80 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d13307427-Reviews-Com_Nieu_An_Nhien-Ha_Giang_Ha_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "31b Nguyen Thai Hoc Minh Khai Ward",
+                "addressLocality": "Ha Giang",
+                "postalCode": "310000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.3,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.82098,
+                "longitude": 104.98442
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/94/a7/f6/nha-hang-com-nieu-an.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Fast Food",
+                "Asian",
+                "Fusion",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 222 86 62",
+            "review_id": "REV_13307427_p1_8",
+            "reviewer_id": "User_p1_8",
+            "review_title": "Review at Cơm Niêu An Nhiên",
+            "review_text": "Thoa P\n2 contributions\n0\nGood\nJan 2018 • Couples\nI went to the restaurant and ordered hot pot. Good food, fresh ingredients, enthusiastic service, it is a recommend for you to Ha giang city\nWritten January 7, 2018\nXuyen’s Kitchen\nthank so much..\nWritten January 10, 2018\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:37:31.634077",
+            "restaurant_id": "13307427",
+            "restaurant_name": "Cơm Niêu An Nhiên",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d13307427-Reviews-Com_Nieu_An_Nhien-Ha_Giang_Ha_Giang_Province.html",
+            "city": "28. Ha Giang Restaurants\nSee all 80 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d13307427-Reviews-Com_Nieu_An_Nhien-Ha_Giang_Ha_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "31b Nguyen Thai Hoc Minh Khai Ward",
+                "addressLocality": "Ha Giang",
+                "postalCode": "310000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.3,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.82098,
+                "longitude": 104.98442
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/94/a7/f6/nha-hang-com-nieu-an.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Fast Food",
+                "Asian",
+                "Fusion",
+                "Vietnamese"
+            ],
+            "telephone": "+84 91 222 86 62",
+            "review_id": "REV_13307427_p1_9",
+            "reviewer_id": "User_p1_9",
+            "review_title": "Review at Cơm Niêu An Nhiên",
+            "review_text": "MotelAnhAnh\nHa Giang, Vietnam8 contributions\n0\nGood restaurant\nJan 2018\nThis is a great restaurant, everything is attentive, the price is very good, I will definitely come back\nWritten January 5, 2018\nXuyen’s Kitchen\nThank you\nWritten January 21, 2018\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

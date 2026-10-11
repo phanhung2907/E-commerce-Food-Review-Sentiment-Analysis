@@ -1,0 +1,82 @@
+{
+    "restaurant_id": "10189753",
+    "restaurant_name": "Bonjour Resto'",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10189753-Reviews-Bonjour_Resto-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10189753-Reviews-Bonjour_Resto-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "6/2, Nguyen Huy Tuong Street, Ward 6, Binh Thanh District",
+            "addressLocality": "Ho Chi Minh City",
+            "postalCode": "700000"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.80413,
+            "longitude": 106.68967
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/1a/bc/00/banner.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "08:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "08:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "08:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "08:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "08:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "08:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "08:00:00",
+                "closes": "21:00:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "French",
+            "Diner",
+            "Soups"
+        ],
+        "telephone": "+84 28 3551 5950"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

@@ -1,0 +1,1435 @@
+{
+    "restaurant_id": "10257765",
+    "restaurant_name": "Nhà Hàng Hải Nhi",
+    "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "337 Quang Truong Ga Street",
+            "addressLocality": "Lao Cai",
+            "postalCode": "31000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 3.5,
+            "reviewCount": 45
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 22.49132,
+            "longitude": 103.97795
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d2/4b/65/photo0jpg.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "05:30:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "05:30:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "05:30:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "05:30:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "05:30:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "05:30:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "05:30:00",
+                "closes": "21:30:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Fast Food",
+            "European",
+            "Asian",
+            "Vietnamese"
+        ],
+        "telephone": "+84 98 319 09 19"
+    },
+    "reviews_count": 15,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T02:13:28.446517",
+            "restaurant_id": "10257765",
+            "restaurant_name": "Nhà Hàng Hải Nhi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "337 Quang Truong Ga Street",
+                "addressLocality": "Lao Cai",
+                "postalCode": "31000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.5,
+                "reviewCount": 45
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.49132,
+                "longitude": 103.97795
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d2/4b/65/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Fast Food",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 98 319 09 19",
+            "review_id": "REV_10257765_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Nhà Hàng Hải Nhi",
+            "review_text": "FCarmona\n31 contributions\n0\nExcellent meal while waiting for the train\nNov 2025 • Couples\nExcellent meal while we wait for train. Nice, attentive and very tasty food!\nNo luxuries but honest and well served food!\nTranslated from Portuguese\nShow original\nWritten November 16, 2025\nHAINHI-RESTAURANT\nThank you for your support\nWritten December 7, 2025\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T02:13:28.456715",
+            "restaurant_id": "10257765",
+            "restaurant_name": "Nhà Hàng Hải Nhi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "337 Quang Truong Ga Street",
+                "addressLocality": "Lao Cai",
+                "postalCode": "31000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.5,
+                "reviewCount": 45
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.49132,
+                "longitude": 103.97795
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d2/4b/65/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Fast Food",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 98 319 09 19",
+            "review_id": "REV_10257765_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Nhà Hàng Hải Nhi",
+            "review_text": "El M\n7 contributions\n0\nGreat and delicious meals before taking night train\nFeb 2023 • Friends\nWe've been here before taking the night train back to Hanoi. We ordered Two Bahn Mi, one rice noodles with vegetables and Egg, one Pasta Arrabiata und one Spring rolls. Every meal was great, the kitchen was fast (restaurant was empty as we arrived, but full as we left). We can warmly recommend coming here.\nWritten February 28, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T02:13:28.473253",
+            "restaurant_id": "10257765",
+            "restaurant_name": "Nhà Hàng Hải Nhi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "337 Quang Truong Ga Street",
+                "addressLocality": "Lao Cai",
+                "postalCode": "31000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.5,
+                "reviewCount": 45
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.49132,
+                "longitude": 103.97795
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d2/4b/65/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Fast Food",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 98 319 09 19",
+            "review_id": "REV_10257765_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Nhà Hàng Hải Nhi",
+            "review_text": "Alexander Pedersen\nHerning, Denmark5 contributions\n0\nBad food, bad service\nMay 2019 • Friends\nDont visit this restaurant. Food is tasteless and boring. It’s pretty expensive aswell. Find another place!!\nWritten May 19, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T02:13:28.489202",
+            "restaurant_id": "10257765",
+            "restaurant_name": "Nhà Hàng Hải Nhi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "337 Quang Truong Ga Street",
+                "addressLocality": "Lao Cai",
+                "postalCode": "31000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.5,
+                "reviewCount": 45
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.49132,
+                "longitude": 103.97795
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d2/4b/65/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Fast Food",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 98 319 09 19",
+            "review_id": "REV_10257765_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Nhà Hàng Hải Nhi",
+            "review_text": "zkidx\nSingapore, Singapore1 contribution\n0\nPoor food quality\nMay 2019 • Friends\n‘Fresh’ Orange juice was mixed with syrup, food was served cold. Overall, tourist trap, expensive food with poor quality.\nWritten May 1, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T02:13:28.502009",
+            "restaurant_id": "10257765",
+            "restaurant_name": "Nhà Hàng Hải Nhi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "337 Quang Truong Ga Street",
+                "addressLocality": "Lao Cai",
+                "postalCode": "31000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.5,
+                "reviewCount": 45
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.49132,
+                "longitude": 103.97795
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d2/4b/65/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Fast Food",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 98 319 09 19",
+            "review_id": "REV_10257765_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Nhà Hàng Hải Nhi",
+            "review_text": "Julia V\nAachen, Germany11 contributions\n0\nExchange your voucher and then go somewhere else\nAug 2018 • Solo\nI decided to go to this restaurant because this seemed to be the only place where I could exchange my Sapaly Train Voucher for the train back to Hanoi.\n\nWhile they managed to exchange my voucher for a ticket, they could not help me with a request regarding that ticket (I was assigned the wrong berth/cabin).\n\nThe food itself (fried noodles with chicken) was overcooked and lacked taste. One of the family next to me had ordered cheeseburgers but got burgers without cheese. First, they had trouble getting their request to get what they ordered understood and then only received their dish after the rest of their family was already done eating. (Also: no fries, although the picture in the menu had promised otherwise.)\n\nThere was no aircon and the fans on the ceiling barely did their job. Their bathroom, which I had hoped would allow to freshen up a bit before the train journey, was smelly and not particularly clean.\n\nConclusion: Check whether you can exchange your ticket someplace else. If you can do. If not, don't stay for dinner.\nRead more\nWritten August 11, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T02:13:28.502009",
+            "restaurant_id": "10257765",
+            "restaurant_name": "Nhà Hàng Hải Nhi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "337 Quang Truong Ga Street",
+                "addressLocality": "Lao Cai",
+                "postalCode": "31000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.5,
+                "reviewCount": 45
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.49132,
+                "longitude": 103.97795
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d2/4b/65/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Fast Food",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 98 319 09 19",
+            "review_id": "REV_10257765_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at Nhà Hàng Hải Nhi",
+            "review_text": "daithi_my_life\nEnnis, Ireland2203 contributions\n0\nTasty local food!\nJan 2018 • Couples\nPopped in here for dinner before our night time train back to Hanoi! Food was included in our tour price so we were told it would be a set menu! We got a decent size portion of stream rice/veg sizzling pork & a nice chicken dish! Couldn’t fault anything! Friendly staff & they kindly opened a bottle of wine we had bought for the train :-)\nWritten January 20, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T02:13:28.529205",
+            "restaurant_id": "10257765",
+            "restaurant_name": "Nhà Hàng Hải Nhi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "337 Quang Truong Ga Street",
+                "addressLocality": "Lao Cai",
+                "postalCode": "31000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.5,
+                "reviewCount": 45
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.49132,
+                "longitude": 103.97795
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d2/4b/65/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Fast Food",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 98 319 09 19",
+            "review_id": "REV_10257765_p1_6",
+            "reviewer_id": "User_p1_6",
+            "review_title": "Review at Nhà Hàng Hải Nhi",
+            "review_text": "Đoàn M\nSapa, Vietnam3 contributions\n0\nGood\nSep 2017 • Friends\nNice restaurant in Lao Cai station. We had taste food with hotpot in here. We will back next time...\nWritten September 7, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T02:13:28.559805",
+            "restaurant_id": "10257765",
+            "restaurant_name": "Nhà Hàng Hải Nhi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "337 Quang Truong Ga Street",
+                "addressLocality": "Lao Cai",
+                "postalCode": "31000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.5,
+                "reviewCount": 45
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.49132,
+                "longitude": 103.97795
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d2/4b/65/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Fast Food",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 98 319 09 19",
+            "review_id": "REV_10257765_p1_7",
+            "reviewer_id": "User_p1_7",
+            "review_title": "Review at Nhà Hàng Hải Nhi",
+            "review_text": "HO D\nKuala Lumpur, Malaysia187 contributions\n0\nExceptional restaurant\nApr 2017 • Business\nWe had a table of almost 10pax for dinner and service was good and portion of the food was big until we were unable to finished. The staff not very experienced in English language as luckily, we had local friends around. Price is a factor as it was quite pricy.\nReview collected in partnership with this restaurant \nWritten June 28, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T02:13:28.594118",
+            "restaurant_id": "10257765",
+            "restaurant_name": "Nhà Hàng Hải Nhi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "337 Quang Truong Ga Street",
+                "addressLocality": "Lao Cai",
+                "postalCode": "31000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.5,
+                "reviewCount": 45
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.49132,
+                "longitude": 103.97795
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d2/4b/65/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Fast Food",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 98 319 09 19",
+            "review_id": "REV_10257765_p1_8",
+            "reviewer_id": "User_p1_8",
+            "review_title": "Review at Nhà Hàng Hải Nhi",
+            "review_text": "Kalé K\n2 contributions\n0\nHorrible service! Don't waste your time on the burgers.\nMar 2017 • Solo\nI ordered a cheese burger here. What a terrible mistake. I tried to tell the waiter there is no cheese in my burger he can and flipped my burger with his dirty hands and showed me the small grated cheese that was basically burnt into the bun (see picture). He was so rude!! He came back later asking if I need something else while holding a cigarette on his other hand in the most nastiest attitude I have ever seen. Totally disgusted by the rude waiter here.\nRead more\nWritten March 7, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T02:13:28.594553",
+            "restaurant_id": "10257765",
+            "restaurant_name": "Nhà Hàng Hải Nhi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "337 Quang Truong Ga Street",
+                "addressLocality": "Lao Cai",
+                "postalCode": "31000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.5,
+                "reviewCount": 45
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.49132,
+                "longitude": 103.97795
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d2/4b/65/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Fast Food",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 98 319 09 19",
+            "review_id": "REV_10257765_p1_9",
+            "reviewer_id": "User_p1_9",
+            "review_title": "Review at Nhà Hàng Hải Nhi",
+            "review_text": "Loan K\n3 contributions\n1\nAcceptable\nFeb 2017 • Family\nI didnt try the food there. But the staff was helpful and friendly. The price is fair. Dont try the ice cream, not good at all. Coffee is ok. The ambience is good.\nWritten February 25, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T02:13:28.613874",
+            "restaurant_id": "10257765",
+            "restaurant_name": "Nhà Hàng Hải Nhi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "337 Quang Truong Ga Street",
+                "addressLocality": "Lao Cai",
+                "postalCode": "31000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.5,
+                "reviewCount": 45
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.49132,
+                "longitude": 103.97795
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d2/4b/65/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Fast Food",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 98 319 09 19",
+            "review_id": "REV_10257765_p1_10",
+            "reviewer_id": "User_p1_10",
+            "review_title": "Review at Nhà Hàng Hải Nhi",
+            "review_text": "jiminguyen\nhanoi5 contributions\n0\nGreat food\nDec 2016 • Solo\nI was there for dinner. The food so fantasty. The staff friendly and takecare halltime i druing dinner there. Hightly to recomment\nWritten February 16, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T02:13:28.628602",
+            "restaurant_id": "10257765",
+            "restaurant_name": "Nhà Hàng Hải Nhi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "337 Quang Truong Ga Street",
+                "addressLocality": "Lao Cai",
+                "postalCode": "31000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.5,
+                "reviewCount": 45
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.49132,
+                "longitude": 103.97795
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d2/4b/65/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Fast Food",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 98 319 09 19",
+            "review_id": "REV_10257765_p1_11",
+            "reviewer_id": "User_p1_11",
+            "review_title": "Review at Nhà Hàng Hải Nhi",
+            "review_text": "PoloMRA\nCopenhagen, Denmark2 contributions\n0\nDon't do it..\nFeb 2017\nWe went there because we had to take the night train back to Hanoi and wanted something to eat nearby. I checked TripAdvisor and saw that this restaurant had some good review. I got the grilled chicken because many here recommended it. But seriously? The mountain food we had the last 7 days was better. Rather a bowl of noodles then trying this chicken and place again. 2 stars because the staff was friendly..\nRead more\nWritten February 8, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T02:13:28.641634",
+            "restaurant_id": "10257765",
+            "restaurant_name": "Nhà Hàng Hải Nhi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "337 Quang Truong Ga Street",
+                "addressLocality": "Lao Cai",
+                "postalCode": "31000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.5,
+                "reviewCount": 45
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.49132,
+                "longitude": 103.97795
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d2/4b/65/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Fast Food",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 98 319 09 19",
+            "review_id": "REV_10257765_p1_12",
+            "reviewer_id": "User_p1_12",
+            "review_title": "Review at Nhà Hàng Hải Nhi",
+            "review_text": "Jahganathan\nCyberjaya, Malaysia4 contributions\n0\nExtremely horrible!\nDec 2016 • Couples\nWe went there for a quick dinner before our train ride. The food was so terrible my wife couldn't eat at all. We ordered seafood fried rice which was tasteless. The chicken baguette was the worst! They just laid few pieces of smelly chicken with some salad on a dry bread and served us without any sauce whatsoever. Worst meal I had in Vietnam so far!\nRead more\nReview collected in partnership with this restaurant \nWritten December 26, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T02:13:28.656884",
+            "restaurant_id": "10257765",
+            "restaurant_name": "Nhà Hàng Hải Nhi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "337 Quang Truong Ga Street",
+                "addressLocality": "Lao Cai",
+                "postalCode": "31000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.5,
+                "reviewCount": 45
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.49132,
+                "longitude": 103.97795
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d2/4b/65/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Fast Food",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 98 319 09 19",
+            "review_id": "REV_10257765_p1_13",
+            "reviewer_id": "User_p1_13",
+            "review_title": "Review at Nhà Hàng Hải Nhi",
+            "review_text": "scottsnyder44\nDortmund, Germany1 contribution\n0\nExcellent everything\nNov 2016 • Couples\nWe went here one time for meal while we were waited for the night train back to hanoi, but given any excuse I would go back here on next vacation! The service was excellent, as was the food. I felt really pampered and was treated like a queen . the restaurant staff really very helpful, they were did all the best to help us to pick up for the train ticket, took us to enter the train..etc.\nhighly recommend this restaurant!!!\nRead more\nValue\nService\nFood\nWritten November 29, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T02:13:28.674359",
+            "restaurant_id": "10257765",
+            "restaurant_name": "Nhà Hàng Hải Nhi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d10257765-Reviews-Nha_Hang_H_i_Nhi-Lao_Cai_Lao_Cai_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "337 Quang Truong Ga Street",
+                "addressLocality": "Lao Cai",
+                "postalCode": "31000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.5,
+                "reviewCount": 45
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.49132,
+                "longitude": 103.97795
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d2/4b/65/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "05:30:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Fast Food",
+                "European",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 98 319 09 19",
+            "review_id": "REV_10257765_p1_14",
+            "reviewer_id": "User_p1_14",
+            "review_title": "Review at Nhà Hàng Hải Nhi",
+            "review_text": "austinglassner\nOmaha, Texas1 contribution\n0\nWe would go back here on next vacation\nNov 2016 • Couples\nWe had the tasting menu here and it was absolutely amazing. All of the food was wonderful, especially the grilled sauce. The service was impeccable. Wonderful experience!\nValue\nService\nFood\nWritten November 28, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

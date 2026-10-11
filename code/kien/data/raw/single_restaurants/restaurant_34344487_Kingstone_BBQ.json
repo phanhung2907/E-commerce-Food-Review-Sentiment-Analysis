@@ -1,0 +1,84 @@
+{
+    "restaurant_id": "34344487",
+    "restaurant_name": "Kingstone BBQ",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34344487-Reviews-Kingstone_BBQ-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34344487-Reviews-Kingstone_BBQ-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "8A Lê Thánh Tôn, Bến Nghé, Sài Gòn, Hồ Chí Minh",
+            "addressLocality": "Ho Chi Minh City"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.781842,
+            "longitude": 106.70556
+        },
+        "image": "N/A",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "International",
+            "Barbecue",
+            "Asian",
+            "Korean",
+            "Grill",
+            "Beer restaurants"
+        ],
+        "telephone": "+84 89 934 66 31"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

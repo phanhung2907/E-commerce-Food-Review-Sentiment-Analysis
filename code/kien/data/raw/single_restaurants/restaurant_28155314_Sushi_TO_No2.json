@@ -1,0 +1,79 @@
+{
+    "restaurant_id": "28155314",
+    "restaurant_name": "Sushi TO No2",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28155314-Reviews-Sushi_TO_No2-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28155314-Reviews-Sushi_TO_No2-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "50 Song Hành, An Phú, Quận 2",
+            "addressLocality": "Ho Chi Minh City"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.82302,
+            "longitude": 106.62965
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/c4/06/40/nha-hang-nh-t-du-c-nhi.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:00:00",
+                "closes": "22:30:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Japanese"
+        ],
+        "telephone": "+84 90 943 17 99"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

@@ -1,0 +1,541 @@
+{
+    "restaurant_id": "33394242",
+    "restaurant_name": "Sunset Story",
+    "city": "26. Ganh Dau Restaurants\nSee all 85 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d33394242-Reviews-Sunset_Story-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d33394242-Reviews-Sunset_Story-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "Suoi Cai - Ganh Dau",
+            "addressLocality": "Ganh Dau",
+            "postalCode": "91000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 5
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.37154,
+            "longitude": 103.83865
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/6a/2d/ac/our-stir-fried-baby-octopus.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Seafood",
+            "Asian",
+            "Korean",
+            "Grill",
+            "Vietnamese"
+        ],
+        "telephone": "+84 94 881 13 63"
+    },
+    "reviews_count": 5,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:18:34.286977",
+            "restaurant_id": "33394242",
+            "restaurant_name": "Sunset Story",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d33394242-Reviews-Sunset_Story-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "26. Ganh Dau Restaurants\nSee all 85 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d33394242-Reviews-Sunset_Story-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Suoi Cai - Ganh Dau",
+                "addressLocality": "Ganh Dau",
+                "postalCode": "91000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.37154,
+                "longitude": 103.83865
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/6a/2d/ac/our-stir-fried-baby-octopus.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Seafood",
+                "Asian",
+                "Korean",
+                "Grill",
+                "Vietnamese"
+            ],
+            "telephone": "+84 94 881 13 63",
+            "review_id": "REV_33394242_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Sunset Story",
+            "review_text": "Sara B\nKayakoy, Türkiye8 contributions\n0\nDinner in Sunset Storey Restaurant\nJan 2026 • Couples\nA lovely restaurant staff very helpful and friendly. Food was delicious.\nValue\nService\nFood\nAtmosphere\nWritten January 26, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:18:34.306008",
+            "restaurant_id": "33394242",
+            "restaurant_name": "Sunset Story",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d33394242-Reviews-Sunset_Story-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "26. Ganh Dau Restaurants\nSee all 85 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d33394242-Reviews-Sunset_Story-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Suoi Cai - Ganh Dau",
+                "addressLocality": "Ganh Dau",
+                "postalCode": "91000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.37154,
+                "longitude": 103.83865
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/6a/2d/ac/our-stir-fried-baby-octopus.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Seafood",
+                "Asian",
+                "Korean",
+                "Grill",
+                "Vietnamese"
+            ],
+            "telephone": "+84 94 881 13 63",
+            "review_id": "REV_33394242_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Sunset Story",
+            "review_text": "Sandie C\n2 contributions\n0\nFabulous location, delicious food, friendly staff. What more could you want!?!\nJan 2026 • Family\nWow! This place is a hidden gem! \nThe location is special, and the food outstanding!\nWe’ve eaten at many local restaurants during our 3 week stay, but Sunset Story stands out by a mile.\nStaff are friendly, service was impeccable, and the food is best quality.\nIf I could give 10 stars I would.\nInsider tip:\nBeef in green pepper sauce is so delicious! The portions are a good size, and all arrives quickly and piping hot!\nValue\nService\nFood\nAtmosphere\nWritten January 25, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:18:34.324322",
+            "restaurant_id": "33394242",
+            "restaurant_name": "Sunset Story",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d33394242-Reviews-Sunset_Story-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "26. Ganh Dau Restaurants\nSee all 85 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d33394242-Reviews-Sunset_Story-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Suoi Cai - Ganh Dau",
+                "addressLocality": "Ganh Dau",
+                "postalCode": "91000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.37154,
+                "longitude": 103.83865
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/6a/2d/ac/our-stir-fried-baby-octopus.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Seafood",
+                "Asian",
+                "Korean",
+                "Grill",
+                "Vietnamese"
+            ],
+            "telephone": "+84 94 881 13 63",
+            "review_id": "REV_33394242_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Sunset Story",
+            "review_text": "Camper38564213744\n2 contributions\n0\nThe greatest experience ever\nDec 2025 • Couples\nNice meals, really delicious!! I enjoyed it here with my mom on her birthday. She said it's the most memorable mmoment of her life\nValue\nService\nFood\nAtmosphere\nWritten December 25, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:18:34.346392",
+            "restaurant_id": "33394242",
+            "restaurant_name": "Sunset Story",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d33394242-Reviews-Sunset_Story-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "26. Ganh Dau Restaurants\nSee all 85 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d33394242-Reviews-Sunset_Story-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Suoi Cai - Ganh Dau",
+                "addressLocality": "Ganh Dau",
+                "postalCode": "91000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.37154,
+                "longitude": 103.83865
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/6a/2d/ac/our-stir-fried-baby-octopus.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Seafood",
+                "Asian",
+                "Korean",
+                "Grill",
+                "Vietnamese"
+            ],
+            "telephone": "+84 94 881 13 63",
+            "review_id": "REV_33394242_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Sunset Story",
+            "review_text": "하이제이 Hi - J\nSeoul, South Korea685 contributions\n0\nFuzhou Seafood Cuisine, Sunset Cuisine Sunset Stories Restaurant\nJul 2025\nDuring a trip to Fuzhou, I visited the seafood restaurant.\nThe Sunset Story Restaurant in Puyok North!!\nDelicious and delicious gold barry and crayfish, tigershaw and fries, morning glory, and shinshaw.\nAll the food was delicious.\nIt's Vietnamese, but the restaurant looks far to Cambodia.\nThe best sunset in Fuegook that I could see was a beautiful, delicious restaurant.\nRead more\nTranslated from Korean\nShow original\nWritten August 8, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T01:18:34.365766",
+            "restaurant_id": "33394242",
+            "restaurant_name": "Sunset Story",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d33394242-Reviews-Sunset_Story-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "26. Ganh Dau Restaurants\nSee all 85 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d33394242-Reviews-Sunset_Story-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Suoi Cai - Ganh Dau",
+                "addressLocality": "Ganh Dau",
+                "postalCode": "91000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.37154,
+                "longitude": 103.83865
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/6a/2d/ac/our-stir-fried-baby-octopus.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Seafood",
+                "Asian",
+                "Korean",
+                "Grill",
+                "Vietnamese"
+            ],
+            "telephone": "+84 94 881 13 63",
+            "review_id": "REV_33394242_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Sunset Story",
+            "review_text": "Daydream30723993997\n1 contribution\n0\nPerfect dinner spot for our family holiday\nJul 2025 • Family\nWe came to Sunset Story with three generations grandparents, us, and our two kids and everyone loved it!\n\nThe seafood was incredibly fresh, especially the garlic butter lobster and the fried squid with fish sauce. Even the kids enjoyed the crispy rice and scallops. The staff were very sweet and helped us get a table with the best sunset view.\n\nThey picked us up directly from our hotel in Grand World, which made everything super easy. The sunset was magical, and the sound of the waves made the whole evening feel like a dream.\n\nThank you Sunset Story for a lovely memory during our trip to Phu Quoc!\nRead more\nValue\nService\nFood\nAtmosphere\nWritten July 9, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

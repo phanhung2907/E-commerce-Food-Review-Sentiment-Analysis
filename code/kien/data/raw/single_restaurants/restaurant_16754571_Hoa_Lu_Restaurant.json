@@ -1,0 +1,79 @@
+{
+    "restaurant_id": "16754571",
+    "restaurant_name": "Hoa Lu Restaurant",
+    "city": "25. Buon Ma Thuot Restaurants\nSee all 100 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g670918-d16754571-Reviews-Hoa_Lu_Restaurant-Buon_Ma_Thuot_Dak_Lak_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g670918-d16754571-Reviews-Hoa_Lu_Restaurant-Buon_Ma_Thuot_Dak_Lak_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "89B Nguyen Khuyen Tan Loi Ward",
+            "addressLocality": "Buon Ma Thuot",
+            "postalCode": "630000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.695232,
+            "longitude": 108.04828
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/8f/9b/e4/caption.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "09:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "09:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "09:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "09:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "09:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "09:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "09:00:00",
+                "closes": "22:30:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": "N/A",
+        "telephone": "+84 90 560 08 77"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

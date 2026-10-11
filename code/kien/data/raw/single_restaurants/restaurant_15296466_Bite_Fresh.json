@@ -1,0 +1,145 @@
+{
+    "restaurant_id": "15296466",
+    "restaurant_name": "Bite Fresh",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15296466-Reviews-Bite_Fresh-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15296466-Reviews-Bite_Fresh-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.793145,
+            "longitude": 106.67109
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "07:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "07:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "07:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "07:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "07:00:00",
+                "closes": "15:00:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Fast Food",
+            "Deli",
+            "Vietnamese"
+        ],
+        "telephone": "+84 28 6290 6646"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T19:13:28.517351",
+            "restaurant_id": "15296466",
+            "restaurant_name": "Bite Fresh",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15296466-Reviews-Bite_Fresh-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15296466-Reviews-Bite_Fresh-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.793145,
+                "longitude": 106.67109
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Fast Food",
+                "Deli",
+                "Vietnamese"
+            ],
+            "telephone": "+84 28 6290 6646",
+            "review_id": "REV_15296466_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Bite Fresh",
+            "review_text": "Julian Redphi\n1 contribution\n1\nWow Fresh and Yummy\nDec 2019 • Family\nEasy the spot down the alleyway, clean kitchen, great service, really delicious sandwiches. I ordered one, ate it right there and ordered two more. Well impressed with this hidden gem, my new favorite salad /sandwich and more more restaurant\nReview collected in partnership with this restaurant \nWritten December 30, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

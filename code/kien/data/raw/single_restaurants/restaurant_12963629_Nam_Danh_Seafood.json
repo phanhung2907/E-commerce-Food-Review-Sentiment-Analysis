@@ -1,0 +1,1419 @@
+{
+    "restaurant_id": "12963629",
+    "restaurant_name": "Nam Danh Seafood",
+    "city": "23. Son Tra Peninsula Restaurants\nSee all 113 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "139/59/38 Trần Quang Khải",
+            "addressLocality": "Tho Quang",
+            "postalCode": "550000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.4,
+            "reviewCount": 81
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 16.102175,
+            "longitude": 108.25326
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4f/6e/47/nha-hang-bi-n-r-ng.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Seafood",
+            "Asian",
+            "Vietnamese"
+        ],
+        "telephone": "N/A"
+    },
+    "reviews_count": 15,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T00:45:20.768735",
+            "restaurant_id": "12963629",
+            "restaurant_name": "Nam Danh Seafood",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "city": "23. Son Tra Peninsula Restaurants\nSee all 113 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "139/59/38 Trần Quang Khải",
+                "addressLocality": "Tho Quang",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 81
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.102175,
+                "longitude": 108.25326
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4f/6e/47/nha-hang-bi-n-r-ng.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_12963629_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Nam Danh Seafood",
+            "review_text": "Alexander T\n5 contributions\n0\nGreat sea food , great price\nNov 2025 • Friends\nGood seafood very good price , not touristy , would recommend going here for cheap fresh seafood , a little hard to find but if you enter address in Grab taxi app it won’t be a problem.\nValue\nService\nFood\nAtmosphere\nWritten November 24, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T00:45:20.794021",
+            "restaurant_id": "12963629",
+            "restaurant_name": "Nam Danh Seafood",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "city": "23. Son Tra Peninsula Restaurants\nSee all 113 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "139/59/38 Trần Quang Khải",
+                "addressLocality": "Tho Quang",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 81
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.102175,
+                "longitude": 108.25326
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4f/6e/47/nha-hang-bi-n-r-ng.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_12963629_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Nam Danh Seafood",
+            "review_text": "Anonymous\nJapan16 contributions\n0\nJapanese Review (Seafood and Nam Danh)\nJun 2025 • Couples\nNam Danh, a seafood restaurant, was told by Thao, a staff member at the hotel where I was staying.\nTo be honest, it's in a pretty deep place, in the back of a narrow alley (laughs).\nBut Thao had told me beforehand that it was a little hard to find, so I was fine.\n\nWhen we actually went there, we found it was a really good place to recommend!\nThe seafood is very fresh and delicious, and the prices are much more reasonable than at other restaurants.\nMoreover, it is packed with locals and tourists! I'm also convinced by this popularity.\n\nIt was a bit hard to find, but it was well worth it.\nIt was a wonderful experience that left a lasting impression on me during my trip.\nRead more\nValue\nService\nFood\nAtmosphere\nTranslated from Japanese\nShow original\nWritten July 15, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T00:45:20.807136",
+            "restaurant_id": "12963629",
+            "restaurant_name": "Nam Danh Seafood",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "city": "23. Son Tra Peninsula Restaurants\nSee all 113 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "139/59/38 Trần Quang Khải",
+                "addressLocality": "Tho Quang",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 81
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.102175,
+                "longitude": 108.25326
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4f/6e/47/nha-hang-bi-n-r-ng.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_12963629_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Nam Danh Seafood",
+            "review_text": "Ainz\nHamilton, New Zealand58 contributions\n0\nAuthentic Local Seafood\nJun 2025 • Family\nWe were recommended this local restaurant and it did not disappoint. Authentic with beautiful fresh seafood. Had the grilled squid and prawns and the seafood hotpot. For served by a lovely lady - couldn’t speak English but we managed our way through a delicious meal.\nDefinitely recommend and very inexpensive. Only downside is the beers come out warm and take a little while to cool in the ice bucket provided.\nRead more\nWritten July 4, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T00:45:20.827938",
+            "restaurant_id": "12963629",
+            "restaurant_name": "Nam Danh Seafood",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "city": "23. Son Tra Peninsula Restaurants\nSee all 113 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "139/59/38 Trần Quang Khải",
+                "addressLocality": "Tho Quang",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 81
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.102175,
+                "longitude": 108.25326
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4f/6e/47/nha-hang-bi-n-r-ng.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_12963629_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Nam Danh Seafood",
+            "review_text": "とし_08ちゃん\nSaitama, Japan299 contributions\n1\n\"Seeing is believing\" is a well-known saying. You can only understand something by seeing it with your own eyes.\nJun 2024 • Friends\nI heard that it serves cheap and delicious seafood, that it was featured on TV, and that it was difficult to get there, but when I called, they came to pick me up on the street in a golf cart. I heard that dishes without prices on the menu were 360 yen per plate, but they had increased the price to 420 yen ^.^. It was my first time eating seafood in Da Nang, and it tasted different from Chinese seafood, with a simple Vietnamese flavor (it's okay after one try).\nRead more\nValue\nService\nFood\nAtmosphere\nShow original\nWritten June 4, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T00:45:20.849383",
+            "restaurant_id": "12963629",
+            "restaurant_name": "Nam Danh Seafood",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "city": "23. Son Tra Peninsula Restaurants\nSee all 113 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "139/59/38 Trần Quang Khải",
+                "addressLocality": "Tho Quang",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 81
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.102175,
+                "longitude": 108.25326
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4f/6e/47/nha-hang-bi-n-r-ng.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_12963629_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Nam Danh Seafood",
+            "review_text": "Trail54939450205\n3 contributions\n0\nREVIEW CONTENT: Products in the shopping center are of good quality and are sold in a variety of products, all suitable for me.\nAug 2023 • Solo\nThe casual, spacious restaurant serves traditional seafood dishes, notably scallops, shrimp and oysters. The space of the restaurant and the taste of the food are great\nValue\nService\nFood\nAtmosphere\nShow original\nWritten April 10, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T00:45:20.862411",
+            "restaurant_id": "12963629",
+            "restaurant_name": "Nam Danh Seafood",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "city": "23. Son Tra Peninsula Restaurants\nSee all 113 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "139/59/38 Trần Quang Khải",
+                "addressLocality": "Tho Quang",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 81
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.102175,
+                "longitude": 108.25326
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4f/6e/47/nha-hang-bi-n-r-ng.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_12963629_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at Nam Danh Seafood",
+            "review_text": "NorthStar59887635217\n2 contributions\n0\nVipp\nApr 2024 • Solo\nQuá ngon âhhahqiajsj qnsjkqjqbshqosjsbxhebfhaosndhxiwbxhajsbsbhwiansbe s s sưjwnwbaiaiansbeiejsnsbsjqkwnbebebe\nShow original\nWritten April 10, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T00:45:20.884092",
+            "restaurant_id": "12963629",
+            "restaurant_name": "Nam Danh Seafood",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "city": "23. Son Tra Peninsula Restaurants\nSee all 113 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "139/59/38 Trần Quang Khải",
+                "addressLocality": "Tho Quang",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 81
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.102175,
+                "longitude": 108.25326
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4f/6e/47/nha-hang-bi-n-r-ng.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_12963629_p1_6",
+            "reviewer_id": "User_p1_6",
+            "review_title": "Review at Nam Danh Seafood",
+            "review_text": "KC O\nKuala Lumpur, Malaysia189 contributions\n0\nFood Is Good, But not that cheap anymore\nMar 2024 • Couples\nThe Seafood is good, but not as cheap as other reviewer mentioned. \n\nOrdered Lobster for 1.6mil dong per kg. the price is similar or even slightly higher comparatively to other seafood restaurant in Danang. But the food is good.\n\nThe Place is not easy to find, hidden from main street.\nRead more\nInsider tip:\nAsk price before order, and always order from the tanks..\nValue\nService\nFood\nAtmosphere\nWritten April 3, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T00:45:20.901512",
+            "restaurant_id": "12963629",
+            "restaurant_name": "Nam Danh Seafood",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "city": "23. Son Tra Peninsula Restaurants\nSee all 113 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "139/59/38 Trần Quang Khải",
+                "addressLocality": "Tho Quang",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 81
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.102175,
+                "longitude": 108.25326
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4f/6e/47/nha-hang-bi-n-r-ng.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_12963629_p1_7",
+            "reviewer_id": "User_p1_7",
+            "review_title": "Review at Nam Danh Seafood",
+            "review_text": "Road01953006856\n1 contribution\n0\nDisappointed\nNov 2023 • Couples\nFresh seafood, quite delicious, clean bathroom. But the staff's attitude was too poor, sitting in a bunch of chatty customers, no one brought out the menu to ask. When the staff complained that their throat was burning, they brought a menu book to a couple of bags in the middle of the table and even brought the 3-page menu book to ask. Why is the food so small? I'll turn around and give you another notebook. My friend and I were about to leave and not eat anymore because of that attitude, but because it was raining that day and the road was far away, it was hard to find, so we sat down and finished eating. The restaurant is great, the food is delicious, but the staff's attitude is like looking down on customers. I hope the restaurant will improve. It's very difficult to find a restaurant in the alley but I'm really disappointed....\nRead more\nShow original\nWritten November 18, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T00:45:20.931258",
+            "restaurant_id": "12963629",
+            "restaurant_name": "Nam Danh Seafood",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "city": "23. Son Tra Peninsula Restaurants\nSee all 113 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "139/59/38 Trần Quang Khải",
+                "addressLocality": "Tho Quang",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 81
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.102175,
+                "longitude": 108.25326
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4f/6e/47/nha-hang-bi-n-r-ng.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_12963629_p1_8",
+            "reviewer_id": "User_p1_8",
+            "review_title": "Review at Nam Danh Seafood",
+            "review_text": "My m\n4 contributions\n0\nPersonal experience\nOct 2023 • Couples\nFresh seafood, I ate fresh crab, firm meat but the seasoning was too sweet. The other dishes are okay, but don't suit my taste. The fried rice is salty, dry, and the peanut fish salad dipping sauce is not as delicious as other restaurants. The service staff is enthusiastic. Note: the path is very difficult to find.\nValue\nService\nFood\nAtmosphere\nShow original\nWritten October 11, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T00:45:20.966237",
+            "restaurant_id": "12963629",
+            "restaurant_name": "Nam Danh Seafood",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "city": "23. Son Tra Peninsula Restaurants\nSee all 113 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "139/59/38 Trần Quang Khải",
+                "addressLocality": "Tho Quang",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 81
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.102175,
+                "longitude": 108.25326
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4f/6e/47/nha-hang-bi-n-r-ng.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_12963629_p1_9",
+            "reviewer_id": "User_p1_9",
+            "review_title": "Review at Nam Danh Seafood",
+            "review_text": "Tracy\nDa Nang, Vietnam8 contributions\n0\nfine\nSep 2023 • Friends\nThe restaurant's address is a bit difficult to find. This restaurant has been famous in Da Nang for quite a long time and although the price has increased a bit now, the food quality is ok and suits my taste. I'm quite impressed with the restaurant's squid. The squid is fresh and very crispy and delicious. In addition, because the restaurant is crowded, the service staff is a bit slow and you need to ask many times to get it.\nRead more\nValue\nService\nFood\nAtmosphere\nShow original\nWritten October 11, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T00:45:20.985881",
+            "restaurant_id": "12963629",
+            "restaurant_name": "Nam Danh Seafood",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "city": "23. Son Tra Peninsula Restaurants\nSee all 113 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "139/59/38 Trần Quang Khải",
+                "addressLocality": "Tho Quang",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 81
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.102175,
+                "longitude": 108.25326
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4f/6e/47/nha-hang-bi-n-r-ng.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_12963629_p1_10",
+            "reviewer_id": "User_p1_10",
+            "review_title": "Review at Nam Danh Seafood",
+            "review_text": "reins76\nScone, Australia3584 contributions\n0\nGreat experience, great area\nMay 2023 • Couples\nGreat experience. The surrounding alleys are my favourite part of Danang so far, and well worth a wander. Our waitress had pretty good English and we ordered grilled oysters, stir fried prawns and grilled fish all delicious and through in a couple of beers for a great lunch and a bill less than fast food at home. What is not to like?\nValue\nService\nFood\nWritten May 10, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T00:45:21.004756",
+            "restaurant_id": "12963629",
+            "restaurant_name": "Nam Danh Seafood",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "city": "23. Son Tra Peninsula Restaurants\nSee all 113 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "139/59/38 Trần Quang Khải",
+                "addressLocality": "Tho Quang",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 81
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.102175,
+                "longitude": 108.25326
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4f/6e/47/nha-hang-bi-n-r-ng.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_12963629_p1_11",
+            "reviewer_id": "User_p1_11",
+            "review_title": "Review at Nam Danh Seafood",
+            "review_text": "OneTrip with local\nHanoi, Vietnam359 contributions\n2\nAwesome seafood!\nMar 2023 • Couples\nI highly recommend this place! It's located deep in the alleys, so it can be a bit confusing to find, and cars can't enter all the way. Just keep walking according to the Google Maps location, and you'll find a surprisingly large restaurant. The seafood is of good quality and the prices are very reasonable.\nWritten March 27, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T00:45:21.020278",
+            "restaurant_id": "12963629",
+            "restaurant_name": "Nam Danh Seafood",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "city": "23. Son Tra Peninsula Restaurants\nSee all 113 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "139/59/38 Trần Quang Khải",
+                "addressLocality": "Tho Quang",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 81
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.102175,
+                "longitude": 108.25326
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4f/6e/47/nha-hang-bi-n-r-ng.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_12963629_p1_12",
+            "reviewer_id": "User_p1_12",
+            "review_title": "Review at Nam Danh Seafood",
+            "review_text": "Vivian_Dff212\nCalifornia76 contributions\n2\nDisappointed\nApr 2020 • Friends\nHeard that this is a famous seafood restaurant in Danang then we came to give here a try. We were definitely very disappointed! The food tasted so bland, sautéed morning glory was so so bland as well, it was like boiled with lot of oil. 2 small lobsters, 2 crabs, 2 bread, 1 morning glory spinach , 2 waters total around 1.9 millions vnd. Nothing’s special here. Don’t recommend it!\nRead more\nWritten October 24, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T00:45:21.027591",
+            "restaurant_id": "12963629",
+            "restaurant_name": "Nam Danh Seafood",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "city": "23. Son Tra Peninsula Restaurants\nSee all 113 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "139/59/38 Trần Quang Khải",
+                "addressLocality": "Tho Quang",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 81
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.102175,
+                "longitude": 108.25326
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4f/6e/47/nha-hang-bi-n-r-ng.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_12963629_p1_13",
+            "reviewer_id": "User_p1_13",
+            "review_title": "Review at Nam Danh Seafood",
+            "review_text": "Sebastian\nDa Nang, Vietnam91 contributions\n1\nDinner time 😎🇻🇳\nFeb 2020 • Friends\nFood and staff are great, it’s very busy because it’s good. So if your looking for a seafood fix, check this one out.\nWritten February 24, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T00:45:21.044680",
+            "restaurant_id": "12963629",
+            "restaurant_name": "Nam Danh Seafood",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "city": "23. Son Tra Peninsula Restaurants\nSee all 113 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g15339118-d12963629-Reviews-Nam_Danh_Seafood-Tho_Quang_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "139/59/38 Trần Quang Khải",
+                "addressLocality": "Tho Quang",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 81
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.102175,
+                "longitude": 108.25326
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4f/6e/47/nha-hang-bi-n-r-ng.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_12963629_p1_14",
+            "reviewer_id": "User_p1_14",
+            "review_title": "Review at Nam Danh Seafood",
+            "review_text": "Travelandfood\nSingapore, Singapore437 contributions\n0\nSomething has changed, but still a great place.\nFeb 2020\nWe visited this place last summer 2019 and now we are back again February 2020. The first time, the food seemed to have a great taste, but this time around it lacked some flavor. Still it is a very good idea lace to eat fresh seafood for a very good price.\nWritten February 21, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

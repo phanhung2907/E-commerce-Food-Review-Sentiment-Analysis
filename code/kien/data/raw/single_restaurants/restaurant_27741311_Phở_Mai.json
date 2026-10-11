@@ -1,0 +1,640 @@
+{
+    "restaurant_id": "27741311",
+    "restaurant_name": "Phở Mai",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27741311-Reviews-Ph_Mai-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27741311-Reviews-Ph_Mai-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 4
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.768796,
+            "longitude": 106.69052
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/6d/05/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "06:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "18:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "06:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "18:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "06:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "18:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "06:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "18:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "06:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "18:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "06:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "18:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "06:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "18:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Fusion",
+            "Vietnamese",
+            "Diner"
+        ],
+        "telephone": "+840353331818"
+    },
+    "reviews_count": 4,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T16:56:47.974430",
+            "restaurant_id": "27741311",
+            "restaurant_name": "Phở Mai",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27741311-Reviews-Ph_Mai-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27741311-Reviews-Ph_Mai-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 4
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.768796,
+                "longitude": 106.69052
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/6d/05/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Fusion",
+                "Vietnamese",
+                "Diner"
+            ],
+            "telephone": "+840353331818",
+            "review_id": "REV_27741311_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Phở Mai",
+            "review_text": "Pioneer09020973634\n1 contribution\n0\nExperience traditional pho at Pho Mai\nMay 2024 • Solo\nThe space is clean, the kitchen counter is connected to the seating so you can observe how the kitchen prepares food. Peace of mind for diners. The food is quite good. Price is also ok.\nValue\nService\nFood\nAtmosphere\nShow original\nWritten May 28, 2024\nPhở Mai\nDạ, Phở Mai xin cảm ơn Quý khách hàng đã ghé trải nghiệm quán và đưa ra những đánh giá giúp cải thiện dịch vụ của quán. Hẹn gặp lại Quý khách trong thời gian sắp tới ạ🍜\nRead more\nWritten May 28, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T16:56:47.989580",
+            "restaurant_id": "27741311",
+            "restaurant_name": "Phở Mai",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27741311-Reviews-Ph_Mai-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27741311-Reviews-Ph_Mai-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 4
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.768796,
+                "longitude": 106.69052
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/6d/05/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Fusion",
+                "Vietnamese",
+                "Diner"
+            ],
+            "telephone": "+840353331818",
+            "review_id": "REV_27741311_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Phở Mai",
+            "review_text": "Escape49022754777\n2 contributions\n0\nWorth a try\nMay 2024 • Friends\nThe restaurant is clean, the food is delicious. At this price range, I think it's worth a try. Professional service staff. Soy sauce and dipping sauce are placed neatly, easy to get, there is chili sauce, I find it quite special to eat\nShow original\nWritten May 28, 2024\nPhở Mai\nDạ, Phở Mai xin cảm ơn Quý khách hàng đã ghé trải nghiệm quán và đưa ra những đánh giá giúp cải thiện dịch vụ của quán. Hẹn gặp lại Quý khách trong thời gian sắp tới ạ🍜\nRead more\nWritten May 28, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T16:56:48.015540",
+            "restaurant_id": "27741311",
+            "restaurant_name": "Phở Mai",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27741311-Reviews-Ph_Mai-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27741311-Reviews-Ph_Mai-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 4
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.768796,
+                "longitude": 106.69052
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/6d/05/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Fusion",
+                "Vietnamese",
+                "Diner"
+            ],
+            "telephone": "+840353331818",
+            "review_id": "REV_27741311_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Phở Mai",
+            "review_text": "Huyền\nHo Chi Minh City, Vietnam2 contributions\n0\nNgonn\nMay 2024 • Solo\nThe restaurant is very clean and delicious. The price range is similar to current mid-range restaurants. Clean, civilized service. Soy sauce and dipping sauce are placed neatly, easy to get, and there is a quite special chili sauce\nValue\nService\nFood\nAtmosphere\nShow original\nWritten May 20, 2024\nPhở Mai\nDạ, Phở Mai xin cảm ơn Quý khách hàng đã ghé trải nghiệm quán và đưa ra những đánh giá giúp cải thiện dịch vụ của quán.\nHẹn gặp lại Quý khách trong thời gian sắp tới ạ🍜\nRead more\nWritten May 21, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T16:56:48.038788",
+            "restaurant_id": "27741311",
+            "restaurant_name": "Phở Mai",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27741311-Reviews-Ph_Mai-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27741311-Reviews-Ph_Mai-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 4
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.768796,
+                "longitude": 106.69052
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/6d/05/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Fusion",
+                "Vietnamese",
+                "Diner"
+            ],
+            "telephone": "+840353331818",
+            "review_id": "REV_27741311_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Phở Mai",
+            "review_text": "Minh khang\nHo Chi Minh City, Vietnam2 contributions\n0\nDelicious pho in district 1\nMay 2024 • Friends\nThe broth is light and has a moderate taste. Order a full bowl and see quite a lot of meat, enough for an adult to eat. There is air conditioning, quite nice space, friendly staff\nValue\nService\nFood\nAtmosphere\nShow original\nWritten May 19, 2024\nMai P\nDạ, Phở Mai xin cảm ơn Quý khách hàng đã ghé trải nghiệm quán và đưa ra những đánh giá giúp cải thiện dịch vụ của quán.\nHẹn gặp lại Quý khách trong thời gian sắp tới ạ🍜\nRead more\nWritten May 20, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

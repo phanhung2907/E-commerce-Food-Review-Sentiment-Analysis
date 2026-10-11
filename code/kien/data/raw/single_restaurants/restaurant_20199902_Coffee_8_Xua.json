@@ -1,0 +1,85 @@
+{
+    "restaurant_id": "20199902",
+    "restaurant_name": "Coffee 8 Xua",
+    "city": "25. Buon Ma Thuot Restaurants\nSee all 100 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g670918-d20199902-Reviews-Coffee_8_Xua-Buon_Ma_Thuot_Dak_Lak_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g670918-d20199902-Reviews-Coffee_8_Xua-Buon_Ma_Thuot_Dak_Lak_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Buon Ma Thuot Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 2
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.70442,
+            "longitude": 108.05392
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5a/0b/54/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Cafe",
+            "Vietnamese",
+            "Healthy",
+            "Fruit parlours"
+        ],
+        "telephone": "+84 262 3838 888"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T00:59:26.926446",
+            "restaurant_id": "20199902",
+            "restaurant_name": "Coffee 8 Xua",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g670918-d20199902-Reviews-Coffee_8_Xua-Buon_Ma_Thuot_Dak_Lak_Province.html#REVIEWS",
+            "city": "25. Buon Ma Thuot Restaurants\nSee all 100 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g670918-d20199902-Reviews-Coffee_8_Xua-Buon_Ma_Thuot_Dak_Lak_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Buon Ma Thuot Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 2
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.70442,
+                "longitude": 108.05392
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5a/0b/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Cafe",
+                "Vietnamese",
+                "Healthy",
+                "Fruit parlours"
+            ],
+            "telephone": "+84 262 3838 888",
+            "review_id": "REV_20199902_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Coffee 8 Xua",
+            "review_text": "kaka_VietNam\nQuy Nhon, Vietnam47 contributions\n0\nspecial place for traveller\nMar 2020\nNice place, the owner have an awewsome collection about antique in 2 wars in the past\n\nExcellene coffee and nice staffs\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten March 3, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

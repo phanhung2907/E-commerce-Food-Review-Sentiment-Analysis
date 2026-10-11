@@ -1,0 +1,80 @@
+{
+    "restaurant_id": "27927665",
+    "restaurant_name": "Nhà Hàng Hàn Quốc The Dam",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27927665-Reviews-Nha_Hang_Han_Qu_c_The_Dam-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27927665-Reviews-Nha_Hang_Han_Qu_c_The_Dam-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "32 Khu Phố Hưng Gia 1",
+            "addressLocality": "Ho Chi Minh City"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.782066,
+            "longitude": 106.65002
+        },
+        "image": "N/A",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "09:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "09:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "09:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "09:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "09:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "09:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "09:00:00",
+                "closes": "21:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Asian",
+            "Korean"
+        ],
+        "telephone": "+84 777 818 760"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

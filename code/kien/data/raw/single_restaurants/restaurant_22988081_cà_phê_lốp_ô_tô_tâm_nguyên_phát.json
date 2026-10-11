@@ -1,0 +1,80 @@
+{
+    "restaurant_id": "22988081",
+    "restaurant_name": "cà phê lốp ô tô tâm nguyên phát",
+    "city": "25. Buon Ma Thuot Restaurants\nSee all 100 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g670918-d22988081-Reviews-Ca_phe_l_p_o_to_tam_nguyen_phat-Buon_Ma_Thuot_Dak_Lak_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g670918-d22988081-Reviews-Ca_phe_l_p_o_to_tam_nguyen_phat-Buon_Ma_Thuot_Dak_Lak_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Buon Ma Thuot Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 4
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.66667,
+            "longitude": 108.05
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5a/0b/54/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Cafe",
+            "International"
+        ],
+        "telephone": "0783355678"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

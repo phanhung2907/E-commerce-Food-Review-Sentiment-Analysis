@@ -1,0 +1,81 @@
+{
+    "restaurant_id": "33322219",
+    "restaurant_name": "Yakitori Sakaba ToriTetsu",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33322219-Reviews-Yakitori_Sakaba_ToriTetsu-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33322219-Reviews-Yakitori_Sakaba_ToriTetsu-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "8A/6B1 Thái Văn Lung Bến Nghé, Quận 1",
+            "addressLocality": "Ho Chi Minh City",
+            "postalCode": "700000"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.779846,
+            "longitude": 106.70481
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/7d/61/6f/caption.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "15:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "17:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "17:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "17:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "17:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "17:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "15:00:00",
+                "closes": "02:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Sushi",
+            "Asian"
+        ],
+        "telephone": "+84 28 6656 6675"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}
