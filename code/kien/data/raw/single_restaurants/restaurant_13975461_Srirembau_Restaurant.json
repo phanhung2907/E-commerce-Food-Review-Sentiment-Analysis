@@ -1,0 +1,535 @@
+{
+    "restaurant_id": "13975461",
+    "restaurant_name": "Srirembau Restaurant",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d13975461-Reviews-Srirembau_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d13975461-Reviews-Srirembau_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "179 Cai Lan Street",
+            "addressLocality": "Bai Chay"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.7,
+            "reviewCount": 6
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 20.95364,
+            "longitude": 107.04521
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/9c/5b/d5/img-20180406-205811-largejpg.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Indian",
+            "Asian",
+            "Vietnamese",
+            "Indonesian",
+            "Malaysian"
+        ],
+        "telephone": "+84 96 693 39 21"
+    },
+    "reviews_count": 5,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-12T20:31:57.881086",
+            "restaurant_id": "13975461",
+            "restaurant_name": "Srirembau Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d13975461-Reviews-Srirembau_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d13975461-Reviews-Srirembau_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "179 Cai Lan Street",
+                "addressLocality": "Bai Chay"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 20.95364,
+                "longitude": 107.04521
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/9c/5b/d5/img-20180406-205811-largejpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Indian",
+                "Asian",
+                "Vietnamese",
+                "Indonesian",
+                "Malaysian"
+            ],
+            "telephone": "+84 96 693 39 21",
+            "review_id": "REV_13975461_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Srirembau Restaurant",
+            "review_text": "Mohammed_Zubairi\nDubai, United Arab Emirates36 contributions\n1\nTop notch Authentic Halal Experience\nOct 2019\nWas delightfully surprised to eat at this amazing & probably the only Halal restaurant in the beautiful Halong bay. The menu consisted of some of the authentic Vietnamese delicacies and they were made & served to 100% satisfaction. The taste was authentic, the quality and quantity served was generous. To add more value, as a muslim traveller you will find a dedicated place to offer Salaah at this restaurant. They served one of the BEST spring rolls I've ever had.\n\nHighly recommend this place if you are visiting Halong bay.\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten November 4, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-12",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-12T20:31:57.902258",
+            "restaurant_id": "13975461",
+            "restaurant_name": "Srirembau Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d13975461-Reviews-Srirembau_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d13975461-Reviews-Srirembau_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "179 Cai Lan Street",
+                "addressLocality": "Bai Chay"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 20.95364,
+                "longitude": 107.04521
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/9c/5b/d5/img-20180406-205811-largejpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Indian",
+                "Asian",
+                "Vietnamese",
+                "Indonesian",
+                "Malaysian"
+            ],
+            "telephone": "+84 96 693 39 21",
+            "review_id": "REV_13975461_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Srirembau Restaurant",
+            "review_text": "rztravels\nRowland Heights, California81 contributions\n1\nThe best and Only HALAL Restaurant\nJan 2019 • Business\nThis is the best Halal Restaurant in town, the food is great, tasty, staff is great, wonderful, Not only that, they have a Prayers Room for the Muslims since the Ha Long city do not have any Mosque for the prayers. Great Job by Malaysian Family. Love you guys............\nReview collected in partnership with this restaurant \nWritten January 20, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-12",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-12T20:31:57.919160",
+            "restaurant_id": "13975461",
+            "restaurant_name": "Srirembau Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d13975461-Reviews-Srirembau_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d13975461-Reviews-Srirembau_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "179 Cai Lan Street",
+                "addressLocality": "Bai Chay"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 20.95364,
+                "longitude": 107.04521
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/9c/5b/d5/img-20180406-205811-largejpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Indian",
+                "Asian",
+                "Vietnamese",
+                "Indonesian",
+                "Malaysian"
+            ],
+            "telephone": "+84 96 693 39 21",
+            "review_id": "REV_13975461_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Srirembau Restaurant",
+            "review_text": "Alyanasa\nKulim, Malaysia1 contribution\n0\nExcellent Halal food in Halong Bay\nJan 2018 • Family\nFreshly cooked and tasty rice dishes. Hong the owner is super friendly and speaks good English. A must for Malaysian Muslims visiting Halong Bay. Restaurant even has separate prayer place for men and women.\nWritten May 19, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-12",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-12T20:31:57.935848",
+            "restaurant_id": "13975461",
+            "restaurant_name": "Srirembau Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d13975461-Reviews-Srirembau_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d13975461-Reviews-Srirembau_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "179 Cai Lan Street",
+                "addressLocality": "Bai Chay"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 20.95364,
+                "longitude": 107.04521
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/9c/5b/d5/img-20180406-205811-largejpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Indian",
+                "Asian",
+                "Vietnamese",
+                "Indonesian",
+                "Malaysian"
+            ],
+            "telephone": "+84 96 693 39 21",
+            "review_id": "REV_13975461_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Srirembau Restaurant",
+            "review_text": "Hamzah K\n2 contributions\n0\nLovely staff and delicious food\nMay 2018 • Friends\nI had dinner here with a friend. We thoroughly enjoyed the food and the staff were very friendly. Only place that serves halal food in the area.\nWritten May 11, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-12",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-12T20:31:57.953851",
+            "restaurant_id": "13975461",
+            "restaurant_name": "Srirembau Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d13975461-Reviews-Srirembau_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d13975461-Reviews-Srirembau_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "179 Cai Lan Street",
+                "addressLocality": "Bai Chay"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 20.95364,
+                "longitude": 107.04521
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/9c/5b/d5/img-20180406-205811-largejpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Indian",
+                "Asian",
+                "Vietnamese",
+                "Indonesian",
+                "Malaysian"
+            ],
+            "telephone": "+84 96 693 39 21",
+            "review_id": "REV_13975461_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Srirembau Restaurant",
+            "review_text": "moki786\nDurban, South Africa565 contributions\n0\nGood food hospitable staff!\nApr 2018 • Couples\nWe had dinner at this restaurant. We were a group of 27. The food was good, staff friendly and courteous and the atmosphere homely. It's not a posh restaurant but the atmosphere is homely and comfortable.\nWritten April 11, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-12",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

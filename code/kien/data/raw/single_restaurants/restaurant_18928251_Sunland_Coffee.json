@@ -1,0 +1,39 @@
+{
+    "restaurant_id": "18928251",
+    "restaurant_name": "Sunland Coffee",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d18928251-Reviews-Sunland_Coffee-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d18928251-Reviews-Sunland_Coffee-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "02 Street 25/4",
+            "addressLocality": "Ha Long City",
+            "postalCode": "200000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 20.951912,
+            "longitude": 107.074814
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/3e/f1/00/sunland-coffee.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Cafe",
+            "Dining bars"
+        ],
+        "telephone": "+(84)34 7471985"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

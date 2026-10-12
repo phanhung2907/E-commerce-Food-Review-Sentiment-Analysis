@@ -1,0 +1,79 @@
+{
+    "restaurant_id": "27773469",
+    "restaurant_name": "Nhà Hàng Thủy Chung",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d27773469-Reviews-Nha_Hang_Th_y_Chung-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g14776299-d27773469-Reviews-Nha_Hang_Th_y_Chung-Ha_Long_City_H_Long_Bay_Quang_Ninh_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ha Long City, Hạ Long Bay Vietnam"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 20.95045,
+            "longitude": 107.07336
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/2a/aa/20/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Seafood",
+            "Vietnamese"
+        ],
+        "telephone": "+84 90 408 76 26"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

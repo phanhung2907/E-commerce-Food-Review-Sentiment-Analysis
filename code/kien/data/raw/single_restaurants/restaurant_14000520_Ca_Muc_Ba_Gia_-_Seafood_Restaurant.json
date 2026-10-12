@@ -1,0 +1,79 @@
+{
+    "restaurant_id": "14000520",
+    "restaurant_name": "Ca Muc Ba Gia - Seafood Restaurant",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d14000520-Reviews-Ca_Muc_Ba_Gia_Seafood_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d14000520-Reviews-Ca_Muc_Ba_Gia_Seafood_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "C123 Ha Long Opposite Ha Long Bay hotel",
+            "addressLocality": "Bai Chay",
+            "postalCode": "200000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 2.5,
+            "reviewCount": 2
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 20.954544,
+            "longitude": 107.04761
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/b1/ba/f4/khong-gian-t-ng-2-nha.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "$$ - $$$",
+        "servesCuisine": "N/A",
+        "telephone": "+84 88 833 12 33"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-12T20:03:06.710063",
+            "restaurant_id": "14000520",
+            "restaurant_name": "Ca Muc Ba Gia - Seafood Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d14000520-Reviews-Ca_Muc_Ba_Gia_Seafood_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g13163470-d14000520-Reviews-Ca_Muc_Ba_Gia_Seafood_Restaurant-Bai_Chay_H_Long_Bay_Quang_Ninh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "C123 Ha Long Opposite Ha Long Bay hotel",
+                "addressLocality": "Bai Chay",
+                "postalCode": "200000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 2.5,
+                "reviewCount": 2
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 20.954544,
+                "longitude": 107.04761
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/b1/ba/f4/khong-gian-t-ng-2-nha.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 88 833 12 33",
+            "review_id": "REV_14000520_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Ca Muc Ba Gia - Seafood Restaurant",
+            "review_text": "dharroshan\nKuala Lumpur, Malaysia221 contributions\n0\nSuperb Food\nJun 2018 • Friends\nRestaurant serve superb seafood dishes and cheap too. Situated very close to halong bay hotel. everything taste superb n yummy\nReview collected in partnership with this restaurant \nWritten June 10, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-12",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}
