@@ -1,0 +1,1371 @@
+{
+    "restaurant_id": "5892093",
+    "restaurant_name": "Local Bar",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 3.8,
+            "reviewCount": 104
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.767028,
+            "longitude": 106.693184
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "06:30:00",
+                "closes": "03:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "06:30:00",
+                "closes": "03:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "06:30:00",
+                "closes": "03:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "06:30:00",
+                "closes": "03:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "06:30:00",
+                "closes": "03:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "06:30:00",
+                "closes": "03:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "06:30:00",
+                "closes": "03:00:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Asian",
+            "Vietnamese"
+        ],
+        "telephone": "+84 93 851 70 07"
+    },
+    "reviews_count": 15,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:52:55.063344",
+            "restaurant_id": "5892093",
+            "restaurant_name": "Local Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 104
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767028,
+                "longitude": 106.693184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 851 70 07",
+            "review_id": "REV_5892093_p1_0",
+            "reviewer_id": "User_5892093_1_0",
+            "review_title": "Review at Local Bar",
+            "review_text": "ashishdeora123\nJodhpur, India386 contributions\n0\nnice\nJan 2020\nnice place you will find cheap price for beer staff is nice and friendly a nice atmosphere is here..\nReview collected in partnership with this restaurant \nWritten March 12, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:52:55.073519",
+            "restaurant_id": "5892093",
+            "restaurant_name": "Local Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 104
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767028,
+                "longitude": 106.693184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 851 70 07",
+            "review_id": "REV_5892093_p1_1",
+            "reviewer_id": "User_5892093_1_1",
+            "review_title": "Review at Local Bar",
+            "review_text": "lobstermadboy\nPlymouth, United Kingdom261 contributions\n0\nDoes what it says on the tin\nJul 2018 • Family\nThe same drinks and cocktails as everywhere else on the strip but it just so happens that their DJ's choice of music fitted our peculiarly British sensibilities, so we stayed a bit too long, drank a bit too much and we had a couple too many gas and air balloons. Therefore we rate it more highly than other extremely loud bars on Walking street. Great place to people watch if you have the spare spondoolies.\nRead more\nWritten July 30, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:52:55.092844",
+            "restaurant_id": "5892093",
+            "restaurant_name": "Local Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 104
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767028,
+                "longitude": 106.693184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 851 70 07",
+            "review_id": "REV_5892093_p1_2",
+            "reviewer_id": "User_5892093_1_2",
+            "review_title": "Review at Local Bar",
+            "review_text": "RovingMe\nQueenborough, United Kingdom156 contributions\n1\nFirst Meal\nJun 2017 • Couples\nthis was a first experience of a seven corse vietnese dinner and I have to say it was very nice with a cool beer to accompany. I would be happy to eat here again good food and clean, friendly staff.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten June 30, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:52:55.096873",
+            "restaurant_id": "5892093",
+            "restaurant_name": "Local Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 104
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767028,
+                "longitude": 106.693184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 851 70 07",
+            "review_id": "REV_5892093_p1_3",
+            "reviewer_id": "User_5892093_1_3",
+            "review_title": "Review at Local Bar",
+            "review_text": "madmac68\nMelbourne, Australia286 contributions\n0\nGreat Food!!\nApr 2017 • Couples\nThis is a great place to have a cheap feed and beer and watch the world go by. Very friendly staff and a great atmosphere.\nValue\nService\nFood\nWritten April 18, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:52:55.120239",
+            "restaurant_id": "5892093",
+            "restaurant_name": "Local Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 104
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767028,
+                "longitude": 106.693184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 851 70 07",
+            "review_id": "REV_5892093_p1_4",
+            "reviewer_id": "User_5892093_1_4",
+            "review_title": "Review at Local Bar",
+            "review_text": "BrianMeit\nLos Montesinos, Spain460 contributions\n0\nNice place\nMar 2017 • Solo\nI had the clams with lemongrass very nice but it was the fish sauce that made them special. Friendly helpful service. I'd go back.\nWritten March 5, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:52:55.133319",
+            "restaurant_id": "5892093",
+            "restaurant_name": "Local Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 104
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767028,
+                "longitude": 106.693184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 851 70 07",
+            "review_id": "REV_5892093_p1_5",
+            "reviewer_id": "User_5892093_1_5",
+            "review_title": "Review at Local Bar",
+            "review_text": "Jody\nEmpire Bay, Australia147 contributions\n0\nNot for western breakfast\nFeb 2017\nThe local Vietnamese cuisine looks fine but the western breakfast was pretty expensive and not very nice. Old tomatoes. Strange bacon and funky mushrooms. Good poached eggs though.\nStick with the Vietnamese food, even for brekky.\nWritten February 26, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:52:55.145727",
+            "restaurant_id": "5892093",
+            "restaurant_name": "Local Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 104
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767028,
+                "longitude": 106.693184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 851 70 07",
+            "review_id": "REV_5892093_p1_6",
+            "reviewer_id": "User_5892093_1_6",
+            "review_title": "Review at Local Bar",
+            "review_text": "Alphadog A\nSingapore, Singapore73 contributions\n0\nGood\nFeb 2017\nWent there for a dinner had a beef noodle soup. It is tasty and price is cheap especially for a beer.\nReview collected in partnership with this restaurant \nWritten February 17, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:52:55.163634",
+            "restaurant_id": "5892093",
+            "restaurant_name": "Local Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 104
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767028,
+                "longitude": 106.693184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 851 70 07",
+            "review_id": "REV_5892093_p1_7",
+            "reviewer_id": "User_5892093_1_7",
+            "review_title": "Review at Local Bar",
+            "review_text": "Bryan H\nPortland, Oregon1646 contributions\n0\nSaved us in our time of need ...\nFeb 2017 • Couples\nAfter a bus ride from hell all the way from Kampot, Cambodia, we arrived at our guesthouse exhausted and starved. We ventured out on to street where this restaurant is found ... overwhelmed by the scene, and just wanting some decent food. One of us is a vegetarian, (me) and I ordered the fried tofu with rice, and while it was spicy, it was tasty given we were in backpacker row. The fish and chips were less satisfying, but still did the trick. Most importantly, we loved the service! In a city with so many excellent restaurants, I doubt we'll return, but they helped us out when we needed a quick, no-nonsense meal. Thank you!\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten February 6, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:52:55.174771",
+            "restaurant_id": "5892093",
+            "restaurant_name": "Local Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 104
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767028,
+                "longitude": 106.693184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 851 70 07",
+            "review_id": "REV_5892093_p1_8",
+            "reviewer_id": "User_5892093_1_8",
+            "review_title": "Review at Local Bar",
+            "review_text": "Kim O\nExeter, United Kingdom9 contributions\n0\nBreakfast\nJan 2017 • Friends\nBest poached eggs I've had in Asia and the waitress was really lovely and efficient. Had an apple juice too and it came with a heart shaped apple slice, it's the little things!\nWritten January 29, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:52:55.186313",
+            "restaurant_id": "5892093",
+            "restaurant_name": "Local Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 104
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767028,
+                "longitude": 106.693184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 851 70 07",
+            "review_id": "REV_5892093_p1_9",
+            "reviewer_id": "User_5892093_1_9",
+            "review_title": "Review at Local Bar",
+            "review_text": "Tom S\nGlasgow, United Kingdom139 contributions\n0\nVietnam Tour 2017\nJan 2017 • Friends\nVisited this restaurant with a group of friends on a night out. We all ordered local dishes which probably would have been quite tasty if they hadn't all been either luke warm or cold. It's in a good position and the street is lively enough just not sure if it warrants a second visit with so many other restaurants around.\nWritten January 18, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:52:55.204422",
+            "restaurant_id": "5892093",
+            "restaurant_name": "Local Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 104
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767028,
+                "longitude": 106.693184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 851 70 07",
+            "review_id": "REV_5892093_p1_10",
+            "reviewer_id": "User_5892093_1_10",
+            "review_title": "Review at Local Bar",
+            "review_text": "Cambodia Nomad Tips\nPhnom Penh, Cambodia589 contributions\n0\nDelicious veggie food\nDec 2016 • Couples\nReally enjoyed my meal at this wonderful restaurant. The soy was tasty and the view from the 1st floor was awesome. Will be back next time for sure.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten January 1, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:52:55.216520",
+            "restaurant_id": "5892093",
+            "restaurant_name": "Local Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 104
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767028,
+                "longitude": 106.693184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 851 70 07",
+            "review_id": "REV_5892093_p1_11",
+            "reviewer_id": "User_5892093_1_11",
+            "review_title": "Review at Local Bar",
+            "review_text": "Dotky\n45 contributions\n0\nDelicious beef noodle soup\nDec 2016 • Couples\nU know u ain't too far away from delicious local food when u c the locals patronising it right? Had the beef noodle soup n fried pumpkin flowers w minced meat and both are yummy!\nWritten December 10, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:52:55.228611",
+            "restaurant_id": "5892093",
+            "restaurant_name": "Local Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 104
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767028,
+                "longitude": 106.693184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 851 70 07",
+            "review_id": "REV_5892093_p1_12",
+            "reviewer_id": "User_5892093_1_12",
+            "review_title": "Review at Local Bar",
+            "review_text": "Ana B\n35 contributions\n0\nFinally a queek service\nNov 2016 • Friends\nExcellent vietnamese food and good western style food. Queek and efficient service that is quite rare in Saigon\nWritten November 16, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:52:55.244389",
+            "restaurant_id": "5892093",
+            "restaurant_name": "Local Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 104
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767028,
+                "longitude": 106.693184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 851 70 07",
+            "review_id": "REV_5892093_p1_13",
+            "reviewer_id": "User_5892093_1_13",
+            "review_title": "Review at Local Bar",
+            "review_text": "Tom M\n33 contributions\n0\nNice food and good street atmosphere.\nNov 2016 • Couples\nThey do really nice local food for a fair price. Staff are good and quick provide a quick service! \n\nCan get a little on top of each other when busy, the only reason it's not a 5 rating!\nWritten November 13, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:52:55.279142",
+            "restaurant_id": "5892093",
+            "restaurant_name": "Local Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d5892093-Reviews-Local_Bar-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 104
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767028,
+                "longitude": 106.693184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:30:00",
+                    "closes": "03:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 851 70 07",
+            "review_id": "REV_5892093_p1_14",
+            "reviewer_id": "User_5892093_1_14",
+            "review_title": "Review at Local Bar",
+            "review_text": "Caren B\nMiddelburg, The Netherlands11 contributions\n0\nWonderful food\nOct 2016 • Friends\nWe came back for the fantastic food they serve. Have a soup with squid and srimps. Enjoy some spring rolls. Special pancakes with shrimp and vegetabels. Don't forget to taste some vietnamese rum for desert. Not to mention the coffee.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten November 9, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

@@ -1,0 +1,1675 @@
+{
+    "restaurant_id": "10388545",
+    "restaurant_name": "Food Connexion",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.6,
+            "reviewCount": 144
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.764141,
+            "longitude": 106.69181
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "06:00:00",
+                "closes": "11:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "18:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "06:00:00",
+                "closes": "10:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "06:00:00",
+                "closes": "10:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "06:00:00",
+                "closes": "10:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "06:00:00",
+                "closes": "10:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "06:00:00",
+                "closes": "10:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "18:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "06:00:00",
+                "closes": "11:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "18:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "$$$$",
+        "servesCuisine": [
+            "Seafood",
+            "International",
+            "Asian"
+        ],
+        "telephone": "+84 28 3838 8686"
+    },
+    "reviews_count": 15,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:45:07.266522",
+            "restaurant_id": "10388545",
+            "restaurant_name": "Food Connexion",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764141,
+                "longitude": 106.69181
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Seafood",
+                "International",
+                "Asian"
+            ],
+            "telephone": "+84 28 3838 8686",
+            "review_id": "REV_10388545_p1_0",
+            "reviewer_id": "User_10388545_1_0",
+            "review_title": "Review at Food Connexion",
+            "review_text": "GrandTour60156402543\n1 contribution\n0\nThe best dinner buffet in Ho Chi Minh City\nOct 2025 • Couples\nMy wife and I had the MOST EXCELLENT dinner this evening at this restaurant in Pullman Saigon Centre - Food Connexion - and it was a Vietnamese and Western seafood-centric dinner buffet. When we walked into the restaurant, we were very impressed by the various food stations' display - they looked positively inviting and yummy (see the photos herein). Everything seemed and was fresh - freshly prepared and perfectly prepared. And the service here was simply OUTSTANDING - especially from the following ladies: Xuan, Vi, Tram and Anh, who very friendly, courteous, attentive and helpful. The dining ambience here was also very, very good. The dining spaces were ample and super comfortable. And apart from the buffet selections, the ala carte selections that came with the dinner buffet package were fantastic - my wife and I especially love the Lobster Thermidor. However, this dinner buffet is (according to the restaurant) available only from Friday to Sunday. So, if you are looking for a MOST EXCELLENT dinner buffet, I highly recommend Food Connexion at Pullman Saigon Centre.\nRead more\nWritten October 25, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:45:07.277114",
+            "restaurant_id": "10388545",
+            "restaurant_name": "Food Connexion",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764141,
+                "longitude": 106.69181
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Seafood",
+                "International",
+                "Asian"
+            ],
+            "telephone": "+84 28 3838 8686",
+            "review_id": "REV_10388545_p1_1",
+            "reviewer_id": "User_10388545_1_1",
+            "review_title": "Review at Food Connexion",
+            "review_text": "Lisa A\nMoonee Beach, Australia50 contributions\n0\nCouples retreat in Ho Chi Minh City at The Pullman Saigon.\nSep 2023 • Couples\nGreat friendly staff. We did breakfast every morning. Variety of good food. Try the local coffee. Loved the fruit yoghurt.\nWritten January 31, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:45:07.296248",
+            "restaurant_id": "10388545",
+            "restaurant_name": "Food Connexion",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764141,
+                "longitude": 106.69181
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Seafood",
+                "International",
+                "Asian"
+            ],
+            "telephone": "+84 28 3838 8686",
+            "review_id": "REV_10388545_p1_2",
+            "reviewer_id": "User_10388545_1_2",
+            "review_title": "Review at Food Connexion",
+            "review_text": "Go08025134601\n1 contribution\n0\nGood food, even better service\nJan 2024 • Solo\nGreat breakfast and Khang who attended was simply fantastic.Recommened nearby places to visit & eat!\nValue\nService\nFood\nAtmosphere\nWritten January 7, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:45:07.318755",
+            "restaurant_id": "10388545",
+            "restaurant_name": "Food Connexion",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764141,
+                "longitude": 106.69181
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Seafood",
+                "International",
+                "Asian"
+            ],
+            "telephone": "+84 28 3838 8686",
+            "review_id": "REV_10388545_p1_3",
+            "reviewer_id": "User_10388545_1_3",
+            "review_title": "Review at Food Connexion",
+            "review_text": "Abbie\nSydney, Australia11 contributions\n0\nGreat Service & Excellent Food\nJan 2024 • Friends\nGreat breakfast, with a big selection of foods and extremely friendly staff.\nKhang in particular offered some great tips for seeing the local sights and suggesting foods to try, was a pleasure chatting with him.\nValue\nService\nFood\nAtmosphere\nWritten January 3, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:45:07.348268",
+            "restaurant_id": "10388545",
+            "restaurant_name": "Food Connexion",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764141,
+                "longitude": 106.69181
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Seafood",
+                "International",
+                "Asian"
+            ],
+            "telephone": "+84 28 3838 8686",
+            "review_id": "REV_10388545_p1_4",
+            "reviewer_id": "User_10388545_1_4",
+            "review_title": "Review at Food Connexion",
+            "review_text": "Passport31336659014\n1 contribution\n0\nExcellent breakfast.\nDec 2023 • Family\nWe stayed at the Pullman Hotel and had Breakfast at this restaurant. Very good food and polite and friendly staff\nThere was a wide variety of selection for breakfast. Despite the place being busy over the new year the staff were very efficient. The lady at the front desk Ha, Khang was very helpful and polite. Can't fault the Hotel and the Restaurant in anyway. Will definitely be coming back here again.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten January 2, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:45:07.387442",
+            "restaurant_id": "10388545",
+            "restaurant_name": "Food Connexion",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764141,
+                "longitude": 106.69181
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Seafood",
+                "International",
+                "Asian"
+            ],
+            "telephone": "+84 28 3838 8686",
+            "review_id": "REV_10388545_p1_5",
+            "reviewer_id": "User_10388545_1_5",
+            "review_title": "Review at Food Connexion",
+            "review_text": "Voyage660694\nBangkok, Thailand60 contributions\n0\nGood local and western selection with a great flavor\nDec 2023 • Family\nBravo\nWe were invited because we mentioned to our friends that the service and breakfast at the hotel was excellent. I rather a la carte in general instead of buffet but the selection of local, Asian and a twist of Europe was great and matter of fact, we learn a lot from the flavors.Good vice, very buzzing place, look popular and for sure a plas to our visit. \nWell Done to the chef.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten December 30, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:45:07.402579",
+            "restaurant_id": "10388545",
+            "restaurant_name": "Food Connexion",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764141,
+                "longitude": 106.69181
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Seafood",
+                "International",
+                "Asian"
+            ],
+            "telephone": "+84 28 3838 8686",
+            "review_id": "REV_10388545_p1_6",
+            "reviewer_id": "User_10388545_1_6",
+            "review_title": "Review at Food Connexion",
+            "review_text": "Mandeep S\n1 contribution\n0\nKhan G, Ha\nDec 2023 • Family\nKhan G, Ha was a great help and made the best coffee. We enjoyed the stay at the hotel too. The brunch was really nice.\nWritten December 30, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:45:07.415464",
+            "restaurant_id": "10388545",
+            "restaurant_name": "Food Connexion",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764141,
+                "longitude": 106.69181
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Seafood",
+                "International",
+                "Asian"
+            ],
+            "telephone": "+84 28 3838 8686",
+            "review_id": "REV_10388545_p1_7",
+            "reviewer_id": "User_10388545_1_7",
+            "review_title": "Review at Food Connexion",
+            "review_text": "Sightseer30819860578\n1 contribution\n0\nSeafood night\nNov 2023 • Couples\nWe were lucky enough to have a great time at the seafood night.\nIncredible choice and fresh produce, a delight and an incredible atmosphere.\nImpeccable service and attentive staff.\nTop restaurant in Saigon.\nI recommend.\nShow original\nWritten December 28, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:45:07.433145",
+            "restaurant_id": "10388545",
+            "restaurant_name": "Food Connexion",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764141,
+                "longitude": 106.69181
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Seafood",
+                "International",
+                "Asian"
+            ],
+            "telephone": "+84 28 3838 8686",
+            "review_id": "REV_10388545_p1_8",
+            "reviewer_id": "User_10388545_1_8",
+            "review_title": "Review at Food Connexion",
+            "review_text": "Sakorn C\n7 contributions\n0\nGood food great service\nDec 2023 • Family\nWe were at food connection for our family vacation in ho chi Minh.\n\nIt was the most wonderful restaurant in our 10 days trip.\n\nThere were lot of selection of seafood with freshness, excellent presentation and excellent service. \n\nWe enjoyed our moment here. \nWhat is a good value of money!\nWe recommended.👍\nRead more\nValue\nService\nFood\nAtmosphere\nWritten December 26, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:45:07.454924",
+            "restaurant_id": "10388545",
+            "restaurant_name": "Food Connexion",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764141,
+                "longitude": 106.69181
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Seafood",
+                "International",
+                "Asian"
+            ],
+            "telephone": "+84 28 3838 8686",
+            "review_id": "REV_10388545_p1_9",
+            "reviewer_id": "User_10388545_1_9",
+            "review_title": "Review at Food Connexion",
+            "review_text": "Quest31124471881\n1 contribution\n0\nreally liked the service staff\nDec 2023 • Family\nThe staff is very friendly and loves children. The food is delicious and delicious. Many dishes are refilled quickly. The space is clean.\nValue\nService\nFood\nAtmosphere\nShow original\nWritten December 26, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:45:07.458022",
+            "restaurant_id": "10388545",
+            "restaurant_name": "Food Connexion",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764141,
+                "longitude": 106.69181
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Seafood",
+                "International",
+                "Asian"
+            ],
+            "telephone": "+84 28 3838 8686",
+            "review_id": "REV_10388545_p1_10",
+            "reviewer_id": "User_10388545_1_10",
+            "review_title": "Review at Food Connexion",
+            "review_text": "Sally W\nNunawading, Australia5 contributions\n0\nGreat place for breakfast\nDec 2023 • Family\nAn amazing breakfast buffet with very friendly staff. Big shout out to Khang who took extra special care of us during our meals and introduced us to new food. He also had some great tips on what to see and do around Ho Chi Minh.\nWritten December 26, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:45:07.480609",
+            "restaurant_id": "10388545",
+            "restaurant_name": "Food Connexion",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764141,
+                "longitude": 106.69181
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Seafood",
+                "International",
+                "Asian"
+            ],
+            "telephone": "+84 28 3838 8686",
+            "review_id": "REV_10388545_p1_11",
+            "reviewer_id": "User_10388545_1_11",
+            "review_title": "Review at Food Connexion",
+            "review_text": "Road11175823444\nHo Chi Minh City, Vietnam2 contributions\n0\nGreat services\nDec 2023 • Family\nAs an accountant, I really appreciate their great control and security system. If safety is your concern. Please choose this hotel . And thank go to the staff, Ms Ha, even provide my visiting guest a great morning free breakfast. Thank you very much.\nWritten December 26, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:45:07.498254",
+            "restaurant_id": "10388545",
+            "restaurant_name": "Food Connexion",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764141,
+                "longitude": 106.69181
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Seafood",
+                "International",
+                "Asian"
+            ],
+            "telephone": "+84 28 3838 8686",
+            "review_id": "REV_10388545_p1_12",
+            "reviewer_id": "User_10388545_1_12",
+            "review_title": "Review at Food Connexion",
+            "review_text": "Sightsee44655000978\n1 contribution\n0\nChristmas buffet dinner\nDec 2023 • Family\nExcellent Christmas buffet with tons of options for savory, sweet and meat. Entertainment for the kids included. Lovely, friendly environment. Perfect way to end the year!\nValue\nService\nFood\nAtmosphere\nWritten December 25, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:45:07.515354",
+            "restaurant_id": "10388545",
+            "restaurant_name": "Food Connexion",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764141,
+                "longitude": 106.69181
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Seafood",
+                "International",
+                "Asian"
+            ],
+            "telephone": "+84 28 3838 8686",
+            "review_id": "REV_10388545_p1_13",
+            "reviewer_id": "User_10388545_1_13",
+            "review_title": "Review at Food Connexion",
+            "review_text": "Sherpa09051035725\n1 contribution\n0\nNice place for family\nDec 2023 • Family\nMy first time at Pullman for a short stay vacation for Christmas. I didn’t expect much for a breakfast but Food Connection made me a Wow…nice view…nice food…nice staff especially Ms Lan Anh…she did a great job after all….\nValue\nService\nFood\nAtmosphere\nWritten December 24, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:45:07.530291",
+            "restaurant_id": "10388545",
+            "restaurant_name": "Food Connexion",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10388545-Reviews-Food_Connexion-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764141,
+                "longitude": 106.69181
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "11:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Seafood",
+                "International",
+                "Asian"
+            ],
+            "telephone": "+84 28 3838 8686",
+            "review_id": "REV_10388545_p1_14",
+            "reviewer_id": "User_10388545_1_14",
+            "review_title": "Review at Food Connexion",
+            "review_text": "Mobile28939092652\n1 contribution\n1\nVery pleased\nDec 2023 • Family\nI am very satisfied with the attitude of the service staff at the restaurant, very friendly and enthusiastic. I have a young child and the hyperactive child broke the glass. You guys were very understanding and enthusiastic in helping clean up. I would like to thank you: Khang, Ha, Mr. Lam, Phuong Anh. Hope your company will give you compliments.\nRead more\nShow original\nWritten December 24, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

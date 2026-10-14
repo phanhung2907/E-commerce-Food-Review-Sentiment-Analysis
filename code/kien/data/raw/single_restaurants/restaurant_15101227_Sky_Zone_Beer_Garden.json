@@ -1,0 +1,939 @@
+{
+    "restaurant_id": "15101227",
+    "restaurant_name": "Sky Zone Beer Garden",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15101227-Reviews-Sky_Zone_Beer_Garden-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15101227-Reviews-Sky_Zone_Beer_Garden-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 3.2,
+            "reviewCount": 10
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.783375,
+            "longitude": 106.69652
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/a2/4a/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "16:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:30:00",
+                "closes": "13:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "16:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:30:00",
+                "closes": "13:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "16:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:30:00",
+                "closes": "13:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "16:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:30:00",
+                "closes": "13:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "16:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:30:00",
+                "closes": "13:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "16:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "16:00:00",
+                "closes": "23:45:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Brew Pub",
+            "Deli",
+            "Pub",
+            "Vietnamese"
+        ],
+        "telephone": "+84 96 700 91 98"
+    },
+    "reviews_count": 7,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T23:31:53.753696",
+            "restaurant_id": "15101227",
+            "restaurant_name": "Sky Zone Beer Garden",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15101227-Reviews-Sky_Zone_Beer_Garden-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15101227-Reviews-Sky_Zone_Beer_Garden-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.2,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.783375,
+                "longitude": 106.69652
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/a2/4a/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Deli",
+                "Pub",
+                "Vietnamese"
+            ],
+            "telephone": "+84 96 700 91 98",
+            "review_id": "REV_15101227_p1_0",
+            "reviewer_id": "User_15101227_1_0",
+            "review_title": "Review at Sky Zone Beer Garden",
+            "review_text": "TP\nGreater Hobart, Australia55 contributions\n0\nAvoid at all costs !\nApr 2026 • Couples\nDodgy city! Do yourself a favour and skip it! The burgers were completely raw and couldn’t be eaten. We waited an hour for them and the place was not even a quarter full\nThe drinks were not drinkable. Felt like we were being served by the mafia. He was rude and bully like\nMost expensive meal we’ve had in a month and we did it even eat it! Awful experience\nRead more\nValue\nService\nFood\nAtmosphere\nWritten April 28, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T23:31:53.775011",
+            "restaurant_id": "15101227",
+            "restaurant_name": "Sky Zone Beer Garden",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15101227-Reviews-Sky_Zone_Beer_Garden-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15101227-Reviews-Sky_Zone_Beer_Garden-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.2,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.783375,
+                "longitude": 106.69652
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/a2/4a/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Deli",
+                "Pub",
+                "Vietnamese"
+            ],
+            "telephone": "+84 96 700 91 98",
+            "review_id": "REV_15101227_p1_1",
+            "reviewer_id": "User_15101227_1_1",
+            "review_title": "Review at Sky Zone Beer Garden",
+            "review_text": "mion369\nGrobbendonk, Belgium865 contributions\n0\nThere are better addresses\nApr 2025 • Couples\nTo escape the heat we went to the rooftop cafe. Uncomfortably furnished with long tables, waiting for a crowd of eaters. Disinterested service, long couches to sit...The beer was cold and the view reasonable.\nValue\nService\nFood\nAtmosphere\nTranslated from Dutch\nShow original\nWritten April 9, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T23:31:53.788471",
+            "restaurant_id": "15101227",
+            "restaurant_name": "Sky Zone Beer Garden",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15101227-Reviews-Sky_Zone_Beer_Garden-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15101227-Reviews-Sky_Zone_Beer_Garden-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.2,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.783375,
+                "longitude": 106.69652
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/a2/4a/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Deli",
+                "Pub",
+                "Vietnamese"
+            ],
+            "telephone": "+84 96 700 91 98",
+            "review_id": "REV_15101227_p1_2",
+            "reviewer_id": "User_15101227_1_2",
+            "review_title": "Review at Sky Zone Beer Garden",
+            "review_text": "Lindsay C\n2 contributions\n0\nOver priced service charge 23%\nNov 2024 • Couples\nFood average. When we received our bill there was a 23% service charge. Each element drinks- food all had separate service charge. Not explained. Over priced view\nWritten December 1, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T23:31:53.801374",
+            "restaurant_id": "15101227",
+            "restaurant_name": "Sky Zone Beer Garden",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15101227-Reviews-Sky_Zone_Beer_Garden-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15101227-Reviews-Sky_Zone_Beer_Garden-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.2,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.783375,
+                "longitude": 106.69652
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/a2/4a/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Deli",
+                "Pub",
+                "Vietnamese"
+            ],
+            "telephone": "+84 96 700 91 98",
+            "review_id": "REV_15101227_p1_3",
+            "reviewer_id": "User_15101227_1_3",
+            "review_title": "Review at Sky Zone Beer Garden",
+            "review_text": "Daydream14723197664\n1 contribution\n0\nBad service\nJan 2024 • Friends\n- My friends and I went to the restaurant's address at: 8th Floor, Master Building, 43 Tran Cao Van, Ward 6, District 3, Ho Chi Minh City: personal experience is that the service after coming to the restaurant is very good. Too bad, we won't come back next time.\n- First: Tax calculation is calculated twice on the customer's payment bill. I saw this after asking the shop to issue an invoice\n- Second: When the shop provides information for customers to transfer money, they do not provide business account information but provide personal information.\n- Second: The shop issued invoices to the wrong address of the customer. Even though I provided my address information, the shop still issued invoices with incorrect information. After that, I responded and asked the shop to resolve the issue. but the shop was silent.\nRead more\nShow original\nWritten February 6, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T23:31:53.817713",
+            "restaurant_id": "15101227",
+            "restaurant_name": "Sky Zone Beer Garden",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15101227-Reviews-Sky_Zone_Beer_Garden-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15101227-Reviews-Sky_Zone_Beer_Garden-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.2,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.783375,
+                "longitude": 106.69652
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/a2/4a/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Deli",
+                "Pub",
+                "Vietnamese"
+            ],
+            "telephone": "+84 96 700 91 98",
+            "review_id": "REV_15101227_p1_4",
+            "reviewer_id": "User_15101227_1_4",
+            "review_title": "Review at Sky Zone Beer Garden",
+            "review_text": "Joseph S\nHo Chi Minh City, Vietnam27 contributions\n0\nA must place to visit for beers & good food on rooftop in the heart of Ho Chi Minh City…..\nApr 2023 • Friends\nLocated in one of the best location of HCMC, rooftop overseeing the walking street, Rex Hotel and City Hall. Value for money, food is awesome with variety of beers to cool you off….a must come place, when visiting HCMc\nWritten April 16, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T23:31:53.834820",
+            "restaurant_id": "15101227",
+            "restaurant_name": "Sky Zone Beer Garden",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15101227-Reviews-Sky_Zone_Beer_Garden-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15101227-Reviews-Sky_Zone_Beer_Garden-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.2,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.783375,
+                "longitude": 106.69652
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/a2/4a/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Deli",
+                "Pub",
+                "Vietnamese"
+            ],
+            "telephone": "+84 96 700 91 98",
+            "review_id": "REV_15101227_p1_5",
+            "reviewer_id": "User_15101227_1_5",
+            "review_title": "Review at Sky Zone Beer Garden",
+            "review_text": "Travels With Titone\nNorth Attleboro, Massachusetts186 contributions\n0\nA Beer Garden on a Roof\nApr 2022\nYeah, it has lots of beer and drinks. A large TV for sports which is a plus. It's not a top of the line place, like some other rooftop bars here in Saigon. It's what you think a beer garden would be. Beer, food, sports. Decent enough if you want to be outside drinking some suds.\nValue\nService\nReview collected in partnership with this restaurant \nWritten April 20, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T23:31:53.847462",
+            "restaurant_id": "15101227",
+            "restaurant_name": "Sky Zone Beer Garden",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15101227-Reviews-Sky_Zone_Beer_Garden-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15101227-Reviews-Sky_Zone_Beer_Garden-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.2,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.783375,
+                "longitude": 106.69652
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/a2/4a/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "13:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Deli",
+                "Pub",
+                "Vietnamese"
+            ],
+            "telephone": "+84 96 700 91 98",
+            "review_id": "REV_15101227_p1_6",
+            "reviewer_id": "User_15101227_1_6",
+            "review_title": "Review at Sky Zone Beer Garden",
+            "review_text": "Jennifer C\nSydney, Australia272 contributions\n0\nA bar in the sky with views over the whole of Saigon\nNov 2018 • Friends\nWe were up in the sky all right and it was a beautiful night, which made it even more special. Wonderful range of cocktails, as well as an enormous range of international beers. Met travellers from all over the world and had a ball\nReview collected in partnership with this restaurant \nWritten December 1, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

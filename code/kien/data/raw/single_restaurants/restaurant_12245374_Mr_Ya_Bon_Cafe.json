@@ -1,0 +1,731 @@
+{
+    "restaurant_id": "12245374",
+    "restaurant_name": "Mr. Ya Bon Cafe",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12245374-Reviews-Mr_Ya_Bon_Cafe-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12245374-Reviews-Mr_Ya_Bon_Cafe-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "159 Ha Noi Highway, Thao Dien, District 2 5th Floor, Vincom Mega Mall Thao Dien",
+            "addressLocality": "Ho Chi Minh City"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.5,
+            "reviewCount": 8
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.80206,
+            "longitude": 106.73823
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/49/3d/88/photo0jpg.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "23:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "French"
+        ],
+        "telephone": "+84 94 929 89 59"
+    },
+    "reviews_count": 7,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:56:59.072065",
+            "restaurant_id": "12245374",
+            "restaurant_name": "Mr. Ya Bon Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12245374-Reviews-Mr_Ya_Bon_Cafe-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12245374-Reviews-Mr_Ya_Bon_Cafe-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "159 Ha Noi Highway, Thao Dien, District 2 5th Floor, Vincom Mega Mall Thao Dien",
+                "addressLocality": "Ho Chi Minh City"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.80206,
+                "longitude": 106.73823
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/49/3d/88/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "23:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "French"
+            ],
+            "telephone": "+84 94 929 89 59",
+            "review_id": "REV_12245374_p1_0",
+            "reviewer_id": "User_12245374_1_0",
+            "review_title": "Review at Mr. Ya Bon Cafe",
+            "review_text": "Cigaroftheday\nHo Chi Minh City, Vietnam123 contributions\n0\naverage crepe\nApr 2019 • Friends\nWell i think the subject line says it all. Not saying anyThing bad nor knocking them. Crepe is crepe, and they did a good iob, service was average, wasn’t memoriable. The afogato i order, the scoop of ice cream was very small. Coffee was ok, not spectacular. They do have an indoor sitting area where youre not out in the heat. Very clean inside.\nWritten April 25, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:56:59.085333",
+            "restaurant_id": "12245374",
+            "restaurant_name": "Mr. Ya Bon Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12245374-Reviews-Mr_Ya_Bon_Cafe-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12245374-Reviews-Mr_Ya_Bon_Cafe-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "159 Ha Noi Highway, Thao Dien, District 2 5th Floor, Vincom Mega Mall Thao Dien",
+                "addressLocality": "Ho Chi Minh City"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.80206,
+                "longitude": 106.73823
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/49/3d/88/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "23:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "French"
+            ],
+            "telephone": "+84 94 929 89 59",
+            "review_id": "REV_12245374_p1_1",
+            "reviewer_id": "User_12245374_1_1",
+            "review_title": "Review at Mr. Ya Bon Cafe",
+            "review_text": "uyenanhnguyen\nHo Chi Minh City, Vietnam20 contributions\n0\nEasily the best crepes in Saigon\nJul 2018 • Family\nI used to go to La Creperie for crepes but since they moved to another location, I thought I need to give up the love for crepes. Until I found this place...\n\nA simple crepe place run by a lovely lady, yet the crepe here is served perfectly. Batter is soft and crispy, ingredients are always fresh. Dont forget to try the sweet crepe with a scoop of salted caramel ice cream! Pure goodness!\nRead more\nWritten July 23, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:56:59.100055",
+            "restaurant_id": "12245374",
+            "restaurant_name": "Mr. Ya Bon Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12245374-Reviews-Mr_Ya_Bon_Cafe-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12245374-Reviews-Mr_Ya_Bon_Cafe-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "159 Ha Noi Highway, Thao Dien, District 2 5th Floor, Vincom Mega Mall Thao Dien",
+                "addressLocality": "Ho Chi Minh City"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.80206,
+                "longitude": 106.73823
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/49/3d/88/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "23:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "French"
+            ],
+            "telephone": "+84 94 929 89 59",
+            "review_id": "REV_12245374_p1_2",
+            "reviewer_id": "User_12245374_1_2",
+            "review_title": "Review at Mr. Ya Bon Cafe",
+            "review_text": "Nhi L\n4 contributions\n0\nBest place for crepes\nApr 2018 • Couples\nThis is absolutely the best place for crepes in HCMC for me. Genuine French style. High quality for every single time I visit (yes, I'm a loyal customer here, visiting at least twice a month). Highly recommend Caramel Salted Butter Crepe and Shrimp Salad. The owner is really friendly and cares much about customer satisfaction.\nWritten April 10, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:56:59.116099",
+            "restaurant_id": "12245374",
+            "restaurant_name": "Mr. Ya Bon Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12245374-Reviews-Mr_Ya_Bon_Cafe-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12245374-Reviews-Mr_Ya_Bon_Cafe-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "159 Ha Noi Highway, Thao Dien, District 2 5th Floor, Vincom Mega Mall Thao Dien",
+                "addressLocality": "Ho Chi Minh City"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.80206,
+                "longitude": 106.73823
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/49/3d/88/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "23:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "French"
+            ],
+            "telephone": "+84 94 929 89 59",
+            "review_id": "REV_12245374_p1_3",
+            "reviewer_id": "User_12245374_1_3",
+            "review_title": "Review at Mr. Ya Bon Cafe",
+            "review_text": "Julien LD\nLyon, France8 contributions\n0\nNice lunch time\nApr 2018 • Family\nNice crepe, happy to have this in Thao Dien.\nGood staff, owner welcome us like a VIP.\nThanks a lot we will come back...\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten April 9, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:56:59.130934",
+            "restaurant_id": "12245374",
+            "restaurant_name": "Mr. Ya Bon Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12245374-Reviews-Mr_Ya_Bon_Cafe-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12245374-Reviews-Mr_Ya_Bon_Cafe-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "159 Ha Noi Highway, Thao Dien, District 2 5th Floor, Vincom Mega Mall Thao Dien",
+                "addressLocality": "Ho Chi Minh City"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.80206,
+                "longitude": 106.73823
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/49/3d/88/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "23:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "French"
+            ],
+            "telephone": "+84 94 929 89 59",
+            "review_id": "REV_12245374_p1_4",
+            "reviewer_id": "User_12245374_1_4",
+            "review_title": "Review at Mr. Ya Bon Cafe",
+            "review_text": "DirtyPierreOnTour\nHo Chi Minh City, Vietnam12577 contributions\n0\nTook a Canadian friend to Thao Diem and needed lunch.\nMar 2018 • Friends\nWas showing my Canadian friend the French supermarket in Thao Diem in D2 and needed a quick place for lunch. On my last visit I only ate downstairs but this time we went upstairs and what a great find. They have both an open air area or an enclosed aircon area. Being expat fatties we chose the aircon. They have a lunchtime menu with specials for 159k which includes a main course, dessert and a drink.\nI chose a smoked salmon salad and my friend chose spaghetti Bolognese. We both had crepes for dessert.\nGood value lunch in pleasant surroundings.\nTasty food served by friendly staff.\nI can certainly recommend this place for lunch either alone or with friends.\nRead more\nReview collected in partnership with this restaurant \nWritten March 2, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:56:59.134662",
+            "restaurant_id": "12245374",
+            "restaurant_name": "Mr. Ya Bon Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12245374-Reviews-Mr_Ya_Bon_Cafe-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12245374-Reviews-Mr_Ya_Bon_Cafe-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "159 Ha Noi Highway, Thao Dien, District 2 5th Floor, Vincom Mega Mall Thao Dien",
+                "addressLocality": "Ho Chi Minh City"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.80206,
+                "longitude": 106.73823
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/49/3d/88/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "23:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "French"
+            ],
+            "telephone": "+84 94 929 89 59",
+            "review_id": "REV_12245374_p1_5",
+            "reviewer_id": "User_12245374_1_5",
+            "review_title": "Review at Mr. Ya Bon Cafe",
+            "review_text": "Shonagh1\nHo Chi Minh City, Vietnam17 contributions\n0\nPassed many times but just made time to visit this little gem.\nFeb 2018 • Friends\nLovely rustic cafe with fabulous waffles also. Worth a visit. \nServed by Hoa, who is extremely friendly and willing to provide bespoke creations to order. \nWill return.\nWritten February 27, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:56:59.154676",
+            "restaurant_id": "12245374",
+            "restaurant_name": "Mr. Ya Bon Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12245374-Reviews-Mr_Ya_Bon_Cafe-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12245374-Reviews-Mr_Ya_Bon_Cafe-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "159 Ha Noi Highway, Thao Dien, District 2 5th Floor, Vincom Mega Mall Thao Dien",
+                "addressLocality": "Ho Chi Minh City"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.80206,
+                "longitude": 106.73823
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/49/3d/88/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "23:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "French"
+            ],
+            "telephone": "+84 94 929 89 59",
+            "review_id": "REV_12245374_p1_6",
+            "reviewer_id": "User_12245374_1_6",
+            "review_title": "Review at Mr. Ya Bon Cafe",
+            "review_text": "Mac M\n52 contributions\n0\nVery good French crepes\nApr 2017\nSimple menu, great food and value. \nFor all the nostalgic French expats or crepe lovers.\nFamily, friends, lovers, it's suits all\nWritten April 30, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

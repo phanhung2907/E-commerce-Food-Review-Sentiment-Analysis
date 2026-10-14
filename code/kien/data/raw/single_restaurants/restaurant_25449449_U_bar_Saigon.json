@@ -1,10 +1,10 @@
 {
     "restaurant_id": "25449449",
     "restaurant_name": "U bar Saigon",
-    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25449449-Reviews-U_bar_Saigon-Ho_Chi_Minh_City.html",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25449449-Reviews-U_bar_Saigon-Ho_Chi_Minh_City.html#REVIEWS",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25449449-Reviews-U_bar_Saigon-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25449449-Reviews-U_bar_Saigon-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -78,12 +78,12 @@
     "reviews": [
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-11T00:05:18.043434",
+            "crawl_timestamp": "2026-10-14T06:49:53.237493",
             "restaurant_id": "25449449",
             "restaurant_name": "U bar Saigon",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25449449-Reviews-U_bar_Saigon-Ho_Chi_Minh_City.html",
-            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25449449-Reviews-U_bar_Saigon-Ho_Chi_Minh_City.html",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25449449-Reviews-U_bar_Saigon-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25449449-Reviews-U_bar_Saigon-Ho_Chi_Minh_City.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -153,11 +153,11 @@
             ],
             "telephone": "+84 768 950 950",
             "review_id": "REV_25449449_p1_0",
-            "reviewer_id": "User_p1_0",
+            "reviewer_id": "User_25449449_1_0",
             "review_title": "Review at U bar Saigon",
             "review_text": "Toby B\n30 contributions\n0\nMust visit highend bar!\nJan 2024 • Friends\nThe drinks are artwork! Very awesome, tranquil highend environment with perfectly thought trough design. Top notch. Very nice staff.\nWritten January 8, 2024",
             "rating": 5.0,
-            "review_date": "2026-10-11",
+            "review_date": "2026-10-14",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

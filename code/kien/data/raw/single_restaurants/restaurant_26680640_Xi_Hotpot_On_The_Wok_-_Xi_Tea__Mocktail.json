@@ -1,0 +1,523 @@
+{
+    "restaurant_id": "26680640",
+    "restaurant_name": "Xi Hotpot On The Wok - Xi Tea & Mocktail",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26680640-Reviews-Xi_Hotpot_On_The_Wok_Xi_Tea_Mocktail-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26680640-Reviews-Xi_Hotpot_On_The_Wok_Xi_Tea_Mocktail-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.8,
+            "reviewCount": 6
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.695153,
+            "longitude": 106.70464
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/6d/05/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Asian",
+            "Deli",
+            "Taiwanese",
+            "Indigenous"
+        ],
+        "telephone": "+84 79 868 2727"
+    },
+    "reviews_count": 5,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T05:03:20.704128",
+            "restaurant_id": "26680640",
+            "restaurant_name": "Xi Hotpot On The Wok - Xi Tea & Mocktail",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26680640-Reviews-Xi_Hotpot_On_The_Wok_Xi_Tea_Mocktail-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26680640-Reviews-Xi_Hotpot_On_The_Wok_Xi_Tea_Mocktail-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.695153,
+                "longitude": 106.70464
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/6d/05/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Deli",
+                "Taiwanese",
+                "Indigenous"
+            ],
+            "telephone": "+84 79 868 2727",
+            "review_id": "REV_26680640_p1_0",
+            "reviewer_id": "User_26680640_1_0",
+            "review_title": "Review at Xi Hotpot On The Wok - Xi Tea & Mocktail",
+            "review_text": "Trường L\n5 contributions\n1\nDelicious hotpot with lovely staff\nJan 2024 • Friends\nThe restaurant's space is spacious and airy. I must say the hot pot taste is very good. I like the Taiwanese sour and spicy hot pot flavor the most. The staff's attitude is enthusiastic and friendly, and all the staff are beautiful. Will visit the shop many times again 🥰🥰🥰\nShow original\nWritten January 12, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T05:03:20.717457",
+            "restaurant_id": "26680640",
+            "restaurant_name": "Xi Hotpot On The Wok - Xi Tea & Mocktail",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26680640-Reviews-Xi_Hotpot_On_The_Wok_Xi_Tea_Mocktail-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26680640-Reviews-Xi_Hotpot_On_The_Wok_Xi_Tea_Mocktail-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.695153,
+                "longitude": 106.70464
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/6d/05/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Deli",
+                "Taiwanese",
+                "Indigenous"
+            ],
+            "telephone": "+84 79 868 2727",
+            "review_id": "REV_26680640_p1_1",
+            "reviewer_id": "User_26680640_1_1",
+            "review_title": "Review at Xi Hotpot On The Wok - Xi Tea & Mocktail",
+            "review_text": "Thuy D\n3 contributions\n0\nDEFINITELY LL COME BACK\nJan 2024 • Business\nGOOD HOTPOT, VALUE FOR MONEY, DRINK IS SUPER!! quite a catch in district 1 to offer sich a great quality at such reasonable price !!! Great found today!!!\nWritten January 12, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T05:03:20.737461",
+            "restaurant_id": "26680640",
+            "restaurant_name": "Xi Hotpot On The Wok - Xi Tea & Mocktail",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26680640-Reviews-Xi_Hotpot_On_The_Wok_Xi_Tea_Mocktail-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26680640-Reviews-Xi_Hotpot_On_The_Wok_Xi_Tea_Mocktail-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.695153,
+                "longitude": 106.70464
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/6d/05/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Deli",
+                "Taiwanese",
+                "Indigenous"
+            ],
+            "telephone": "+84 79 868 2727",
+            "review_id": "REV_26680640_p1_2",
+            "reviewer_id": "User_26680640_1_2",
+            "review_title": "Review at Xi Hotpot On The Wok - Xi Tea & Mocktail",
+            "review_text": "Eugene B\n3 contributions\n0\nXI Hotpot tasting\nDec 2023 • Friends\nI'm usually not a hotpot fan, but Xi changed my mind. Their single-serving hotpots are perfect for people like me who don't like to share or someone double-dip your food. Fresh ingredients and good customer service. Defintely coming back.\nValue\nService\nFood\nAtmosphere\nWritten January 10, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T05:03:20.748909",
+            "restaurant_id": "26680640",
+            "restaurant_name": "Xi Hotpot On The Wok - Xi Tea & Mocktail",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26680640-Reviews-Xi_Hotpot_On_The_Wok_Xi_Tea_Mocktail-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26680640-Reviews-Xi_Hotpot_On_The_Wok_Xi_Tea_Mocktail-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.695153,
+                "longitude": 106.70464
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/6d/05/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Deli",
+                "Taiwanese",
+                "Indigenous"
+            ],
+            "telephone": "+84 79 868 2727",
+            "review_id": "REV_26680640_p1_3",
+            "reviewer_id": "User_26680640_1_3",
+            "review_title": "Review at Xi Hotpot On The Wok - Xi Tea & Mocktail",
+            "review_text": "Shaun P\nBangkok, Thailand117 contributions\n0\nGreat Hotpot, definitely will come back\nDec 2023 • Friends\nGreat place!! Great Taiwanese style hot pot with lots of great options. The portion was big and filling, and their selection of teas are great too. I had the beef hotpot and I really enjoyed it.\nWritten December 31, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T05:03:20.761333",
+            "restaurant_id": "26680640",
+            "restaurant_name": "Xi Hotpot On The Wok - Xi Tea & Mocktail",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26680640-Reviews-Xi_Hotpot_On_The_Wok_Xi_Tea_Mocktail-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26680640-Reviews-Xi_Hotpot_On_The_Wok_Xi_Tea_Mocktail-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.695153,
+                "longitude": 106.70464
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/6d/05/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Deli",
+                "Taiwanese",
+                "Indigenous"
+            ],
+            "telephone": "+84 79 868 2727",
+            "review_id": "REV_26680640_p1_4",
+            "reviewer_id": "User_26680640_1_4",
+            "review_title": "Review at Xi Hotpot On The Wok - Xi Tea & Mocktail",
+            "review_text": "Steven Z\nKingsford, Australia67 contributions\n0\nA unique dining experience for a well priced meal 😀\nDec 2023 • Couples\nWe were welcomed in and explained the different hot pots - food came - delicious and the waitress pointed to the right sauce to put in \nVery reasonably priced - a very good couples experience\nWritten December 23, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

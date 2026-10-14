@@ -1,10 +1,10 @@
 {
     "restaurant_id": "33421922",
     "restaurant_name": "Steak Love Diamond",
-    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33421922-Reviews-Steak_Love_Diamond-Ho_Chi_Minh_City.html#REVIEWS",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33421922-Reviews-Steak_Love_Diamond-Ho_Chi_Minh_City.html",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33421922-Reviews-Steak_Love_Diamond-Ho_Chi_Minh_City.html#REVIEWS",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33421922-Reviews-Steak_Love_Diamond-Ho_Chi_Minh_City.html",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": {
@@ -78,12 +78,12 @@
     "reviews": [
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-10T17:54:00.297367",
+            "crawl_timestamp": "2026-10-14T07:43:48.657240",
             "restaurant_id": "33421922",
             "restaurant_name": "Steak Love Diamond",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33421922-Reviews-Steak_Love_Diamond-Ho_Chi_Minh_City.html#REVIEWS",
-            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33421922-Reviews-Steak_Love_Diamond-Ho_Chi_Minh_City.html#REVIEWS",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33421922-Reviews-Steak_Love_Diamond-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33421922-Reviews-Steak_Love_Diamond-Ho_Chi_Minh_City.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": {
@@ -153,11 +153,11 @@
             "servesCuisine": "N/A",
             "telephone": "+84 1900 6403",
             "review_id": "REV_33421922_p1_0",
-            "reviewer_id": "User_p1_0",
+            "reviewer_id": "User_33421922_1_0",
             "review_title": "Review at Steak Love Diamond",
             "review_text": "Traveler05534555703\n1 contribution\n0\nSuitable for family gatherings.\nJul 2026 • Family\nPerfect for family meetings, comfortable space\nTranslated from Vietnamese\nShow original\nWritten July 18, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-10",
+            "review_date": "2026-10-14",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

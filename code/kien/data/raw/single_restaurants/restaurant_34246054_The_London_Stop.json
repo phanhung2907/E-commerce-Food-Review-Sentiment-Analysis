@@ -1,10 +1,10 @@
 {
     "restaurant_id": "34246054",
     "restaurant_name": "The London Stop",
-    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34246054-Reviews-The_London_Stop-Ho_Chi_Minh_City.html",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34246054-Reviews-The_London_Stop-Ho_Chi_Minh_City.html#REVIEWS",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34246054-Reviews-The_London_Stop-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34246054-Reviews-The_London_Stop-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": {
@@ -120,12 +120,12 @@
     "reviews": [
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-05T11:35:10.931022",
+            "crawl_timestamp": "2026-10-14T03:49:08.454758",
             "restaurant_id": "34246054",
             "restaurant_name": "The London Stop",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34246054-Reviews-The_London_Stop-Ho_Chi_Minh_City.html",
-            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,961 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34246054-Reviews-The_London_Stop-Ho_Chi_Minh_City.html",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34246054-Reviews-The_London_Stop-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34246054-Reviews-The_London_Stop-Ho_Chi_Minh_City.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": {
@@ -237,11 +237,11 @@
             "servesCuisine": "N/A",
             "telephone": "+84 90 662 20 26",
             "review_id": "REV_34246054_p1_0",
-            "reviewer_id": "User_p1_0",
+            "reviewer_id": "User_34246054_1_0",
             "review_title": "Review at The London Stop",
             "review_text": "GogoCebuCity\nHo Chi Minh City, Vietnam44 contributions\n0\nBrilliant steak and chips\nJun 2026 • Family\nMy son and I took a trip over to Global City last Saturday morning to try out the go-kart racing I had promised him. Afterwards, we decided to have lunch at the nearby London Stop restaurant and sample their steak lunch.\nIt turned out to be an excellent choice. The steak and chips, served with salad and mushrooms, were delicious and perfectly cooked, (triple cooked fries were superb) making for a lovely meal after an exciting morning on the track.\nUnfortunately, we had to rush our lunch as we had another appointment to get to, so we didn’t have as much time to relax and savour the experience as we would have liked. However, we did have the pleasure of meeting the owner, Len, who took great care of us and made us feel very welcome. We will definitely be back.\nRead more\nWritten June 8, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-05",
+            "review_date": "2026-10-14",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

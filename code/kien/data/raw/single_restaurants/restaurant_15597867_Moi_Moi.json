@@ -1,10 +1,10 @@
 {
     "restaurant_id": "15597867",
     "restaurant_name": "Moi Moi",
-    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15597867-Reviews-Moi_Moi-Ho_Chi_Minh_City.html",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15597867-Reviews-Moi_Moi-Ho_Chi_Minh_City.html#REVIEWS",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15597867-Reviews-Moi_Moi-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15597867-Reviews-Moi_Moi-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -78,12 +78,12 @@
     "reviews": [
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-10T13:11:24.587030",
+            "crawl_timestamp": "2026-10-14T07:49:06.079476",
             "restaurant_id": "15597867",
             "restaurant_name": "Moi Moi",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15597867-Reviews-Moi_Moi-Ho_Chi_Minh_City.html",
-            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15597867-Reviews-Moi_Moi-Ho_Chi_Minh_City.html",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15597867-Reviews-Moi_Moi-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15597867-Reviews-Moi_Moi-Ho_Chi_Minh_City.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -153,11 +153,11 @@
             ],
             "telephone": "+84 91 312 89 75",
             "review_id": "REV_15597867_p1_0",
-            "reviewer_id": "User_p1_0",
+            "reviewer_id": "User_15597867_1_0",
             "review_title": "Review at Moi Moi",
             "review_text": "Nan\n11 contributions\n0\nGreat discovery\nAug 2023 • Couples\nWe fell upon the restaurant and what a great find. Food was delicious, great flavours and the staff were super helpful. Highly recommend.\nWritten August 11, 2023",
             "rating": 5.0,
-            "review_date": "2026-10-10",
+            "review_date": "2026-10-14",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

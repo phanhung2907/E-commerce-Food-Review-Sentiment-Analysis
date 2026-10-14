@@ -1,0 +1,82 @@
+{
+    "restaurant_id": "14996060",
+    "restaurant_name": "Chạms - Cơm Gà Tẩm Mạch Nha",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14996060-Reviews-Ch_ms_Com_Ga_T_m_M_ch_Nha-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14996060-Reviews-Ch_ms_Com_Ga_T_m_M_ch_Nha-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 3
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.780429,
+            "longitude": 106.66496
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/a1/72/9d/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "08:30:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "08:30:00",
+                "closes": "19:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "08:30:00",
+                "closes": "19:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "08:30:00",
+                "closes": "19:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "08:30:00",
+                "closes": "19:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "08:30:00",
+                "closes": "19:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "08:30:00",
+                "closes": "17:00:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Cafe",
+            "Deli",
+            "Fusion",
+            "Vietnamese"
+        ],
+        "telephone": "+84 90 665 34 55"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

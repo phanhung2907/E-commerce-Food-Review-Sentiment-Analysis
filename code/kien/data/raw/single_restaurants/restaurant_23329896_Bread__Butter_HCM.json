@@ -1,0 +1,161 @@
+{
+    "restaurant_id": "23329896",
+    "restaurant_name": "Bread & Butter HCM",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23329896-Reviews-Bread_Butter_HCM-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23329896-Reviews-Bread_Butter_HCM-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.813247,
+            "longitude": 106.731285
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/56/84/c7/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:00:00",
+                "closes": "20:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:00:00",
+                "closes": "20:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:00:00",
+                "closes": "20:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:00:00",
+                "closes": "20:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:00:00",
+                "closes": "20:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:00:00",
+                "closes": "20:00:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Caribbean",
+            "Mediterranean",
+            "European",
+            "Deli",
+            "Cuban"
+        ],
+        "telephone": "+(84)389292724"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T23:26:10.014291",
+            "restaurant_id": "23329896",
+            "restaurant_name": "Bread & Butter HCM",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23329896-Reviews-Bread_Butter_HCM-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23329896-Reviews-Bread_Butter_HCM-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.813247,
+                "longitude": 106.731285
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/56/84/c7/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Caribbean",
+                "Mediterranean",
+                "European",
+                "Deli",
+                "Cuban"
+            ],
+            "telephone": "+(84)389292724",
+            "review_id": "REV_23329896_p1_0",
+            "reviewer_id": "User_23329896_1_0",
+            "review_title": "Review at Bread & Butter HCM",
+            "review_text": "R. K. V.\nBogota, Colombia3397 contributions\n0\ngood!\nMay 2024 • Solo\nnot bad- the pastrami sandwich was very good. The meat just a tad dry but overall very well made and very tasty. excellent valueg\nWritten May 3, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

@@ -1,10 +1,10 @@
 {
     "restaurant_id": "33400753",
     "restaurant_name": "A Good Bar",
-    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33400753-Reviews-A_Good_Bar-Ho_Chi_Minh_City.html",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33400753-Reviews-A_Good_Bar-Ho_Chi_Minh_City.html#REVIEWS",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33400753-Reviews-A_Good_Bar-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33400753-Reviews-A_Good_Bar-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -81,12 +81,12 @@
     "reviews": [
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-10T18:02:32.492948",
+            "crawl_timestamp": "2026-10-14T02:07:31.119863",
             "restaurant_id": "33400753",
             "restaurant_name": "A Good Bar",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33400753-Reviews-A_Good_Bar-Ho_Chi_Minh_City.html",
-            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33400753-Reviews-A_Good_Bar-Ho_Chi_Minh_City.html",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33400753-Reviews-A_Good_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33400753-Reviews-A_Good_Bar-Ho_Chi_Minh_City.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -159,11 +159,11 @@
             ],
             "telephone": "+84 97 739 77 09",
             "review_id": "REV_33400753_p1_0",
-            "reviewer_id": "User_p1_0",
+            "reviewer_id": "User_33400753_1_0",
             "review_title": "Review at A Good Bar",
             "review_text": "Luân Yên\n1 contribution\n0\nCool place\nNov 2025 • Friends\nLook cool.. I'm coming with my friends cause a lot of my Vietnamese local ppl recommend for me, Atmosphere, ppl all good.\nWritten November 26, 2025",
             "rating": 5.0,
-            "review_date": "2026-10-10",
+            "review_date": "2026-10-14",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

@@ -1,0 +1,523 @@
+{
+    "restaurant_id": "19801011",
+    "restaurant_name": "Pizza 4P's Estella Place",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d19801011-Reviews-Pizza_4P_s_Estella_Place-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d19801011-Reviews-Pizza_4P_s_Estella_Place-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "88 Song Hành Estella Place, Tầng 5, Phường An Phú, Quận 2",
+            "addressLocality": "Ho Chi Minh City",
+            "postalCode": "700000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4,
+            "reviewCount": 5
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.801812,
+            "longitude": 106.74844
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/77/12/de/burrata-parma-ham-pizza.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Pizza",
+            "Japanese Fusion"
+        ],
+        "telephone": "+84 1900 6043"
+    },
+    "reviews_count": 5,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T22:17:42.993262",
+            "restaurant_id": "19801011",
+            "restaurant_name": "Pizza 4P's Estella Place",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d19801011-Reviews-Pizza_4P_s_Estella_Place-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d19801011-Reviews-Pizza_4P_s_Estella_Place-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "88 Song Hành Estella Place, Tầng 5, Phường An Phú, Quận 2",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.801812,
+                "longitude": 106.74844
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/77/12/de/burrata-parma-ham-pizza.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Pizza",
+                "Japanese Fusion"
+            ],
+            "telephone": "+84 1900 6043",
+            "review_id": "REV_19801011_p1_0",
+            "reviewer_id": "User_19801011_1_0",
+            "review_title": "Review at Pizza 4P's Estella Place",
+            "review_text": "Q Nguyen\nChicago, Illinois13 contributions\n0\nPizza4P at Estella – Exceptional Service Elevates the Experience\nJan 2026 • Family\nMy visit to Pizza4P's Estella location reinforced why Pizza4P deserves recognition, though perhaps not entirely for the reasons you'd expect from a pizzeria.\n\nThe food itself? Reliably excellent. The Mozzarella and Tomato Caprese Salad arrived perfectly fresh, the Neapolitan pizzas delivered that signature delicate crust and balanced flavors we've come to expect, and the pasta dishes were executed with care. The mushroom pizza was a standout favorite at our table, and the 4 Cheese Dessert Plate proved an inspired choice, funky and indulgent in all the right ways. This is solid, tasteful dining across the board.\n\nBut here's what truly set this experience apart: THE SERVICE.\n\nThis team understood what we needed before we fully articulated it. We requested specific timing for our pizzas and pasta, a somewhat particular ask, given our preference for Neapolitan pizza consumed immediately after leaving the oven, before the delicate structure deteriorates. Rather than treating this as an inconvenience, the servers delivered flawlessly. They even proactively offered to reheat our pasta when they noticed we were still working through earlier dishes. New plates appeared consistently without prompting.\n\nThis is the kind of attentive, intuitive service you typically encounter at single-location Michelin-starred establishments, not at chain restaurants. The servers here genuinely deserve recognition and compensation that reflects their professionalism.\n\nIf you're prioritizing exceptional hospitality paired with quality Italian food, this location deserves your visit.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten January 17, 2026\nPizza 4P's Guest Service\nDear Mr./Ms. Q Nguyen,\n\nThank you very much for taking the time to share such a thoughtful and detailed review of your experience at Pizza 4P’s Estella Place.\nWe are truly honored by your kind words. It is wonderful to hear that you enjoyed our dishes, from the freshness of the Caprese Salad and the balance of our pizza,s to the Mushroom pizza and the 4 Cheese Dessert Plate. Your appreciation for the care put into our food means a great deal to our culinary team.\n\nMost of all, we are deeply grateful for your recognition of our service team. Your description of their attentiveness, intuition, and professionalism is incredibly encouraging. With the goal of always providing guests with \"WOW\" experiences, we hope you can come back to Pizza 4P's next time to have more wonderful experiences.\n\nWarm regards,\nPizza 4P’s Team\nRead more\nWritten January 18, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T22:17:43.035410",
+            "restaurant_id": "19801011",
+            "restaurant_name": "Pizza 4P's Estella Place",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d19801011-Reviews-Pizza_4P_s_Estella_Place-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d19801011-Reviews-Pizza_4P_s_Estella_Place-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "88 Song Hành Estella Place, Tầng 5, Phường An Phú, Quận 2",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.801812,
+                "longitude": 106.74844
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/77/12/de/burrata-parma-ham-pizza.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Pizza",
+                "Japanese Fusion"
+            ],
+            "telephone": "+84 1900 6043",
+            "review_id": "REV_19801011_p1_1",
+            "reviewer_id": "User_19801011_1_1",
+            "review_title": "Review at Pizza 4P's Estella Place",
+            "review_text": "Az & Gabz\nYealmpton, United Kingdom396 contributions\n0\nFavourite place!\nNov 2024 • Couples\nAbsolutely amazing food with lovely servers. A clean and stylish restaurant with attentive and friendly team members. The food was perfect - definitely worth a visit!! We went 3 days in a row!\nWritten November 14, 2024\nPizza 4P's Guest Service\nDear Mr./Ms. Az & Gabbs Attree,\n\nThank you very much for choosing our service and taking the time to leave a review at Pizza 4P's Estella. \n\nWe really appreciate and are interested in the experience you have had at our restaurant.\n\nYour compliments and affection for the staff, space, and food of the restaurant are great motivations for Pizza 4P's to continue to try harder, to bring guests the best quality of service.\n\nWe appreciate your continued support and are grateful for your trust in Pizza 4P's.\n\nIntending to always provide guests with \"WOW\" experiences, we hope you can come back to Pizza 4P's next time to have more wonderful experiences.\n\nWe are really thankful for your reviews, and wish you a nice day. 🤗💙\n\nPizza 4P's Team\nRead more\nWritten November 16, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T22:17:43.073706",
+            "restaurant_id": "19801011",
+            "restaurant_name": "Pizza 4P's Estella Place",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d19801011-Reviews-Pizza_4P_s_Estella_Place-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d19801011-Reviews-Pizza_4P_s_Estella_Place-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "88 Song Hành Estella Place, Tầng 5, Phường An Phú, Quận 2",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.801812,
+                "longitude": 106.74844
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/77/12/de/burrata-parma-ham-pizza.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Pizza",
+                "Japanese Fusion"
+            ],
+            "telephone": "+84 1900 6043",
+            "review_id": "REV_19801011_p1_2",
+            "reviewer_id": "User_19801011_1_2",
+            "review_title": "Review at Pizza 4P's Estella Place",
+            "review_text": "Hoan N\n143 contributions\n0\nOne of the best Pizzas in Vietnam\nMar 2021 • Friends\nThey really have good Pizzas but also couple of signatures dishes.\n\nTrue and agree with the comment of the other customer living at Estella Heights and rating them 1, that sometimes service quality is not always regular or equal across the several branch.\nAlso hope they are working on it.\n\nI havent experienced yet very bad service, while being pretty picky myself, but if it happens to me, will post again.\n\nNot easy to build and develop a consistent quality food or restaurant franchise/chain, so keep up with the good work!\n\n)\nRead more\nWritten February 4, 2022\nPizza 4P's\nDear Mr/Ms Kho_Tinh_Food_Lover\n\nWe are really happy that you enjoyed your experience in Pizza 4P's and your feedback means everything to us. As we are always looking for ways to deliver WOW and happiness to our customers every day, your support is a valuable part of that process. We hope to have a chance to welcome you back next time.\n\nHave a great day.\n\nPizza 4P's Team.\nRead more\nWritten February 5, 2022\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T22:17:43.129555",
+            "restaurant_id": "19801011",
+            "restaurant_name": "Pizza 4P's Estella Place",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d19801011-Reviews-Pizza_4P_s_Estella_Place-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d19801011-Reviews-Pizza_4P_s_Estella_Place-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "88 Song Hành Estella Place, Tầng 5, Phường An Phú, Quận 2",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.801812,
+                "longitude": 106.74844
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/77/12/de/burrata-parma-ham-pizza.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Pizza",
+                "Japanese Fusion"
+            ],
+            "telephone": "+84 1900 6043",
+            "review_id": "REV_19801011_p1_3",
+            "reviewer_id": "User_19801011_1_3",
+            "review_title": "Review at Pizza 4P's Estella Place",
+            "review_text": "Balza G\nHo Chi Minh City, Vietnam33 contributions\n0\nStill don t inderstand to bring fist playe before the second\nJan 2021 • Couples\nOrdered tomato mozarella as first and after pizza and pasta. The staff brought all the food together. Seems like we are in a local Vietnamese restaurant..... staff don t understand....\nReview collected in partnership with this restaurant \nWritten January 30, 2021\nPizza 4P's\nDear Mr./Ms. Balza Guy,\n\nThank you for dining at Pizza 4P's and leaving us valuable feedback. We are truly sorry that our restaurant's service did not make you satisfied as to your expectation. We sincerely thank you for bringing this issue to our attention. We are always looking for ways to deliver WOW and happiness to our customers every day, and your feedback is an invaluable part of that process.\nWe look forward to serving you again. Thank you\nRead more\nWritten January 31, 2021\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T22:17:43.163055",
+            "restaurant_id": "19801011",
+            "restaurant_name": "Pizza 4P's Estella Place",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d19801011-Reviews-Pizza_4P_s_Estella_Place-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d19801011-Reviews-Pizza_4P_s_Estella_Place-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "88 Song Hành Estella Place, Tầng 5, Phường An Phú, Quận 2",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.801812,
+                "longitude": 106.74844
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/77/12/de/burrata-parma-ham-pizza.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Pizza",
+                "Japanese Fusion"
+            ],
+            "telephone": "+84 1900 6043",
+            "review_id": "REV_19801011_p1_4",
+            "reviewer_id": "User_19801011_1_4",
+            "review_title": "Review at Pizza 4P's Estella Place",
+            "review_text": "Balza G\nHo Chi Minh City, Vietnam33 contributions\n0\nGood food and service. Most dishes are well prepared . Decoration not as nice as in the other Pizza 4P\nAug 2020\nThe restaurant is located at 5th floor. Decoration is ok but not as nice as the otherv Pizza 4P. Good food choice and service. We took tomato mozzarella as 1st dish. My wife took pasta seafood and she liked it. I took 2 half pizza and it was really tasty.\nValue\nService\nFood\nWritten August 12, 2020\nPizza 4P's\nDear Mr./Ms. Balza G, \n\nIt was a pleasure serving you and your family. We really appreciate you taking the time to share your feedback and being so open with us. We are glad you felt satisfied with our service. We hope you'll come and see us again soon!\nRead more\nWritten February 26, 2021\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

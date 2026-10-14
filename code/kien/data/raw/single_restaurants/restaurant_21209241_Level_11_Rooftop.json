@@ -1,10 +1,10 @@
 {
     "restaurant_id": "21209241",
     "restaurant_name": "Level 11 Rooftop",
-    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d21209241-Reviews-Level_11_Rooftop-Ho_Chi_Minh_City.html#REVIEWS",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d21209241-Reviews-Level_11_Rooftop-Ho_Chi_Minh_City.html",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d21209241-Reviews-Level_11_Rooftop-Ho_Chi_Minh_City.html#REVIEWS",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d21209241-Reviews-Level_11_Rooftop-Ho_Chi_Minh_City.html",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -83,12 +83,12 @@
     "reviews": [
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-10T18:10:34.799047",
+            "crawl_timestamp": "2026-10-14T02:30:06.841850",
             "restaurant_id": "21209241",
             "restaurant_name": "Level 11 Rooftop",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d21209241-Reviews-Level_11_Rooftop-Ho_Chi_Minh_City.html#REVIEWS",
-            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d21209241-Reviews-Level_11_Rooftop-Ho_Chi_Minh_City.html#REVIEWS",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d21209241-Reviews-Level_11_Rooftop-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d21209241-Reviews-Level_11_Rooftop-Ho_Chi_Minh_City.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -163,11 +163,11 @@
             ],
             "telephone": "+84 98 174 74 74",
             "review_id": "REV_21209241_p1_0",
-            "reviewer_id": "User_p1_0",
+            "reviewer_id": "User_21209241_1_0",
             "review_title": "Review at Level 11 Rooftop",
             "review_text": "Maria Vo\n2 contributions\n0\nMust go and chill in Ho Chi Minh city\nJun 2020\nThis place is very nice. They have a nice rooftop view and seem to be perfect to enjoy after a hard-working day! They play hip hop music. I really like it! The staffs are very nice and friendly.\nValue\nService\nFood\nWritten August 22, 2020",
             "rating": 5.0,
-            "review_date": "2026-10-10",
+            "review_date": "2026-10-14",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

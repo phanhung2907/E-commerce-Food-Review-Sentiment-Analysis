@@ -1,10 +1,10 @@
 {
     "restaurant_id": "25425014",
     "restaurant_name": "LOCO Complex",
-    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25425014-Reviews-LOCO_Complex-Ho_Chi_Minh_City.html#REVIEWS",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25425014-Reviews-LOCO_Complex-Ho_Chi_Minh_City.html",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25425014-Reviews-LOCO_Complex-Ho_Chi_Minh_City.html#REVIEWS",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25425014-Reviews-LOCO_Complex-Ho_Chi_Minh_City.html",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -23,7 +23,7 @@
             "latitude": 10.767883,
             "longitude": 106.687325
         },
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/63/ee/8a/caption.jpg?w=600&h=400&s=1",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
         "openingHoursSpecification": [
             {
                 "@type": "OpeningHoursSpecification",
@@ -78,12 +78,12 @@
     "reviews": [
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-10T16:38:40.872825",
+            "crawl_timestamp": "2026-10-14T05:04:15.324330",
             "restaurant_id": "25425014",
             "restaurant_name": "LOCO Complex",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25425014-Reviews-LOCO_Complex-Ho_Chi_Minh_City.html#REVIEWS",
-            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25425014-Reviews-LOCO_Complex-Ho_Chi_Minh_City.html#REVIEWS",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25425014-Reviews-LOCO_Complex-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25425014-Reviews-LOCO_Complex-Ho_Chi_Minh_City.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -102,7 +102,7 @@
                 "latitude": 10.767883,
                 "longitude": 106.687325
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/63/ee/8a/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
@@ -153,11 +153,11 @@
             ],
             "telephone": "+84 93 426 26 37",
             "review_id": "REV_25425014_p1_0",
-            "reviewer_id": "User_p1_0",
+            "reviewer_id": "User_25425014_1_0",
             "review_title": "Review at LOCO Complex",
             "review_text": "Navigate54890272182\n1 contribution\n0\nwas fun\nApr 2024 • Friends\nit would be a great place if you want to go to a place where you can eat, drink, dance and have a great experience with your friends or family. And you can also have beautiful pictures if you go there\nWritten August 23, 2024",
             "rating": 5.0,
-            "review_date": "2026-10-10",
+            "review_date": "2026-10-14",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

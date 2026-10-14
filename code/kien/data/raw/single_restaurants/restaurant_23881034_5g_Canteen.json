@@ -1,0 +1,165 @@
+{
+    "restaurant_id": "23881034",
+    "restaurant_name": "5g Canteen",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23881034-Reviews-5g_Canteen-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23881034-Reviews-5g_Canteen-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.7,
+            "reviewCount": 18
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.762262,
+            "longitude": 106.7025
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "16:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "16:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "16:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "16:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "16:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "16:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "16:00:00",
+                "closes": "00:00:00"
+            }
+        ],
+        "priceRange": "$$$$",
+        "servesCuisine": [
+            "Vietnamese"
+        ],
+        "telephone": "+84 8 3411 5779"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T03:47:41.054496",
+            "restaurant_id": "23881034",
+            "restaurant_name": "5g Canteen",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23881034-Reviews-5g_Canteen-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23881034-Reviews-5g_Canteen-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 18
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.762262,
+                "longitude": 106.7025
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "00:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 8 3411 5779",
+            "review_id": "REV_23881034_p1_0",
+            "reviewer_id": "User_23881034_1_0",
+            "review_title": "Review at 5g Canteen",
+            "review_text": "Colin M\n1 contribution\n0\nSuperb place with great music and dinner, local beer on tap too.\nApr 2024 • Friends\nI’m there every week for their signature beef bone marrow. All the other foods are just as good. Didn’t try any vegetables dishes tho.\nValue\nService\nFood\nAtmosphere\nWritten May 3, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

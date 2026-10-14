@@ -1,0 +1,1851 @@
+{
+    "restaurant_id": "2444574",
+    "restaurant_name": "Restaurant Vatel",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "reviewCount": 36
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.77125,
+            "longitude": 106.68841
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "11:30:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "17:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "11:30:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "17:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "11:30:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "17:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "11:30:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "17:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "11:30:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "17:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "11:30:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "17:00:00",
+                "closes": "21:00:00"
+            }
+        ],
+        "priceRange": "$$$$",
+        "servesCuisine": [
+            "French",
+            "European"
+        ],
+        "telephone": "+84 8 5404 2220"
+    },
+    "reviews_count": 15,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T05:04:32.732704",
+            "restaurant_id": "2444574",
+            "restaurant_name": "Restaurant Vatel",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77125,
+                "longitude": 106.68841
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "European"
+            ],
+            "telephone": "+84 8 5404 2220",
+            "review_id": "REV_2444574_p1_0",
+            "reviewer_id": "User_2444574_1_0",
+            "review_title": "Review at Restaurant Vatel",
+            "review_text": "Trâm Anh L\n2 contributions\n0\nSuch a nice dining experience!\nDec 2019 • Friends\nI had my dinner here with one of my best friend. We were suprised by how enthusiastic, supportive and professional the servers were. We have learnt that they were all students, so impressive.\n\nThe food was quite good, specialized in French cuisine. The atmosphere was chilling with French music but the restaurant is quite small. \n\nGenerally, the whole experience was good. I will comeback if I have time!\nRead more\nReview collected in partnership with this restaurant \nWritten September 20, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T05:04:32.748189",
+            "restaurant_id": "2444574",
+            "restaurant_name": "Restaurant Vatel",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77125,
+                "longitude": 106.68841
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "European"
+            ],
+            "telephone": "+84 8 5404 2220",
+            "review_id": "REV_2444574_p1_1",
+            "reviewer_id": "User_2444574_1_1",
+            "review_title": "Review at Restaurant Vatel",
+            "review_text": "San\n9 contributions\n0\nVatel\nMar 2018\nI was very surprise to see the large space. Food is very good ans staff excellent. Different price and menu for every body. Very good place\nReview collected in partnership with this restaurant \nWritten May 22, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T05:04:32.760259",
+            "restaurant_id": "2444574",
+            "restaurant_name": "Restaurant Vatel",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77125,
+                "longitude": 106.68841
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "European"
+            ],
+            "telephone": "+84 8 5404 2220",
+            "review_id": "REV_2444574_p1_2",
+            "reviewer_id": "User_2444574_1_2",
+            "review_title": "Review at Restaurant Vatel",
+            "review_text": "Gydion K\nHo Chi Minh City, Vietnam6 contributions\n0\nGreat apple pie!\nFeb 2017 • Solo\nVery good dessert and space. Poor taste for music. Nice people. And excellent choice to escape the afternoon heat.\nWritten February 22, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T05:04:32.771481",
+            "restaurant_id": "2444574",
+            "restaurant_name": "Restaurant Vatel",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77125,
+                "longitude": 106.68841
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "European"
+            ],
+            "telephone": "+84 8 5404 2220",
+            "review_id": "REV_2444574_p1_3",
+            "reviewer_id": "User_2444574_1_3",
+            "review_title": "Review at Restaurant Vatel",
+            "review_text": "HandHWarrington\nWarrington35 contributions\n0\nEnjoyable lunch as part of a day tour\nNov 2016 • Family\nWe have had quite a few lunches provided during our guided tour days, mostly too much food so this meal was a welcome change. Lovely prawns to start then beef then Pastries. One of the family had slightly tough meet but everyone else had good food.\nWritten November 2, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T05:04:32.787417",
+            "restaurant_id": "2444574",
+            "restaurant_name": "Restaurant Vatel",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77125,
+                "longitude": 106.68841
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "European"
+            ],
+            "telephone": "+84 8 5404 2220",
+            "review_id": "REV_2444574_p1_4",
+            "reviewer_id": "User_2444574_1_4",
+            "review_title": "Review at Restaurant Vatel",
+            "review_text": "LCZ\nNew York47 contributions\n0\nDisappointing...\nAug 2015 • Family\nPretty restaurant with promise.\nHowever, food is meh.\ndid enjoy the foie gras but the rest of the meal was lackluster.\nProbably the most disappointing meal we encountered in Vietnam.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten October 3, 2015",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T05:04:32.799211",
+            "restaurant_id": "2444574",
+            "restaurant_name": "Restaurant Vatel",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77125,
+                "longitude": 106.68841
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "European"
+            ],
+            "telephone": "+84 8 5404 2220",
+            "review_id": "REV_2444574_p1_5",
+            "reviewer_id": "User_2444574_1_5",
+            "review_title": "Review at Restaurant Vatel",
+            "review_text": "Hanoi Saigon N\n5 contributions\n0\nBEST PLACE EVER\nAug 2015 • Friends\nThis is second time I was here. We enjoyed very much the foods. Foie gras is delicious and Beef Rossini as well.\n\nThe restaurant itself is nice and good atmosphere for fine dining restaurant and staffs are so nice especially miss Lien.\n\nThank you Vatel Restaurant. We enjoyed much here. And sure: come back again with family.\nRead more\nWritten September 4, 2015",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T05:04:32.815693",
+            "restaurant_id": "2444574",
+            "restaurant_name": "Restaurant Vatel",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77125,
+                "longitude": 106.68841
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "European"
+            ],
+            "telephone": "+84 8 5404 2220",
+            "review_id": "REV_2444574_p1_6",
+            "reviewer_id": "User_2444574_1_6",
+            "review_title": "Review at Restaurant Vatel",
+            "review_text": "Lam K\nHo Chi Minh City, Vietnam1 contribution\n0\nVatel Restaurant\nAug 2015 • Family\nThe first time to the restaurant Vatel. I feel very satisfied with the service style of the staff here, as well as space cozy and equally luxurious. The staff and manager are very enthusiastic and fun to me. They showed me the family's special set menu restaurant. Then me and my family chose the set: Earth & Sea, East & West, Royal and 1 part cow Alacade Rossini. The food in the set very tasty, especially the foie gras and beef dishes Rossini. As said the director and staff recommend dishes according Vatel brand in foie gras and beef Rossini's. After the starter, maincourse came to dessert, it was great to my family to enjoy France as Tiramisu cakes, Chesse cake. After the meal my family is very happy about the food and services of staff here.\nIf you want to enjoy the good food and service style French style, do not hesitate, go to the restaurant Vatel to verify how\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten August 31, 2015",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T05:04:32.831408",
+            "restaurant_id": "2444574",
+            "restaurant_name": "Restaurant Vatel",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77125,
+                "longitude": 106.68841
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "European"
+            ],
+            "telephone": "+84 8 5404 2220",
+            "review_id": "REV_2444574_p1_7",
+            "reviewer_id": "User_2444574_1_7",
+            "review_title": "Review at Restaurant Vatel",
+            "review_text": "Julie_Le90\nHo Chi Minh City, Vietnam1 contribution\n0\nIMPRESSIVE DINNER\nAug 2015 • Couples\nIt’s a nice restaurant. The space of restaurant is so warm and elegant. I received a warm welcome from staff. Moreover, I was very impress with Pan-fried foie gras and Beef Rossini. It’s so delicious. This is the best restaurant I’ve ever come.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten August 31, 2015",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T05:04:32.848733",
+            "restaurant_id": "2444574",
+            "restaurant_name": "Restaurant Vatel",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77125,
+                "longitude": 106.68841
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "European"
+            ],
+            "telephone": "+84 8 5404 2220",
+            "review_id": "REV_2444574_p1_8",
+            "reviewer_id": "User_2444574_1_8",
+            "review_title": "Review at Restaurant Vatel",
+            "review_text": "guy547\nNew Zealand21 contributions\n1\nPromises a lot, delivers little.\nAug 2015 • Friends\nDon't go to this restaurant, save you money for much better places, of which Saigon has many.\nI went here recently, meeting up with 3 friends for a special evening together. \nVatel looks as elegant is its owner and although medium expensive (200,000 - 400,000 Dong a course) the menu promises a delicious, interesting range. Plus Vatel runs a hospitality and cooking course at a local university. So all the signs were promising.\nWhat a let down it turned out to be. Very ordinary cooking with very little flavour or style, in fact boring to the palate, and small portions. That wouldn't matter if it was inspired cooking.\nWe mentioned this to the owner, who had fussed around us all night, until we told her our disappointment. When it came time to pay, she was nowhere to be seen....that speaks volumes in my book. Go elsewhere.\nRead more\nValue\nService\nFood\nWritten August 30, 2015",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T05:04:32.857714",
+            "restaurant_id": "2444574",
+            "restaurant_name": "Restaurant Vatel",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77125,
+                "longitude": 106.68841
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "European"
+            ],
+            "telephone": "+84 8 5404 2220",
+            "review_id": "REV_2444574_p1_9",
+            "reviewer_id": "User_2444574_1_9",
+            "review_title": "Review at Restaurant Vatel",
+            "review_text": "AndrewChoy\nWellington, New Zealand15 contributions\n0\nExtremely Disappointing\nAug 2015 • Friends\nIn anticipation of my 82 year old mother's and my eldest sister's arrival in Ho Chi Minh, I researched and visited a number of restaurants in the vacinity of their hotel.\n\nThe idea of changing things up and going to a French restaurant in Vietnam was a result of their love of this wonderful cuisine and having already spent 15 days in country on an organised tour.\n\nRestaurant Vatel appeared to have a lot going for it. It is a good looking, intimate venue, the menu included some promising options, it has a relationship with Ho Chi Minh's Hoa Sen University and employs local students and previous reviews had been very positive. I met the manager, Gina on two occasions prior to our evening meal. Gina is an extremely elegant, well spoken Vietnamese woman who spends part of the year living in Paris. She is also a very good and convincing sales person. Indeed another member of my family's tour party was equally smittened with Restaurant Vatel and joined our party after we stopped by for a coffee to confirm our reservation.\n\nSadly, we were less than enamoured with our restaurant experience. In essence, the dishes we experienced at Restaurant Vatel went from laughably awful to disappointingly bad.\n\nWe are in the restaurant's VIP room and were greeted by the sight of a recently deceased cockroach, albeit the size of the corpse was impressive it was clearly an early warning sign. After the body was removed, we were presented with an Amuse-bouche which generated some nervous laughter ... grated carrot, ham and little cubes of cheese ... it tasted pretty much what it sounded like.\n\nI ordered, at the recommendation of Gina, the \"Royal Menu\" (450,000d) which consisted of - Pan-fried foie gras, Shrimp Risotto with Provencal Tomato and \"Dessert Special Vatel (Chef's pastry and icecream). The froie gras was very good and nicely presented but things quickly returned to err \"form\". The Rissotto was a pallid fart of mediocrity and the dessert was, for a lack of a better word, boring!\n\nMy fellow dining companions fared no better. My mother ordered, as her main course, the \"advertised\" Grilled rack of lamb in a Bearnaise sauce (320,000d). What she received, in fact, was Lamb Chops which tasted like mutton. A barely touched dish laid testament to her views on this disappointing dish and the kitchen's deception.\n\nMy sister, also an experienced traveller and resident of New York City for the past 38 years spent a great deal of her dining experience shaking her head in disbelief ... such culinary incompetence from a restaurant with an alleged pedigree is rare indeed. She also suffered the indignity of having one of her utensils fall onto her foot as the sole wait staff clumsily and unprofessionally clear multiple plates haphazardly from the table.\n\nOur invited guest, a documentary maker based in Indonesia and with 9 years residing in London was equally dismayed with his dishes including what appeared to be, from the menu, a promising Baked Fish Cassolette.\n\nIn closing, having emptied my wallet of US $90, I have never seen or tasted such amateurish dishes sold at such an exorbitant price.\nRead more\nWritten August 28, 2015",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T05:04:32.877867",
+            "restaurant_id": "2444574",
+            "restaurant_name": "Restaurant Vatel",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77125,
+                "longitude": 106.68841
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "European"
+            ],
+            "telephone": "+84 8 5404 2220",
+            "review_id": "REV_2444574_p1_10",
+            "reviewer_id": "User_2444574_1_10",
+            "review_title": "Review at Restaurant Vatel",
+            "review_text": "Hoa Đ\n13 contributions\n0\nNice restaurant for dinner\nAug 2015 • Couples\nWe came Vatel Saigon last Saturday while it was raining. The restaurant is very warm and romantic for couples . We tried salmon mixed vegetable sauce that was so delicious. We will come back again.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten August 13, 2015",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T05:04:32.893127",
+            "restaurant_id": "2444574",
+            "restaurant_name": "Restaurant Vatel",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77125,
+                "longitude": 106.68841
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "European"
+            ],
+            "telephone": "+84 8 5404 2220",
+            "review_id": "REV_2444574_p1_11",
+            "reviewer_id": "User_2444574_1_11",
+            "review_title": "Review at Restaurant Vatel",
+            "review_text": "travelminions\nHong Kong, China112 contributions\n0\nMisleading reservation system\nJul 2015 • Couples\nMade a reservation for the restaurant on SUNDAY, received an email confirmation that the reservation was successful with the indicated date and time slot. Took a taxi there because it is not within walking distance from the city centre and finally realized with disappointment that the restaurant is CLOSED despite the RESERVATION CONFIRMATION. \n\nQuick check on their website did not indicate any opening hours. \n\nFinally took a taxi back to city centre for a late dinner. 60,000 VND wasted for 2 taxi trips. \n\nLocation: Not within walking distance from city centre. Located in a middle of a dark and quiet street.\n\nReservation system: Misleading. Automated confirmation despite restaurant being closed.\n\nFood: n/a.\nRead more\nValue\nService\nFood\nWritten July 14, 2015\nDungvatel\nDear our Valued Guest,\n\nFirst of all, we would like to apology for your inconvenience that night. \n\nNow we are going to change information on our website with OPENING HOUR and RESERVATION system will not automatic answer to customer but the guest will be confirmed by reservation staff by email.\n\nFinally, we would like to serve you again with pleasure in future and offer you our delicious dessert.\n\nThank you for your review, that makes our restaurant better and better.\n\nHope you see you soon.\n\nMIKE NGUYEN VIET\n\nRestaurant Manager.\nRead more\nWritten July 20, 2015\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T05:04:32.918823",
+            "restaurant_id": "2444574",
+            "restaurant_name": "Restaurant Vatel",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77125,
+                "longitude": 106.68841
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "European"
+            ],
+            "telephone": "+84 8 5404 2220",
+            "review_id": "REV_2444574_p1_12",
+            "reviewer_id": "User_2444574_1_12",
+            "review_title": "Review at Restaurant Vatel",
+            "review_text": "Bonnie Y\n3 contributions\n0\nVery good service\nJun 2015 • Family\nThe staff were smart and attentive. The food was nicely presented and was definitely value for money.\nValue\nService\nFood\nAtmosphere\nReview collected in partnership with this restaurant \nWritten June 11, 2015",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T05:04:32.931089",
+            "restaurant_id": "2444574",
+            "restaurant_name": "Restaurant Vatel",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77125,
+                "longitude": 106.68841
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "European"
+            ],
+            "telephone": "+84 8 5404 2220",
+            "review_id": "REV_2444574_p1_13",
+            "reviewer_id": "User_2444574_1_13",
+            "review_title": "Review at Restaurant Vatel",
+            "review_text": "La Vu\nHo Chi Minh City, Vietnam3 contributions\n0\nChange a little bit.\nSep 2013 • Couples\nThe dishes are not as excellent as it used to be. Why?! They change the chief? Overall, this is still very good place to have dinner with fine French cuisine. Very nice services. Will come again. But I still miss the very first time I visit. It's just an unforgettable experience.\nWritten November 1, 2013",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T05:04:32.950330",
+            "restaurant_id": "2444574",
+            "restaurant_name": "Restaurant Vatel",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2444574-Reviews-Restaurant_Vatel-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77125,
+                "longitude": 106.68841
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "European"
+            ],
+            "telephone": "+84 8 5404 2220",
+            "review_id": "REV_2444574_p1_14",
+            "reviewer_id": "User_2444574_1_14",
+            "review_title": "Review at Restaurant Vatel",
+            "review_text": "Hien N\nHo Chi Minh City, Vietnam74 contributions\n0\nHidden location offer super nice food\nApr 2013\nI went there for dinner somewhere last 2 weeks. I was hesitated to go in because it seem like there was no one in the restaurant, no welcome staff, the restaurant looked dark and some staffs sat the bar doing nothing. Anyway, I just went in and the staff started welcoming us. We (2 persons) chose 1 set with beef as main dish and 1 main dish only with duck. There was welcome drink and tiny salad. In contrast with the atmosphere when we first came in, the food Vatel brought to us were super delicious. Service was fast and friendly. Food were well decorate and the taste were just excellent. There is only 1 minor point for me that the price is a bit high compare to the portion and general surrounding of the restaurant.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten May 19, 2013",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

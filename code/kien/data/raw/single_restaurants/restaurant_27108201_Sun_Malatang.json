@@ -1,10 +1,10 @@
 {
     "restaurant_id": "27108201",
     "restaurant_name": "Sun Malatang",
-    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27108201-Reviews-Sun_Malatang-Ho_Chi_Minh_City.html",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27108201-Reviews-Sun_Malatang-Ho_Chi_Minh_City.html#REVIEWS",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27108201-Reviews-Sun_Malatang-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27108201-Reviews-Sun_Malatang-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -82,12 +82,12 @@
     "reviews": [
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-10T13:55:25.890707",
+            "crawl_timestamp": "2026-10-13T22:19:15.577428",
             "restaurant_id": "27108201",
             "restaurant_name": "Sun Malatang",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27108201-Reviews-Sun_Malatang-Ho_Chi_Minh_City.html",
-            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27108201-Reviews-Sun_Malatang-Ho_Chi_Minh_City.html",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27108201-Reviews-Sun_Malatang-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27108201-Reviews-Sun_Malatang-Ho_Chi_Minh_City.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -161,11 +161,11 @@
             ],
             "telephone": "+84 379 110 832",
             "review_id": "REV_27108201_p1_0",
-            "reviewer_id": "User_p1_0",
+            "reviewer_id": "User_27108201_1_0",
             "review_title": "Review at Sun Malatang",
             "review_text": "文 王\n3 contributions\n0\nFound the taste of home\nApr 2024 • Family\nI went to Ho Chi Minh City with my friends and suddenly wanted to eat Malatang. I searched and found this restaurant. The seafood, meat, and vegetables in the restaurant are very fresh, and the soup base is also very flavorful!\nThe boss is also Chinese and gave us sour plum soup.\nThe location of the restaurant is easy to find, just search sun malatang on Google map.\nRead more\nValue\nService\nFood\nAtmosphere\nShow original\nWritten May 13, 2024",
             "rating": 5.0,
-            "review_date": "2026-10-10",
+            "review_date": "2026-10-13",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

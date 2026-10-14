@@ -1,10 +1,10 @@
 {
     "restaurant_id": "14767406",
     "restaurant_name": "Marukin Yakiniku",
-    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14767406-Reviews-Marukin_Yakiniku-Ho_Chi_Minh_City.html#REVIEWS",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14767406-Reviews-Marukin_Yakiniku-Ho_Chi_Minh_City.html",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14767406-Reviews-Marukin_Yakiniku-Ho_Chi_Minh_City.html#REVIEWS",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14767406-Reviews-Marukin_Yakiniku-Ho_Chi_Minh_City.html",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -79,12 +79,12 @@
     "reviews": [
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-10T22:36:16.409018",
+            "crawl_timestamp": "2026-10-14T03:49:58.369934",
             "restaurant_id": "14767406",
             "restaurant_name": "Marukin Yakiniku",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14767406-Reviews-Marukin_Yakiniku-Ho_Chi_Minh_City.html#REVIEWS",
-            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14767406-Reviews-Marukin_Yakiniku-Ho_Chi_Minh_City.html#REVIEWS",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14767406-Reviews-Marukin_Yakiniku-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14767406-Reviews-Marukin_Yakiniku-Ho_Chi_Minh_City.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -155,11 +155,11 @@
             ],
             "telephone": "+84 93 717 61 23",
             "review_id": "REV_14767406_p1_0",
-            "reviewer_id": "User_p1_0",
+            "reviewer_id": "User_14767406_1_0",
             "review_title": "Review at Marukin Yakiniku",
             "review_text": "Rosie\nToronto, Canada244 contributions\n0\nIt's okay\nJun 2023 • Family\nA bit salty but considering the prices and location, it's value for money. Suitable for a quick and convenient lunch near Vincom. I liked the katsudon.\nWritten June 11, 2023",
             "rating": 5.0,
-            "review_date": "2026-10-10",
+            "review_date": "2026-10-14",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

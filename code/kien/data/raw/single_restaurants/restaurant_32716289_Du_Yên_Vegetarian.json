@@ -1,10 +1,10 @@
 {
     "restaurant_id": "32716289",
     "restaurant_name": "Du Yên Vegetarian",
-    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d32716289-Reviews-Du_Yen_Vegetarian-Ho_Chi_Minh_City.html#REVIEWS",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d32716289-Reviews-Du_Yen_Vegetarian-Ho_Chi_Minh_City.html",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d32716289-Reviews-Du_Yen_Vegetarian-Ho_Chi_Minh_City.html#REVIEWS",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d32716289-Reviews-Du_Yen_Vegetarian-Ho_Chi_Minh_City.html",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -23,7 +23,7 @@
             "latitude": 10.804187,
             "longitude": 106.74443
         },
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/fe/ae/fe/caption.jpg?w=600&h=400&s=1",
         "openingHoursSpecification": [
             {
                 "@type": "OpeningHoursSpecification",
@@ -79,12 +79,12 @@
     "reviews": [
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-10T18:55:02.352594",
+            "crawl_timestamp": "2026-10-14T08:25:22.665209",
             "restaurant_id": "32716289",
             "restaurant_name": "Du Yên Vegetarian",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d32716289-Reviews-Du_Yen_Vegetarian-Ho_Chi_Minh_City.html#REVIEWS",
-            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d32716289-Reviews-Du_Yen_Vegetarian-Ho_Chi_Minh_City.html#REVIEWS",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d32716289-Reviews-Du_Yen_Vegetarian-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d32716289-Reviews-Du_Yen_Vegetarian-Ho_Chi_Minh_City.html",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -103,7 +103,7 @@
                 "latitude": 10.804187,
                 "longitude": 106.74443
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/fe/ae/fe/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
@@ -155,11 +155,11 @@
             ],
             "telephone": "+84 94 102 15 14",
             "review_id": "REV_32716289_p1_0",
-            "reviewer_id": "User_p1_0",
+            "reviewer_id": "User_32716289_1_0",
             "review_title": "Review at Du Yên Vegetarian",
             "review_text": "CabotL\nAtlanta, Georgia36 contributions\n0\nAbsolutely the best.\nFeb 2025 • Family\nFantastic food. We are big fans of many vegetarian restaurants around the area, but Du Yen really is the best. It is easy to see how it could be a Michelin restaurant. Really one of the best I have been to worldwide.\nWritten February 11, 2025",
             "rating": 5.0,
-            "review_date": "2026-10-10",
+            "review_date": "2026-10-14",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

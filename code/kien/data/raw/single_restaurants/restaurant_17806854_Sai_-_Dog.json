@@ -1,0 +1,769 @@
+{
+    "restaurant_id": "17806854",
+    "restaurant_name": "Sai - Dog",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17806854-Reviews-Sai_Dog-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17806854-Reviews-Sai_Dog-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 10
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.768846,
+            "longitude": 106.69482
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "American",
+            "Vietnamese"
+        ],
+        "telephone": "+84 93 263 79 45"
+    },
+    "reviews_count": 8,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T02:37:21.421485",
+            "restaurant_id": "17806854",
+            "restaurant_name": "Sai - Dog",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17806854-Reviews-Sai_Dog-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17806854-Reviews-Sai_Dog-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.768846,
+                "longitude": 106.69482
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 263 79 45",
+            "review_id": "REV_17806854_p1_0",
+            "reviewer_id": "User_17806854_1_0",
+            "review_title": "Review at Sai - Dog",
+            "review_text": "doomiino\n1 contribution\n0\nvietnam\nJun 2019\ngreat food,nice clean place and the people that work there are great ,,love them hot dogs, see ya next time\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten October 23, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T02:37:21.436486",
+            "restaurant_id": "17806854",
+            "restaurant_name": "Sai - Dog",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17806854-Reviews-Sai_Dog-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17806854-Reviews-Sai_Dog-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.768846,
+                "longitude": 106.69482
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 263 79 45",
+            "review_id": "REV_17806854_p1_1",
+            "reviewer_id": "User_17806854_1_1",
+            "review_title": "Review at Sai - Dog",
+            "review_text": "Anh Pham\nMinnesota1 contribution\n0\nWorth it!!!\nOct 2019 • Solo\nSo compared with other local dishes, these hotdogs are a bit pricey but let me tell y'all its damn worth it. I just kept thinking about the time I paid $7 for a hotdog in MN state fair while I should've booked a ticket to Southend Asia for much more delicious, luxurious and cheaper food lol. I don't think it's the only hotdog place in town but it's the best one I've tried so far xD And if you're Marvel fan, definitely check this out, bc they have the Black Panther hotdogs that are as dark as my future :) jk its cool tho, highly recommend XD\nRead more\nReview collected in partnership with this restaurant \nWritten October 16, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T02:37:21.450486",
+            "restaurant_id": "17806854",
+            "restaurant_name": "Sai - Dog",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17806854-Reviews-Sai_Dog-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17806854-Reviews-Sai_Dog-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.768846,
+                "longitude": 106.69482
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 263 79 45",
+            "review_id": "REV_17806854_p1_2",
+            "reviewer_id": "User_17806854_1_2",
+            "review_title": "Review at Sai - Dog",
+            "review_text": "Erik R\nHo Chi Minh City, Vietnam2 contributions\n0\nsaidog\nOct 2019 • Solo\nhuuuuge surprise!! amazing hotdogs at nice place near buivien.. i tried bacon n cheese and guacamole and was so delicious! for sure recommend. Thanks for it!\nWritten October 11, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T02:37:21.471887",
+            "restaurant_id": "17806854",
+            "restaurant_name": "Sai - Dog",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17806854-Reviews-Sai_Dog-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17806854-Reviews-Sai_Dog-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.768846,
+                "longitude": 106.69482
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 263 79 45",
+            "review_id": "REV_17806854_p1_3",
+            "reviewer_id": "User_17806854_1_3",
+            "review_title": "Review at Sai - Dog",
+            "review_text": "Pepehands\nHo Chi Minh City, Vietnam1 contribution\n0\n#Blackdog weird flex but ok\nSep 2019\nGot a special hotdog that's as dark as mah soul, very black, so dark, much special, such a great dog.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten October 10, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T02:37:21.492187",
+            "restaurant_id": "17806854",
+            "restaurant_name": "Sai - Dog",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17806854-Reviews-Sai_Dog-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17806854-Reviews-Sai_Dog-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.768846,
+                "longitude": 106.69482
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 263 79 45",
+            "review_id": "REV_17806854_p1_4",
+            "reviewer_id": "User_17806854_1_4",
+            "review_title": "Review at Sai - Dog",
+            "review_text": "Cái Cây\nHo Chi Minh City, Vietnam2 contributions\n0\nHotdog for Saigonese\nOct 2019\nI live here, in Saigon. I love western food, especially hotdogs. But it seems very hard to find out a real hotdog here because we also have some foods called hotdog but totally different.\nWhen I found this restaurant, I was very happy. Prices are okay and the quality is very good. That is Saigon hotdog style !!\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten October 10, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T02:37:21.510523",
+            "restaurant_id": "17806854",
+            "restaurant_name": "Sai - Dog",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17806854-Reviews-Sai_Dog-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17806854-Reviews-Sai_Dog-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.768846,
+                "longitude": 106.69482
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 263 79 45",
+            "review_id": "REV_17806854_p1_5",
+            "reviewer_id": "User_17806854_1_5",
+            "review_title": "Review at Sai - Dog",
+            "review_text": "yakuinbeijing\nBeijing, China4 contributions\n0\ngreat vibes & hot dog\nSep 2019\nI came across this place and after eating Vietnamese food for too long, it was nice to eat a real hot dog with a twist. You should give the black bun a try, it seems it's made from Japanese edible coal or something like that, tastes great after eating banh mi for too long!\nValue\nService\nFood\nWritten October 10, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T02:37:21.523609",
+            "restaurant_id": "17806854",
+            "restaurant_name": "Sai - Dog",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17806854-Reviews-Sai_Dog-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17806854-Reviews-Sai_Dog-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.768846,
+                "longitude": 106.69482
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 263 79 45",
+            "review_id": "REV_17806854_p1_6",
+            "reviewer_id": "User_17806854_1_6",
+            "review_title": "Review at Sai - Dog",
+            "review_text": "Alan Z\nBratislava, Slovakia5 contributions\n1\nPiece of US in heart of Ho Chi Minh\nAug 2019 • Friends\nThank you for great experience, we realy enjoyed meal! Best Hot-dog we ever ate! also staff was realy helpful and kind. We recommend Sai-Dog for everyone who loves this kind of food!\nWritten August 5, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T02:37:21.537612",
+            "restaurant_id": "17806854",
+            "restaurant_name": "Sai - Dog",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17806854-Reviews-Sai_Dog-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17806854-Reviews-Sai_Dog-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.768846,
+                "longitude": 106.69482
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 263 79 45",
+            "review_id": "REV_17806854_p1_7",
+            "reviewer_id": "User_17806854_1_7",
+            "review_title": "Review at Sai - Dog",
+            "review_text": "Marshall T\nHo Chi Minh City, Vietnam2 contributions\n0\nA taste of home!\nAug 2019 • Solo\nThe best hotdog I have had outside of the US. The kids that own it care so much about making the food an experience. Try the Black (bun) dog. Delicious!\nReview collected in partnership with this restaurant \nWritten August 5, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

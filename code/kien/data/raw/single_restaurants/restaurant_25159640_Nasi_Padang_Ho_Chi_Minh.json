@@ -1,10 +1,10 @@
 {
     "restaurant_id": "25159640",
     "restaurant_name": "Nasi Padang Ho Chi Minh",
-    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25159640-Reviews-Nasi_Padang_Ho_Chi_Minh-Ho_Chi_Minh_City.html",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25159640-Reviews-Nasi_Padang_Ho_Chi_Minh-Ho_Chi_Minh_City.html#REVIEWS",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25159640-Reviews-Nasi_Padang_Ho_Chi_Minh-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25159640-Reviews-Nasi_Padang_Ho_Chi_Minh-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": {
@@ -82,12 +82,12 @@
     "reviews": [
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-10T14:09:37.402496",
+            "crawl_timestamp": "2026-10-14T00:45:41.259121",
             "restaurant_id": "25159640",
             "restaurant_name": "Nasi Padang Ho Chi Minh",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25159640-Reviews-Nasi_Padang_Ho_Chi_Minh-Ho_Chi_Minh_City.html",
-            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25159640-Reviews-Nasi_Padang_Ho_Chi_Minh-Ho_Chi_Minh_City.html",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25159640-Reviews-Nasi_Padang_Ho_Chi_Minh-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25159640-Reviews-Nasi_Padang_Ho_Chi_Minh-Ho_Chi_Minh_City.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": {
@@ -161,11 +161,11 @@
             ],
             "telephone": "+84 93 134 54 54",
             "review_id": "REV_25159640_p1_0",
-            "reviewer_id": "User_p1_0",
+            "reviewer_id": "User_25159640_1_0",
             "review_title": "Review at Nasi Padang Ho Chi Minh",
             "review_text": "eileent3821\nKuala Lumpur, Malaysia2474 contributions\n0\nBEST NASI PADANG IN HO CHI MINH\nDec 2022\nPrice is reasonable and they give good service. Having food here made me feel like I'm in back in Singapore.\nFor the Halal food hunter in Ho Chi Minh, I am happy to recommend this one! The best dish was the beef rendang which was deliciously soft and literally melts in your mouth. They also have Sotong Masak Hitam and Assam Fish.\nRead more\nWritten December 19, 2022",
             "rating": 5.0,
-            "review_date": "2026-10-10",
+            "review_date": "2026-10-14",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

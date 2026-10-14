@@ -1,0 +1,1483 @@
+{
+    "restaurant_id": "33215720",
+    "restaurant_name": "Bún Chả Hà Thành by Hanoi Corner",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 144
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.78601,
+            "longitude": 106.700226
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "09:15:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "09:15:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "09:15:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "09:15:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "09:15:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "09:15:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "09:15:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Cafe",
+            "Asian",
+            "Deli",
+            "Grill",
+            "Vietnamese",
+            "Healthy",
+            "Street Food",
+            "Soups",
+            "Indigenous"
+        ],
+        "telephone": "+84 93 323 04 89"
+    },
+    "reviews_count": 15,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:38:06.753962",
+            "restaurant_id": "33215720",
+            "restaurant_name": "Bún Chả Hà Thành by Hanoi Corner",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78601,
+                "longitude": 106.700226
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Asian",
+                "Deli",
+                "Grill",
+                "Vietnamese",
+                "Healthy",
+                "Street Food",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 323 04 89",
+            "review_id": "REV_33215720_p1_0",
+            "reviewer_id": "User_33215720_1_0",
+            "review_title": "Review at Bún Chả Hà Thành by Hanoi Corner",
+            "review_text": "Caitlin Meyer\n6 contributions\n0\nDon't miss Hanoi Corner!\nOct 2026 • Solo\nDelicious! \nI love bun cha and this did not disappoint. Great, friendly service and very reasonable prices. Highly recommend.\nValue\nService\nFood\nAtmosphere\nWritten October 12, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:38:06.766694",
+            "restaurant_id": "33215720",
+            "restaurant_name": "Bún Chả Hà Thành by Hanoi Corner",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78601,
+                "longitude": 106.700226
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Asian",
+                "Deli",
+                "Grill",
+                "Vietnamese",
+                "Healthy",
+                "Street Food",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 323 04 89",
+            "review_id": "REV_33215720_p1_1",
+            "reviewer_id": "User_33215720_1_1",
+            "review_title": "Review at Bún Chả Hà Thành by Hanoi Corner",
+            "review_text": "shinraemonsam\nSydney, Australia909 contributions\n0\nGet some bun cha Hanoi up ya\nOct 2026 • Couples\nLovely waitress, yummy food, good price.\nWritten October 11, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:38:06.776589",
+            "restaurant_id": "33215720",
+            "restaurant_name": "Bún Chả Hà Thành by Hanoi Corner",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78601,
+                "longitude": 106.700226
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Asian",
+                "Deli",
+                "Grill",
+                "Vietnamese",
+                "Healthy",
+                "Street Food",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 323 04 89",
+            "review_id": "REV_33215720_p1_2",
+            "reviewer_id": "User_33215720_1_2",
+            "review_title": "Review at Bún Chả Hà Thành by Hanoi Corner",
+            "review_text": "thehornsbys\n56 contributions\n0\nAuthentic bun cha\nOct 2026 • Couples\nDelicious bun Cha and yummy lemon soda drinks. The lady serving was very helpful and friendly. The restaurant is cute and quiet down an alley off the street.\nWritten October 11, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:38:06.798232",
+            "restaurant_id": "33215720",
+            "restaurant_name": "Bún Chả Hà Thành by Hanoi Corner",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78601,
+                "longitude": 106.700226
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Asian",
+                "Deli",
+                "Grill",
+                "Vietnamese",
+                "Healthy",
+                "Street Food",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 323 04 89",
+            "review_id": "REV_33215720_p1_3",
+            "reviewer_id": "User_33215720_1_3",
+            "review_title": "Review at Bún Chả Hà Thành by Hanoi Corner",
+            "review_text": "Ellie J\n2 contributions\n0\nHidden gem\nOct 2026 • Family\nHidden away on a side street lives a quaint little restaurant. It is cozy, friendly and the waitress speaks good English. We were on our way to our flat to collect our back packs and the kind Ady said she could take our order and have our food ready for when we got back. \nWe had Bun Cha which was absolutely delicious so so tasty and amazing value for money at one 88k VND I would 100% come back here if we came again. Fabulous 😍\nRead more\nValue\nService\nFood\nAtmosphere\nWritten October 11, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:38:06.809081",
+            "restaurant_id": "33215720",
+            "restaurant_name": "Bún Chả Hà Thành by Hanoi Corner",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78601,
+                "longitude": 106.700226
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Asian",
+                "Deli",
+                "Grill",
+                "Vietnamese",
+                "Healthy",
+                "Street Food",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 323 04 89",
+            "review_id": "REV_33215720_p1_4",
+            "reviewer_id": "User_33215720_1_4",
+            "review_title": "Review at Bún Chả Hà Thành by Hanoi Corner",
+            "review_text": "Betty\n2 contributions\n0\nVery delicious amd nice.\nOct 2026 • Family\nIt was very easy to find because it was near where I stayed. It wasn't too loud and it was nicely decorated. The food was delicious I had the Bún chà which was amazing. The food came quickly and the server was lovely. It was very cheap for us.\nWritten October 11, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:38:06.828773",
+            "restaurant_id": "33215720",
+            "restaurant_name": "Bún Chả Hà Thành by Hanoi Corner",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78601,
+                "longitude": 106.700226
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Asian",
+                "Deli",
+                "Grill",
+                "Vietnamese",
+                "Healthy",
+                "Street Food",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 323 04 89",
+            "review_id": "REV_33215720_p1_5",
+            "reviewer_id": "User_33215720_1_5",
+            "review_title": "Review at Bún Chả Hà Thành by Hanoi Corner",
+            "review_text": "Harrison C\nSydney, Australia2 contributions\n0\nBest food I’ve had!\nOct 2026 • Family\nWe were really looking forward to having some authentic Vietnamese food and I must say, Hanoi corner did not disappoint!\nValue\nService\nFood\nAtmosphere\nWritten October 9, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:38:06.839744",
+            "restaurant_id": "33215720",
+            "restaurant_name": "Bún Chả Hà Thành by Hanoi Corner",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78601,
+                "longitude": 106.700226
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Asian",
+                "Deli",
+                "Grill",
+                "Vietnamese",
+                "Healthy",
+                "Street Food",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 323 04 89",
+            "review_id": "REV_33215720_p1_6",
+            "reviewer_id": "User_33215720_1_6",
+            "review_title": "Review at Bún Chả Hà Thành by Hanoi Corner",
+            "review_text": "Khue T\n1 contribution\n0\nGreat bun cha\nOct 2026 • Friends\nThe best bun cha Hanoi in Saigon we have had. Short menu with Bun cha and Chicken pho but that is all what you want\nWritten October 9, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:38:06.858270",
+            "restaurant_id": "33215720",
+            "restaurant_name": "Bún Chả Hà Thành by Hanoi Corner",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78601,
+                "longitude": 106.700226
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Asian",
+                "Deli",
+                "Grill",
+                "Vietnamese",
+                "Healthy",
+                "Street Food",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 323 04 89",
+            "review_id": "REV_33215720_p1_7",
+            "reviewer_id": "User_33215720_1_7",
+            "review_title": "Review at Bún Chả Hà Thành by Hanoi Corner",
+            "review_text": "Stephan K\nLeipzig, Germany1 contribution\n0\nLittle Hanoi in Saigon\nOct 2026 • Couples\nThe food was outstandingly good! Our fourth Bun Cha on the trip through Vietnam and it topped the others.\n\nWonderful hostess.\nValue\nService\nFood\nAtmosphere\nTranslated from German\nShow original\nWritten October 8, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:38:06.871219",
+            "restaurant_id": "33215720",
+            "restaurant_name": "Bún Chả Hà Thành by Hanoi Corner",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78601,
+                "longitude": 106.700226
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Asian",
+                "Deli",
+                "Grill",
+                "Vietnamese",
+                "Healthy",
+                "Street Food",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 323 04 89",
+            "review_id": "REV_33215720_p1_8",
+            "reviewer_id": "User_33215720_1_8",
+            "review_title": "Review at Bún Chả Hà Thành by Hanoi Corner",
+            "review_text": "Jason B\n2 contributions\n0\nVisited 1st week of October 2026\nOct 2026 • Couples\nLocation is near main road.\nFood is good and serving is generous. \nAmbiance and service are also good.\nWritten October 7, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:38:06.881533",
+            "restaurant_id": "33215720",
+            "restaurant_name": "Bún Chả Hà Thành by Hanoi Corner",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78601,
+                "longitude": 106.700226
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Asian",
+                "Deli",
+                "Grill",
+                "Vietnamese",
+                "Healthy",
+                "Street Food",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 323 04 89",
+            "review_id": "REV_33215720_p1_9",
+            "reviewer_id": "User_33215720_1_9",
+            "review_title": "Review at Bún Chả Hà Thành by Hanoi Corner",
+            "review_text": "Jon S\n2 contributions\n0\nAmazing little spot\nOct 2026 • Friends\nGreat food, great service. Affordable prices. Highly recommended. Right near our hotel and we plan to return tomorrow!\nWritten October 4, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:38:06.895278",
+            "restaurant_id": "33215720",
+            "restaurant_name": "Bún Chả Hà Thành by Hanoi Corner",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78601,
+                "longitude": 106.700226
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Asian",
+                "Deli",
+                "Grill",
+                "Vietnamese",
+                "Healthy",
+                "Street Food",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 323 04 89",
+            "review_id": "REV_33215720_p1_10",
+            "reviewer_id": "User_33215720_1_10",
+            "review_title": "Review at Bún Chả Hà Thành by Hanoi Corner",
+            "review_text": "Departure64293113733\n5 contributions\n0\nGreat hidden gem\nOct 2026 • Solo\nAtmosphere really relaxed, down a quiet alleyway. Food was affordable and delicious, I recommend trying the flan for desert was fantastic! The waitress is very attentive and friendly so easy to visit solo :) I saw it on Google maps nearby book street and I can see why it’s recommended\nWritten October 4, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:38:06.907081",
+            "restaurant_id": "33215720",
+            "restaurant_name": "Bún Chả Hà Thành by Hanoi Corner",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78601,
+                "longitude": 106.700226
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Asian",
+                "Deli",
+                "Grill",
+                "Vietnamese",
+                "Healthy",
+                "Street Food",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 323 04 89",
+            "review_id": "REV_33215720_p1_11",
+            "reviewer_id": "User_33215720_1_11",
+            "review_title": "Review at Bún Chả Hà Thành by Hanoi Corner",
+            "review_text": "Phil G\nDelray Beach, Florida58 contributions\n0\nGreat meal\nOct 2026 • Solo\nHad a delicious Bun Cha and great service from AY. Authentic flavors and nice portion\nWritten October 3, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:38:06.925781",
+            "restaurant_id": "33215720",
+            "restaurant_name": "Bún Chả Hà Thành by Hanoi Corner",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78601,
+                "longitude": 106.700226
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Asian",
+                "Deli",
+                "Grill",
+                "Vietnamese",
+                "Healthy",
+                "Street Food",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 323 04 89",
+            "review_id": "REV_33215720_p1_12",
+            "reviewer_id": "User_33215720_1_12",
+            "review_title": "Review at Bún Chả Hà Thành by Hanoi Corner",
+            "review_text": "Tom W\nAdelaide, Australia1 contribution\n0\nLife changing food!\nOct 2026 • Friends\nBest food in Ho Chi Minh!\nIf you are having just one meal in Ho Chi Minh, it must be here. Food comes straight away, it’s incredible and the beer was fantastic.\nAnd the service by our waiter Ly, incredible.\nInsider tip:\nGet the spring roll\nValue\nService\nFood\nAtmosphere\nWritten October 3, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:38:06.941123",
+            "restaurant_id": "33215720",
+            "restaurant_name": "Bún Chả Hà Thành by Hanoi Corner",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78601,
+                "longitude": 106.700226
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Asian",
+                "Deli",
+                "Grill",
+                "Vietnamese",
+                "Healthy",
+                "Street Food",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 323 04 89",
+            "review_id": "REV_33215720_p1_13",
+            "reviewer_id": "User_33215720_1_13",
+            "review_title": "Review at Bún Chả Hà Thành by Hanoi Corner",
+            "review_text": "Chezka D\n2 contributions\n0\nThe best bun cha i've had!!\nOct 2026 • Solo\nFood waa good! Clean place and very friendly staff ❤️ would come back!\nWritten October 3, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:38:06.958680",
+            "restaurant_id": "33215720",
+            "restaurant_name": "Bún Chả Hà Thành by Hanoi Corner",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33215720-Reviews-Bun_Ch_Ha_Thanh_by_Hanoi_Corner-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 144
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78601,
+                "longitude": 106.700226
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:15:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe",
+                "Asian",
+                "Deli",
+                "Grill",
+                "Vietnamese",
+                "Healthy",
+                "Street Food",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 323 04 89",
+            "review_id": "REV_33215720_p1_14",
+            "reviewer_id": "User_33215720_1_14",
+            "review_title": "Review at Bún Chả Hà Thành by Hanoi Corner",
+            "review_text": "Chloé J\n3 contributions\n0\nVery good\nOct 2026 • Friends\nLy you was very kind thanks you so much \nVery good dinner\nWritten October 2, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}
