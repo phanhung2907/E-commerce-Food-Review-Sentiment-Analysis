@@ -233,7 +233,7 @@ def discover_restaurant_urls(driver, city_listing_url, city_name):
 
 
 # ==========================================
-# CƠ CHẾ VÉT CẠN 100% REVIEWS CỦA MỖI NHÀ HÀNG (ĐÃ TỐI ƯU ĐIỀU HƯỚNG TRANG)
+# CƠ CHẾ VÉT CẠN 100% REVIEWS VÀ UPSERT THÔNG MINH
 # ==========================================
 def extract_full_features_from_restaurant(driver, target_url, city):
     match_id = re.search(r"-d(\d+)-", target_url)
@@ -248,7 +248,6 @@ def extract_full_features_from_restaurant(driver, target_url, city):
     driver.get(target_url_reviews)
     time.sleep(random.uniform(6.0, 9.0))
 
-    # Tự động click vào tab Reviews nếu trang chưa chuyển tới
     try:
         tab_reviews = driver.find_elements(By.CSS_SELECTOR, "a[data-tab-name='Reviews'], div[data-tab-name='Reviews'], a#REVIEWS, a[href*='#REVIEWS']")
         for tab in tab_reviews:
@@ -272,10 +271,9 @@ def extract_full_features_from_restaurant(driver, target_url, city):
 
     restaurant_reviews = []
     page_num = 1
-    max_pages_per_restaurant = 500  # Đủ sức chứa các quán siêu lớn lên tới vài ngàn reviews
+    max_pages_per_restaurant = 500
 
     while page_num <= max_pages_per_restaurant:
-        # Cuộn trang sâu nhiều nhịp để kích hoạt lazy load đầy đủ dữ liệu review trên trang hiện tại
         last_scroll_height = driver.execute_script("return document.body.scrollHeight")
         for _ in range(6):
             driver.execute_script("window.scrollBy(0, 800);")
@@ -285,7 +283,6 @@ def extract_full_features_from_restaurant(driver, target_url, city):
                 break
             last_scroll_height = new_height
 
-        # Bấm mở rộng các nút "Xem thêm / More" trong review nếu có
         try:
             more_buttons = driver.find_elements(By.CSS_SELECTOR, "span.taLnk.ulLookup, span[data-test-target='expand-review'], div.expanded-note span")
             for mb in more_buttons:
@@ -348,13 +345,9 @@ def extract_full_features_from_restaurant(driver, target_url, city):
 
         print(f" -> Đã vét trang review {page_num}, tích lũy tổng cộng {len(restaurant_reviews)} reviews.")
 
-        # ==========================================
-        # ĐIỀU HƯỚNG SANG TRANG REVIEW TIẾP THEO (TỐI ƯU MŨI TÊN & SỐ TRANG)
-        # ==========================================
         try:
             clicked_next = False
             
-            # 1. Ưu tiên tìm nút mũi tên next (→) hoặc các nút phân trang tiến
             pagination_elements = driver.find_elements(
                 By.CSS_SELECTOR, 
                 "a.nav.next, [data-test-target='pagination-next'], div.pagination a, .pageNumbers span, a.ui_button.nav.next"
@@ -376,7 +369,6 @@ def extract_full_features_from_restaurant(driver, target_url, city):
                 except:
                     continue
             
-            # 2. Nếu không bấm được bằng nút next, tìm theo số trang tiếp theo
             if not clicked_next:
                 target_page_str = str(page_num + 1)
                 page_numbers = driver.find_elements(By.CSS_SELECTOR, "div.pageNumbers span, div.pagination a, span.pageNum")
@@ -406,19 +398,39 @@ def extract_full_features_from_restaurant(driver, target_url, city):
         os.makedirs(local_dir, exist_ok=True)
         local_file_path = os.path.join(local_dir, file_name)
 
+        # Merge thông minh với file cũ (nếu có) để cập nhật thêm review mà không mất dữ liệu cũ
+        final_reviews_list = restaurant_reviews
+        if os.path.exists(local_file_path):
+            try:
+                with open(local_file_path, "r", encoding="utf-8") as f_old:
+                    old_data = json.load(f_old)
+                    old_reviews = old_data.get("reviews", [])
+                    existing_texts = {r.get("review_text") for r in old_reviews}
+                    
+                    merged_count = 0
+                    for new_r in restaurant_reviews:
+                        if new_r.get("review_text") not in existing_texts:
+                            old_reviews.append(new_r)
+                            existing_texts.add(new_r.get("review_text"))
+                            merged_count += 1
+                    final_reviews_list = old_reviews
+                    print(f"[Merge Storage] Đã bổ sung thêm {merged_count} review mới vào file cũ.")
+            except:
+                pass
+
         restaurant_payload = {
             "restaurant_id": restaurant_id,
             "restaurant_name": restaurant_name,
             "city": city,
             "restaurant_url": target_url,
             "metadata": schema_info,
-            "reviews_count": len(restaurant_reviews),
-            "reviews": restaurant_reviews,
+            "reviews_count": len(final_reviews_list),
+            "reviews": final_reviews_list,
         }
 
         with open(local_file_path, "w", encoding="utf-8") as f:
             json.dump(restaurant_payload, f, ensure_ascii=False, indent=4)
-        print(f"[Local Storage] Đã lưu file hoàn chỉnh: {local_file_path} (Tổng: {len(restaurant_reviews)} reviews)")
+        print(f"[Local Storage] Đã lưu file hoàn chỉnh: {local_file_path} (Tổng: {len(final_reviews_list)} reviews)")
 
         object_name = f"individual_restaurants/{file_name}"
         minio_client.fput_object(MINIO_BUCKET, object_name, local_file_path)
@@ -436,8 +448,16 @@ def run_enterprise_scale_pipeline():
     output_dir = "code/kien/data/raw/enterprise_unlimited"
     os.makedirs(output_dir, exist_ok=True)
 
+    # TỰ ĐỘNG XÓA FILE TRACKING CŨ NGAY KHI KHỞI ĐỘNG ĐỂ QUÉT VÉT CẠN LẠI TỪ ĐẦU
+    tracking_path = os.path.join(output_dir, TRACKING_FILE_NAME)
+    if os.path.exists(tracking_path):
+        try:
+            os.remove(tracking_path)
+            print(f"[Auto Clean] Đã tự động xóa file lịch sử cũ '{TRACKING_FILE_NAME}' để tiến hành quét vét cạn toàn bộ!")
+        except Exception as e:
+            print(f"[Auto Clean Warning] Không thể xóa file tracking: {e}")
+
     crawled_ids = load_crawled_urls(output_dir)
-    print(f"Đã tải {len(crawled_ids)} nhà hàng đã cào thành công từ trước (Tính năng Resume).")
 
     options = uc.ChromeOptions()
     options.add_argument("--start-maximized")
@@ -487,4 +507,8 @@ def run_enterprise_scale_pipeline():
 
 
 if __name__ == "__main__":
-    run_enterprise_scale_pipeline()
+    try:
+        run_enterprise_scale_pipeline()
+    except KeyboardInterrupt:
+        print("\n[USER INTERRUPT] Người dùng đã chủ động dừng chương trình bằng Ctrl + C.")
+        print("Đã ngắt kết nối và bảo toàn toàn bộ dữ liệu hiện tại.")
