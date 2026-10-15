@@ -233,7 +233,7 @@ def discover_restaurant_urls(driver, city_listing_url, city_name):
 
 
 # ==========================================
-# CƠ CHẾ VÉT CẠN 100% REVIEWS CỦA MỖI NHÀ HÀNG (ĐÃ TỐI ƯU CLICK TAB & SỐ TRANG)
+# CƠ CHẾ VÉT CẠN 100% REVIEWS CỦA MỖI NHÀ HÀNG (ĐÃ TỐI ƯU ĐIỀU HƯỚNG TRANG)
 # ==========================================
 def extract_full_features_from_restaurant(driver, target_url, city):
     match_id = re.search(r"-d(\d+)-", target_url)
@@ -248,7 +248,7 @@ def extract_full_features_from_restaurant(driver, target_url, city):
     driver.get(target_url_reviews)
     time.sleep(random.uniform(6.0, 9.0))
 
-    # Tự động tìm và bấm vào tab Reviews nếu trang chưa tự chuyển đến
+    # Tự động click vào tab Reviews nếu trang chưa chuyển tới
     try:
         tab_reviews = driver.find_elements(By.CSS_SELECTOR, "a[data-tab-name='Reviews'], div[data-tab-name='Reviews'], a#REVIEWS, a[href*='#REVIEWS']")
         for tab in tab_reviews:
@@ -272,7 +272,7 @@ def extract_full_features_from_restaurant(driver, target_url, city):
 
     restaurant_reviews = []
     page_num = 1
-    max_pages_per_restaurant = 500  # Đủ sức cào các quán siêu lớn lên tới vài ngàn reviews
+    max_pages_per_restaurant = 500  # Đủ sức chứa các quán siêu lớn lên tới vài ngàn reviews
 
     while page_num <= max_pages_per_restaurant:
         # Cuộn trang sâu nhiều nhịp để kích hoạt lazy load đầy đủ dữ liệu review trên trang hiện tại
@@ -349,34 +349,45 @@ def extract_full_features_from_restaurant(driver, target_url, city):
         print(f" -> Đã vét trang review {page_num}, tích lũy tổng cộng {len(restaurant_reviews)} reviews.")
 
         # ==========================================
-        # ĐIỀU HƯỚNG SANG TRANG REVIEW TIẾP THEO (DỰA TRÊN SỐ TRANG & MŨI TÊN)
+        # ĐIỀU HƯỚNG SANG TRANG REVIEW TIẾP THEO (TỐI ƯU MŨI TÊN & SỐ TRANG)
         # ==========================================
         try:
-            next_page_target = page_num + 1
-            pagination_buttons = driver.find_elements(By.CSS_SELECTOR, "a.paginate, div.pageNumbers span, .pagination div, .pageNum, div.pagination a")
-            
             clicked_next = False
-            for btn in pagination_buttons:
-                if btn.text.strip() == str(next_page_target):
-                    driver.execute_script("arguments[0].scrollIntoView(true);", btn)
-                    time.sleep(1.0)
-                    driver.execute_script("arguments[0].click();", btn)
-                    page_num += 1
-                    clicked_next = True
-                    time.sleep(random.uniform(5.0, 8.0))
-                    break
             
-            if not clicked_next:
-                # Fallback: Bấm vào nút mũi tên tiến (→) nếu không tìm thấy số trang tiếp theo
-                arrow_next = driver.find_elements(By.CSS_SELECTOR, "a.nav.next, [data-test-target='pagination-next'], a.ui_button.nav.next")
-                for arrow in arrow_next:
-                    class_attr = arrow.get_attribute("class") or ""
-                    if "disabled" not in class_attr and "is-disabled" not in class_attr:
-                        driver.execute_script("arguments[0].scrollIntoView(true);", arrow)
+            # 1. Ưu tiên tìm nút mũi tên next (→) hoặc các nút phân trang tiến
+            pagination_elements = driver.find_elements(
+                By.CSS_SELECTOR, 
+                "a.nav.next, [data-test-target='pagination-next'], div.pagination a, .pageNumbers span, a.ui_button.nav.next"
+            )
+            
+            for elem in pagination_elements:
+                try:
+                    cls = elem.get_attribute("class") or ""
+                    aria = elem.get_attribute("aria-disabled") or ""
+                    if ("next" in cls.lower() or "›" in elem.text) and "disabled" not in cls and aria != "true":
+                        driver.execute_script("arguments[0].scrollIntoView(true);", elem)
                         time.sleep(1.0)
-                        driver.execute_script("arguments[0].click();", arrow)
+                        driver.execute_script("arguments[0].click();", elem)
                         page_num += 1
                         clicked_next = True
+                        print(f" -> Đã chuyển sang trang review số {page_num} bằng nút Next.")
+                        time.sleep(random.uniform(5.0, 8.0))
+                        break
+                except:
+                    continue
+            
+            # 2. Nếu không bấm được bằng nút next, tìm theo số trang tiếp theo
+            if not clicked_next:
+                target_page_str = str(page_num + 1)
+                page_numbers = driver.find_elements(By.CSS_SELECTOR, "div.pageNumbers span, div.pagination a, span.pageNum")
+                for p_num in page_numbers:
+                    if p_num.text.strip() == target_page_str:
+                        driver.execute_script("arguments[0].scrollIntoView(true);", p_num)
+                        time.sleep(1.0)
+                        driver.execute_script("arguments[0].click();", p_num)
+                        page_num += 1
+                        clicked_next = True
+                        print(f" -> Đã bấm sang trang số {page_num}.")
                         time.sleep(random.uniform(5.0, 8.0))
                         break
 
@@ -384,7 +395,7 @@ def extract_full_features_from_restaurant(driver, target_url, city):
                 print(" -> Đã vét cạn 100% tất cả các trang review của nhà hàng này.")
                 break
         except Exception as e:
-            print(f" -> Dừng phân trang review do: {e}")
+            print(f" -> Dừng phân trang do lỗi: {e}")
             break
 
     try:
