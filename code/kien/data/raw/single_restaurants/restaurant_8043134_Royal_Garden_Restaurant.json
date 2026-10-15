@@ -1,0 +1,127 @@
+{
+    "restaurant_id": "8043134",
+    "restaurant_name": "Royal Garden Restaurant",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8043134-Reviews-Royal_Garden_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8043134-Reviews-Royal_Garden_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 3.8,
+            "reviewCount": 5
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.76202,
+            "longitude": 106.67599
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/8e/ba/3b/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Chinese",
+            "Cantonese",
+            "Hong Kong"
+        ],
+        "telephone": "+84 8 2222 0456"
+    },
+    "reviews_count": 2,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T02:53:45.828484",
+            "restaurant_id": "8043134",
+            "restaurant_name": "Royal Garden Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8043134-Reviews-Royal_Garden_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8043134-Reviews-Royal_Garden_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.76202,
+                "longitude": 106.67599
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/8e/ba/3b/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Chinese",
+                "Cantonese",
+                "Hong Kong"
+            ],
+            "telephone": "+84 8 2222 0456",
+            "review_id": "REV_8043134_p1_0",
+            "reviewer_id": "User_8043134_1_0",
+            "review_title": "Review at Royal Garden Restaurant",
+            "review_text": "AlexLam93\n3 contributions\n0\neat and eat\nSep 2017 • Couples\nI love this food in here !!! eat and drink beer is the best thing you can do in your life. I hope I will come back if I have time to come\nWritten September 26, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T02:53:45.841485",
+            "restaurant_id": "8043134",
+            "restaurant_name": "Royal Garden Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8043134-Reviews-Royal_Garden_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8043134-Reviews-Royal_Garden_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.76202,
+                "longitude": 106.67599
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/8e/ba/3b/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Chinese",
+                "Cantonese",
+                "Hong Kong"
+            ],
+            "telephone": "+84 8 2222 0456",
+            "review_id": "REV_8043134_p1_1",
+            "reviewer_id": "User_8043134_1_1",
+            "review_title": "Review at Royal Garden Restaurant",
+            "review_text": "visionvietnam\nSeattle, Washington25 contributions\n0\nGreat Dim Sum, Seafood, and Hot Pot!\nFeb 2015 • Friends\nGreat Dim Sum, Seafood, and Hot Pot! Excellent service which is very rare in Vietnam. Very nice for family events\nReview collected in partnership with this restaurant \nWritten August 25, 2015",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

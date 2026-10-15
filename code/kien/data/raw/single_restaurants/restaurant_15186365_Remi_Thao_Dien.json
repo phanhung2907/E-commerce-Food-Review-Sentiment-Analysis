@@ -1,0 +1,81 @@
+{
+    "restaurant_id": "15186365",
+    "restaurant_name": "Remi Thao Dien",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15186365-Reviews-Remi_Thao_Dien-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15186365-Reviews-Remi_Thao_Dien-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 2
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.8037,
+            "longitude": 106.7347
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/d2/01/11/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "$",
+        "servesCuisine": [
+            "Bar",
+            "Pub"
+        ],
+        "telephone": "+84 93 339 60 62"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T23:30:00.388086",
+            "restaurant_id": "15186365",
+            "restaurant_name": "Remi Thao Dien",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15186365-Reviews-Remi_Thao_Dien-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15186365-Reviews-Remi_Thao_Dien-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 2
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.8037,
+                "longitude": 106.7347
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/d2/01/11/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$",
+            "servesCuisine": [
+                "Bar",
+                "Pub"
+            ],
+            "telephone": "+84 93 339 60 62",
+            "review_id": "REV_15186365_p1_0",
+            "reviewer_id": "User_15186365_1_0",
+            "review_title": "Review at Remi Thao Dien",
+            "review_text": "Amybond\n2 contributions\n0\nCozy place with friends\nApr 2019 • Family\nLooks like everybody here are friends to each other so the atmosphere is quite friendly. Live music nights are nice to visit.\nWritten April 29, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

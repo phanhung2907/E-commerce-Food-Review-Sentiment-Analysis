@@ -1,0 +1,856 @@
+{
+    "restaurant_id": "26724680",
+    "restaurant_name": "Banh Cuon Gia Truyen Thanh Van",
+    "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d26724680-Reviews-Banh_Cuon_Gia_Truyen_Thanh_Van-Hanoi.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d26724680-Reviews-Banh_Cuon_Gia_Truyen_Thanh_Van-Hanoi.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Hanoi Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.8,
+            "reviewCount": 6
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 21.035137,
+            "longitude": 105.85428
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/6b/d4/b3/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "07:00:00",
+                "closes": "13:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "17:00:00",
+                "closes": "21:15:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "06:00:00",
+                "closes": "13:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "06:00:00",
+                "closes": "13:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "17:00:00",
+                "closes": "21:15:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "06:00:00",
+                "closes": "13:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "17:00:00",
+                "closes": "21:15:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "06:00:00",
+                "closes": "13:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "17:00:00",
+                "closes": "21:15:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "06:00:00",
+                "closes": "13:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "17:00:00",
+                "closes": "21:15:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "06:00:00",
+                "closes": "13:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "17:00:00",
+                "closes": "21:15:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Asian",
+            "Vietnamese",
+            "Healthy"
+        ],
+        "telephone": "+84 8 5505 4444"
+    },
+    "reviews_count": 6,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T06:18:00.928493",
+            "restaurant_id": "26724680",
+            "restaurant_name": "Banh Cuon Gia Truyen Thanh Van",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d26724680-Reviews-Banh_Cuon_Gia_Truyen_Thanh_Van-Hanoi.html#REVIEWS",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d26724680-Reviews-Banh_Cuon_Gia_Truyen_Thanh_Van-Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Hanoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.035137,
+                "longitude": 105.85428
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/6b/d4/b3/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 5505 4444",
+            "review_id": "REV_26724680_p1_0",
+            "reviewer_id": "User_26724680_1_0",
+            "review_title": "Review at Banh Cuon Gia Truyen Thanh Van",
+            "review_text": "LisaT17\nBologna, Italy478 contributions\n0\nSuper tasty\nJun 2024 • Solo\nVery good Banh Cuon for very cheap price. One of the best foods I've had in Vietnam so far. Service was fine and fast! Recommended.\nValue\nService\nFood\nAtmosphere\nWritten July 11, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T06:18:00.946495",
+            "restaurant_id": "26724680",
+            "restaurant_name": "Banh Cuon Gia Truyen Thanh Van",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d26724680-Reviews-Banh_Cuon_Gia_Truyen_Thanh_Van-Hanoi.html#REVIEWS",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d26724680-Reviews-Banh_Cuon_Gia_Truyen_Thanh_Van-Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Hanoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.035137,
+                "longitude": 105.85428
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/6b/d4/b3/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 5505 4444",
+            "review_id": "REV_26724680_p1_1",
+            "reviewer_id": "User_26724680_1_1",
+            "review_title": "Review at Banh Cuon Gia Truyen Thanh Van",
+            "review_text": "Jonh R\n2 contributions\n0\nYummy\nMay 2024 • Business\nYummy taste. They open so erly. People live in Hanoi are so healthy. They have breakfast at 6-8pm after do exercise in the park\nValue\nService\nFood\nAtmosphere\nWritten June 17, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T06:18:00.964727",
+            "restaurant_id": "26724680",
+            "restaurant_name": "Banh Cuon Gia Truyen Thanh Van",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d26724680-Reviews-Banh_Cuon_Gia_Truyen_Thanh_Van-Hanoi.html#REVIEWS",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d26724680-Reviews-Banh_Cuon_Gia_Truyen_Thanh_Van-Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Hanoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.035137,
+                "longitude": 105.85428
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/6b/d4/b3/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 5505 4444",
+            "review_id": "REV_26724680_p1_2",
+            "reviewer_id": "User_26724680_1_2",
+            "review_title": "Review at Banh Cuon Gia Truyen Thanh Van",
+            "review_text": "Noa M\n2 contributions\n2\nBest pork pancake\nApr 2024 • Couples\nMe and my girlfriend was here and ate their Banh cuon, a rice flour pancake. And I tried their pork version and it was amazing. My girlfriend is vegetarian and even if they didn’t offered a veggie option they made a pancake without the meat so we could share the experience! Maybe not the best place for vegetarians but highly recommend it for meat eaters! :)\nRead more\nValue\nService\nFood\nAtmosphere\nWritten April 9, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T06:18:00.976727",
+            "restaurant_id": "26724680",
+            "restaurant_name": "Banh Cuon Gia Truyen Thanh Van",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d26724680-Reviews-Banh_Cuon_Gia_Truyen_Thanh_Van-Hanoi.html#REVIEWS",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d26724680-Reviews-Banh_Cuon_Gia_Truyen_Thanh_Van-Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Hanoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.035137,
+                "longitude": 105.85428
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/6b/d4/b3/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 5505 4444",
+            "review_id": "REV_26724680_p1_3",
+            "reviewer_id": "User_26724680_1_3",
+            "review_title": "Review at Banh Cuon Gia Truyen Thanh Van",
+            "review_text": "P1kham\nPortland, OR13 contributions\n0\nClean and family friendly.\nMar 2024 • Family\nOwners were very friendly and thoughtful. We tried to order to go to eat the next day and they recommended to not reheat as it’s best eaten fresh. And their poodle was wuite a character.\nWritten March 28, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T06:18:00.994455",
+            "restaurant_id": "26724680",
+            "restaurant_name": "Banh Cuon Gia Truyen Thanh Van",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d26724680-Reviews-Banh_Cuon_Gia_Truyen_Thanh_Van-Hanoi.html#REVIEWS",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d26724680-Reviews-Banh_Cuon_Gia_Truyen_Thanh_Van-Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Hanoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.035137,
+                "longitude": 105.85428
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/6b/d4/b3/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 5505 4444",
+            "review_id": "REV_26724680_p1_4",
+            "reviewer_id": "User_26724680_1_4",
+            "review_title": "Review at Banh Cuon Gia Truyen Thanh Van",
+            "review_text": "Kim W\n5 contributions\n0\nSo fresh and healthy and even more tasty!\nNov 2023 • Couples\nExceptionally fresh and tasty steamed rolled rice pancakes. So light and fresh. Very clean and modern and lovely ladies in the restaurant. We discovered it on a street food tour and made a return visit. Highly recommend.\nValue\nService\nFood\nAtmosphere\nWritten November 9, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T06:18:01.007456",
+            "restaurant_id": "26724680",
+            "restaurant_name": "Banh Cuon Gia Truyen Thanh Van",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d26724680-Reviews-Banh_Cuon_Gia_Truyen_Thanh_Van-Hanoi.html#REVIEWS",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d26724680-Reviews-Banh_Cuon_Gia_Truyen_Thanh_Van-Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Hanoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 6
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.035137,
+                "longitude": 105.85428
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/6b/d4/b3/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "13:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:15:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 5505 4444",
+            "review_id": "REV_26724680_p1_5",
+            "reviewer_id": "User_26724680_1_5",
+            "review_title": "Review at Banh Cuon Gia Truyen Thanh Van",
+            "review_text": "Kerry T\nChristchurch, New Zealand19 contributions\n1\nGood noodles\nNov 2023 • Couples\nKind and fast service with delicious noodles. \nThe shop is clean, English speaking staff and English menu. \nThanks for lunch\nWritten November 1, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

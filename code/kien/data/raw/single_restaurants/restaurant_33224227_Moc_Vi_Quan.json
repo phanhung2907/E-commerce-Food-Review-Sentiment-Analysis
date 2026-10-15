@@ -1,0 +1,79 @@
+{
+    "restaurant_id": "33224227",
+    "restaurant_name": "Moc Vi Quan",
+    "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33224227-Reviews-Moc_Vi_Quan-Hanoi.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33224227-Reviews-Moc_Vi_Quan-Hanoi.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Hanoi Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 21.0375,
+            "longitude": 105.78999
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/6b/d4/b3/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Vietnamese"
+        ],
+        "telephone": "+84 97 195 68 06"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T06:28:38.943004",
+            "restaurant_id": "33224227",
+            "restaurant_name": "Moc Vi Quan",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33224227-Reviews-Moc_Vi_Quan-Hanoi.html#REVIEWS",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33224227-Reviews-Moc_Vi_Quan-Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Hanoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.0375,
+                "longitude": 105.78999
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/6b/d4/b3/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 97 195 68 06",
+            "review_id": "REV_33224227_p1_0",
+            "reviewer_id": "User_33224227_1_0",
+            "review_title": "Review at Moc Vi Quan",
+            "review_text": "MinhNK\nHanoi, Vietnam10 contributions\n0\nMoc Vi Quan - a must-try restaurant in Cau Giay District, Hanoi.\nMay 2025 • Friends\nI am very satisfied with this small but nice restaurant. Fresh and tasty food. Clean and nice interior. Cheap price 2$/ pax. Quick service. Air conditioner.\nWritten May 28, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

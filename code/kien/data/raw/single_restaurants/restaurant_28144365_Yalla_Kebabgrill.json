@@ -1,0 +1,85 @@
+{
+    "restaurant_id": "28144365",
+    "restaurant_name": "Yalla Kebab&grill",
+    "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d28144365-Reviews-Yalla_Kebab_grill-Hanoi.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d28144365-Reviews-Yalla_Kebab_grill-Hanoi.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "Ngõ 41 Đào Duy Từ",
+            "postalCode": "08113"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 21.035366,
+            "longitude": 105.853065
+        },
+        "image": "N/A",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Mediterranean",
+            "Egyptian",
+            "Arabic"
+        ],
+        "telephone": "N/A"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T07:34:09.208116",
+            "restaurant_id": "28144365",
+            "restaurant_name": "Yalla Kebab&grill",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d28144365-Reviews-Yalla_Kebab_grill-Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d28144365-Reviews-Yalla_Kebab_grill-Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Ngõ 41 Đào Duy Từ",
+                "postalCode": "08113"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.035366,
+                "longitude": 105.853065
+            },
+            "image": "N/A",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Mediterranean",
+                "Egyptian",
+                "Arabic"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_28144365_p1_0",
+            "reviewer_id": "User_28144365_1_0",
+            "review_title": "Review at Yalla Kebab&grill",
+            "review_text": "Jessi\n6 contributions\n0\nYummmm\nMay 2024 • Family\nDelicious Arabic food. \nLoved the shawarma Maria \nWill come back again \nIt’s also one of the only Halal places in this area.\nWritten August 26, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

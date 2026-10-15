@@ -1,10 +1,10 @@
 {
     "restaurant_id": "34427214",
     "restaurant_name": "Le Foyer Bar",
-    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34427214-Reviews-Le_Foyer_Bar-Ho_Chi_Minh_City.html",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34427214-Reviews-Le_Foyer_Bar-Ho_Chi_Minh_City.html#REVIEWS",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34427214-Reviews-Le_Foyer_Bar-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34427214-Reviews-Le_Foyer_Bar-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -80,12 +80,12 @@
     "reviews": [
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-10T19:11:25.108152",
+            "crawl_timestamp": "2026-10-15T02:29:29.114919",
             "restaurant_id": "34427214",
             "restaurant_name": "Le Foyer Bar",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34427214-Reviews-Le_Foyer_Bar-Ho_Chi_Minh_City.html",
-            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34427214-Reviews-Le_Foyer_Bar-Ho_Chi_Minh_City.html",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34427214-Reviews-Le_Foyer_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34427214-Reviews-Le_Foyer_Bar-Ho_Chi_Minh_City.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -157,11 +157,11 @@
             ],
             "telephone": "+84 90 185 12 48",
             "review_id": "REV_34427214_p1_0",
-            "reviewer_id": "User_p1_0",
+            "reviewer_id": "User_34427214_1_0",
             "review_title": "Review at Le Foyer Bar",
             "review_text": "Camper49612097611\n1 contribution\n0\nExcellent bar\nMay 2026 • Couples\nGreat Bar with Classic cocktails in HCMC. Good vibe & music here\nValue\nService\nFood\nAtmosphere\nWritten June 3, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-10",
+            "review_date": "2026-10-15",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

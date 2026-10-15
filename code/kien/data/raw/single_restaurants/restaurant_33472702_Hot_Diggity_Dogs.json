@@ -1,0 +1,73 @@
+{
+    "restaurant_id": "33472702",
+    "restaurant_name": "Hot Diggity Dogs",
+    "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33472702-Reviews-Hot_Diggity_Dogs-Hanoi.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33472702-Reviews-Hot_Diggity_Dogs-Hanoi.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Hanoi Vietnam"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 21.061459,
+            "longitude": 105.83162
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/98/dc/0a/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "11:30:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "11:30:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "11:30:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "11:30:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "11:30:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "11:30:00",
+                "closes": "00:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "American",
+            "British"
+        ],
+        "telephone": "N/A"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

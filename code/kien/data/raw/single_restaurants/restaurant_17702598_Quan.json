@@ -1,10 +1,10 @@
 {
     "restaurant_id": "17702598",
     "restaurant_name": "Quan",
-    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "city": "Vietnam_Subregion",
     "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17702598-Reviews-Quan-Ho_Chi_Minh_City.html",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17702598-Reviews-Quan-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17702598-Reviews-Quan-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -80,12 +80,12 @@
     "reviews": [
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-10T17:06:23.923379",
+            "crawl_timestamp": "2026-10-14T23:00:19.067594",
             "restaurant_id": "17702598",
             "restaurant_name": "Quan",
             "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17702598-Reviews-Quan-Ho_Chi_Minh_City.html",
-            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17702598-Reviews-Quan-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17702598-Reviews-Quan-Ho_Chi_Minh_City.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -157,22 +157,22 @@
             ],
             "telephone": "+84 91 115 75 76",
             "review_id": "REV_17702598_p1_0",
-            "reviewer_id": "User_p1_0",
+            "reviewer_id": "User_17702598_1_0",
             "review_title": "Review at Quan",
             "review_text": "Autogirogiringiro\nLodi, Italy5986 contributions\n0\nVarious proposals of this restaurant run by young and capable\nAug 2025 • Family\nLocals in the area is one of the most welcoming, as are the people who work there. Also convenient after a visit to the\nCovered market place in front. The only drawback was the failure to deliver a dish to the table, the sautéed eel, but that, in hindsight, was also a welcome forgetfulness as the courses already on the table were already too abundant.\nRead more\nTranslated from Italian\nShow original\nWritten August 19, 2025",
             "rating": 5.0,
-            "review_date": "2026-10-10",
+            "review_date": "2026-10-14",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-10T17:06:23.939206",
+            "crawl_timestamp": "2026-10-14T23:00:19.084595",
             "restaurant_id": "17702598",
             "restaurant_name": "Quan",
             "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17702598-Reviews-Quan-Ho_Chi_Minh_City.html",
-            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17702598-Reviews-Quan-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17702598-Reviews-Quan-Ho_Chi_Minh_City.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -244,11 +244,11 @@
             ],
             "telephone": "+84 91 115 75 76",
             "review_id": "REV_17702598_p1_1",
-            "reviewer_id": "User_p1_1",
+            "reviewer_id": "User_17702598_1_1",
             "review_title": "Review at Quan",
             "review_text": "Tim O\nTurlock, California4 contributions\n0\nWonderful Experience!\nJul 2019 • Solo\nI loved this place. The food was delicious, the service was excellent, and the atmosphere was perfect. Highly recommended!\nReview collected in partnership with this restaurant \nWritten July 10, 2019\nAndrea\nThank you very much ! Hope to see you and your Friends again. Best wish for you!\nWritten July 12, 2019\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
             "rating": 5.0,
-            "review_date": "2026-10-10",
+            "review_date": "2026-10-14",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

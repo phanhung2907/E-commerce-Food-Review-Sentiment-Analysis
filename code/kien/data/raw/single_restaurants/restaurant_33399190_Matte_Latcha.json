@@ -1,0 +1,80 @@
+{
+    "restaurant_id": "33399190",
+    "restaurant_name": "Matte Latcha",
+    "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33399190-Reviews-Matte_Latcha-Hanoi.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d33399190-Reviews-Matte_Latcha-Hanoi.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Hanoi Vietnam"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 21.033405,
+            "longitude": 105.84477
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/e2/27/2e/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "08:30:00",
+                "closes": "22:15:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "08:30:00",
+                "closes": "22:15:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "08:30:00",
+                "closes": "22:15:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "08:30:00",
+                "closes": "22:15:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "08:30:00",
+                "closes": "22:15:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "08:30:00",
+                "closes": "22:15:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "08:30:00",
+                "closes": "22:15:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Healthy",
+            "Kyoto cuisine",
+            "Indigenous"
+        ],
+        "telephone": "+84 91 190 21 21"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

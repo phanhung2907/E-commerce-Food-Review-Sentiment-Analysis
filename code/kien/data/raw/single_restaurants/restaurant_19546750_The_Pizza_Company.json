@@ -1,0 +1,124 @@
+{
+    "restaurant_id": "19546750",
+    "restaurant_name": "The Pizza Company",
+    "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d19546750-Reviews-The_Pizza_Company-Hanoi.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d19546750-Reviews-The_Pizza_Company-Hanoi.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "31 Xuan Dieu Quang An",
+            "postalCode": "100000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 2
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 21.062899,
+            "longitude": 105.829155
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/f4/0a/48/tuy-t-v-i.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Pizza"
+        ],
+        "telephone": "+84 24 3710 0551"
+    },
+    "reviews_count": 2,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T10:09:45.501994",
+            "restaurant_id": "19546750",
+            "restaurant_name": "The Pizza Company",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d19546750-Reviews-The_Pizza_Company-Hanoi.html#REVIEWS",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d19546750-Reviews-The_Pizza_Company-Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "31 Xuan Dieu Quang An",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 2
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.062899,
+                "longitude": 105.829155
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/f4/0a/48/tuy-t-v-i.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Pizza"
+            ],
+            "telephone": "+84 24 3710 0551",
+            "review_id": "REV_19546750_p1_0",
+            "reviewer_id": "User_19546750_1_0",
+            "review_title": "Review at The Pizza Company",
+            "review_text": "TanjungBaraDiver\nHanoi, Vietnam1974 contributions\n0\nBest deep dish pizza I have had in a long time\nDec 2022\nPizza Hut used to have deep dish pizzas. I don't know if they still have them, nor if there is still a Pizza Hut, but in any case, I used to love them but haven't had one in a long time. This place was on my way home so I grabbed a Deep Dish Meat Deluxe. It was awesome. I ate half but it could have fed three. Very tasty, and cooked really well. Will be back. Service is pretty good too.\nRead more\nValue\nService\nFood\nWritten December 10, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T10:09:45.518555",
+            "restaurant_id": "19546750",
+            "restaurant_name": "The Pizza Company",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d19546750-Reviews-The_Pizza_Company-Hanoi.html#REVIEWS",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d19546750-Reviews-The_Pizza_Company-Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "31 Xuan Dieu Quang An",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 2
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.062899,
+                "longitude": 105.829155
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/f4/0a/48/tuy-t-v-i.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Pizza"
+            ],
+            "telephone": "+84 24 3710 0551",
+            "review_id": "REV_19546750_p1_1",
+            "reviewer_id": "User_19546750_1_1",
+            "review_title": "Review at The Pizza Company",
+            "review_text": "Epiphyllum8710\nHanoi, Vietnam18 contributions\n0\nPerfect\nDec 2019\nThe staff is really friendly and helpful. The salad sauce taste is delicious. Pizza and bbq chicken is good. I will come back.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten January 8, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "restaurant_id": "25458951",
+    "restaurant_name": "Foxy Cocktail Bar",
+    "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d25458951-Reviews-Foxy_Cocktail_Bar-Hanoi.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d25458951-Reviews-Foxy_Cocktail_Bar-Hanoi.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Hanoi Vietnam"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 21.037458,
+            "longitude": 105.84813
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/59/23/56/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "19:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "19:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "19:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "19:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "19:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "19:00:00",
+                "closes": "02:00:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Bar",
+            "Pub"
+        ],
+        "telephone": "+84 768 699 669"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

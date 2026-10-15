@@ -1,0 +1,535 @@
+{
+    "restaurant_id": "12134194",
+    "restaurant_name": "Food Village Cu Lao Xanh",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12134194-Reviews-Food_Village_Cu_Lao_Xanh-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12134194-Reviews-Food_Village_Cu_Lao_Xanh-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.7,
+            "reviewCount": 9
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.720159,
+            "longitude": 106.71627
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/98/ac/93/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Brew Pub",
+            "Seafood",
+            "Pub",
+            "Fusion",
+            "Vietnamese",
+            "Diner"
+        ],
+        "telephone": "+84 88 989 80 00"
+    },
+    "reviews_count": 5,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T02:47:39.296974",
+            "restaurant_id": "12134194",
+            "restaurant_name": "Food Village Cu Lao Xanh",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12134194-Reviews-Food_Village_Cu_Lao_Xanh-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12134194-Reviews-Food_Village_Cu_Lao_Xanh-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 9
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.720159,
+                "longitude": 106.71627
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/98/ac/93/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Seafood",
+                "Pub",
+                "Fusion",
+                "Vietnamese",
+                "Diner"
+            ],
+            "telephone": "+84 88 989 80 00",
+            "review_id": "REV_12134194_p1_0",
+            "reviewer_id": "User_12134194_1_0",
+            "review_title": "Review at Food Village Cu Lao Xanh",
+            "review_text": "Trung N\nHo Chi Minh City, Vietnam5 contributions\n0\nVery nice\nJul 2024 • Friends\nIt's an interesting place with a memorable experience of taking q boat across the river, which is quite special in SaiGon. You must try the \"Mangosteen chicken salad\" which is \"Gỏi gà tre măng cụt\" in vietnamese\nWritten July 24, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T02:47:39.314556",
+            "restaurant_id": "12134194",
+            "restaurant_name": "Food Village Cu Lao Xanh",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12134194-Reviews-Food_Village_Cu_Lao_Xanh-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12134194-Reviews-Food_Village_Cu_Lao_Xanh-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 9
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.720159,
+                "longitude": 106.71627
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/98/ac/93/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Seafood",
+                "Pub",
+                "Fusion",
+                "Vietnamese",
+                "Diner"
+            ],
+            "telephone": "+84 88 989 80 00",
+            "review_id": "REV_12134194_p1_1",
+            "reviewer_id": "User_12134194_1_1",
+            "review_title": "Review at Food Village Cu Lao Xanh",
+            "review_text": "Stephanie C\nHo Chi Minh City, Vietnam98 contributions\n0\nFun and relaxed setting. Great playground for kids\nFeb 2019 • Family\nThis is a short hop on a boat just opposite Starbucks at Panorama. We love going here with our toddler as there is a playground so she can play while we eat. Tanks full of fish and extensive menu. Staff have limited English but the menu is in English so you can just point. Always a good evening\nReview collected in partnership with this restaurant \nWritten February 18, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T02:47:39.336356",
+            "restaurant_id": "12134194",
+            "restaurant_name": "Food Village Cu Lao Xanh",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12134194-Reviews-Food_Village_Cu_Lao_Xanh-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12134194-Reviews-Food_Village_Cu_Lao_Xanh-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 9
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.720159,
+                "longitude": 106.71627
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/98/ac/93/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Seafood",
+                "Pub",
+                "Fusion",
+                "Vietnamese",
+                "Diner"
+            ],
+            "telephone": "+84 88 989 80 00",
+            "review_id": "REV_12134194_p1_2",
+            "reviewer_id": "User_12134194_1_2",
+            "review_title": "Review at Food Village Cu Lao Xanh",
+            "review_text": "Jan F\nHo Chi Minh City, Vietnam56 contributions\n0\nfun lunch in the afternoon\nNov 2018\nWe had a nice lunch here the other day, nice short ride across the river to the restaurant, a seafood place we had clams, fried rice, fried squid for me, soup, and a salad that I'm not sure what it was called, but it had pig ears in it. I usually have squid, shrimp or clams as the fish in most of the restaurants, and whatever is in the river. We had a nice quiet lunch with friends and family it rained while we were there and we just moved our table back into the restaurant, it was an enjoyable afternoon and the short ride to and from the restaurant was fun.\nRead more\nReview collected in partnership with this restaurant \nWritten December 4, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T02:47:39.352352",
+            "restaurant_id": "12134194",
+            "restaurant_name": "Food Village Cu Lao Xanh",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12134194-Reviews-Food_Village_Cu_Lao_Xanh-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12134194-Reviews-Food_Village_Cu_Lao_Xanh-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 9
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.720159,
+                "longitude": 106.71627
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/98/ac/93/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Seafood",
+                "Pub",
+                "Fusion",
+                "Vietnamese",
+                "Diner"
+            ],
+            "telephone": "+84 88 989 80 00",
+            "review_id": "REV_12134194_p1_3",
+            "reviewer_id": "User_12134194_1_3",
+            "review_title": "Review at Food Village Cu Lao Xanh",
+            "review_text": "Grantwatson777\nAdelaide, Australia1114 contributions\n0\nFabulous food\nMar 2018 • Friends\nOnly accessible by free boat ride across river. Had a fabulous late lunch with starter of steamed vegetable and rice. Then followed up by seafood hot pot. My first hot pot and I will definitely do that again, it was so delicious. Final course was a local fried fish which was cooked to perfection.\nThe service was very quick and friendly they made sure we weren’t kept waiting for drinks.\nThe prices are very reasonable at 1,000,000 dong for a 3 course banquet and beers.\nRead more\nWritten March 29, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T02:47:39.381961",
+            "restaurant_id": "12134194",
+            "restaurant_name": "Food Village Cu Lao Xanh",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12134194-Reviews-Food_Village_Cu_Lao_Xanh-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12134194-Reviews-Food_Village_Cu_Lao_Xanh-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 9
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.720159,
+                "longitude": 106.71627
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/98/ac/93/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Seafood",
+                "Pub",
+                "Fusion",
+                "Vietnamese",
+                "Diner"
+            ],
+            "telephone": "+84 88 989 80 00",
+            "review_id": "REV_12134194_p1_4",
+            "reviewer_id": "User_12134194_1_4",
+            "review_title": "Review at Food Village Cu Lao Xanh",
+            "review_text": "desiremmwekb10\nHo Chi Minh City, Vietnam2964 contributions\n0\nExtraordinary view island-like restaurant\nNov 2017 • Family\nThe restaurant has a unique location, on the other side of PMH river bank. The only way to get to the restaurant is by boat. You can catch the boat in front of Panorama building. Outdoor seating is very nice. At night, the view back to the crowded PMH is very beautiful. The food is good, not too impressive but enjoyable. It's perfect to have small party or family get together here. Just to change the scenery and being outside looking in to the normal life is amazing.\nRead more\nWritten November 13, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

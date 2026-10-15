@@ -1,0 +1,1595 @@
+{
+    "restaurant_id": "7746102",
+    "restaurant_name": "365 Degrees Pizzaria and Bar",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "50 Ngo Quang Huy Thao Dien, District 2",
+            "addressLocality": "Ho Chi Minh City",
+            "postalCode": "700000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 3.8,
+            "reviewCount": 23
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.8049,
+            "longitude": 106.73589
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6a/57/cb/img-20180322-wa0000-largejpg.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "11:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "17:00:00",
+                "closes": "01:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "17:00:00",
+                "closes": "01:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "17:00:00",
+                "closes": "01:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "17:00:00",
+                "closes": "01:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "17:00:00",
+                "closes": "01:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "17:00:00",
+                "closes": "01:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "11:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "17:00:00",
+                "closes": "01:00:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Italian",
+            "Pizza"
+        ],
+        "telephone": "+84 90 185 42 13"
+    },
+    "reviews_count": 15,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T02:55:07.032069",
+            "restaurant_id": "7746102",
+            "restaurant_name": "365 Degrees Pizzaria and Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "50 Ngo Quang Huy Thao Dien, District 2",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.8049,
+                "longitude": 106.73589
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6a/57/cb/img-20180322-wa0000-largejpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza"
+            ],
+            "telephone": "+84 90 185 42 13",
+            "review_id": "REV_7746102_p1_0",
+            "reviewer_id": "User_7746102_1_0",
+            "review_title": "Review at 365 Degrees Pizzaria and Bar",
+            "review_text": "J M\n1 contribution\n1\nInsulting and unscrupulous management\nJul 2020\nVery good pizza and staff, however the management are the most insulting and unscrupulous I've ever spoken to. I was given a pasta with my pizzas, which I presumed was a complimentary item as their had been a disagreement over the phone regarding delivery fees being charged while being advertised as free on Vietnammm.com(they have called me before to notify me of delivery fees, though not with every order, sometimes it was free) I thought very highly of the business at this point as i was under the apprehension that they had addressed their miscommunication by giving a repeat customer a complimentary item. I ate some of this pasta but I do not like mushrooms, so majority of it was left when they called me around 25 minutes after the order had arrived to say there had been a mistake and could I return the pasta, not only was it cold already, but as I had eaten some of it, I said I could not return it. They then insisted that I pay for their mistake and send the driver to collect money for my barely touched unordered pasta. I refused this ridiculous offer and the manager became extremely aggressive and began shouting at me when I raised the point that not only was it poor customer service to charge me for their mistake, but to wait over 25 minutes to call me, and then expect to come and take the pasta from me and deliver it to another customer, very late, very cold and which had already been in a strangers hands. If i were the person who originally ordered the pasta and did not receive it, then received it later cold, and possibly soiled from another customer, I would be extremely shocked to discover this and would not hesitate to boycott the business in the near future. The worst thing is even though spaghetti with some mushrooms is extremely cheap to make, they are still insisting the driver pay for their mistake and using this to guilt trip me into paying for a pasta that I neither ordered, nor did anything other than pick some bits out of for curiousity. The manager was aghast when i raised these issues and decided to verbally abuse me saying how dare I speak to her like that, when I had been nothing but respectful when raising issues with their various infringements on customer service and food safety she then hung up on whilst me whilst shouting that they don't need customers like me, I have worked in restaurant and bar service for most of my life so I know what should and shouldn't be done and I always make an effort to be polite to all staff. Basically good pizza and friendly staff with an offensive, rude and unscrupulous manager.\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten July 10, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T02:55:07.045069",
+            "restaurant_id": "7746102",
+            "restaurant_name": "365 Degrees Pizzaria and Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "50 Ngo Quang Huy Thao Dien, District 2",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.8049,
+                "longitude": 106.73589
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6a/57/cb/img-20180322-wa0000-largejpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza"
+            ],
+            "telephone": "+84 90 185 42 13",
+            "review_id": "REV_7746102_p1_1",
+            "reviewer_id": "User_7746102_1_1",
+            "review_title": "Review at 365 Degrees Pizzaria and Bar",
+            "review_text": "scameron77\nMotherwell, United Kingdom25 contributions\n0\nOrdered via BAEMIN app. Received\nMar 2020\nOrdered via BAEMIN app. Received a call from the driver to confirm, then 20 minutes later receive another to be told the order I made is no longer available on the menu. I choose another and told it’s no longer on menu too. Advise them that maybe they should advise the app to take them off. Decide on an alternative, told there is a price difference and I have to pay, advise due to poor customer service they really should just deliver as a goodwill gesture. Advised need to seek authority of manager, 10 minutes later called back and told they won’t do it. They will never have my business ever again and I urge anyone else to think twice about using this establishment.\nRead more\nWritten March 15, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T02:55:07.063067",
+            "restaurant_id": "7746102",
+            "restaurant_name": "365 Degrees Pizzaria and Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "50 Ngo Quang Huy Thao Dien, District 2",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.8049,
+                "longitude": 106.73589
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6a/57/cb/img-20180322-wa0000-largejpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza"
+            ],
+            "telephone": "+84 90 185 42 13",
+            "review_id": "REV_7746102_p1_2",
+            "reviewer_id": "User_7746102_1_2",
+            "review_title": "Review at 365 Degrees Pizzaria and Bar",
+            "review_text": "Leean W\nHo Chi Minh City, Vietnam206 contributions\n0\nGood Staple Pizza\nMar 2020\nI decided to try 365 Degrees Pizzeria as a change from my usual pizza haunts. The staff were particularly friendly which made for a very pleasant experience. The Margarita pizza was definitely better than the average pizza in the city and deserved a Good rating. But the Trip Advisor ratings only allow for either an Average rating or Very Good and doesn't have a Good option. Therefore I have selected an Average rating as I felt the pizza leant more towards Average than Very Good. The base and crust were perfect and for me the right texture and very pleasant taste but the toppings were rather bland. I think the problem was the tomato base. If I hadn't seen the tomato base as I was eating I could quite easily have mistaken the pizza as a cheese only pizza as I didn't experience any of the taste of the tomato sauce. Because it was still a pleasant pizza I would definitely go back there but I would try a different pizza next time that is more dependent on the toppings for taste rather than the tomato sauce. The chili in oil, however, was superb. Truly spicy and flavorsome. It might well have been home made - a bottle of oil chock a block with chilis. That soon added a kick and taste to the pizza! I was craving french fries too but unfortunately the waitress told me that they had run out. So french fries and a different pizza next time but I definitely think this restaurant is worth visiting again.\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten March 7, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T02:55:07.075073",
+            "restaurant_id": "7746102",
+            "restaurant_name": "365 Degrees Pizzaria and Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "50 Ngo Quang Huy Thao Dien, District 2",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.8049,
+                "longitude": 106.73589
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6a/57/cb/img-20180322-wa0000-largejpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza"
+            ],
+            "telephone": "+84 90 185 42 13",
+            "review_id": "REV_7746102_p1_3",
+            "reviewer_id": "User_7746102_1_3",
+            "review_title": "Review at 365 Degrees Pizzaria and Bar",
+            "review_text": "Brooklyn C\nHanoi, Vietnam8 contributions\n0\nRude.\nNov 2019\nOrdered delivery from this restaurant. After 15 minutes they called to let us know they don’t deliver to our area. I was very confused because we were in district 2 and only a few minutes from Masteri. Also the person speaking to me on the phone was quite rude. Definitely will not be ordering or going to eat at that restaurant again.\nWritten November 9, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T02:55:07.089582",
+            "restaurant_id": "7746102",
+            "restaurant_name": "365 Degrees Pizzaria and Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "50 Ngo Quang Huy Thao Dien, District 2",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.8049,
+                "longitude": 106.73589
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6a/57/cb/img-20180322-wa0000-largejpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza"
+            ],
+            "telephone": "+84 90 185 42 13",
+            "review_id": "REV_7746102_p1_4",
+            "reviewer_id": "User_7746102_1_4",
+            "review_title": "Review at 365 Degrees Pizzaria and Bar",
+            "review_text": "Danya\nSheffield, United Kingdom54 contributions\n0\nAmazing vegan pizzas\nSep 2019 • Friends\nAmazing VEGAN pizzas made with Kashew cheese! We’d been craving good pizzas after 4 months of noodles and rice in Asia and this place came through and then some!\n\nIt doesn’t come up on Grab for some reason so put the destination as Jive Yoga Studio by Suzanne Vian which is next door.\n\nWe ordered garlic & rosemary focaccia and two ‘pizza number 4’ (see menu pic) with pesto on the side. All of it was fresh, delicious and made with good quality ingredients. It was so nice to have ‘cheese’ for a change! They have great condiments too - quality olive oil, chilli oil, balsamic vinegar etc.\n\nThey also have amazing wine which we were pretty sure is vegan - it has a ‘V’ on the bottle and the wine itself wasn’t a clear red which suggests it hasn’t been clarified, although i can’t be certain.\n\nWe Whatsapped the restaurant ahead to check they definitely had vegan pizzas and they replied really quickly so we weren’t waiting around. When we arrived the staff were super friendly and helpful. They told us they’re working on a new vegan menu and also have 50% off vegan pizzas on Thursdays.\nRead more\nWritten September 4, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T02:55:07.105418",
+            "restaurant_id": "7746102",
+            "restaurant_name": "365 Degrees Pizzaria and Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "50 Ngo Quang Huy Thao Dien, District 2",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.8049,
+                "longitude": 106.73589
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6a/57/cb/img-20180322-wa0000-largejpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza"
+            ],
+            "telephone": "+84 90 185 42 13",
+            "review_id": "REV_7746102_p1_5",
+            "reviewer_id": "User_7746102_1_5",
+            "review_title": "Review at 365 Degrees Pizzaria and Bar",
+            "review_text": "Hiro\n136 contributions\n1\nHidden Cosy Pizzaria Run By Lovely Couple\nAug 2019 • Friends\nI had a Napoli Pepperoni pizza with homemade Mozzarella cheese. The cheese was so creamy and went with pepperoni above. Just a bit of tabasco would be a great combination. The ambience was so refreshing too with palm trees next door. The price was reasonable given its quality. I will come back for their tasty pizzas.\n(They have Kashew cheese pizzas as vegan options too apparently, so you would definitely find something special for you here)\nRead more\nReview collected in partnership with this restaurant \nWritten August 31, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T02:55:07.117422",
+            "restaurant_id": "7746102",
+            "restaurant_name": "365 Degrees Pizzaria and Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "50 Ngo Quang Huy Thao Dien, District 2",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.8049,
+                "longitude": 106.73589
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6a/57/cb/img-20180322-wa0000-largejpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza"
+            ],
+            "telephone": "+84 90 185 42 13",
+            "review_id": "REV_7746102_p1_6",
+            "reviewer_id": "User_7746102_1_6",
+            "review_title": "Review at 365 Degrees Pizzaria and Bar",
+            "review_text": "Mai Thi Pham\nHo Chi Minh City, Vietnam477 contributions\n0\nDinner\nMay 2019 • Friends\nPizza was great, full topping and good price. Small place but full guest. A lot of choice for pizza, just give feedback for seafood linguine (quality of seafood not good, not fresh seafood)\nWritten May 30, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T02:55:07.134450",
+            "restaurant_id": "7746102",
+            "restaurant_name": "365 Degrees Pizzaria and Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "50 Ngo Quang Huy Thao Dien, District 2",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.8049,
+                "longitude": 106.73589
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6a/57/cb/img-20180322-wa0000-largejpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza"
+            ],
+            "telephone": "+84 90 185 42 13",
+            "review_id": "REV_7746102_p1_7",
+            "reviewer_id": "User_7746102_1_7",
+            "review_title": "Review at 365 Degrees Pizzaria and Bar",
+            "review_text": "Ibosio\nVenice, Italy160 contributions\n1\nDon't miss it\nAug 2018 • Friends\nI was lucky enough to stay with a friend of mine living just opposite.\nIt is a real jewel in HCMC. You go there if you are recommended as it is a tiny little pizzeria, but here you GET THE TRUE ITALIAN PIZZA as it has to be.\nIf you read that pizza is overburnt etc etc...well, let me tell you, that person did not know what is true pizza. Most probably he/she likes fast food. \nThis is not fast food. This is a top quality pizza.\nGreat value for money.\nDon't miss it.\nRead more\nValue\nService\nFood\nWritten September 9, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T02:55:07.152450",
+            "restaurant_id": "7746102",
+            "restaurant_name": "365 Degrees Pizzaria and Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "50 Ngo Quang Huy Thao Dien, District 2",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.8049,
+                "longitude": 106.73589
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6a/57/cb/img-20180322-wa0000-largejpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza"
+            ],
+            "telephone": "+84 90 185 42 13",
+            "review_id": "REV_7746102_p1_8",
+            "reviewer_id": "User_7746102_1_8",
+            "review_title": "Review at 365 Degrees Pizzaria and Bar",
+            "review_text": "Mrluke007\nHo Chi Minh City, Vietnam41 contributions\n0\nEpic Pizza!!!\nJun 2018 • Couples\nLiving in Thao Dien and loving Italian food we had to try this place. It is cosy and just hidden enough to feel like a special find. The pizza was epic, especially the crust, the most important part. I can't emphasise how much I enjoyed it!! Only downfall was the gnocchi, was either old, pre-packaged, or just no love put in as it was like rubber. May have been there on a bad night, cause these guys have pizza skills for sure!! Can't beat your pizza, hands down awesome!! but my wife's gnocchi (3hour handmade) smashes you guys out of the park!!! Happy to try your gnocchi again if you reckon you can do better, and I'll edit this review??? Or we could compare each others and trade recipes..\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten June 30, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T02:55:07.164450",
+            "restaurant_id": "7746102",
+            "restaurant_name": "365 Degrees Pizzaria and Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "50 Ngo Quang Huy Thao Dien, District 2",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.8049,
+                "longitude": 106.73589
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6a/57/cb/img-20180322-wa0000-largejpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza"
+            ],
+            "telephone": "+84 90 185 42 13",
+            "review_id": "REV_7746102_p1_9",
+            "reviewer_id": "User_7746102_1_9",
+            "review_title": "Review at 365 Degrees Pizzaria and Bar",
+            "review_text": "lorenzococo\nThiais, France29 contributions\n1\nAmazing pizza and Italian cuisine\nMay 2018\nYou Miss wonderful tasty pizza ? Homemade pasta ? \nIt’s the place you have to try so !!!!! \nLocated in the small street of Thao Dien, district 2 of Ho Chi Minh City, the price are reasonable, staff are nice and the service is fast, and you even can order cause they delivery quite fast too !\nWritten May 5, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T02:55:07.193451",
+            "restaurant_id": "7746102",
+            "restaurant_name": "365 Degrees Pizzaria and Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "50 Ngo Quang Huy Thao Dien, District 2",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.8049,
+                "longitude": 106.73589
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6a/57/cb/img-20180322-wa0000-largejpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza"
+            ],
+            "telephone": "+84 90 185 42 13",
+            "review_id": "REV_7746102_p1_10",
+            "reviewer_id": "User_7746102_1_10",
+            "review_title": "Review at 365 Degrees Pizzaria and Bar",
+            "review_text": "mariaben64\nMalaga, Spain305 contributions\n0\nJust felt like pizza and a glass of wine\nMar 2018 • Solo\nA great little Italian restaurant with a wood fired pizza oven.\nEfficient service, indoor and outdoor tables and a cozy atmosphere.\nWill certainly be back to try other dishes. The pizza was thin and crispy with generous toppings of high quality ingredients. Not cheap, but you get generous portions and very good quality, authentic Italian food.\nRead more\nWritten March 24, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T02:55:07.231598",
+            "restaurant_id": "7746102",
+            "restaurant_name": "365 Degrees Pizzaria and Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "50 Ngo Quang Huy Thao Dien, District 2",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.8049,
+                "longitude": 106.73589
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6a/57/cb/img-20180322-wa0000-largejpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza"
+            ],
+            "telephone": "+84 90 185 42 13",
+            "review_id": "REV_7746102_p1_11",
+            "reviewer_id": "User_7746102_1_11",
+            "review_title": "Review at 365 Degrees Pizzaria and Bar",
+            "review_text": "Fran\nLondon, United Kingdom29 contributions\n0\nGreat and cosy pizzeria!\nSep 2017 • Family\nWas pleasantly surprised by this small Italian restaurant. The pizza and carbonara were really good. I'd say it's even one of the best pizza i've had in Saigon. Would highly recommend to give a try. They also deliver.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten September 20, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T02:55:07.251279",
+            "restaurant_id": "7746102",
+            "restaurant_name": "365 Degrees Pizzaria and Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "50 Ngo Quang Huy Thao Dien, District 2",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.8049,
+                "longitude": 106.73589
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6a/57/cb/img-20180322-wa0000-largejpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza"
+            ],
+            "telephone": "+84 90 185 42 13",
+            "review_id": "REV_7746102_p1_12",
+            "reviewer_id": "User_7746102_1_12",
+            "review_title": "Review at 365 Degrees Pizzaria and Bar",
+            "review_text": "GogoCebuCity\nHo Chi Minh City, Vietnam44 contributions\n0\nGreat little Pizza and Pasta place\nMar 2017 • Couples\nJust chanced upon this great liitle pizza place while walking around Thao Dien wondering where I was going to eat earlier this evening.\nLocated on a quiet back street it is very tiny place with only 4 or 5 tables, but has a cosy and homely ambiance. \nService was quick, friendly and efficient. Menu was made up of mostly pasta, pizzas and salad.\nOrdered the Margarita with artichoke chicken and italian sausage pizza and the baked cheese Gnocchi. \nFood was served quite quickly as there was only other table occupied. The thin and crispy pizza was a generous size, brick oven baked and just right for 2 people. Crispy on the outside crust and made even better accompanied with the homemade chilli olive oil. Taste was authentic Italian pizza and just right in the delicate flavours. \nThe single portion of gnocchi was thoughtfully divided into two small individual claypot servings and arrived at the table with the cheese bubbling hot with some herbs sprinkled on top. Delicious taste and again not too salty as it sometimes can be. The Gnocchi texture and taste seemed genuinely homemade and was delightful. \nTo accompany all this good food we had fresh coconut drinks which were served nice and cold.\nAfter the meal i chatted with lady serving us and learned that she was the owner and operated the place together with her husband at this location for just over a year.\nAn overall positive food experience, price was very reasonable and i'm happy that I have discovered this place. They also do a motorbike delivery service.\nI will definitely be going back soon.............\nRead more\nValue\nService\nFood\nWritten March 14, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T02:55:07.267318",
+            "restaurant_id": "7746102",
+            "restaurant_name": "365 Degrees Pizzaria and Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "50 Ngo Quang Huy Thao Dien, District 2",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.8049,
+                "longitude": 106.73589
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6a/57/cb/img-20180322-wa0000-largejpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza"
+            ],
+            "telephone": "+84 90 185 42 13",
+            "review_id": "REV_7746102_p1_13",
+            "reviewer_id": "User_7746102_1_13",
+            "review_title": "Review at 365 Degrees Pizzaria and Bar",
+            "review_text": "philipmW4013YU\n3 contributions\n0\nngon tuyệt\nApr 2016\n365 delicious pizza ... only in 55A Ngo Quang Huy Thao Dien Ward , District 2.... very good...100% Italian ,1 small mini beautiful restaurant\nWritten April 17, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T02:55:07.281527",
+            "restaurant_id": "7746102",
+            "restaurant_name": "365 Degrees Pizzaria and Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7746102-Reviews-365_Degrees_Pizzaria_and_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "50 Ngo Quang Huy Thao Dien, District 2",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.8049,
+                "longitude": 106.73589
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6a/57/cb/img-20180322-wa0000-largejpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza"
+            ],
+            "telephone": "+84 90 185 42 13",
+            "review_id": "REV_7746102_p1_14",
+            "reviewer_id": "User_7746102_1_14",
+            "review_title": "Review at 365 Degrees Pizzaria and Bar",
+            "review_text": "Brian L\nHo Chi Minh City, Vietnam267 contributions\n0\nLovely little place, great food\nMar 2016 • Friends\nWent to 365 a few days ago and enjoyed the evening with friends. Husband and wife team know what they are doing. Good food, attentive service and nice environment. Home made pesto and oils are just great. They also have delivery service.\nMUST TRY\nWritten March 26, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

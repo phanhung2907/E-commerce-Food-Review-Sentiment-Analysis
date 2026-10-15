@@ -1,0 +1,39 @@
+{
+    "restaurant_id": "14938353",
+    "restaurant_name": "Osaka Hanten",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14938353-Reviews-Osaka_Hanten-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14938353-Reviews-Osaka_Hanten-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "79 Cao Trieu Phat Tan Phong Ward, District 7",
+            "addressLocality": "Ho Chi Minh City",
+            "postalCode": "700000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 3
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.731874,
+            "longitude": 106.707436
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/0a/a1/76/caption.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "$",
+        "servesCuisine": [
+            "Chinese",
+            "Japanese"
+        ],
+        "telephone": "N/A"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

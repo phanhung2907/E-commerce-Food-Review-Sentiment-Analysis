@@ -1,10 +1,10 @@
 {
     "restaurant_id": "27157753",
     "restaurant_name": "Hey Pelo",
-    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "city": "Vietnam_Subregion",
     "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27157753-Reviews-Hey_Pelo-Ho_Chi_Minh_City.html",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27157753-Reviews-Hey_Pelo-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27157753-Reviews-Hey_Pelo-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -23,7 +23,7 @@
             "latitude": 10.793918,
             "longitude": 106.69121
         },
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/a1/16/23/caption.jpg?w=600&h=400&s=1",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/a1/0b/1a/caption.jpg?w=600&h=400&s=1",
         "openingHoursSpecification": [
             {
                 "@type": "OpeningHoursSpecification",
@@ -79,12 +79,12 @@
     "reviews": [
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-10T12:15:50.119633",
+            "crawl_timestamp": "2026-10-15T01:08:33.950152",
             "restaurant_id": "27157753",
             "restaurant_name": "Hey Pelo",
             "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27157753-Reviews-Hey_Pelo-Ho_Chi_Minh_City.html",
-            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27157753-Reviews-Hey_Pelo-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27157753-Reviews-Hey_Pelo-Ho_Chi_Minh_City.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -103,7 +103,7 @@
                 "latitude": 10.793918,
                 "longitude": 106.69121
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/a1/16/23/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/a1/0b/1a/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
@@ -155,22 +155,22 @@
             ],
             "telephone": "+84 353 295 044",
             "review_id": "REV_27157753_p1_0",
-            "reviewer_id": "User_p1_0",
+            "reviewer_id": "User_27157753_1_0",
             "review_title": "Review at Hey Pelo",
             "review_text": "Jerry D\nHo Chi Minh City, Vietnam356 contributions\n0\nVery Good\nFeb 2026 • Family\nTook my son to visit after a neighbors glowing recommendation. He was correct. Several different sizes with various ingredients/ sauces to include as you build your own burrito type sandwich. Will return\nWritten March 2, 2026",
             "rating": 5.0,
-            "review_date": "2026-10-10",
+            "review_date": "2026-10-15",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         },
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-10T12:15:50.134336",
+            "crawl_timestamp": "2026-10-15T01:08:33.962152",
             "restaurant_id": "27157753",
             "restaurant_name": "Hey Pelo",
             "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27157753-Reviews-Hey_Pelo-Ho_Chi_Minh_City.html",
-            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27157753-Reviews-Hey_Pelo-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27157753-Reviews-Hey_Pelo-Ho_Chi_Minh_City.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -189,7 +189,7 @@
                 "latitude": 10.793918,
                 "longitude": 106.69121
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/a1/16/23/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/a1/0b/1a/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
@@ -241,11 +241,11 @@
             ],
             "telephone": "+84 353 295 044",
             "review_id": "REV_27157753_p1_1",
-            "reviewer_id": "User_p1_1",
+            "reviewer_id": "User_27157753_1_1",
             "review_title": "Review at Hey Pelo",
             "review_text": "CACCIA Florent\nToulouse, France7 contributions\n0\nWoaw\nApr 2025 • Couples\nHe was amazing. I think it’s one of the best tacos in Vietnam Tacos are very different between Vienna and France, but I prefer Vietnam.\nTranslated from French\nShow original\nWritten July 31, 2025",
             "rating": 5.0,
-            "review_date": "2026-10-10",
+            "review_date": "2026-10-15",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

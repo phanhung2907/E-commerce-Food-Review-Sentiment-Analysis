@@ -1,0 +1,83 @@
+{
+    "restaurant_id": "32828226",
+    "restaurant_name": "Thien Son Quan Restaurant",
+    "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g21375824-d32828226-Reviews-Thien_Son_Quan_Restaurant-Cau_Giay_Hanoi.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g21375824-d32828226-Reviews-Thien_Son_Quan_Restaurant-Cau_Giay_Hanoi.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "5 Ng. 37 Tran Quoc Hoan 5 Ng. 37 P. Trần Quốc Hoàn",
+            "addressLocality": "Cau Giay",
+            "postalCode": "10000"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 20.602802,
+            "longitude": 105.22569
+        },
+        "image": "N/A",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "06:30:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "06:30:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "06:30:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "06:30:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "06:30:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "06:30:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "06:30:00",
+                "closes": "23:30:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Bar",
+            "International",
+            "Vietnamese",
+            "Dining bars"
+        ],
+        "telephone": "+84 98 630 51 99"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

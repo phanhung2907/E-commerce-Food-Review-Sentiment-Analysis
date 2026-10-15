@@ -1,0 +1,931 @@
+{
+    "restaurant_id": "21040206",
+    "restaurant_name": "Little Thai",
+    "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g21333608-d21040206-Reviews-Little_Thai-Long_Bien_Hanoi.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g21333608-d21040206-Reviews-Little_Thai-Long_Bien_Hanoi.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "No. 28, Alley 71/1, Gia Thuong Street, Ngoc Thuy Ward",
+            "addressLocality": "Long Bien",
+            "postalCode": "100000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.5,
+            "reviewCount": 8
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 21.062622,
+            "longitude": 105.86996
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/fe/91/dd/lunch-time-at-little.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "11:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "17:30:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "11:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "17:30:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "11:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "17:30:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "11:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "17:30:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "11:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "17:30:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "11:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "17:30:00",
+                "closes": "23:00:00"
+            }
+        ],
+        "priceRange": "Cheap Eats",
+        "servesCuisine": [
+            "Thai"
+        ],
+        "telephone": "+84 52 382 8866"
+    },
+    "reviews_count": 7,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T08:13:34.700207",
+            "restaurant_id": "21040206",
+            "restaurant_name": "Little Thai",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g21333608-d21040206-Reviews-Little_Thai-Long_Bien_Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g21333608-d21040206-Reviews-Little_Thai-Long_Bien_Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "No. 28, Alley 71/1, Gia Thuong Street, Ngoc Thuy Ward",
+                "addressLocality": "Long Bien",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.062622,
+                "longitude": 105.86996
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/fe/91/dd/lunch-time-at-little.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "Cheap Eats",
+            "servesCuisine": [
+                "Thai"
+            ],
+            "telephone": "+84 52 382 8866",
+            "review_id": "REV_21040206_p1_0",
+            "reviewer_id": "User_21040206_1_0",
+            "review_title": "Review at Little Thai",
+            "review_text": "Gordon S\n1 contribution\n0\nBest Thai restaurant in Hanoi by a mile\nDec 2023 • Family\nGetting good Thai food in Hanoi can be a challenge, however Little Thai restaurant in Tayho is absolutely amazing. The food is as good as anything you'll get in Bangkok and the staff are super friendly and helpful. We ordered a few dishes and they were all fantastic, I highly recommend the red curry and chicken satays, the price is also very reasonable.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten February 22, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T08:13:34.718335",
+            "restaurant_id": "21040206",
+            "restaurant_name": "Little Thai",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g21333608-d21040206-Reviews-Little_Thai-Long_Bien_Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g21333608-d21040206-Reviews-Little_Thai-Long_Bien_Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "No. 28, Alley 71/1, Gia Thuong Street, Ngoc Thuy Ward",
+                "addressLocality": "Long Bien",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.062622,
+                "longitude": 105.86996
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/fe/91/dd/lunch-time-at-little.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "Cheap Eats",
+            "servesCuisine": [
+                "Thai"
+            ],
+            "telephone": "+84 52 382 8866",
+            "review_id": "REV_21040206_p1_1",
+            "reviewer_id": "User_21040206_1_1",
+            "review_title": "Review at Little Thai",
+            "review_text": "Liam S\nMelbourne, Australia4 contributions\n0\nCracking food!\nAug 2023 • Solo\nGreat authentic Thai food run by a lovely owner. Had a Thai Red curry and a couple of beers which came to a reasonable price. Would recommend to anyone looking to fill their Thai cravings or someone who’s not worried about a little spice or flavour!\nValue\nService\nFood\nAtmosphere\nWritten August 30, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T08:13:34.730887",
+            "restaurant_id": "21040206",
+            "restaurant_name": "Little Thai",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g21333608-d21040206-Reviews-Little_Thai-Long_Bien_Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g21333608-d21040206-Reviews-Little_Thai-Long_Bien_Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "No. 28, Alley 71/1, Gia Thuong Street, Ngoc Thuy Ward",
+                "addressLocality": "Long Bien",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.062622,
+                "longitude": 105.86996
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/fe/91/dd/lunch-time-at-little.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "Cheap Eats",
+            "servesCuisine": [
+                "Thai"
+            ],
+            "telephone": "+84 52 382 8866",
+            "review_id": "REV_21040206_p1_2",
+            "reviewer_id": "User_21040206_1_2",
+            "review_title": "Review at Little Thai",
+            "review_text": "Climber34011033730\n1 contribution\n0\nStandard Thai food, delicious, beautifully decorated\nAug 2023 • Family\nThe restaurant's food is very delicious, delicious,,,, friendly staff, clean, standard Thai food in Hanoi. Will come one day soon.\nShow original\nWritten August 27, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T08:13:34.743938",
+            "restaurant_id": "21040206",
+            "restaurant_name": "Little Thai",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g21333608-d21040206-Reviews-Little_Thai-Long_Bien_Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g21333608-d21040206-Reviews-Little_Thai-Long_Bien_Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "No. 28, Alley 71/1, Gia Thuong Street, Ngoc Thuy Ward",
+                "addressLocality": "Long Bien",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.062622,
+                "longitude": 105.86996
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/fe/91/dd/lunch-time-at-little.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "Cheap Eats",
+            "servesCuisine": [
+                "Thai"
+            ],
+            "telephone": "+84 52 382 8866",
+            "review_id": "REV_21040206_p1_3",
+            "reviewer_id": "User_21040206_1_3",
+            "review_title": "Review at Little Thai",
+            "review_text": "Lewis\nHanoi, Vietnam3 contributions\n0\nWould not come here again!\nMar 2023 • Couples\nDelicious food but very terrible staff experience. Please read this fully and carefully - it’s long but it’s necessary.\n\nWe came here for lunch time and was the second to arrive after a 2-person table. After us there were around 3-4 other tables. We waited from around 11h20 to 11h40 and still hadn’t got anything placed on our table (not even a simple bottle of water and ice tea that I ordered). And somehow I saw another table coming AFTER us got the food served first. Not just one, but two dishes. That was when we got really confused and decided to ask a tall bold American - European guy wearing staff uniform where were our food? And was met by a very, VERY RUDE attitude. \n\nI tried to explain to him that how we got here first and how long we were waiting and how another table got served first, but somehow it seemed that this guy did not understand me at all. When I said: “we were the first to arrive”, he immediately snapped at me: “no they (he meant the table got the food) were here first.” The conversation went back and forth like some kind of a kindergarten fight when I kept saying “no we were” and he said “no you weren’t”. I found this ridiculous. I could not made this up - there were literally surveillance cameras over the section we were sitting. When I tried to say more, he cut me off (a very childish behavior again) and signaled that he did not want any of this nonsense conversation anymore. The staff who took our order was a different lady, so I tried to tell him to check with her because she knew we arrive first. He said something along the line of “no i am the boss here and you tell me, you don’t need to tell her.” And “the food will get here when it gets here.”\n\nWow. Normally when you had a bad experience at a restaurant you would like to report to the manager. But I didn’t know what to do when the one’s at fault here is the manager himself 😅 huge disrespect to the customer, not even wanting to solve the problem. Eventually our food arrived but he put our dish on the table like it was some kind of disgusting disease that he never wanted to touch - I bet he did that and walked away in 2 seconds. Feels like the food was thrown out to us rather than served.\n\nI understand that sometime mistakes are not unavoidable, and you might have a bad day, but that was no excuse to treat your customers like this. I am happy and willing to wait for our food if only he had not cut me off like that. It took everything not to walk away of the restaurant and left (cause even though I was mad our food order has already been taken care of). And again 😂 this is the MANAGER ACTING RUDE HIMSELF. Who can I report to but to leave a one star review here.\n\nCustomers are not God, but we have the right to expect the services the same quality that we paid for (the food here was average not cheap). And I will not edit this post because every little details I said it’s true, I can even provide the time and date needed to check.\n\nI highly suggests a change of staff and a training courses for them. The only reason this reviews stays at 1 star because it is the lowest I can rate, and because the food were indeed nice.\nRead more\nWritten March 5, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T08:13:34.755939",
+            "restaurant_id": "21040206",
+            "restaurant_name": "Little Thai",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g21333608-d21040206-Reviews-Little_Thai-Long_Bien_Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g21333608-d21040206-Reviews-Little_Thai-Long_Bien_Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "No. 28, Alley 71/1, Gia Thuong Street, Ngoc Thuy Ward",
+                "addressLocality": "Long Bien",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.062622,
+                "longitude": 105.86996
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/fe/91/dd/lunch-time-at-little.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "Cheap Eats",
+            "servesCuisine": [
+                "Thai"
+            ],
+            "telephone": "+84 52 382 8866",
+            "review_id": "REV_21040206_p1_4",
+            "reviewer_id": "User_21040206_1_4",
+            "review_title": "Review at Little Thai",
+            "review_text": "TheRyckaerts\nEpsom, United Kingdom15 contributions\n0\nGreat restaurant in Tay Ha area of Hanoi\nOct 2022 • Family\nWent there for dinner after overnight flight. Delicious fresh food. Had chicken Satay, which is barbecued in front of the restaurant and a salad for starters. Shared 3 main courses between 3 of us and all were very good, especially king prawn dish.\nVery good value and friendly staff\nWritten October 20, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T08:13:34.784942",
+            "restaurant_id": "21040206",
+            "restaurant_name": "Little Thai",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g21333608-d21040206-Reviews-Little_Thai-Long_Bien_Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g21333608-d21040206-Reviews-Little_Thai-Long_Bien_Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "No. 28, Alley 71/1, Gia Thuong Street, Ngoc Thuy Ward",
+                "addressLocality": "Long Bien",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.062622,
+                "longitude": 105.86996
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/fe/91/dd/lunch-time-at-little.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "Cheap Eats",
+            "servesCuisine": [
+                "Thai"
+            ],
+            "telephone": "+84 52 382 8866",
+            "review_id": "REV_21040206_p1_5",
+            "reviewer_id": "User_21040206_1_5",
+            "review_title": "Review at Little Thai",
+            "review_text": "Marco Nguyen\nHanoi, Vietnam5 contributions\n0\nDelicious and authentic Thai food\nJan 2022\nI was dining in in this place many times and never got disappointed. Outstanding attentive staff and reasonable delicious food. I can highly recommend this place for a lovely Thai experience in Hanoi.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten January 6, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T08:13:34.813939",
+            "restaurant_id": "21040206",
+            "restaurant_name": "Little Thai",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g21333608-d21040206-Reviews-Little_Thai-Long_Bien_Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g21333608-d21040206-Reviews-Little_Thai-Long_Bien_Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "No. 28, Alley 71/1, Gia Thuong Street, Ngoc Thuy Ward",
+                "addressLocality": "Long Bien",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.062622,
+                "longitude": 105.86996
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/fe/91/dd/lunch-time-at-little.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "Cheap Eats",
+            "servesCuisine": [
+                "Thai"
+            ],
+            "telephone": "+84 52 382 8866",
+            "review_id": "REV_21040206_p1_6",
+            "reviewer_id": "User_21040206_1_6",
+            "review_title": "Review at Little Thai",
+            "review_text": "JSTrip_77\nSarajevo, Bosnia and Herzegovina1194 contributions\n0\nGREAT New Spot\nJun 2020\nThis immaculate new place on To Ngoc Van offers legitimate Thai food and provides really great customer service. I've been watching the construction and eagerly awaiting the opening of this new place in the neighborhood. And, I was not disappointed one bit. The staff greeted me warmly and gave me a glass of ice-water while I ordered for take away. I would have wanted to eat-in but all of the tables were reserved - something pretty unusual in this part of Tay Ho! But the food came out quickly and correctly. And I have to say that the food was some of the best quality I've had in any of the Thai restaurants, big/small, inexpensive/pricey. It should say a lot that we went to Little Thai for dinner one night and then went back for dinner the following night. It was that good. I had the tom kha gai (the chicken, coconut soup and the Panang moo) both nights...plus pad Thai and a spicy mango salad. All were delicious!\n\nThe restaurant is nicely air conditioned, impeccably clean and welcoming with its new decor. I am not sure if they deliver yet or if they are listed with any of the food delivery services yet. But, this place is absolutely, 100-percent worth repeated visits!!\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten June 22, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

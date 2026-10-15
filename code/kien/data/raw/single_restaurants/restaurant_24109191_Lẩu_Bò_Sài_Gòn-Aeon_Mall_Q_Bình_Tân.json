@@ -1,10 +1,10 @@
 {
     "restaurant_id": "24109191",
     "restaurant_name": "Lẩu Bò Sài Gòn-Aeon Mall Q. Bình Tân",
-    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "city": "Vietnam_Subregion",
     "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24109191-Reviews-L_u_Bo_Sai_Gon_Aeon_Mall_Q_Binh_Tan-Ho_Chi_Minh_City.html",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24109191-Reviews-L_u_Bo_Sai_Gon_Aeon_Mall_Q_Binh_Tan-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24109191-Reviews-L_u_Bo_Sai_Gon_Aeon_Mall_Q_Binh_Tan-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -23,7 +23,7 @@
             "latitude": 10.742818,
             "longitude": 106.612236
         },
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/e4/b0/c0/caption.jpg?w=600&h=400&s=1",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
         "openingHoursSpecification": [
             {
                 "@type": "OpeningHoursSpecification",
@@ -78,12 +78,12 @@
     "reviews": [
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-10T13:35:23.080321",
+            "crawl_timestamp": "2026-10-15T00:16:32.394424",
             "restaurant_id": "24109191",
             "restaurant_name": "Lẩu Bò Sài Gòn-Aeon Mall Q. Bình Tân",
             "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24109191-Reviews-L_u_Bo_Sai_Gon_Aeon_Mall_Q_Binh_Tan-Ho_Chi_Minh_City.html",
-            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24109191-Reviews-L_u_Bo_Sai_Gon_Aeon_Mall_Q_Binh_Tan-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24109191-Reviews-L_u_Bo_Sai_Gon_Aeon_Mall_Q_Binh_Tan-Ho_Chi_Minh_City.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -102,7 +102,7 @@
                 "latitude": 10.742818,
                 "longitude": 106.612236
             },
-            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/e4/b0/c0/caption.jpg?w=600&h=400&s=1",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/77/b9/7f/caption.jpg?w=600&h=400&s=1",
             "openingHoursSpecification": [
                 {
                     "@type": "OpeningHoursSpecification",
@@ -153,11 +153,11 @@
             ],
             "telephone": "+84 28 3636 0247",
             "review_id": "REV_24109191_p1_0",
-            "reviewer_id": "User_p1_0",
+            "reviewer_id": "User_24109191_1_0",
             "review_title": "Review at Lẩu Bò Sài Gòn-Aeon Mall Q. Bình Tân",
             "review_text": "martidan31\nDa Nang, Vietnam100 contributions\n0\nAl Freso AEON\nMay 2024 • Family\nExceptional welcome, very varied choice of food, Western pizza, no problem quantity, wonderful quality. I recommend, French restaurants should take example. Almost obligatory crossing point when going to the shopping center\nShow original\nWritten May 11, 2024",
             "rating": 5.0,
-            "review_date": "2026-10-10",
+            "review_date": "2026-10-15",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

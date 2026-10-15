@@ -1,10 +1,10 @@
 {
     "restaurant_id": "32716119",
     "restaurant_name": "Wewine Le Thanh Ton",
-    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d32716119-Reviews-Wewine_Le_Thanh_Ton-Ho_Chi_Minh_City.html",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d32716119-Reviews-Wewine_Le_Thanh_Ton-Ho_Chi_Minh_City.html#REVIEWS",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d32716119-Reviews-Wewine_Le_Thanh_Ton-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d32716119-Reviews-Wewine_Le_Thanh_Ton-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -82,12 +82,12 @@
     "reviews": [
         {
             "source": "TripAdvisor",
-            "crawl_timestamp": "2026-10-10T12:12:12.173015",
+            "crawl_timestamp": "2026-10-15T00:04:54.023085",
             "restaurant_id": "32716119",
             "restaurant_name": "Wewine Le Thanh Ton",
-            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d32716119-Reviews-Wewine_Le_Thanh_Ton-Ho_Chi_Minh_City.html",
-            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
-            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d32716119-Reviews-Wewine_Le_Thanh_Ton-Ho_Chi_Minh_City.html",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d32716119-Reviews-Wewine_Le_Thanh_Ton-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d32716119-Reviews-Wewine_Le_Thanh_Ton-Ho_Chi_Minh_City.html#REVIEWS",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Vietnam",
@@ -161,11 +161,11 @@
             ],
             "telephone": "+84 98 157 89 13",
             "review_id": "REV_32716119_p1_0",
-            "reviewer_id": "User_p1_0",
+            "reviewer_id": "User_32716119_1_0",
             "review_title": "Review at Wewine Le Thanh Ton",
             "review_text": "Phương Hoàng\n3 contributions\n1\nBest place to drink wine in D1\nNov 2024 • Friends\nEasy to find, a lot of good wines. More than 1000 wines from the world, staff is nice and have knowlegde of wine. You can chose a bottle from 300.000 VND to 70.000.000 VND 😄.\nValue\nService\nFood\nAtmosphere\nWritten December 28, 2024",
             "rating": 5.0,
-            "review_date": "2026-10-10",
+            "review_date": "2026-10-15",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

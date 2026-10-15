@@ -1,0 +1,81 @@
+{
+    "restaurant_id": "15674366",
+    "restaurant_name": "The Barrel",
+    "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d15674366-Reviews-The_Barrel-Hanoi.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d15674366-Reviews-The_Barrel-Hanoi.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "06 Alley 19 Pho Lieu Giai Ba Dinh",
+            "postalCode": "100000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 21.034718,
+            "longitude": 105.814896
+        },
+        "image": "N/A",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "European"
+        ],
+        "telephone": "+84 90 219 03 30"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T10:51:41.790249",
+            "restaurant_id": "15674366",
+            "restaurant_name": "The Barrel",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d15674366-Reviews-The_Barrel-Hanoi.html#REVIEWS",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d15674366-Reviews-The_Barrel-Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "06 Alley 19 Pho Lieu Giai Ba Dinh",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.034718,
+                "longitude": 105.814896
+            },
+            "image": "N/A",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "European"
+            ],
+            "telephone": "+84 90 219 03 30",
+            "review_id": "REV_15674366_p1_0",
+            "reviewer_id": "User_15674366_1_0",
+            "review_title": "Review at The Barrel",
+            "review_text": "james j\nBraintree, United Kingdom4 contributions\n0\nGreat little French wine bar\nApr 2019 • Friends\nWe were walking around Hanoi and spotted a sign for a wine bar, we thought that we would try it out so we went in and ordered 1 bottle to try. It was so nice that we ordered another bottle and some food. The food cheese with some bread and it turned out to be the best cheese I have ever had.\nWritten April 12, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}
