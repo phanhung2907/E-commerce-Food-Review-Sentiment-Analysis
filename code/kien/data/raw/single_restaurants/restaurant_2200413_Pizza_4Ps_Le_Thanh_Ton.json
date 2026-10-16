@@ -1,10 +1,10 @@
 {
     "restaurant_id": "2200413",
     "restaurant_name": "Pizza 4P's Le Thanh Ton",
-    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,970 restaurants",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2200413-Reviews-Pizza_4P_s_Le_Thanh_Ton-Ho_Chi_Minh_City.html",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2200413-Reviews-Pizza_4P_s_Le_Thanh_Ton-Ho_Chi_Minh_City.html#REVIEWS",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2200413-Reviews-Pizza_4P_s_Le_Thanh_Ton-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2200413-Reviews-Pizza_4P_s_Le_Thanh_Ton-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -16,14 +16,14 @@
         "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": 4.6,
-            "reviewCount": 3065
+            "reviewCount": 3066
         },
         "geo": {
             "@type": "GeoCoordinates",
             "latitude": 10.781876,
             "longitude": 106.70514
         },
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0e/6d/46/caption.jpg?w=600&h=400&s=1",
         "openingHoursSpecification": [
             {
                 "@type": "OpeningHoursSpecification",
@@ -75,7 +75,7 @@
         ],
         "telephone": "+84 1900 6043"
     },
-    "reviews_count": 15,
+    "reviews_count": 17,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1364,6 +1364,178 @@
             "review_text": "Vespa31\nHouston, Texas61 contributions\n0\nTasty and Good Service\nApr 2026 • Family\nWe went twice while staying at a nearby hotel. The food was good - lots of variety. The atmosphere was nice and the staff was helpful. \n\nTrust Google maps when navigating to the location. It is down a dead-end street so it seems like it is in the middle of a building.\nValue\nService\nFood\nAtmosphere\nWritten June 15, 2026\nPizza 4P's Guest Service\nDear Mr./Ms. Vespa31,\n\nThank you very much for taking the time to share your experience at Pizza 4P's Le Thanh Ton.\nWe are delighted to hear that you visited us twice during your stay and enjoyed our food variety, atmosphere, and service. Your kind words about our team are truly encouraging and serve as great motivation for us to continue delivering memorable dining experiences.\n\nWe also appreciate your helpful note regarding our location. As our restaurant is situated at the end of a small street, we understand it can be a little difficult to find on the first visit. Thank you for sharing this tip with future guests.\n\nAt Pizza 4P's, we always strive to create “WOW” experiences for every guest, and we are delighted that we could contribute positively to your stay. We look forward to welcoming you back on your next visit and creating even more wonderful memories together.\n\nThank you once again for your support. We wish you all the best and hope to see you again soon.\nWarm regards,\nPizza 4P's Team\nRead more\nWritten June 16, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
             "rating": 5.0,
             "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T21:12:57.225614",
+            "restaurant_id": "2200413",
+            "restaurant_name": "Pizza 4P's Le Thanh Ton",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2200413-Reviews-Pizza_4P_s_Le_Thanh_Ton-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2200413-Reviews-Pizza_4P_s_Le_Thanh_Ton-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 3066
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.781876,
+                "longitude": 106.70514
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0e/6d/46/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza"
+            ],
+            "telephone": "+84 1900 6043",
+            "review_id": "REV_2200413_p1_0",
+            "reviewer_id": "User_2200413_1_0",
+            "review_title": "Review at Pizza 4P's Le Thanh Ton",
+            "review_text": "steve c\nOahu, Hawaii3 contributions\n0\nWonderful night with my son\nOct 2026 • Family\nShared a wonderful night with my son. The food was awesome, the service outstanding and served with a smile. We walked off the street and were lucky to get in. Not only was the food lovely, they finished the night with a beautiful gesture. Highly recommended\nInsider tip:\nNeed to boo. If you are lucky you might be able to walk off the street and jag a spot\nValue\nService\nFood\nAtmosphere\nWritten October 14, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T21:12:57.941383",
+            "restaurant_id": "2200413",
+            "restaurant_name": "Pizza 4P's Le Thanh Ton",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2200413-Reviews-Pizza_4P_s_Le_Thanh_Ton-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2200413-Reviews-Pizza_4P_s_Le_Thanh_Ton-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 3066
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.781876,
+                "longitude": 106.70514
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0e/6d/46/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Pizza"
+            ],
+            "telephone": "+84 1900 6043",
+            "review_id": "REV_2200413_p1_6",
+            "reviewer_id": "User_2200413_1_6",
+            "review_title": "Review at Pizza 4P's Le Thanh Ton",
+            "review_text": "Craig M\nDundee, United Kingdom595 contributions\n0\nJust OK\nAug 2026 • Couples\nWe visited here, having heard lots of good reports on the 4P's chain. It's a hard place to get a booking, so we ended up there quite late. Service was good, and the restaurant was nice, but the pizzas were just ok. The toppings were ok, but it just seemed like the pizzas weren't cooked properly. Having heard all the recommendations, we were quite disappointed, and we probably wouldn't return.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten September 10, 2026\nPizza 4P's Guest Service\nDear Mr/Ms Craig M,\n\nMy name is Loi Vien, Restaurant Manager at Pizza 4P's Le Thanh Ton.\nFirst of all, I would like to sincerely thank you for choosing Pizza 4P's Le Thanh Ton and for taking the time to share your feedback about your experience.\n\nI am truly sorry to learn that the quality of the pizza during your recent visit did not meet your expectations, particularly regarding the pizza not being baked as expected. We will review and recheck our preparation process, as well as the baking time and temperature, to ensure consistent pizza quality.\n\nAt the same time, I am glad to know that you appreciated our service and the restaurant's atmosphere. However, we understand that these positive aspects could not make up for the disappointment you felt when the food did not provide the experience you had expected after hearing so many good recommendations about Pizza 4P's.\n\nOnce again, I sincerely apologize for the incomplete experience during your visit, and I truly appreciate your feedback, which gives us an opportunity to reflect and improve.\n\nIf you have any further questions or feedback, please contact us via 4P's Guest Service Assistance (09:00 - 22:00)\n- Domestic Contact: 1900 6043\n- International Contact: (+84) 2836220500\n- Facebook Messenger: m.me/Pizza4Ps\n- Email: feedback@pizza4ps.com.\n\nSincerely,\nLoi Vien\nRestaurant Manager\nPizza 4P's Le Thanh Ton.\nRead more\nWritten September 11, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

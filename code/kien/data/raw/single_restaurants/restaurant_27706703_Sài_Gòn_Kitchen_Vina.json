@@ -4,7 +4,7 @@
     "city": "Vietnam_Subregion",
     "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -16,7 +16,7 @@
         "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": 4.7,
-            "reviewCount": 44
+            "reviewCount": 46
         },
         "geo": {
             "@type": "GeoCoordinates",
@@ -79,7 +79,7 @@
         ],
         "telephone": "+84778818688"
     },
-    "reviews_count": 15,
+    "reviews_count": 40,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1428,6 +1428,2256 @@
             "review_text": "Robert I\n28 contributions\n0\nDelicious food\nJan 2026 • Couples\nWe 'found' this restaurant through TripAdvisor based on its proximity to our hotel as much as anything else. It was the first evening after our flight so we were tired and were eating earlier then we normally would - 6pm. The restaurant was quiet but it meant that we had a table on the first floor looking out over the busy street.\nWe didn't order particularly wisely so ended up with lots more greenery on our plates than we were looking for but everything we ordered was delicious. The guy who served us was helpful and friendly but perhaps could have guided our choices a bit better. But that's the only negative.\nRead more\nInsider tip:\nIf you're not sure, ask for help when ordering. Don't order too much!\nValue\nService\nFood\nAtmosphere\nWritten February 14, 2026\nWanderer29713580599\nWe would like to thank you for your wonderful comments. Your support is a great encouragement to us. As a Vietnamese restaurant, we are proud to bring our customers dishes with rich Vietnamese flavors. Thank you and see you soon at Saigon Kitchen Vina!\nRead more\nWritten July 8, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:06.853391",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p1_0",
+            "reviewer_id": "User_27706703_1_0",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "Jelo B\n1 contribution\n0\nStaff grab my phone for review.\nOct 2026 • Solo\nThe staff forced me to write a review for their restaurant. Authentic Vietnamese cuisine but not my preference. Their menu is very expensive, ordered 1 dish and 1 drink cost me 370k\nWritten October 14, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:06.884531",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p1_1",
+            "reviewer_id": "User_27706703_1_1",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "Explorer55332001891\n1 contribution\n0\nGood food\nOct 2026 • Solo\nHUY is so good service and friendly .highly recommend.good food and fast\nWritten October 14, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:16.734297",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p2_2",
+            "reviewer_id": "User_27706703_2_2",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "Tracy S\nNewmarket, United Kingdom180 contributions\n0\nNice bite on a wander round Saigon\nJan 2026 • Couples\nEasy to find location \nQuick service nice food \nVery clean \nFriendly staff would definitely go again stumbled on it while out get bearings \nAs only arrived from Hoi an today\nValue\nService\nFood\nAtmosphere\nWritten January 19, 2026\nWanderer29713580599\nWe would like to thank you for your wonderful comments. Your support is a great encouragement to us. As a Vietnamese restaurant, we are proud to bring our customers dishes with rich Vietnamese flavors. Thank you and see you soon at Saigon Kitchen Vina!\nRead more\nWritten July 8, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:16.804838",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p2_3",
+            "reviewer_id": "User_27706703_2_3",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "Pioneer64669446700\n2 contributions\n0\nHighly recommended!\nJan 2026 • Couples\nGreat menu, every food was very good, including many vegetarian dishes. Highly recommended the pasta dishes with seafood. Very nice and attentive staff. Quiet, clean place. Air-conditioned, terrace on the 1st floor.\nValue\nService\nFood\nAtmosphere\nTranslated from German\nShow original\nWritten January 13, 2026\nWanderer29713580599\nWe would like to thank you for your wonderful comments. Your support is a great encouragement to us. As a Vietnamese restaurant, we are proud to bring our customers dishes with rich Vietnamese flavors. Thank you and see you soon at Saigon Kitchen Vina!\nRead more\nWritten July 8, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:16.842066",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p2_4",
+            "reviewer_id": "User_27706703_2_4",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "DayTrip54984644078\n10 contributions\n0\nGreat food, nice atmosphere and helpful people\nDec 2025 • Couples\nVaried menu of Vietnamese dishes at good prices. Plenty of choice of drinks to-juices, smoothies, teas etc as well as the canned beer.\nThere is an upstairs room too which looked inviting \nNice atmosphere, helpful people working there and great food\nValue\nService\nFood\nAtmosphere\nWritten December 4, 2025\nWanderer29713580599\nWe would like to thank you for your wonderful comments. Your support is a great encouragement to us. As a Vietnamese restaurant, we are proud to bring our customers dishes with rich Vietnamese flavors. Thank you and see you soon at Saigon Kitchen Vina!\nRead more\nWritten July 8, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:16.865469",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p2_5",
+            "reviewer_id": "User_27706703_2_5",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "Manuel D\n120 contributions\n0\nA great place for a date or the whole family\nDec 2025 • Family\nA fantastic dinner for a great price.\n\nThe restaurant was pretty empty when we arrived at around 7pm. The staff was very welcoming and got us a nice table for 5 close to the ac since it was very warm.\n\nLooking at the large menu it was hard to make a choice. Its pretty cool that some dishes that take longer have a timestamp. Makes it very easy to plan your order.\n\nI have chosen the chao with minced beef. Absolutely delicious and well seasoned. The portion was big enough though to feed 3. Other fantastic choice were the Kebab and sturgeon.\nRead more\nWritten December 3, 2025\nWanderer29713580599\nWe would like to thank you for your wonderful comments. Your support is a great encouragement to us. As a Vietnamese restaurant, we are proud to bring our customers dishes with rich Vietnamese flavors. Thank you and see you soon at Saigon Kitchen Vina!\nRead more\nWritten July 8, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:16.896220",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p2_6",
+            "reviewer_id": "User_27706703_2_6",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "Eric\n18 contributions\n0\nDeceived\nMar 2025 • Couples\nFood received not as shown on the picture (3 brochettes instead of 4, chicken and not pork), no explination provided.\nFood was good first time and deceiving seconde time.\nValue\nService\nFood\nAtmosphere\nWritten March 31, 2025\nHoài Thương Thương\nDear Eircdn,\n\nThank you for taking the time to share your feedback with us.\n\nWe’re truly sorry to hear about your recent experience at Sài Gòn Kitchen Vina and that the dish did not match your expectations based on the picture. We sincerely apologize for the discrepancy in the number and type of brochettes, and for not providing a clear explanation at the time – that is certainly not the standard of service we aim to uphold.\n\nWe’re grateful to know that you enjoyed your first visit, and we genuinely regret that your second visit left you feeling disappointed. Please rest assured that we are reviewing this issue with our team to prevent similar situations in the future.\n\nIf you would consider giving us another chance, we would love the opportunity to make it right and provide you with the exceptional dining experience you deserve.\n\nWarm regards,\nSài Gòn Kitchen Vina Team\nRead more\nWritten April 14, 2025\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:16.926713",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p2_7",
+            "reviewer_id": "User_27706703_2_7",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "Vivi M\n1 contribution\n0\nVery nice place for local food\nFeb 2025 • Friends\nNice food. Nice staff. I really Would recommend you to try. At central location, right at corner of main street Pasteur and Nguyen Du. Food is served very quickly. Nice local drinks too\nValue\nService\nFood\nAtmosphere\nWritten February 4, 2025\nHoài Thương Thương\nWe would like to thank you for your wonderful comments. Your support is a great encouragement to us. As a Vietnamese restaurant, we are proud to bring our customers dishes with rich Vietnamese flavors. Thank you and see you soon at Saigon Kitchen Vina!\nRead more\nWritten February 14, 2025\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:16.950302",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p2_8",
+            "reviewer_id": "User_27706703_2_8",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "Sarah G\n40 contributions\n0\nFab food Friendly service\nDec 2024 • Couples\nWhat an unexpected but fabulous find!! Just a stones throw from the old post office, fantastic Vietnamese food and super friendly staff. Great value for money too. Highly recommend\nWritten December 29, 2024\nHoài Thương Thương\nWe would like to thank you for your wonderful comments. Your support is a great encouragement to us. As a Vietnamese restaurant, we are proud to bring our customers dishes with rich Vietnamese flavors. Thank you and see you soon at Saigon Kitchen Vina!\nRead more\nWritten February 14, 2025\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:16.987420",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p2_9",
+            "reviewer_id": "User_27706703_2_9",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "Maps49598894457\n1 contribution\n0\nLunch\nOct 2024 • Friends\nThe place is overall great! We were just walking by but the place got our attention and has impressed us! You must taste their food!\nValue\nService\nFood\nAtmosphere\nWritten October 31, 2024\nHoài Thương Thương\nWe would like to thank you for your wonderful comments. Your support is a great encouragement to us. As a Vietnamese restaurant, we are proud to bring our customers dishes with rich Vietnamese flavors. Thank you and see you soon at Saigon Kitchen Vina!\nRead more\nWritten November 21, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:17.011338",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p2_10",
+            "reviewer_id": "User_27706703_2_10",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "Sarah S\nVillers-le-Bouillet, Belgium4 contributions\n0\nDelicious Vietnamese breakfast\nOct 2024 • Family\nIt is a very nice Vietnamese specialty restaurant, with impeccable hospitality, and delicious cuisine. Located very close to the great post office. To visit!\nTranslated from French\nShow original\nWritten October 27, 2024\nHoài Thương Thương\nWe would like to thank you for your wonderful comments. Your support is a great encouragement to us. As a Vietnamese restaurant, we are proud to bring our customers dishes with rich Vietnamese flavors. Thank you and see you soon at Saigon Kitchen Vina!\nRead more\nWritten October 31, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:17.031693",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p2_11",
+            "reviewer_id": "User_27706703_2_11",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "Road755376\n1 contribution\n0\nI love the food!\nOct 2024 • Couples\nI love the bun cha and banh xeo. My boyfriend said it’s one of the best banh xeo he tried in vietnam. Great quality and worth the price!\nWritten October 19, 2024\nHoài Thương Thương\nWe would like to thank you for your wonderful comments. Your support is a great encouragement to us. As a Vietnamese restaurant, we are proud to bring our customers dishes with rich Vietnamese flavors. Thank you and see you soon at Saigon Kitchen Vina!\nRead more\nWritten October 20, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:17.057001",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p2_12",
+            "reviewer_id": "User_27706703_2_12",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "Sabrina\n17 contributions\n0\nGood Vietnamese food\nOct 2024 • Couples\nGreat restaurant near the post office. Terrace overlooking the hustle and bustle of the city. Incl. Water aircondition on the terrace and air conditioning inside.\nSuper friendly staff and very delicious food. Menu with pictures 😉\nTranslated from German\nShow original\nWritten October 14, 2024\nHoài Thương Thương\nWe would like to thank you for your wonderful comments. Your support is a great encouragement to us. As a Vietnamese restaurant, we are proud to bring our customers dishes with rich Vietnamese flavors. Thank you and see you soon at Saigon Kitchen Vina!\nRead more\nWritten October 20, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:17.088608",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p2_13",
+            "reviewer_id": "User_27706703_2_13",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "Departure05111747439\n1 contribution\n0\nDaytime Experience\nOct 2024 • Couples\nThe rice was very good in the calm shop!\nThe customer service is excellent.\nThe seasoning was just right, and even I, the first-timer, could eat it deliciously!\nValue\nService\nFood\nAtmosphere\nTranslated from Japanese\nShow original\nWritten October 6, 2024\nHoài Thương Thương\nWe would like to thank you for your wonderful comments. Your support is a great encouragement to us. As a Vietnamese restaurant, we are proud to bring our customers dishes with rich Vietnamese flavors. Thank you and see you soon at Saigon Kitchen Vina!\nRead more\nWritten October 20, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:17.113022",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p2_14",
+            "reviewer_id": "User_27706703_2_14",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "Luke P\n1 contribution\n0\nExcellent\nSep 2024 • Family\nGreat service and amazing food. Staff went over and above to provide us a great experience. Would highly recommend this restaurant for nice chilled vibes and good food\nWritten September 29, 2024\nHoài Thương Thương\nWe would like to thank you for your wonderful comments. Your support is a great encouragement to us. As a Vietnamese restaurant, we are proud to bring our customers dishes with rich Vietnamese flavors. Thank you and see you soon at Saigon Kitchen Vina!\nRead more\nWritten October 1, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:27.463310",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p3_0",
+            "reviewer_id": "User_27706703_3_0",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "John B\n2 contributions\n0\nVietnam dining. Saigon.\nSep 2024 • Couples\nAwesome food, the service was first class, very friendly staff, I would highly recommend dining here when you visit Saigon!\nWritten September 29, 2024\nHoài Thương Thương\nWe would like to thank you for your wonderful comments. Your support is a great encouragement to us. As a Vietnamese restaurant, we are proud to bring our customers dishes with rich Vietnamese flavors. Thank you and see you soon at Saigon Kitchen Vina!\nRead more\nWritten October 1, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:27.508798",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p3_1",
+            "reviewer_id": "User_27706703_3_1",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "Susanne M\n20 contributions\n0\nNot recommended when it is full\nSep 2024 • Couples\nWe were there for the first time and very satisfied. Due to the positive experiences we wanted to eat there again 2 days later and were more than disappointed. The restaurant was very well attended, you could tell by the service. No refreshing towels on arrival like the previous time, long wait for service, one food was completely forgotten, for the other food there was no cutlery and did not taste good either. When asked for the missing food, the card was brought back, so the food had never been noted. We preferred to pay and go somewhere else to eat for one person. Again, we had no time to wait forever. It's just a shame.\nRead more\nTranslated from German\nShow original\nWritten September 25, 2024\nHoài Thương Thương\nDear Our Valued Customer,\n\nThank you for taking the time to share your feedback with us. We’re truly sorry to hear that your second visit did not meet the expectations set by your first experience. While we are delighted that you initially enjoyed your meal, it is disappointing that we fell short on your return visit.\n\nWe deeply regret the lapses in service, including the missing refreshing towels, delayed service, and the forgotten meal. These are not reflective of the standards we strive to maintain. We will be reviewing the situation with our team to ensure that such issues do not happen again, especially during busy times.\n\nYour satisfaction is very important to us, and we would love the opportunity to make it up to you. Please feel free to contact us directly if you decide to visit us again, and we’ll ensure your next experience is seamless and enjoyable.\n\nThank you once again for your feedback, and we hope to welcome you back in the future.\nRead more\nWritten October 1, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:27.549037",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p3_2",
+            "reviewer_id": "User_27706703_3_2",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "Adventure38797519652\n2 contributions\n0\nExcelent!!\nAug 2024 • Solo\nVery beautiful place, and decoration. Good ambience and good meal. Very tasty food and personal very kind!!\nI recomend it!!\nWritten August 24, 2024\nHoài Thương Thương\nWe would like to thank you for your wonderful comments. Your support is a great encouragement to us. As a Vietnamese restaurant, we are proud to bring our customers dishes with rich Vietnamese flavors. Thank you and see you soon at Saigon Kitchen Vina!\nRead more\nWritten August 26, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:27.621591",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p3_3",
+            "reviewer_id": "User_27706703_3_3",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "gtravelsdiary\n2 contributions\n1\nVietnamese Cuisine in a Cozy Ambiance\nAug 2024 • Family\nWith the numerous choices of Vietnamese restaurants in Ho Chi Minh, you might be wondering what makes this place a must visit restaurant. The quality of the food is no doubt delicious and good. The friendliness and the pleasant personality of the staff adds to the cozy ambiance. This place is also walking distance from the Saigon Central Post Office and the Saigon Notre Dame so it’s a good spot to hit after visiting the sites to complete the Saigon vibe.\nRead more\nInsider tip:\nCome in with an appetite ready to explore and indulge some awesome food!\nValue\nService\nFood\nAtmosphere\nWritten August 20, 2024\nHoài Thương Thương\nWe would like to thank you for your wonderful comments. Your support is a great encouragement to us. As a Vietnamese restaurant, we are proud to bring our customers dishes with rich Vietnamese flavors. Thank you and see you soon at Saigon Kitchen Vina!\nRead more\nWritten August 26, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:27.651838",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p3_4",
+            "reviewer_id": "User_27706703_3_4",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "Tour26336063884\n1 contribution\n0\nA place to try good vietnamese cuisine\nAug 2024 • Couples\nExcellent service. Friendly staff. Polite. Helpful.\nFood was very well presented, fresh and vibrant. Flavourful. \nCrab fried rice was served with a fair amount of crab. \nFish sauce stir fried pork belly was really good\nValue\nService\nFood\nAtmosphere\nWritten August 18, 2024\nHoài Thương Thương\nWe would like to thank you for your wonderful comments. Your support is a great encouragement to us. As a Vietnamese restaurant, we are proud to bring our customers dishes with rich Vietnamese flavors. Thank you and see you soon at Saigon Kitchen Vina!\nRead more\nWritten August 26, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:27.672794",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p3_5",
+            "reviewer_id": "User_27706703_3_5",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "mynameisfranklyn\nJakarta, Indonesia6 contributions\n0\nWorth to try 👍\nAug 2024 • Couples\nHealing food, the location is perfect. and the staff can communicate with a very good english.. THUMBS UP !!!👍👍👍👍👍\nWritten August 18, 2024\nHoài Thương Thương\nWe would like to thank you for your wonderful comments. Your support is a great encouragement to us. As a Vietnamese restaurant, we are proud to bring our customers dishes with rich Vietnamese flavors. Thank you and see you soon at Saigon Kitchen Vina!\nRead more\nWritten August 26, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:27.695108",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p3_6",
+            "reviewer_id": "User_27706703_3_6",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "S M\n1 contribution\n0\nVery good restaurant\nAug 2024 • Family\nPlace well placed! Banh xeo is delicious and so is pho! The staff is very friendly and attentive \nI highly recommend\nTranslated from French\nShow original\nWritten August 15, 2024\nHoài Thương Thương\nWe would like to thank you for your wonderful comments. Your support is a great encouragement to us. As a Vietnamese restaurant, we are proud to bring our customers dishes with rich Vietnamese flavors. Thank you and see you soon at Saigon Kitchen Vina!\nRead more\nWritten August 17, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:27.710554",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p3_7",
+            "reviewer_id": "User_27706703_3_7",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "Céline P\n1 contribution\n0\nGood Vietnamese food\nAug 2024 • Family\nNice restaurant where we eat very close to the city center. Several varieties of Vietnamese food. To be tested.\nTranslated from French\nShow original\nWritten August 15, 2024\nHoài Thương Thương\nWe would like to thank you for your wonderful comments. Your support is a great encouragement to us. As a Vietnamese restaurant, we are proud to bring our customers dishes with rich Vietnamese flavors. Thank you and see you soon at Saigon Kitchen Vina!\nRead more\nWritten August 17, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:27.747747",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p3_8",
+            "reviewer_id": "User_27706703_3_8",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "Douglas F\n46 contributions\n0\nQuick Dinner with decent food\nJul 2024 • Family\nRibs were really good as was the pad choi and fried rice with shredded chicken \n\nGreat location to sit upstairs \n\nNear the note dame church\nValue\nService\nFood\nAtmosphere\nWritten July 17, 2024\nHoài Thương Thương\nWe would like to thank you for your wonderful comments. Your support is a great encouragement to us. As a Vietnamese restaurant, we are proud to bring our customers dishes with rich Vietnamese flavors. Thank you and see you soon at Saigon Kitchen Vina!\nRead more\nWritten July 28, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:09:27.769687",
+            "restaurant_id": "27706703",
+            "restaurant_name": "Sài Gòn Kitchen Vina",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27706703-Reviews-Sai_Gon_Kitchen_Vina-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778255,
+                "longitude": 106.69916
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Deli",
+                "Fusion",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84778818688",
+            "review_id": "REV_27706703_p3_9",
+            "reviewer_id": "User_27706703_3_9",
+            "review_title": "Review at Sài Gòn Kitchen Vina",
+            "review_text": "Jenny W\n4 contributions\n1\nBalcony lunch\nJul 2024 • Couples\nGreat local food in a great location. Very friendly service from lovely locals :) Upstairs balcony is very comfortable.\nWritten July 11, 2024\nHoài Thương Thương\nWe would like to thank you for your wonderful comments. Your support is a great encouragement to us. As a Vietnamese restaurant, we are proud to bring our customers dishes with rich Vietnamese flavors. Thank you and see you soon at Saigon Kitchen Vina!\nRead more\nWritten July 28, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

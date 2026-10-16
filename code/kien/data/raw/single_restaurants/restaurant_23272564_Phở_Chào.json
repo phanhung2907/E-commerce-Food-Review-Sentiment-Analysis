@@ -2,9 +2,9 @@
     "restaurant_id": "23272564",
     "restaurant_name": "Phở Chào",
     "city": "Vietnam_Subregion",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23272564-Reviews-Ph_Chao-Ho_Chi_Minh_City.html",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23272564-Reviews-Ph_Chao-Ho_Chi_Minh_City.html#REVIEWS",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23272564-Reviews-Ph_Chao-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23272564-Reviews-Ph_Chao-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -23,7 +23,7 @@
             "latitude": 10.791261,
             "longitude": 106.71005
         },
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/01/47/38/caption.jpg?w=600&h=400&s=1",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
         "openingHoursSpecification": [
             {
                 "@type": "OpeningHoursSpecification",
@@ -75,7 +75,7 @@
         ],
         "telephone": "+84 90 270 12 08"
     },
-    "reviews_count": 15,
+    "reviews_count": 16,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1364,6 +1364,92 @@
             "review_text": "Cherry Pum\nHo Chi Minh City, Vietnam10 contributions\n2\nHeaven-like, from main course to dessert\nApr 2021 • Friends\nI came there on a holiday, mid afternoon for a late lunch. There are top 3 that you MUST TRY:\n1. I ordered pho-tine (a lovely creation & combination between Vietnamese & Canadian cuisine). Lots of crispy fries, tonnes of cheese, beef gravies, & stir fried vegetables around the bowl. Quite a big portion to me but I consumed it well since too hungry. \n2. For the drinks, I got recommendation for a sparkling fermented organic Kombucha Tea, which tasted lovely, feeling like I was having a light sour cider or bubble rosé. \n3. Last but not least, the dessert, man you need to try the chilled coconut dessert. Soft coconut gel, creamy coconut milk & fresh coconut flesh, served with ice. I was feeling like in heaven haha\nRead more\nWritten May 5, 2021",
             "rating": 5.0,
             "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:23:15.701503",
+            "restaurant_id": "23272564",
+            "restaurant_name": "Phở Chào",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23272564-Reviews-Ph_Chao-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23272564-Reviews-Ph_Chao-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 17
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.791261,
+                "longitude": 106.71005
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 270 12 08",
+            "review_id": "REV_23272564_p2_0",
+            "reviewer_id": "User_23272564_2_0",
+            "review_title": "Review at Phở Chào",
+            "review_text": "ChrisInVietnam1979\nIstanbul, Türkiye4 contributions\n2\nPHOntastic Place\nApr 2021\nAmazing little Pho restaurant with great food and friendly staff. As expat who has been living 8 years in Vietnam I can say this is one of the best \"local\" food options in HCMC if you like a nice bowl of Pho!\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten May 5, 2021",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

@@ -2,9 +2,9 @@
     "restaurant_id": "25241067",
     "restaurant_name": "LOOP 1 - Cocktail Bar & Kitchen",
     "city": "Vietnam_Subregion",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25241067-Reviews-LOOP_1_Cocktail_Bar_Kitchen-Ho_Chi_Minh_City.html",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25241067-Reviews-LOOP_1_Cocktail_Bar_Kitchen-Ho_Chi_Minh_City.html#REVIEWS",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25241067-Reviews-LOOP_1_Cocktail_Bar_Kitchen-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25241067-Reviews-LOOP_1_Cocktail_Bar_Kitchen-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -78,7 +78,7 @@
         ],
         "telephone": "+84 79 452 7594"
     },
-    "reviews_count": 15,
+    "reviews_count": 20,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1412,6 +1412,451 @@
             "review_text": "Maps06062056991\n1 contribution\n1\nReview\nApr 2023 • Solo\nMy fav place to come in Saigon. Unique Egypt style with good drink, specially Forbiden Fruit. Friendly bartenders, live music per Fri & Sat. \nHighly recommend 👍\nWritten April 9, 2023",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T01:48:27.249784",
+            "restaurant_id": "25241067",
+            "restaurant_name": "LOOP 1 - Cocktail Bar & Kitchen",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25241067-Reviews-LOOP_1_Cocktail_Bar_Kitchen-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25241067-Reviews-LOOP_1_Cocktail_Bar_Kitchen-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 30
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779229,
+                "longitude": 106.702354
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d2/31/ed/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Bar",
+                "Seafood",
+                "Pub",
+                "Dining bars"
+            ],
+            "telephone": "+84 79 452 7594",
+            "review_id": "REV_25241067_p2_0",
+            "reviewer_id": "User_25241067_2_0",
+            "review_title": "Review at LOOP 1 - Cocktail Bar & Kitchen",
+            "review_text": "Trang T\n2 contributions\n0\nNICE BAR\nFeb 2023 • Couples\nThe bar has a very nice design, in the middle east style. location right in the center of Saigon, District 1. Very good cocktails, good food. Very friendly staff\nWritten March 1, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T01:48:27.273493",
+            "restaurant_id": "25241067",
+            "restaurant_name": "LOOP 1 - Cocktail Bar & Kitchen",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25241067-Reviews-LOOP_1_Cocktail_Bar_Kitchen-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25241067-Reviews-LOOP_1_Cocktail_Bar_Kitchen-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 30
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779229,
+                "longitude": 106.702354
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d2/31/ed/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Bar",
+                "Seafood",
+                "Pub",
+                "Dining bars"
+            ],
+            "telephone": "+84 79 452 7594",
+            "review_id": "REV_25241067_p2_1",
+            "reviewer_id": "User_25241067_2_1",
+            "review_title": "Review at LOOP 1 - Cocktail Bar & Kitchen",
+            "review_text": "Lee Jong\n2 contributions\n1\nSet oyster + tequila is so excelent !!\nFeb 2023\nThe Set oyster + tequila is really explodes the taste buds. Recommend everyone to try this dish. Cocktail is good. this is my favourite bar in saigon.\nValue\nService\nFood\nWritten February 5, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T01:48:27.292580",
+            "restaurant_id": "25241067",
+            "restaurant_name": "LOOP 1 - Cocktail Bar & Kitchen",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25241067-Reviews-LOOP_1_Cocktail_Bar_Kitchen-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25241067-Reviews-LOOP_1_Cocktail_Bar_Kitchen-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 30
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779229,
+                "longitude": 106.702354
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d2/31/ed/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Bar",
+                "Seafood",
+                "Pub",
+                "Dining bars"
+            ],
+            "telephone": "+84 79 452 7594",
+            "review_id": "REV_25241067_p2_2",
+            "reviewer_id": "User_25241067_2_2",
+            "review_title": "Review at LOOP 1 - Cocktail Bar & Kitchen",
+            "review_text": "Jose\n2 contributions\n0\nWARM PLACE, EVEN YOU COME ALONE\nFeb 2023 • Solo\nThey have so many place for 1 person. But i like station bar and balcony. Bartenders are so funny. And cocktail is excelent !!\nWritten February 3, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T01:48:27.317115",
+            "restaurant_id": "25241067",
+            "restaurant_name": "LOOP 1 - Cocktail Bar & Kitchen",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25241067-Reviews-LOOP_1_Cocktail_Bar_Kitchen-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25241067-Reviews-LOOP_1_Cocktail_Bar_Kitchen-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 30
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779229,
+                "longitude": 106.702354
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d2/31/ed/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Bar",
+                "Seafood",
+                "Pub",
+                "Dining bars"
+            ],
+            "telephone": "+84 79 452 7594",
+            "review_id": "REV_25241067_p2_3",
+            "reviewer_id": "User_25241067_2_3",
+            "review_title": "Review at LOOP 1 - Cocktail Bar & Kitchen",
+            "review_text": "Tim\n2 contributions\n0\nSo nice\nDec 2022\nI went to Christmas with my friend. Everything from the cocktails to the food is superb. They even have a nice little tropical garden right out on the balcony. Love it !!\nValue\nService\nFood\nWritten January 31, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T01:48:27.339795",
+            "restaurant_id": "25241067",
+            "restaurant_name": "LOOP 1 - Cocktail Bar & Kitchen",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25241067-Reviews-LOOP_1_Cocktail_Bar_Kitchen-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25241067-Reviews-LOOP_1_Cocktail_Bar_Kitchen-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 30
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779229,
+                "longitude": 106.702354
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d2/31/ed/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:30:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "Bar",
+                "Seafood",
+                "Pub",
+                "Dining bars"
+            ],
+            "telephone": "+84 79 452 7594",
+            "review_id": "REV_25241067_p2_4",
+            "reviewer_id": "User_25241067_2_4",
+            "review_title": "Review at LOOP 1 - Cocktail Bar & Kitchen",
+            "review_text": "Ken Nguyen\n1 contribution\n1\nCOCKTAIL BAR WITH EGYPT STYLE IN CENTER SAIGON\nJan 2023\nHighly recommend !! Drinks are beautifullllll we came in the rushing time, order some custome drinks and also the ramos gin fizz was almost perfect. Foods are fast but still very delicate and good price, perfectly they have the balcony for smoke and planting with my favourite rosemary, so no smoke and drug inside, nice airrr ,need to comebackkkk\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten January 29, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

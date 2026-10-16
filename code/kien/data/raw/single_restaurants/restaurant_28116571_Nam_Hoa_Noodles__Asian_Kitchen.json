@@ -23,7 +23,7 @@
             "latitude": 10.772006,
             "longitude": 106.723625
         },
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/0a/6e/cf/caption.jpg?w=600&h=400&s=1",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/db/21/caption.jpg?w=600&h=400&s=1",
         "openingHoursSpecification": [
             {
                 "@type": "OpeningHoursSpecification",
@@ -76,7 +76,7 @@
         ],
         "telephone": "+84 96 477 78 03"
     },
-    "reviews_count": 1,
+    "reviews_count": 2,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -162,6 +162,93 @@
             "review_text": "Soko37\nBudapest, Hungary20962 contributions\n1\nNoodles 🍜 cuisine\nAug 2024 • Solo\nNewly opened in the area, offering Asian food noodles. Sitting outside and inside, all places under the roof if 🌧️. Tried wonton soups and dish. Plenty of seats but in lunch time hot quickly crowded. Waiter helped me with menu, menu is only on local language. Decent price and taste, maybe coming again\nInsider tip:\nLunch menu is good price option\nValue\nService\nFood\nAtmosphere\nWritten August 15, 2024",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T02:21:57.462761",
+            "restaurant_id": "28116571",
+            "restaurant_name": "Nam Hoa Noodles & Asian Kitchen",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28116571-Reviews-Nam_Hoa_Noodles_Asian_Kitchen-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28116571-Reviews-Nam_Hoa_Noodles_Asian_Kitchen-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.772006,
+                "longitude": 106.723625
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/db/21/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Taiwanese"
+            ],
+            "telephone": "+84 96 477 78 03",
+            "review_id": "REV_28116571_p1_0",
+            "reviewer_id": "User_28116571_1_0",
+            "review_title": "Review at Nam Hoa Noodles & Asian Kitchen",
+            "review_text": "Soko37\nBudapest, Hungary21080 contributions\n1\nNoodles 🍜 cuisine\nAug 2024 • Solo\nNewly opened in the area, offering Asian food noodles. Sitting outside and inside, all places under the roof if 🌧️. Tried wonton soups and dish. Plenty of seats but in lunch time hot quickly crowded. Waiter helped me with menu, menu is only on local language. Decent price and taste, maybe coming again\nInsider tip:\nLunch menu is good price option\nValue\nService\nFood\nAtmosphere\nWritten August 15, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

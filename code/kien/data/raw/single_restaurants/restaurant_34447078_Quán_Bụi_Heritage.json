@@ -75,7 +75,7 @@
         ],
         "telephone": "+84 94 105 72 03"
     },
-    "reviews_count": 15,
+    "reviews_count": 21,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1364,6 +1364,522 @@
             "review_text": "Lifetime V\n1 contribution\n0\nThe service is great\nJun 2026 • Family\nHuy is a great customer service and food is delicious \nWe will come back\nWritten June 30, 2026\nDanh Tran\nThank you so much for your kind review! We’re delighted that you enjoyed the delicious food and great service.\nA special thank you for mentioning Huy we’ll be sure to share your kind words with him. We look forward to welcoming you back again soon! ❤️🇻🇳\nRead more\nWritten August 30, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:22:47.342124",
+            "restaurant_id": "34447078",
+            "restaurant_name": "Quán Bụi Heritage",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34447078-Reviews-Quan_B_i_Heritage-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34447078-Reviews-Quan_B_i_Heritage-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78458,
+                "longitude": 106.69753
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/e3/ed/a5/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 94 105 72 03",
+            "review_id": "REV_34447078_p2_0",
+            "reviewer_id": "User_34447078_2_0",
+            "review_title": "Review at Quán Bụi Heritage",
+            "review_text": "Laren S\n2 contributions\n0\nGood VN restaurant in Saigon\nJun 2026 • Family\nEverything is nice, but the art decor makes me so impressed\nWritten June 29, 2026\nDanh Tran\nThank you for your lovely review! We’re delighted that you enjoyed the food and your overall experience at Quán Bụi.\nWe’re especially happy to hear that our art and décor made such a strong impression. We look forward to welcoming you back again soon! ❤️🇻🇳\nRead more\nWritten August 30, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:22:47.391161",
+            "restaurant_id": "34447078",
+            "restaurant_name": "Quán Bụi Heritage",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34447078-Reviews-Quan_B_i_Heritage-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34447078-Reviews-Quan_B_i_Heritage-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78458,
+                "longitude": 106.69753
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/e3/ed/a5/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 94 105 72 03",
+            "review_id": "REV_34447078_p2_1",
+            "reviewer_id": "User_34447078_2_1",
+            "review_title": "Review at Quán Bụi Heritage",
+            "review_text": "Diên K\n1 contribution\n0\nDelicious food, cozy atmosphere, and excellent service\nJun 2026 • Couples\nThe restaurant has a beautiful atmosphere and delicious food; the staff are enthusiastic, charming, and genuinely attentive.\nValue\nService\nFood\nAtmosphere\nWritten June 28, 2026\nDanh Tran\nThank you so much for your wonderful review! We’re delighted that you enjoyed the food, cozy atmosphere, and attentive service from our team.\nYour kind words mean a lot to us, and we look forward to welcoming you back again soon!\nRead more\nWritten August 30, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:22:47.445162",
+            "restaurant_id": "34447078",
+            "restaurant_name": "Quán Bụi Heritage",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34447078-Reviews-Quan_B_i_Heritage-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34447078-Reviews-Quan_B_i_Heritage-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78458,
+                "longitude": 106.69753
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/e3/ed/a5/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 94 105 72 03",
+            "review_id": "REV_34447078_p2_2",
+            "reviewer_id": "User_34447078_2_2",
+            "review_title": "Review at Quán Bụi Heritage",
+            "review_text": "Climber04882330579\nVietnam3 contributions\n0\nDelicious Food, Cozy Atmosphere, and Excellent Service\nJun 2026 • Friends\nI had a wonderful experience here with my friends. The food was delicious, fresh, and beautifully presented. The atmosphere was warm, cozy, and relaxing, making it a great place to enjoy a meal together. The staff were friendly, attentive, and provided excellent service throughout our visit. Overall, I highly recommend this place and would definitely come back again.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten June 28, 2026\nDanh Tran\nThank you so much for your wonderful review! We’re delighted to hear that you and your friends enjoyed the food, cozy atmosphere, and attentive service from our team.\nYour recommendation truly means a lot to us. We look forward to welcoming you back for another memorable dining experience soon!\nRead more\nWritten August 30, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:22:47.495139",
+            "restaurant_id": "34447078",
+            "restaurant_name": "Quán Bụi Heritage",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34447078-Reviews-Quan_B_i_Heritage-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34447078-Reviews-Quan_B_i_Heritage-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78458,
+                "longitude": 106.69753
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/e3/ed/a5/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 94 105 72 03",
+            "review_id": "REV_34447078_p2_3",
+            "reviewer_id": "User_34447078_2_3",
+            "review_title": "Review at Quán Bụi Heritage",
+            "review_text": "Ngoc L\n3 contributions\n0\nDinner with families\nJun 2026 • Family\nBeautiful ambiance, delicious food, great value for money.\nValue\nService\nFood\nAtmosphere\nWritten June 28, 2026\nDanh Tran\nThank you for your lovely review! We’re delighted that you and your family enjoyed the beautiful ambiance, delicious food, and great value.\nWe truly appreciate your visit and look forward to welcoming your family back again soon! ❤️🇻🇳\nRead more\nWritten August 30, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:22:47.528893",
+            "restaurant_id": "34447078",
+            "restaurant_name": "Quán Bụi Heritage",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34447078-Reviews-Quan_B_i_Heritage-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34447078-Reviews-Quan_B_i_Heritage-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78458,
+                "longitude": 106.69753
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/e3/ed/a5/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 94 105 72 03",
+            "review_id": "REV_34447078_p2_4",
+            "reviewer_id": "User_34447078_2_4",
+            "review_title": "Review at Quán Bụi Heritage",
+            "review_text": "JuJu\n5 contributions\n0\nBest restaurant in town\nJun 2026 • Friends\nGood vibe, good food, great staff\nWritten June 28, 2026\nDanh Tran\nThank you so much for the wonderful review! We’re delighted that you enjoyed the food, atmosphere, and service from our team.\nCalling us the “best restaurant in town” truly means a lot. We look forward to welcoming you back again soon!\nRead more\nWritten August 30, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:22:47.569581",
+            "restaurant_id": "34447078",
+            "restaurant_name": "Quán Bụi Heritage",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34447078-Reviews-Quan_B_i_Heritage-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34447078-Reviews-Quan_B_i_Heritage-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78458,
+                "longitude": 106.69753
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/e3/ed/a5/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 94 105 72 03",
+            "review_id": "REV_34447078_p2_5",
+            "reviewer_id": "User_34447078_2_5",
+            "review_title": "Review at Quán Bụi Heritage",
+            "review_text": "Jane\n3 contributions\n0\nGood, try it.\nJun 2026 • Business\nGreat food, great space for party.\nValue\nService\nFood\nAtmosphere\nTranslated from Vietnamese\nShow original\nWritten June 13, 2026\nDanh Tran\nCảm ơn anh/chị đã dành lời khen! Chúng tôi rất vui khi bạn hài lòng với món ăn và không gian tại Quán Bụi.\nHy vọng sẽ tiếp tục được đón tiếp bạn trong những bữa tiệc và dịp đặc biệt sắp tới. ❤️🇻🇳\nRead more\nWritten August 30, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

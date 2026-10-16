@@ -2,7 +2,7 @@
     "restaurant_id": "2388682",
     "restaurant_name": "Dong Hoa Xuan Restaurant",
     "city": "Vietnam_Subregion",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html",
     "metadata": {
         "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
@@ -69,7 +69,7 @@
         ],
         "telephone": "+84 8 3510 1771"
     },
-    "reviews_count": 15,
+    "reviews_count": 27,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1268,6 +1268,966 @@
             "review_text": "Anthony S\nNYC5 contributions\n0\nSimply AMAZING food!\nJun 2013 • Business\nI live in NYC and I am working in Binh Than District for three weeks. Read about this restaurant on tripadvisor and found that it is right around the corner from the office. So, I tried it with some of the staff. They had never eaten there. After, two visits and a delivery. I am blown away by the food. My staff said they will definitely go back there. The caramelized fish is off the charts great! The smoke grilled pork was excellent especially with the sauce it is served with. It had me sucking the bone. I also had the mellon soup which was light and flavorful. Cold ice tea was refreshing. On my first visit, I got all three dishes and the drink for 55,000 dong. THAT IS RIGHT_55,000 DONG! Remember this is an open air restaurant without air but good fans. The food and EXCELLENT service made up for every bit no air conditioning.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten June 28, 2013",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:46:38.917920",
+            "restaurant_id": "2388682",
+            "restaurant_name": "Dong Hoa Xuan Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 27
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.80806,
+                "longitude": 106.69509
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/fe/ae/fe/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 8 3510 1771",
+            "review_id": "REV_2388682_p2_0",
+            "reviewer_id": "User_2388682_2_0",
+            "review_title": "Review at Dong Hoa Xuan Restaurant",
+            "review_text": "ASH438\nOakland, California1 contribution\n0\nFor Adventurous Travelers, But Worth It\nOct 2012 • Couples\nWe found this restaurant through a friend's food blog. We were still learning how to take the bus to get around HCMC, and were nervous we might miss the stop and wind up totally lost. Luckily, it wasn't too far from District 1, and the bus let us off almost right in front if the restaurant. \n\nIt's a great little restaurant, and they definitely served some of the more interesting and adventurous dishes we had during our trip. Most worthy of praise was the Ca Kho To, a clay pot fish dish. I believe the fish was catfish; it was flaky and delicious, covered with a sweet-savory carmelized sauce. It was obvious that everything had been cooked fresh to order with care and attention. \n\nThe service was friendly and accommodating, which was consistent with almost every interaction we had in the course of our trip. The restaurant staff was extremely gracious and the food made it well worth the trip out of our comfort zone. We spoke with Hai, the owner, and as others have mentioned, he was very charming and helpful - an excellent host. \n\nIf you want a true authentic Vietnamese experience with delicious local flavors, do not miss Dong Hoa Xuan!\nRead more\nValue\nService\nFood\nAtmosphere\nReview collected in partnership with this restaurant \nWritten June 9, 2013",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:46:38.953241",
+            "restaurant_id": "2388682",
+            "restaurant_name": "Dong Hoa Xuan Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 27
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.80806,
+                "longitude": 106.69509
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/fe/ae/fe/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 8 3510 1771",
+            "review_id": "REV_2388682_p2_1",
+            "reviewer_id": "User_2388682_2_1",
+            "review_title": "Review at Dong Hoa Xuan Restaurant",
+            "review_text": "Ayeshahalam\nKarachi, Pakistan41 contributions\n0\nOh my God!! You have to try this once!!!\nMay 2013\nI accidentally came across this place by looking for food bloggers and someone spoke highly of the food here. I tried their caramelized fish and all I can say is wow!!! Very different from the usual Vietnamese flavours. Spicy and delicious!!!\nValue\nService\nFood\nAtmosphere\nWritten May 15, 2013",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:46:38.988184",
+            "restaurant_id": "2388682",
+            "restaurant_name": "Dong Hoa Xuan Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 27
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.80806,
+                "longitude": 106.69509
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/fe/ae/fe/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 8 3510 1771",
+            "review_id": "REV_2388682_p2_2",
+            "reviewer_id": "User_2388682_2_2",
+            "review_title": "Review at Dong Hoa Xuan Restaurant",
+            "review_text": "ChongLip\nSingapore, Singapore23 contributions\n0\nHidden Gem\nMay 2013 • Couples\nI chanced upon this hidden gem on a blog and decided to give it a try. It was well worth the trip from District 1 given the quality and authenticity of the food. Most of the patrons were locals- students, working professionals and your typical uncles and aunties.\n\nWe had grilled pork ribs which was beautifully flavoured, divine caramelized fish in a mini claypot(which had the right amount of spice and saltiness), bitter gourd soup with minced pork(delightful and not too bitter) and pork stomach in a sweet, tangy sauce. I liked that the owner, Hai took time to explain the dishes and asked if he could help us once he observed that we were foreigners. \n\nI especially loved the pickles and condiments and asked him where I could find it. To my delight, he packed some and gave me a generous portion of it as a gift back home. He went on to describe how I can find these at the local market 5 mins away and even drew a map for me.\n\nIf you are keen to find out more about Vietnamese cuisine and even a homestay at his place, you can visit eatingsaigon.com where I think he maintains an informative food blog. \n\nAll in all a wonderful finish to our 10 day stay in Vietnam for its excellent value, service and food. We will definitely come back again!\nRead more\nValue\nService\nFood\nAtmosphere\nWritten May 6, 2013",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:46:39.030738",
+            "restaurant_id": "2388682",
+            "restaurant_name": "Dong Hoa Xuan Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 27
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.80806,
+                "longitude": 106.69509
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/fe/ae/fe/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 8 3510 1771",
+            "review_id": "REV_2388682_p2_3",
+            "reviewer_id": "User_2388682_2_3",
+            "review_title": "Review at Dong Hoa Xuan Restaurant",
+            "review_text": "Daniel P\n3 contributions\n0\nThe best food we had in Vietnam\nMay 2013 • Business\nHowever you get here (we walked; a taxi is far more sensible), this place is one of the most delicious spots you'll find in Saigon, and probably in Vietnam. We've been here for 3 1/2 weeks and haven't had better. See our blog post at\nhttp://qiulaeanddan.com/2013/05/04/the-unexpected-pilgrimage-of-dan-and-q/ for a fuller review. \n\nWe had the stuffed bitter melon soup, pork ribs, and the caramelised fish. All were superb; the fish is a must order. It is as good as we've had on our trip; the food is faultless. \n\nThe owner, Hai, was there when we ate. He's a great host, speaks fantastic English and will look after you well. \n\nIt's a little way out from the backpackers area, but we'd crawl on broken glass to go back. Go there. Go there now.\nRead more\nWritten May 4, 2013",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:46:39.064618",
+            "restaurant_id": "2388682",
+            "restaurant_name": "Dong Hoa Xuan Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 27
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.80806,
+                "longitude": 106.69509
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/fe/ae/fe/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 8 3510 1771",
+            "review_id": "REV_2388682_p2_4",
+            "reviewer_id": "User_2388682_2_4",
+            "review_title": "Review at Dong Hoa Xuan Restaurant",
+            "review_text": "BLOLosAngeles\nLos Angeles6 contributions\n0\nAuthentic and delicious!\nMar 2013\nTired of being in the tourist traps? We took a cab from hotel area District 1, cab fare was 4usd. Big space with lots of tables indoors. Grill outside cooking the pork (smells yummy!) and we ordered the specialties: Ca Kho (caramelized fish), stuffed bitter melon soup, Canh chua (Fish soup with vegetables) among other dishes. All were excellent, fresh and flavor profile was surprisingly complex. Very worth venturing off the beaten Lonely Planet path. Easy to flag taxi back on the main street. The owner was there, was helpful and gracious.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten March 31, 2013",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:46:39.080643",
+            "restaurant_id": "2388682",
+            "restaurant_name": "Dong Hoa Xuan Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 27
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.80806,
+                "longitude": 106.69509
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/fe/ae/fe/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 8 3510 1771",
+            "review_id": "REV_2388682_p2_5",
+            "reviewer_id": "User_2388682_2_5",
+            "review_title": "Review at Dong Hoa Xuan Restaurant",
+            "review_text": "Lekha A\nJohannesburg, South Africa187 contributions\n0\nHesitant to post this\nFeb 2013 • Solo\nThis is a little gem in an unlikely neighborhood. It's all about the food here. I recommend taking a taxi out for a casual lunch. The fish in claypot is absolutely delicious, if a little spicy for me. It was a real pleasure to eat local food not cooked especially for tourists.\nReview collected in partnership with this restaurant \nWritten March 7, 2013",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:46:39.116818",
+            "restaurant_id": "2388682",
+            "restaurant_name": "Dong Hoa Xuan Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 27
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.80806,
+                "longitude": 106.69509
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/fe/ae/fe/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 8 3510 1771",
+            "review_id": "REV_2388682_p2_6",
+            "reviewer_id": "User_2388682_2_6",
+            "review_title": "Review at Dong Hoa Xuan Restaurant",
+            "review_text": "tastebuds_John\nNew York City, New York16 contributions\n0\nOnly Get to Eat Once in HCMC?\nJan 2013 • Family\nAfter eating our way thru Phnom Penh, Loa, Hanoi and Hoi An we had just 3 hours in HCMC in route back to P.P. Where to eat?? Researching Saigon foodie and expat sites and Tripadvisor we choose Đông Hoa Xuân. Brillant choice. All four of us were very pleased. Hai, the owner, was helpful making choices on what to try. If your travels are in large part a search for food that features balance, clarity and deliciousness put this place on your hit list.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten January 8, 2013",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:46:39.135702",
+            "restaurant_id": "2388682",
+            "restaurant_name": "Dong Hoa Xuan Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 27
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.80806,
+                "longitude": 106.69509
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/fe/ae/fe/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 8 3510 1771",
+            "review_id": "REV_2388682_p2_7",
+            "reviewer_id": "User_2388682_2_7",
+            "review_title": "Review at Dong Hoa Xuan Restaurant",
+            "review_text": "Henry_wu1\nHue, Vietnam3 contributions\n0\nDo not miss this place when in Saigon\nDec 2012 • Solo\nWe have eaten at about 50 different stalls and restaurants, and this one in particular stands out amongst the rest.\nI loved the pork stomach and caramelised fish.\nOne of the best places we have eaten at in Saigon and we would definitely eat here again!\nReview collected in partnership with this restaurant \nWritten December 29, 2012",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:46:39.164708",
+            "restaurant_id": "2388682",
+            "restaurant_name": "Dong Hoa Xuan Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 27
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.80806,
+                "longitude": 106.69509
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/fe/ae/fe/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 8 3510 1771",
+            "review_id": "REV_2388682_p2_8",
+            "reviewer_id": "User_2388682_2_8",
+            "review_title": "Review at Dong Hoa Xuan Restaurant",
+            "review_text": "Đình Đức N\nHo Chi Minh City, Vietnam4 contributions\n0\nA wonderful place for you to satisfy your stomach at lunch !\nDec 2012 • Solo\nI live here in Saigon and have been to Dong Hoa Xuan restaurant for many times. Everytime i comes there, i always feel very very satisfy with the food. My suggestion for you is Grilled pork rib; Caramal Fish (Cá Kho Tộ) but it quite spicy so be careful if u dont like chili; Sour Soup with Bông Lau Fish; and Pork Stomach( crunchy and very tasty). A good place for you to go on your own or with your friends or family.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten December 26, 2012",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:46:39.191077",
+            "restaurant_id": "2388682",
+            "restaurant_name": "Dong Hoa Xuan Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 27
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.80806,
+                "longitude": 106.69509
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/fe/ae/fe/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 8 3510 1771",
+            "review_id": "REV_2388682_p2_9",
+            "reviewer_id": "User_2388682_2_9",
+            "review_title": "Review at Dong Hoa Xuan Restaurant",
+            "review_text": "Rick C\nHo Chi Minh City, Vietnam37 contributions\n0\nGreat Authentic Vietnamese Food!\nDec 2012 • Friends\nThis little restaurant was recommended to me by a friend here and WOW!! No matter what I've had it's been some of the best food I've had in Vietnam. Every time I come this way now (by bus, when alone; by motorbike when I can get a Vietnamese friend to give me a ride) I try to time my travel so it includes a stop here for breakfast or lunch. NOT a tourist restaurant, but for the local neighborhood crowd. Well worth whatever effort it takes to get here. Just pick and choose and ENJOY!\nRead more\nValue\nService\nFood\nAtmosphere\nWritten December 21, 2012",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:46:39.217387",
+            "restaurant_id": "2388682",
+            "restaurant_name": "Dong Hoa Xuan Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 27
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.80806,
+                "longitude": 106.69509
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/fe/ae/fe/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 8 3510 1771",
+            "review_id": "REV_2388682_p2_10",
+            "reviewer_id": "User_2388682_2_10",
+            "review_title": "Review at Dong Hoa Xuan Restaurant",
+            "review_text": "mojomarc\nWashington DC10 contributions\n0\nOutstanding food in an average neighborhood\nOct 2012 • Family\nMy in-laws family live near Cho Ba Chieu, the market only a short distance from this restaurant. So when I saw a review elsewhere, I knew the wife and I needed to try it. We were not disappointed. They have perhaps the best carmel fish (ca kho to) either of us have ever had, and she grew up in Saigon and spent time in Hanoi as well. The other dishes we had were equally good. Service was great, and although this isn't a white tablecloth place this is a very comfortable neighborhood restaurant that puts out some really fantastic food.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten October 22, 2012",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:46:39.247889",
+            "restaurant_id": "2388682",
+            "restaurant_name": "Dong Hoa Xuan Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2388682-Reviews-Dong_Hoa_Xuan_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 27
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.80806,
+                "longitude": 106.69509
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/fe/ae/fe/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "14:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 8 3510 1771",
+            "review_id": "REV_2388682_p2_11",
+            "reviewer_id": "User_2388682_2_11",
+            "review_title": "Review at Dong Hoa Xuan Restaurant",
+            "review_text": "Tyler N\nBoulder, Colorado, United States2 contributions\n0\nBest way to spend an afternoon.\nSep 2012 • Solo\nOn your first full day in Saigon, make the trip (easy by taxi) to this restaurant frequented almost exclusively by locals. Hai, the owner, is running around all day and producing some of the most honest, flavorful food I've had. \n\nThere are fresh bananas on the table, and a local person nearby told me this restaurant is well known because they make almost all their food from scratch everyday; this is no small feat! Come early to get the best offerings, because when they're out, they're out. \n\nThe fish cooking in clay pots with a caramelized sauce is clearly memorable, but just order a variety. Bring a large group in order to try more. The best thing I had was a bite of egg, pork and mushroom sausage that tasted so unique, especially when dipped into the accompanying chili sauce. \n\nAlso, the frog was fantasitic, rich and savory. This place is a MUST go in Saigon.\nRead more\nValue\nService\nFood\nAtmosphere\nReview collected in partnership with this restaurant \nWritten September 9, 2012",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

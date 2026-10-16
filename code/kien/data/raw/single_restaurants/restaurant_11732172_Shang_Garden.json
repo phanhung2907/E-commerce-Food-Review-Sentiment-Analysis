@@ -2,7 +2,7 @@
     "restaurant_id": "11732172",
     "restaurant_name": "Shang Garden",
     "city": "Vietnam_Subregion",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d11732172-Reviews-Shang_Garden-Ho_Chi_Minh_City.html#REVIEWS",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d11732172-Reviews-Shang_Garden-Ho_Chi_Minh_City.html",
     "metadata": {
         "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d11732172-Reviews-Shang_Garden-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
@@ -117,7 +117,7 @@
         ],
         "telephone": "+84 8 5411 1104"
     },
-    "reviews_count": 10,
+    "reviews_count": 11,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1396,6 +1396,134 @@
             "review_text": "desiremmwekb10\nHo Chi Minh City, Vietnam2964 contributions\n0\nNice replacement for Ming Dynasty\nNov 2016 • Family\nThis new restaurant replace the well known Ming Dynasty and does not disappoint. They still serve great Beijing duck along with great chinese ala carte dishes. They add some Singaporean dishes. They serve Dim sum but just for lunch (don't really know why or who do they aim to serve at such late time)! The service is a lot better than when it was still Ming D. The food is a bit better in my opinion and the price is a lot more affordable. I have been back to this restaurant more time in the last month than I did for a year when it was still Ming.\nRead more\nWritten November 5, 2016",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T02:01:49.607169",
+            "restaurant_id": "11732172",
+            "restaurant_name": "Shang Garden",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d11732172-Reviews-Shang_Garden-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d11732172-Reviews-Shang_Garden-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 13
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.7295,
+                "longitude": 106.71994
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/57/68/e5/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Chinese",
+                "Cantonese"
+            ],
+            "telephone": "+84 8 5411 1104",
+            "review_id": "REV_11732172_p1_4",
+            "reviewer_id": "User_11732172_1_4",
+            "review_title": "Review at Shang Garden",
+            "review_text": "Amazingland\nSingapore, Singapore901 contributions\n0\nNice Chinese Food\nDec 2019\nService cantonese food with very good taste. Love the fried beef noodle as the noodle was soft & smooth while the beef is tender.\nWritten December 14, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

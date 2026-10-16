@@ -2,9 +2,9 @@
     "restaurant_id": "25168374",
     "restaurant_name": "Matchandeul Bbq Thao Dien",
     "city": "Vietnam_Subregion",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25168374-Reviews-Matchandeul_Bbq_Thao_Dien-Ho_Chi_Minh_City.html",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25168374-Reviews-Matchandeul_Bbq_Thao_Dien-Ho_Chi_Minh_City.html#REVIEWS",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25168374-Reviews-Matchandeul_Bbq_Thao_Dien-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25168374-Reviews-Matchandeul_Bbq_Thao_Dien-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": {
@@ -78,7 +78,7 @@
         ],
         "telephone": "+84 28 7309 6464"
     },
-    "reviews_count": 5,
+    "reviews_count": 7,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -522,6 +522,184 @@
             "review_text": "Soko37\nBudapest, Hungary20962 contributions\n1\nFull in the middle of the week\nNov 2022 • Business\nSurprisingly full on Wednesday, Korean community mostly present, it was recommended from someone more experienced, tried soups, BBQ 🍖 with pork and beef 🥩, staff really quick moving around and organising all dishes. You can sit in common dinning area or many private rooms. Parking on the street, ice cream 🍨 for free when dining there\nWritten November 26, 2022",
             "rating": 5.0,
             "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:42:39.445512",
+            "restaurant_id": "25168374",
+            "restaurant_name": "Matchandeul Bbq Thao Dien",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25168374-Reviews-Matchandeul_Bbq_Thao_Dien-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25168374-Reviews-Matchandeul_Bbq_Thao_Dien-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "93 Xl Ha Noi Thảo Điền",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "7000000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.801541,
+                "longitude": 106.73792
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/a1/21/af/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Steakhouse",
+                "Asian",
+                "Korean"
+            ],
+            "telephone": "+84 28 7309 6464",
+            "review_id": "REV_25168374_p1_1",
+            "reviewer_id": "User_25168374_1_1",
+            "review_title": "Review at Matchandeul Bbq Thao Dien",
+            "review_text": "conscienciouseater\nAsia, Peru2983 contributions\n0\nNot the best, but pretty good Korean BBQ restaurant.\nAug 2024 • Family\nReview of the branch in D1. Good meat, excellent service, reasonable prices, therefore long wait, even on week nights. You can keep yourself busy by eating free ice cream.\nWritten August 18, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:42:39.585006",
+            "restaurant_id": "25168374",
+            "restaurant_name": "Matchandeul Bbq Thao Dien",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25168374-Reviews-Matchandeul_Bbq_Thao_Dien-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25168374-Reviews-Matchandeul_Bbq_Thao_Dien-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "93 Xl Ha Noi Thảo Điền",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "7000000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.801541,
+                "longitude": 106.73792
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/a1/21/af/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Steakhouse",
+                "Asian",
+                "Korean"
+            ],
+            "telephone": "+84 28 7309 6464",
+            "review_id": "REV_25168374_p1_4",
+            "reviewer_id": "User_25168374_1_4",
+            "review_title": "Review at Matchandeul Bbq Thao Dien",
+            "review_text": "Soko37\nBudapest, Hungary21080 contributions\n1\nFull in the middle of the week\nNov 2022 • Business\nSurprisingly full on Wednesday, Korean community mostly present, it was recommended from someone more experienced, tried soups, BBQ 🍖 with pork and beef 🥩, staff really quick moving around and organising all dishes. You can sit in common dinning area or many private rooms. Parking on the street, ice cream 🍨 for free when dining there\nWritten November 26, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

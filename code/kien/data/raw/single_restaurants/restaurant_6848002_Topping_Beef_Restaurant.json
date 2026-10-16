@@ -2,9 +2,9 @@
     "restaurant_id": "6848002",
     "restaurant_name": "Topping Beef Restaurant",
     "city": "Vietnam_Subregion",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d6848002-Reviews-Topping_Beef_Restaurant-Ho_Chi_Minh_City.html",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d6848002-Reviews-Topping_Beef_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d6848002-Reviews-Topping_Beef_Restaurant-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d6848002-Reviews-Topping_Beef_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": {
@@ -79,7 +79,7 @@
         ],
         "telephone": "+84 94 456 55 57"
     },
-    "reviews_count": 15,
+    "reviews_count": 23,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1428,6 +1428,726 @@
             "review_text": "Edward N\nHo Chi Minh City, Vietnam321 contributions\n0\n4* for Food\nJul 2017 • Solo\nI know the restaurant via my colleage. Love the atmosphere and the decoration. I have ordered 1 shrimp soup and 1 chuck flap 300gr, Medium plus mushroom sauce, mash potato and fries.\nGood point:\n1) The soup was really good taste. It was served with 2 sliced of garlic bread.\n2) A portion of beef quite big and above my expectation.\n3) Good service for wine, whenever I reordered a glass of wine, the service staff always brought a new glass of water with ice for me.\nNeed to improve:\n1) While enjoy my soup around 5-7 mins, the beef came straight away without any checking from staff eventhough I did not finish the soup. So that I had to have it quickly.\n2) As mention at the beginning, I have ordered a beef Medium; however, a half of beef was Rare and a half of beef was perfect Medium\n3) I think mashed potato need to add some more milk because the taste of mashed potato was totally pured potato.\nTo be faired, the restaurant served a nice beef with a good taste of sauce, seasoning and reasonable price. If you are not really care about the service, you should come and try the food to compare with another steakhouse.\nWill be back with friend!\nRead more\nWritten July 24, 2017",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:42:01.168055",
+            "restaurant_id": "6848002",
+            "restaurant_name": "Topping Beef Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d6848002-Reviews-Topping_Beef_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d6848002-Reviews-Topping_Beef_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "16L Le Ngo Cat Street, Ward 7, District 3 Ward 7, District 3",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.7,
+                "reviewCount": 31
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.776967,
+                "longitude": 106.68462
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/b7/0d/dd/topping-beef-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Steakhouse",
+                "European",
+                "Grill"
+            ],
+            "telephone": "+84 94 456 55 57",
+            "review_id": "REV_6848002_p1_1",
+            "reviewer_id": "User_6848002_1_1",
+            "review_title": "Review at Topping Beef Restaurant",
+            "review_text": "Eun Jae\nSeoul, South Korea29 contributions\n0\nBREAKFAST WITH BEEF\nNov 2024 • Friends\nLuxurious restaurant with very beautiful space, especially the outside space with the swimming pool. The meat is very fresh and succulent, the sauce is rich and delicious.\nInsider tip:\nYou should go in the afternoon, because the outside space is very beautiful\nValue\nService\nFood\nAtmosphere\nWritten November 24, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:42:10.445928",
+            "restaurant_id": "6848002",
+            "restaurant_name": "Topping Beef Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d6848002-Reviews-Topping_Beef_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d6848002-Reviews-Topping_Beef_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "16L Le Ngo Cat Street, Ward 7, District 3 Ward 7, District 3",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.7,
+                "reviewCount": 31
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.776967,
+                "longitude": 106.68462
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/b7/0d/dd/topping-beef-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Steakhouse",
+                "European",
+                "Grill"
+            ],
+            "telephone": "+84 94 456 55 57",
+            "review_id": "REV_6848002_p2_0",
+            "reviewer_id": "User_6848002_2_0",
+            "review_title": "Review at Topping Beef Restaurant",
+            "review_text": "YINBUI\nHo Chi Minh City, Vietnam86 contributions\n0\nBeefsteak\nOct 2016 • Family\nI have been there many times.\nIt is just a small and warm shop.\nBeefsteak is good with affordable price, approximately 10$ for 200gram, nice chip... The pasta is ok.\nReview collected in partnership with this restaurant \nWritten October 19, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:42:10.474844",
+            "restaurant_id": "6848002",
+            "restaurant_name": "Topping Beef Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d6848002-Reviews-Topping_Beef_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d6848002-Reviews-Topping_Beef_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "16L Le Ngo Cat Street, Ward 7, District 3 Ward 7, District 3",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.7,
+                "reviewCount": 31
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.776967,
+                "longitude": 106.68462
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/b7/0d/dd/topping-beef-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Steakhouse",
+                "European",
+                "Grill"
+            ],
+            "telephone": "+84 94 456 55 57",
+            "review_id": "REV_6848002_p2_1",
+            "reviewer_id": "User_6848002_2_1",
+            "review_title": "Review at Topping Beef Restaurant",
+            "review_text": "HongAnh Dang\nDa Nang, Vietnam8 contributions\n0\nReally nice steakhouse\nOct 2016 • Family\nSteak is really good, soft, delicious and also served with nice decoration and small salad. We really enjoy the food here. Staff is nice and friendly. \nJust one thing that the restaurant is a bit small. It is better to go early or book a table.\nWritten October 8, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:42:10.506549",
+            "restaurant_id": "6848002",
+            "restaurant_name": "Topping Beef Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d6848002-Reviews-Topping_Beef_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d6848002-Reviews-Topping_Beef_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "16L Le Ngo Cat Street, Ward 7, District 3 Ward 7, District 3",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.7,
+                "reviewCount": 31
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.776967,
+                "longitude": 106.68462
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/b7/0d/dd/topping-beef-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Steakhouse",
+                "European",
+                "Grill"
+            ],
+            "telephone": "+84 94 456 55 57",
+            "review_id": "REV_6848002_p2_2",
+            "reviewer_id": "User_6848002_2_2",
+            "review_title": "Review at Topping Beef Restaurant",
+            "review_text": "PhanChinh\nHo Chi Minh City, Vietnam49 contributions\n0\nMedium rate level for beefsteak\nApr 2016 • Friends\nThe restaurant is quite small but friendly. Steak quality is good (however it's not sustainable, up and down in several times I've been there). The price is very reasonable. In net, it's the best choice (highly recommended) for the medium rate level of beefsteak!\nWritten April 10, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:42:10.554494",
+            "restaurant_id": "6848002",
+            "restaurant_name": "Topping Beef Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d6848002-Reviews-Topping_Beef_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d6848002-Reviews-Topping_Beef_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "16L Le Ngo Cat Street, Ward 7, District 3 Ward 7, District 3",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.7,
+                "reviewCount": 31
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.776967,
+                "longitude": 106.68462
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/b7/0d/dd/topping-beef-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Steakhouse",
+                "European",
+                "Grill"
+            ],
+            "telephone": "+84 94 456 55 57",
+            "review_id": "REV_6848002_p2_3",
+            "reviewer_id": "User_6848002_2_3",
+            "review_title": "Review at Topping Beef Restaurant",
+            "review_text": "WanderMel87\nHo Chi Minh City, Vietnam1 contribution\n0\nGreat steak!\nAug 2015 • Friends\nLoved the rib-eye, however, the sauce serving was small, I had to order another. The side salad was unfresh which was another disappointment. The size of the steak was impressive(300gm) cooked perfectly!\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten August 9, 2015",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:42:10.765262",
+            "restaurant_id": "6848002",
+            "restaurant_name": "Topping Beef Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d6848002-Reviews-Topping_Beef_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d6848002-Reviews-Topping_Beef_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "16L Le Ngo Cat Street, Ward 7, District 3 Ward 7, District 3",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.7,
+                "reviewCount": 31
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.776967,
+                "longitude": 106.68462
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/b7/0d/dd/topping-beef-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Steakhouse",
+                "European",
+                "Grill"
+            ],
+            "telephone": "+84 94 456 55 57",
+            "review_id": "REV_6848002_p2_4",
+            "reviewer_id": "User_6848002_2_4",
+            "review_title": "Review at Topping Beef Restaurant",
+            "review_text": "ThongHoang\nAustralia23 contributions\n0\nExcellent steakhouse\nSep 2014 • Couples\nThis is a nice steakhouse . After you choose the size of steak, then you can choose the sauce to have it with.\nSteak was perfectly cooked as you requested. The sauce is storing in a hot mini pot when bringing to the table for you.\nThe dish is well presented on the plate.\nYou can get 10% discount when taking picture and checking in on Facebook.\nRead more\nReview collected in partnership with this restaurant \nWritten September 30, 2014",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:42:10.812552",
+            "restaurant_id": "6848002",
+            "restaurant_name": "Topping Beef Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d6848002-Reviews-Topping_Beef_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d6848002-Reviews-Topping_Beef_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "16L Le Ngo Cat Street, Ward 7, District 3 Ward 7, District 3",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.7,
+                "reviewCount": 31
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.776967,
+                "longitude": 106.68462
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/b7/0d/dd/topping-beef-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Steakhouse",
+                "European",
+                "Grill"
+            ],
+            "telephone": "+84 94 456 55 57",
+            "review_id": "REV_6848002_p2_5",
+            "reviewer_id": "User_6848002_2_5",
+            "review_title": "Review at Topping Beef Restaurant",
+            "review_text": "Roman Z\n6 contributions\n0\nvery good steak\nAug 2014 • Business\nNot sure what happened in the previous review but my experience here was phenomenal. The staff explained in English which sauce was which. For Vietnam that is a rare treat.\nThe beef was great, and the sides and appetizers were delicious.\nThe only issue was waiting for the lava chocolate dessert, which took nearly\n20 minutes, but as we were very full and relaxing it wasn't a big deal for us.\nIn terms of what a foreigner from America might want this place is a rare jem. You can get a huge 600g steak if you choose, which in Vietnam is very rare indeed.\nOverall I had a wonderful lunch and will come back!\nRead more\nReview collected in partnership with this restaurant \nWritten August 25, 2014",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:42:10.862008",
+            "restaurant_id": "6848002",
+            "restaurant_name": "Topping Beef Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d6848002-Reviews-Topping_Beef_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d6848002-Reviews-Topping_Beef_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "16L Le Ngo Cat Street, Ward 7, District 3 Ward 7, District 3",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.7,
+                "reviewCount": 31
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.776967,
+                "longitude": 106.68462
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/b7/0d/dd/topping-beef-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Steakhouse",
+                "European",
+                "Grill"
+            ],
+            "telephone": "+84 94 456 55 57",
+            "review_id": "REV_6848002_p2_6",
+            "reviewer_id": "User_6848002_2_6",
+            "review_title": "Review at Topping Beef Restaurant",
+            "review_text": "TrungDo88\nHo Chi Minh City, Vietnam1 contribution\n0\nVery, very bad (both service and food)\nJul 2014 • Couples\nThey find a way to screw up every dishes from the most simple garlic bread (which is burned), the soup is sour and thin. The beef is way too sweet (both the meet and the sauce), it's almost like a desert. There's a lot of fat around the meat (I guess they have to trim it out). The side salad does not have any dressing and taste bitter. The roasted potato look and taste like carbon. We order fried potato twice and still they didn't bring us (it still showed up in the bill). For something like a steak you would want the sauce and the meat to come out at the same time, but that was not what happened, the meat came first around 8 mins came the sauce another 10 minutes came the roaster potato.\nI have never rated Terrible for any restaurant, but with this restaurant feel like a complete waist of money and time.\nRead more\nValue\nService\nFood\nAtmosphere\nReview collected in partnership with this restaurant \nWritten July 28, 2014",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

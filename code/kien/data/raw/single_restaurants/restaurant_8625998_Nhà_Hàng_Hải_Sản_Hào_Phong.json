@@ -72,12 +72,11 @@
         "priceRange": "$$ - $$$",
         "servesCuisine": [
             "Chinese",
-            "Seafood",
             "Cantonese"
         ],
         "telephone": "+84 28 3835 1111"
     },
-    "reviews_count": 8,
+    "reviews_count": 9,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -780,6 +779,93 @@
             "review_text": "omega123\nSingapore, Singapore8208 contributions\n0\nGood Cantonese Food at Reasonable Price\nSep 2015 • Business\nThis restaurant is situated in Ho Chi Minh City's Chinatown in District 5 (Quan 5 or in short Q.5). The restaurant serves good steamed Sea Bass the Cantonese way. The Roasted pork is roasted to the right crispiness. They also the deep fried de-shelled soft shell crabs that was fried to the correct texture that also retained the succulent of the crabs' meat. Have a shot at their roast platter which consist of roast pork and duck.\n\nThe oyster omellete was fried to the right temperature. The oysters were not over cooked and the egg was soft and smooth. The texture of the eggs was like custard. \n\nThe braised pig's trotters was well done. They removed most of the fats only retain a little to add to the smoothness when biting into it. This was accompanied by the deep fried dough (finger food). The dough was free from the frying oil.\n\nAs this is in Vietnam, do not expect this to be a smoke free restaurant.\n\nThis is a busy restaurant even on weekdays' evening. Do ask someone to reserve a table in advance. Saturdays and Sundays are extremely busy, so do not go there.\n\nThe service staff was responsive and well trained\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten September 13, 2015",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T02:03:12.749925",
+            "restaurant_id": "8625998",
+            "restaurant_name": "Nhà Hàng Hải Sản Hào Phong",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8625998-Reviews-Nha_Hang_H_i_S_n_Hao_Phong-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8625998-Reviews-Nha_Hang_H_i_S_n_Hao_Phong-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "473 Đ. An Dương Vương Phường 3, Quận 5",
+                "addressLocality": "Ho Chi Minh City"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.3,
+                "reviewCount": 12
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.758026,
+                "longitude": 106.67593
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/f3/9d/ef/entrance.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Chinese",
+                "Cantonese"
+            ],
+            "telephone": "+84 28 3835 1111",
+            "review_id": "REV_8625998_p1_0",
+            "reviewer_id": "User_8625998_1_0",
+            "review_title": "Review at Nhà Hàng Hải Sản Hào Phong",
+            "review_text": "Robert D\nNorth Vancouver, Canada536 contributions\n0\nGreat find!\nOct 2026 • Couples\nJust down the street from our hotel. Full of locals and tourists enjoying dinner, a great choice. Great service, Tom was great, good food and drinks. The chicken curry was the best as was the seafood fried rice and the fresh spring rolls, excellent! Great meal and vibe!!\nWritten October 15, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

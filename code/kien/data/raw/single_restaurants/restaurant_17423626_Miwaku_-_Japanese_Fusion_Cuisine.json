@@ -2,7 +2,7 @@
     "restaurant_id": "17423626",
     "restaurant_name": "Miwaku - Japanese Fusion Cuisine",
     "city": "Vietnam_Subregion",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17423626-Reviews-Miwaku_Japanese_Fusion_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17423626-Reviews-Miwaku_Japanese_Fusion_Cuisine-Ho_Chi_Minh_City.html",
     "metadata": {
         "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17423626-Reviews-Miwaku_Japanese_Fusion_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
@@ -79,7 +79,7 @@
         ],
         "telephone": "+84 90 607 71 10"
     },
-    "reviews_count": 15,
+    "reviews_count": 19,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1428,6 +1428,366 @@
             "review_text": "Khang L\nSeattle, Washington10 contributions\n0\nPerfection done right\nJul 2022 • Solo\nExcellent food with amazing staff and a beautiful view. Definitely a must try in Ho Chi Minh city. 10/10 will come back again.\nWritten July 19, 2022",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:16:19.610829",
+            "restaurant_id": "17423626",
+            "restaurant_name": "Miwaku - Japanese Fusion Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17423626-Reviews-Miwaku_Japanese_Fusion_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17423626-Reviews-Miwaku_Japanese_Fusion_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.76823,
+                "longitude": 106.67473
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6c/7f/b6/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Japanese",
+                "Seafood",
+                "Sushi",
+                "Fusion",
+                "Vietnamese",
+                "Diner"
+            ],
+            "telephone": "+84 90 607 71 10",
+            "review_id": "REV_17423626_p2_0",
+            "reviewer_id": "User_17423626_2_0",
+            "review_title": "Review at Miwaku - Japanese Fusion Cuisine",
+            "review_text": "RochMathlm\n6 contributions\n0\nMmmmm\nNov 2019\nGreat service, excellent food and the view was amazing. If you want to spend a lot of money go there and in joy.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten November 18, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:16:19.639940",
+            "restaurant_id": "17423626",
+            "restaurant_name": "Miwaku - Japanese Fusion Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17423626-Reviews-Miwaku_Japanese_Fusion_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17423626-Reviews-Miwaku_Japanese_Fusion_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.76823,
+                "longitude": 106.67473
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6c/7f/b6/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Japanese",
+                "Seafood",
+                "Sushi",
+                "Fusion",
+                "Vietnamese",
+                "Diner"
+            ],
+            "telephone": "+84 90 607 71 10",
+            "review_id": "REV_17423626_p2_1",
+            "reviewer_id": "User_17423626_2_1",
+            "review_title": "Review at Miwaku - Japanese Fusion Cuisine",
+            "review_text": "Linh Le\n1 contribution\n1\nGreat staff and service - Amazing view - Good Food and Drinks (Sukiyaki were quite sweet but still okie)\nAug 2019 • Couples\n1. Great service: I would like to send my lot of thanks and appreciation to Miwaku staff for their great and helpful service especially their patience to meet my expectation in menu for allergen person and their care to our special day in nice decoration and surprising dessert. All of these made our anniversary more unforgettable. \n2. Amazing view: place at 80th level of Landmark 81, Miwaku also offered and set up the Saigon river view table for us. Nothing can be better than this.\n3. Good food and drinks: all were good from welcome drink, cocktails and dinner course. All of them were nicely decorated by chef, well presented by staff, high quality of raw material and good taste also. However, Sukiyaki hot pot was quite sweet for us and we also love totally raw sashimi but some were heated/scorched in one side. \n\nIt is costly but you will experience every exclusive step from booking until finishing your dinner. \n\nP/s: if having time and plan, you should discuss with them via email, Facebook or whatever channel to share your expectation with Miwaku’ team to ensure all things will be perfect.\nRead more\nReview collected in partnership with this restaurant \nWritten August 19, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:16:19.669626",
+            "restaurant_id": "17423626",
+            "restaurant_name": "Miwaku - Japanese Fusion Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17423626-Reviews-Miwaku_Japanese_Fusion_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17423626-Reviews-Miwaku_Japanese_Fusion_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.76823,
+                "longitude": 106.67473
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6c/7f/b6/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Japanese",
+                "Seafood",
+                "Sushi",
+                "Fusion",
+                "Vietnamese",
+                "Diner"
+            ],
+            "telephone": "+84 90 607 71 10",
+            "review_id": "REV_17423626_p2_2",
+            "reviewer_id": "User_17423626_2_2",
+            "review_title": "Review at Miwaku - Japanese Fusion Cuisine",
+            "review_text": "AdibPeb\nHo Chi Minh City, Vietnam586 contributions\n1\nMiwaku Landmark: Unique Experience in every step\nMay 2019 • Business\nThis Miwaku Saigon in Landmark Tallest Building is in the 79th & 80th floor and offers \n1. Extreme Great View from the 80tu floor \n2. Unique food with great taste and special presentation for each of the course served . This is a unique even for those who tried many varieties of Restaurants. \nThis restaurant is not cheap at all because it is Exclusive in every detail . \nA must visit for those who can afford it.\nRead more\nWritten May 13, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:16:19.684857",
+            "restaurant_id": "17423626",
+            "restaurant_name": "Miwaku - Japanese Fusion Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17423626-Reviews-Miwaku_Japanese_Fusion_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17423626-Reviews-Miwaku_Japanese_Fusion_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 23
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.76823,
+                "longitude": 106.67473
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6c/7f/b6/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Japanese",
+                "Seafood",
+                "Sushi",
+                "Fusion",
+                "Vietnamese",
+                "Diner"
+            ],
+            "telephone": "+84 90 607 71 10",
+            "review_id": "REV_17423626_p2_3",
+            "reviewer_id": "User_17423626_2_3",
+            "review_title": "Review at Miwaku - Japanese Fusion Cuisine",
+            "review_text": "Rain\n5 contributions\n1\nRomantic Dinner ever\nMay 2019 • Couples\nGreat service and so many supprises!!\nFood is a big innovation. A very fusion style\nThe best place for anniversary.\nWritten May 12, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

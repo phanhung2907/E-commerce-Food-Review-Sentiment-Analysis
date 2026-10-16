@@ -4,7 +4,7 @@
     "city": "Vietnam_Subregion",
     "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -77,7 +77,7 @@
         ],
         "telephone": "+84 93 807 89 51"
     },
-    "reviews_count": 15,
+    "reviews_count": 42,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1396,6 +1396,2382 @@
             "review_text": "Harney\nCape Town Central, South Africa49 contributions\n0\nA Grm in Nguyen Hue Walking Street\nJul 2025 • Family\nWe found this lovely restaurant hidden like a beautiful pearl in the sea of restaurants on Nguyen Hue Walking Street. It is not at street level but two floors up from the ground and believe me it's worth taking the stairs to get to it. The drinks were good, service great and the food amazing. This is truly a well located restaurant in the heart of the busyness, but, still out of reach for those who don't look up to see the beauty. We had a lovely meal and enjoyed this restaurant. I will highly recommend it and thanks to our waiter, Thong , for his inside information about Saigon\nRead more\nWritten July 12, 2025",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:13.348501",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p2_0",
+            "reviewer_id": "User_14976027_2_0",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "Mike C\n9 contributions\n0\nA poor experience\nAug 2024 • Solo\nA poor experience. Took 15 minutes to take my order, then over 30 minutes to serve my food, which was quite alarming considering the first course was a salad. Then the steak was gristly, and the sides were small. No one asked if the food was alright. Decor is poor and the chairs uncomfortable - I literally had to swap mine once the table next to me left.\nRead more\nWritten August 5, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:13.370176",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p2_1",
+            "reviewer_id": "User_14976027_2_1",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "Steve P\nRipon, United Kingdom206 contributions\n0\nA Great Find\nApr 2024 • Family\nA great find - we stumbled upon the Downtown Steakhouse while exploring the Cafe Apartment Block and decided to have lunch in the balcony - overlooking the city and taking in the atmosphere. It was very reasonably priced and the food was really good, making it a good decision.\nWritten April 14, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:13.396437",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p2_2",
+            "reviewer_id": "User_14976027_2_2",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "PHILIP B\n3 contributions\n0\nGreat food, great view!\nFeb 2024 • Family\nEnjoy a birdseye view of the activity on busy Nguyen Hue. In a building with lots of restaurant choices, we chose this one. Excellent service, tasty menu.\nWritten February 14, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:13.422552",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p2_3",
+            "reviewer_id": "User_14976027_2_3",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "Thomas\nLas Palmas de Gran Canaria, Spain2315 contributions\n2\nLovely location and good food\nDec 2023 • Couples\nWe found one of the cooler spots in Saigon at their pedestrian street. An extensive menu where we stuck to burgers and were really satisfied. The coolest thing was probably the view when we sat on simple chairs on the balcony\nShow original\nWritten December 20, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:13.452049",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p2_4",
+            "reviewer_id": "User_14976027_2_4",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "Muzz R\n3 contributions\n0\nBurgers are great!\nNov 2023 • Friends\nLovely food, the view and the staff are great - had a burger and it was really nice and reasonably priced!\nValue\nService\nFood\nAtmosphere\nWritten November 26, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:13.480949",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p2_5",
+            "reviewer_id": "User_14976027_2_5",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "Patricia P\n2 contributions\n0\nLovely restaurant\nNov 2023 • Friends\nSuch a lovely restaurant, have been hesitant to order western food since travelling, but I got the pasta carabonara and it was lovely not too heavy\nWritten November 26, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:13.513985",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p2_6",
+            "reviewer_id": "User_14976027_2_6",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "Dbw_wilson\nUnited Kingdom1 contribution\n0\nAmazing\nNov 2023 • Couples\nAmazing little steakhouse! Me and my partner got Philly steak sandwiches which were unreal! And treated ourselves to a chocolate brownie! Very friendly staff too!\nValue\nService\nFood\nAtmosphere\nWritten November 24, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:13.537584",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p2_7",
+            "reviewer_id": "User_14976027_2_7",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "Baggy\nPhilippines3 contributions\n0\nI went to Saigon for the first\nNov 2023 • Solo\nI went to Saigon for the first time and really want to visit cafe restaurant. I came at night so why not try for dinner too and gladly I saw this steakhouse. I ordered their signature dish the chicken steak and also arrabbiata spaghetti. I asked for a little spicy but not spicy at all but still all good. The view from the outside and good value and good taste of dish was still worth it. Good service too from Mr. Thuayen. Definitely a highly recommended.\nRead more\nWritten November 21, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:13.558555",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p2_8",
+            "reviewer_id": "User_14976027_2_8",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "Guide13677421661\n1 contribution\n0\nConfusing stake with steak.\nNov 2023 • Business\nMedical conference in HCMC suggested this restaurant ....obviously having never been.The food I think may have been boiled and stored before being heated up again.Simple put it was terrible , my kind hosts would have been mortified especially and in view of all the wonderful and variety of food in HCMC.Made a wonderful trip leave a bad taste.\nWritten November 10, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:13.587676",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p2_9",
+            "reviewer_id": "User_14976027_2_9",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "Bérénice L\n1 contribution\n0\nGreat view and great food\nNov 2023 • Friends\nVery good service and tasty food ! The buffalo wings are a must try absolutely ! The view is also cool !\nValue\nService\nFood\nAtmosphere\nWritten November 2, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:13.606489",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p2_10",
+            "reviewer_id": "User_14976027_2_10",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "Amy H\n4 contributions\n0\nGreat food\nOct 2023 • Friends\nBest BLT and garlic bread we’ve had in SE Asia so far(we’ve been travelling for almost 3 months) highly recommend if your in the area. It’s a hidden gem in the cafe apartments\nWritten October 18, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:13.624114",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p2_11",
+            "reviewer_id": "User_14976027_2_11",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "Amy M\n2 contributions\n0\nLovely evening meal :)\nJul 2023 • Friends\nGreat food. Great service. Lovely spot for an evening meal. Would recommend. Also lovely to see tiger on draught :)\nWritten July 27, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:13.647082",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p2_12",
+            "reviewer_id": "User_14976027_2_12",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "dave120684\nLondon, United Kingdom18 contributions\n0\nAwful quality\nMay 2023 • Solo\nHaving read the other reviews I thought I’d give this place a go, the waiter was nice, but the food was absolutely shocking - I got some chicken wings for starters which were ok then I ordered the 300g ribeye - supposedly one of their best steaks - I could only eat 40% of it - the rest was a pile of fat I have to leave - the waiter was like yes this can happen sometimes 🤷🏻‍♂️ - not good enough, I mean don’t offer decent food if you can’t deliver - simple\nRead more\nWritten June 1, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:13.666256",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p2_13",
+            "reviewer_id": "User_14976027_2_13",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "craice\nHockley, United Kingdom1212 contributions\n0\nGood food good location\nApr 2023 • Couples\nFound this by chance whilst in walking Street. Go up a few flights of dodgy looking stairs and come across the resturant.\nGood selection of steaks and burgers, all cooked really well and great flavours.\nNice balcony to look out on although a bit warm.\nWould recommend.\nWritten May 1, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:13.686083",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p2_14",
+            "reviewer_id": "User_14976027_2_14",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "izzy robson\n9 contributions\n0\nGreat food!\nApr 2023 • Couples\nGreat place to eat. Really nice food - especially the pasta! Nice interior with photos and paintings of London:)\nWritten April 3, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:22.998334",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p3_0",
+            "reviewer_id": "User_14976027_3_0",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "Aleksandar Scekic\n1 contribution\n0\nLeisure\nFeb 2023 • Friends\nExcellent service and food. Highly recmmend. Situated in Cafe apartments in Saigon. Third floor restaurant with marvelloys view on the city centre. This is a place not yo be missed. The staff is so polite\nReview collected in partnership with this restaurant \nWritten February 23, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:23.030734",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p3_1",
+            "reviewer_id": "User_14976027_3_1",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "John W\nDublin, Ohio28 contributions\n0\nOK Food, No so great service or atmosphere\nDec 2022\nSat down, handed menu, 30 seconds later wanted to take my order, (empty restaurant). Said give us a minutes, and 30 seconds later back again. Finally told leave us alone until I can them. I order rib eye which was just OK, slightly over cooked and more edge fat than I would have expected on a 250g cut. When they brought it to the table it was missing my baked potato, when I asked they said chef forgot. Too late at that point. Was very hot, at least one A/C out of commission. I have been going to Vietnam since 1987 (yearly) and this was one of my poorest experiences. I have to wonder about all the 5* reviews.\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten December 7, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:23.055269",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p3_2",
+            "reviewer_id": "User_14976027_3_2",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "Hung N\n3 contributions\n0\nGood food w good view\nSep 2022 • Couples\nGood experience with great service on the 3rd floor of an apartment complex overlooking Nguyen Hue Walking Street. Would recommend.\nWritten September 14, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:23.101845",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p3_3",
+            "reviewer_id": "User_14976027_3_3",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "Duy\n2 contributions\n0\nGood steak\nJun 2022 • Couples\nGood steak with reasonable price near city center. Free side dish. 10% off for striploin. Recommended\nReview collected in partnership with this restaurant \nWritten June 28, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:23.159289",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p3_4",
+            "reviewer_id": "User_14976027_3_4",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "888sami\nHelsinki, Finland45 contributions\n0\nGreat steakhouse to visit\nJan 2020 • Family\nGreat steakhouse in prime location. It’s a bit difficult to find your way in, but at least for us the experience was very good. Style is very ”local” so humble and simple, but the steaks were excellent. And definitely a good value for money with great service!\nWritten January 6, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:23.194709",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p3_5",
+            "reviewer_id": "User_14976027_3_5",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "brad s\nJohannesburg, South Africa35 contributions\n0\nA hidden gem\nDec 2019 • Family\nHidden away on the 3rd floor we stumbled onto this amazing little resturaunt. Whilst the selection of dishes is quite large it's still small enough to ensure each dish is made to perfection. Our order varied with steak,a burger and salads all ordered. Each meal was perfect and the service amazing.I highly recommend this place\nWritten December 26, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:23.241415",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p3_6",
+            "reviewer_id": "User_14976027_3_6",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "アン 高\nHo Chi Minh City, Vietnam29 contributions\n0\nFood to go\nNov 2019 • Solo\nAlso been here once time for coffee, it's quite a good place, nice Concept.\nLazy to go here again cause the weather a bit cool, so I decided to make an order a hot Philly Cheesesteak , sitting with a charming glass of coffee shop nearby my place.\nA bit disappointed , when received a Cheesesteak with the loaf quite hard(not crispy but hard), and steak also salty than normal. But a small bowl of salad quite good with a sour sauce. Maybe will come back again with different taste.\nRead more\nWritten November 12, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:23.273019",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p3_7",
+            "reviewer_id": "User_14976027_3_7",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "Chan C\nSingapore, Singapore43 contributions\n0\nExcellent Food and Experience\nSep 2019\nThis restaurant is located in a 9 storey old apartment building that was converted to a F&B center with many restaurants serving different cuisine. The food of this restaurant is excellent and not costly. The service is great too. with a balcony view that overlook the walking street of HCM city.\n\nA place to visit for food.\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten September 24, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:23.335460",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p3_8",
+            "reviewer_id": "User_14976027_3_8",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "Richard_Smith567\nDubai, United Arab Emirates610 contributions\n0\nsteaks\nAug 2019 • Family\nThis restaurant is located in a really old building that is full of trendy restaurants cafes and designer boutiques. Their main dishes are steaks and sliders, and their steaks are fantastic. The ribeye steak was great with a peppercorn sauce. We enjoyed it so much, that we went back a second time.\nWritten August 6, 2019\nNhi\nDear Ms/Mr. Richard Smith, Thank you for dining at Downtown Steakhouse and leave us such a great review. \nWe are very glad to hear that you enjoyed your meal with our restaurant. We always try our best to deliver better service to customers everyday. We are looking forward to seeing you again.\n\nThanks and warmest regards.\nRead more\nWritten August 8, 2019\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:23.370149",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p3_9",
+            "reviewer_id": "User_14976027_3_9",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "Natalia O\nHo Chi Minh City, Vietnam14 contributions\n0\nDelicious!!!!\nFeb 2019 • Family\nThe presentation and the flavor is really good!!!! I enjoyed a lot. The price is good too. Definitely I'll go back.\nWritten February 27, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:23.396753",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p3_10",
+            "reviewer_id": "User_14976027_3_10",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "Kaii\nHo Chi Minh City, Vietnam29 contributions\n1\nvery good!!\nFeb 2019\nI often go to with my girlfriend. In my opinion, the Beautiful light looks, suitable for dating. The menu also has many other. I have not tried everything but will in the future. The staff is also good and polite\nReview collected in partnership with this restaurant \nWritten February 21, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:23.430933",
+            "restaurant_id": "14976027",
+            "restaurant_name": "Downtown Steakhouse - Nguyen Hue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14976027-Reviews-Downtown_Steakhouse_Nguyen_Hue-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 55
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774106,
+                "longitude": 106.704094
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/1a/45/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "American",
+                "Steakhouse",
+                "Cafe",
+                "Grill"
+            ],
+            "telephone": "+84 93 807 89 51",
+            "review_id": "REV_14976027_p3_11",
+            "reviewer_id": "User_14976027_3_11",
+            "review_title": "Review at Downtown Steakhouse - Nguyen Hue",
+            "review_text": "clem3-16\nPerth, Australia149 contributions\n1\nGreat location!\nAug 2018 • Couples\nWe only stopped for a coffee and to escape a storm but first impressions of this little cafe were great. The coffee and tea were both nice and all the food we saw coming out looked awesome!\n\nThe balcony overlooks Saigon Square so would be an excellent place to sit and watch, particularly of an evening, there’s always so much to take in!\nRead more\nWritten August 5, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

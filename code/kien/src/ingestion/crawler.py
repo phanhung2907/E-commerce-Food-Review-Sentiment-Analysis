@@ -167,17 +167,17 @@ def discover_all_cities_automatically(driver, root_country_url):
 
 
 # ==========================================
-# CƠ CHẾ QUÉT PHÂN TRANG DANH MỤC TOÀN QUỐC
+# CƠ CHẾ QUÉT VÀ SẮP XẾP NHÀ HÀNG THEO SỐ LƯỢNG REVIEW GIẢM DẦN
 # ==========================================
-def discover_restaurant_urls(driver, city_listing_url, city_name):
+def discover_and_sort_restaurants(driver, city_listing_url, city_name):
     restaurant_links = set()
-    print(f"\n[Category Scan] Quét sâu danh mục toàn quốc từ: {city_listing_url}")
+    print(f"\n[Category Scan] Quét danh mục từ: {city_listing_url}")
 
     driver.get(city_listing_url)
     time.sleep(random.uniform(5.0, 8.0))
 
     page = 0
-    max_catalog_pages = 100
+    max_catalog_pages = 50  # Giới hạn quét danh mục để tập trung lấy URL các quán nổi bật
 
     while page < max_catalog_pages:
         page += 1
@@ -214,7 +214,6 @@ def discover_restaurant_urls(driver, city_listing_url, city_name):
                 aria_disabled = next_btn.get_attribute("aria-disabled") or ""
 
                 if "disabled" in class_attr or aria_disabled == "true":
-                    print(f" -> Đã quét đến trang danh mục cuối cùng của {city_name}.")
                     break
 
                 driver.execute_script("arguments[0].scrollIntoView(true);", next_btn)
@@ -222,41 +221,48 @@ def discover_restaurant_urls(driver, city_listing_url, city_name):
                 driver.execute_script("arguments[0].click();", next_btn)
                 time.sleep(random.uniform(5.0, 8.0))
             else:
-                print(f" -> Không tìm thấy nút Next danh mục, hoàn tất khu vực {city_name}.")
                 break
-        except Exception:
-            print(f" -> Hoàn tất phân trang danh mục khu vực {city_name}.")
+        except:
             break
 
-    print(f"-> Tổng kết khu vực {city_name}: Thu thập được {len(restaurant_links)} URL nhà hàng.")
-    return list(restaurant_links)
+    print(f"-> Đã thu thập đủ {len(restaurant_links)} URL. Đang phân tích số lượng review để sắp xếp ưu tiên...")
+    
+    scored_restaurants = []
+    for idx, url in enumerate(list(restaurant_links)):
+        try:
+            driver.get(url)
+            time.sleep(random.uniform(1.5, 2.5))
+            schema = extract_json_ld_features(driver)
+            r_count_str = schema.get("aggregateRating", {}).get("reviewCount", 0)
+            try:
+                r_count = int(str(r_count_str).replace(",", "").strip())
+            except:
+                r_count = 0
+            scored_restaurants.append({"url": url, "review_count": r_count})
+            print(f" [{idx+1}/{len(restaurant_links)}] Đọc review count: {r_count} cho URL: {url.split('-')[-2] if '-' in url else 'N/A'}")
+        except:
+            scored_restaurants.append({"url": url, "review_count": 0})
+
+    # Sắp xếp danh sách giảm dần theo số lượng review (Quán nhiều reviews nhất lên đầu tiên)
+    scored_restaurants.sort(key=lambda x: x["review_count"], reverse=True)
+    print(f"[SUCCESS] Đã sắp xếp hoàn tất! Nhà hàng đứng đầu có {scored_restaurants[0]['review_count'] if scored_restaurants else 0} reviews.")
+    
+    return [item["url"] for item in scored_restaurants]
 
 
 # ==========================================
-# CƠ CHẾ VÉT CẠN 100% REVIEWS VÀ UPSERT THÔNG MINH
+# CƠ CHẾ VÉT CẠN 100% REVIEWS QUA URL OFFSET & UPSERT THÔNG MINH
 # ==========================================
 def extract_full_features_from_restaurant(driver, target_url, city):
     match_id = re.search(r"-d(\d+)-", target_url)
     restaurant_id = match_id.group(1) if match_id else "000000"
 
-    # Ép buộc trỏ thẳng vào tab #REVIEWS
-    if "#REVIEWS" not in target_url:
-        target_url_reviews = target_url.replace(".html", ".html#REVIEWS") if ".html" in target_url else target_url + "#REVIEWS"
-    else:
-        target_url_reviews = target_url
+    base_url_clean = target_url.split("#")[0].split("?")[0]
+    if base_url_clean.endswith(".html"):
+        base_url_clean = base_url_clean[:-5]
 
-    driver.get(target_url_reviews)
-    time.sleep(random.uniform(6.0, 9.0))
-
-    try:
-        tab_reviews = driver.find_elements(By.CSS_SELECTOR, "a[data-tab-name='Reviews'], div[data-tab-name='Reviews'], a#REVIEWS, a[href*='#REVIEWS']")
-        for tab in tab_reviews:
-            driver.execute_script("arguments[0].click();", tab)
-            time.sleep(3.0)
-            break
-    except:
-        pass
-
+    driver.get(target_url if "#REVIEWS" in target_url else target_url + "#REVIEWS")
+    time.sleep(random.uniform(5.0, 7.0))
     schema_info = extract_json_ld_features(driver)
 
     restaurant_name = "N/A"
@@ -271,13 +277,22 @@ def extract_full_features_from_restaurant(driver, target_url, city):
 
     restaurant_reviews = []
     page_num = 1
-    max_pages_per_restaurant = 500
+    max_pages_per_restaurant = 300
 
     while page_num <= max_pages_per_restaurant:
+        offset = (page_num - 1) * 15
+        if offset == 0:
+            current_page_url = target_url if "#REVIEWS" in target_url else target_url + "#REVIEWS"
+        else:
+            current_page_url = f"{base_url_clean}-or{offset}.html#REVIEWS"
+
+        driver.get(current_page_url)
+        time.sleep(random.uniform(5.0, 7.0))
+
         last_scroll_height = driver.execute_script("return document.body.scrollHeight")
-        for _ in range(6):
+        for _ in range(5):
             driver.execute_script("window.scrollBy(0, 800);")
-            time.sleep(random.uniform(1.0, 1.5))
+            time.sleep(random.uniform(1.0, 1.3))
             new_height = driver.execute_script("return document.body.scrollHeight")
             if new_height == last_scroll_height:
                 break
@@ -288,7 +303,7 @@ def extract_full_features_from_restaurant(driver, target_url, city):
             for mb in more_buttons:
                 try:
                     driver.execute_script("arguments[0].click();", mb)
-                    time.sleep(0.3)
+                    time.sleep(0.2)
                 except:
                     continue
         except:
@@ -300,6 +315,10 @@ def extract_full_features_from_restaurant(driver, target_url, city):
         )
         if not review_containers:
             review_containers = driver.find_elements(By.TAG_NAME, "article")
+
+        if not review_containers:
+            print(f" -> Đã quét hết toàn bộ review của nhà hàng (Dừng tại trang {page_num}, offset {offset}).")
+            break
 
         new_added_in_page = 0
         for index, container in enumerate(review_containers):
@@ -343,52 +362,13 @@ def extract_full_features_from_restaurant(driver, target_url, city):
             except:
                 continue
 
-        print(f" -> Đã vét trang review {page_num}, tích lũy tổng cộng {len(restaurant_reviews)} reviews.")
+        print(f" -> Đã vét trang review {page_num} (Offset {offset}), tích lũy tổng cộng {len(restaurant_reviews)} reviews.")
 
-        try:
-            clicked_next = False
-            
-            pagination_elements = driver.find_elements(
-                By.CSS_SELECTOR, 
-                "a.nav.next, [data-test-target='pagination-next'], div.pagination a, .pageNumbers span, a.ui_button.nav.next"
-            )
-            
-            for elem in pagination_elements:
-                try:
-                    cls = elem.get_attribute("class") or ""
-                    aria = elem.get_attribute("aria-disabled") or ""
-                    if ("next" in cls.lower() or "›" in elem.text) and "disabled" not in cls and aria != "true":
-                        driver.execute_script("arguments[0].scrollIntoView(true);", elem)
-                        time.sleep(1.0)
-                        driver.execute_script("arguments[0].click();", elem)
-                        page_num += 1
-                        clicked_next = True
-                        print(f" -> Đã chuyển sang trang review số {page_num} bằng nút Next.")
-                        time.sleep(random.uniform(5.0, 8.0))
-                        break
-                except:
-                    continue
-            
-            if not clicked_next:
-                target_page_str = str(page_num + 1)
-                page_numbers = driver.find_elements(By.CSS_SELECTOR, "div.pageNumbers span, div.pagination a, span.pageNum")
-                for p_num in page_numbers:
-                    if p_num.text.strip() == target_page_str:
-                        driver.execute_script("arguments[0].scrollIntoView(true);", p_num)
-                        time.sleep(1.0)
-                        driver.execute_script("arguments[0].click();", p_num)
-                        page_num += 1
-                        clicked_next = True
-                        print(f" -> Đã bấm sang trang số {page_num}.")
-                        time.sleep(random.uniform(5.0, 8.0))
-                        break
-
-            if not clicked_next:
-                print(" -> Đã vét cạn 100% tất cả các trang review của nhà hàng này.")
-                break
-        except Exception as e:
-            print(f" -> Dừng phân trang do lỗi: {e}")
+        if new_added_in_page == 0:
+            print(" -> Không còn review mới ở trang này, hoàn tất vét cạn nhà hàng.")
             break
+
+        page_num += 1
 
     try:
         safe_name = "".join(c for c in restaurant_name if c.isalnum() or c in (" ", "_", "-")).strip().replace(" ", "_")
@@ -398,7 +378,6 @@ def extract_full_features_from_restaurant(driver, target_url, city):
         os.makedirs(local_dir, exist_ok=True)
         local_file_path = os.path.join(local_dir, file_name)
 
-        # Merge thông minh với file cũ (nếu có) để cập nhật thêm review mà không mất dữ liệu cũ
         final_reviews_list = restaurant_reviews
         if os.path.exists(local_file_path):
             try:
@@ -448,12 +427,11 @@ def run_enterprise_scale_pipeline():
     output_dir = "code/kien/data/raw/enterprise_unlimited"
     os.makedirs(output_dir, exist_ok=True)
 
-    # TỰ ĐỘNG XÓA FILE TRACKING CŨ NGAY KHI KHỞI ĐỘNG ĐỂ QUÉT VÉT CẠN LẠI TỪ ĐẦU
     tracking_path = os.path.join(output_dir, TRACKING_FILE_NAME)
     if os.path.exists(tracking_path):
         try:
             os.remove(tracking_path)
-            print(f"[Auto Clean] Đã tự động xóa file lịch sử cũ '{TRACKING_FILE_NAME}' để tiến hành quét vét cạn toàn bộ!")
+            print(f"[Auto Clean] Đã tự động xóa file lịch sử cũ '{TRACKING_FILE_NAME}' để quét vét cạn từ đầu!")
         except Exception as e:
             print(f"[Auto Clean Warning] Không thể xóa file tracking: {e}")
 
@@ -462,7 +440,7 @@ def run_enterprise_scale_pipeline():
     options = uc.ChromeOptions()
     options.add_argument("--start-maximized")
 
-    print("Khởi động Enterprise Crawler Vét Cạn Toàn Quốc...")
+    print("Khởi động Enterprise Crawler Vét Cạn Toàn Quốc (Ưu tiên nhà hàng nhiều review nhất trước)...")
 
     driver = uc.Chrome(options=options)
     print("[Driver] Trình duyệt sẵn sàng!")
@@ -476,7 +454,8 @@ def run_enterprise_scale_pipeline():
             print(f"QUÉT KHU VỰC [{city_idx+1}/{len(city_listings)}]: {listing['city']}")
             print(f"==========================================")
             
-            urls = discover_restaurant_urls(driver, listing["url"], listing["city"])
+            # Gọi hàm quét và sắp xếp ưu tiên nhà hàng nhiều review lên đầu
+            urls = discover_and_sort_restaurants(driver, listing["url"], listing["city"])
             
             for idx, restaurant_url in enumerate(urls):
                 current_records = count_total_accumulated_records()
@@ -489,7 +468,7 @@ def run_enterprise_scale_pipeline():
                     print(f"Bỏ qua nhà hàng đã cào (ID: {restaurant_id})")
                     continue
 
-                print(f"[{listing['city']}] [Tiến độ nhà hàng: {idx+1}/{len(urls)}] Xử lý: {restaurant_url}")
+                print(f"[{listing['city']}] [Thứ tự ưu tiên: {idx+1}/{len(urls)}] Xử lý: {restaurant_url}")
                 
                 extract_full_features_from_restaurant(driver, restaurant_url, listing["city"])
                 

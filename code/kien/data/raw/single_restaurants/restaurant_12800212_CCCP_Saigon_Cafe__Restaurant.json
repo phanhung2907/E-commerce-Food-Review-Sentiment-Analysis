@@ -4,7 +4,7 @@
     "city": "Vietnam_Subregion",
     "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12800212-Reviews-CCCP_Saigon_Cafe_Restaurant-Ho_Chi_Minh_City.html",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12800212-Reviews-CCCP_Saigon_Cafe_Restaurant-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12800212-Reviews-CCCP_Saigon_Cafe_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -77,7 +77,7 @@
         ],
         "telephone": "+84 28 3911 8877"
     },
-    "reviews_count": 15,
+    "reviews_count": 21,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1396,6 +1396,534 @@
             "review_text": "Lili D\n4 contributions\n0\nExcellent Russian soviet style\nApr 2019 • Family\nI took my daughter to CCCP the other night so she could try some authentic Russian food, and I was not disappointed. All the dishes we ordered met or exceeded our expectations. The barbecue was delicious and so were the soups (Borsh and some sour soup I forgot the name of). I highly recommend the Rye bread with butter that is to die for. You can order the soviet soft drink Kompot, a kind of berry soda that they used to drink in the soviet union and that is quite tasty. The desserts were delicious and I recommend to order them with tea!\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten April 30, 2019",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T01:49:46.080779",
+            "restaurant_id": "12800212",
+            "restaurant_name": "CCCP Saigon Cafe & Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12800212-Reviews-CCCP_Saigon_Cafe_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12800212-Reviews-CCCP_Saigon_Cafe_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.791686,
+                "longitude": 106.70026
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/01/47/38/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Healthy",
+                "Russian",
+                "Eastern European",
+                "Ukrainian"
+            ],
+            "telephone": "+84 28 3911 8877",
+            "review_id": "REV_12800212_p2_0",
+            "reviewer_id": "User_12800212_2_0",
+            "review_title": "Review at CCCP Saigon Cafe & Restaurant",
+            "review_text": "Karen Z\nScottsdale, Arizona36 contributions\n0\nCold food, not enough staff.\nAug 2018 • Friends\nWent here Sunday with a group of about 20 people. We had a reservation and they knew how many people were going to attend. They did not have enough staff, service was very poor. Wrong food, wrong drinks etc...I wasn't really upset with the poor service but the food was really just awful. My soup was lukewarm and the rest of the food wasn't hot. I ordered some cheese pastry dish and I couldn't even cut it with a knife. Anyway...won't be going there again.\nRead more\nValue\nService\nFood\nWritten August 20, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T01:49:46.109087",
+            "restaurant_id": "12800212",
+            "restaurant_name": "CCCP Saigon Cafe & Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12800212-Reviews-CCCP_Saigon_Cafe_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12800212-Reviews-CCCP_Saigon_Cafe_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.791686,
+                "longitude": 106.70026
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/01/47/38/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Healthy",
+                "Russian",
+                "Eastern European",
+                "Ukrainian"
+            ],
+            "telephone": "+84 28 3911 8877",
+            "review_id": "REV_12800212_p2_1",
+            "reviewer_id": "User_12800212_2_1",
+            "review_title": "Review at CCCP Saigon Cafe & Restaurant",
+            "review_text": "hanpinn\nSingapore, Singapore417 contributions\n2\nCan't get enough of Russia but here!\nJul 2018 • Solo\nI returned from a vacation in Russia not too long ago and I must say I kinda love Russian food but I know there're dishes that I've not tried before. In Singapore where I come from, there are barely any authentic Russian restaurants around and the gastronomic trend there is not towards Russian food. Hence on my business trip to nearby Vietnam, the thought occurred to me to check out Russian food here since Vietnam has very close ties with Russia compared to many other South East nation countries. \n\nI'm glad that I went in this direction and was not disappointed. I more or less knew what I wanted to order after trying the real stuff back in Russia and I'm not disappointed. Borsch is as authentic as it gets compared to what I've tasted in Moscow and St Pete's but there's much more fillings in the Borsch. I attempted to try the smoked salted fish \"Astrakhan\" too but I found it too salty( I haven't tried this when I was in Russia ). Pelmeni was tasty and quite close to what I've eaten in Russia too. Only issue is that it's a little smaller. \n\nThe lady boss can converse well in Russian too( I didn't understand Vietnamese and they didn't have English menus. The next language which I could converse with the locals here was in Russian ) and she explained herself well. Attitude and service was good and the kvass tastes authentic enough. You will see Russian/ Soviet style posters in the shop but the guests which were here were mainly local Vietnamese. Recommended for anyone who wants to try Russian food!\nRead more\nWritten July 10, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T01:49:46.126813",
+            "restaurant_id": "12800212",
+            "restaurant_name": "CCCP Saigon Cafe & Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12800212-Reviews-CCCP_Saigon_Cafe_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12800212-Reviews-CCCP_Saigon_Cafe_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.791686,
+                "longitude": 106.70026
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/01/47/38/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Healthy",
+                "Russian",
+                "Eastern European",
+                "Ukrainian"
+            ],
+            "telephone": "+84 28 3911 8877",
+            "review_id": "REV_12800212_p2_2",
+            "reviewer_id": "User_12800212_2_2",
+            "review_title": "Review at CCCP Saigon Cafe & Restaurant",
+            "review_text": "Minh L\nHanoi, Vietnam111 contributions\n0\nGood Russian food\nApr 2018 • Friends\nGood food but not truly Russian. Salo, beer and vodka from Russia. Sashluk (barbecue) is not real Russian taste. Borsh (radish soup) is OK. Pelmeni (dim sum) is so good. However atmosphere is firendly for people who graduated from Soviet union\nWritten April 28, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T01:49:46.148389",
+            "restaurant_id": "12800212",
+            "restaurant_name": "CCCP Saigon Cafe & Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12800212-Reviews-CCCP_Saigon_Cafe_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12800212-Reviews-CCCP_Saigon_Cafe_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.791686,
+                "longitude": 106.70026
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/01/47/38/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Healthy",
+                "Russian",
+                "Eastern European",
+                "Ukrainian"
+            ],
+            "telephone": "+84 28 3911 8877",
+            "review_id": "REV_12800212_p2_3",
+            "reviewer_id": "User_12800212_2_3",
+            "review_title": "Review at CCCP Saigon Cafe & Restaurant",
+            "review_text": "Abha\nHo Chi Minh City, Vietnam48 contributions\n0\nDelicious food, simple ambiance, great service\nApr 2018 • Friends\nThis lovely restaurant comes as such a pleasant surprise. Food is great, service so warm and gracious, and atmosphere nice and quiet. Spaciously laid tables and uncluttered look gives this restaurant a unique look. LOVE IT...\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten April 12, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T01:49:46.175068",
+            "restaurant_id": "12800212",
+            "restaurant_name": "CCCP Saigon Cafe & Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12800212-Reviews-CCCP_Saigon_Cafe_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12800212-Reviews-CCCP_Saigon_Cafe_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.791686,
+                "longitude": 106.70026
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/01/47/38/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Healthy",
+                "Russian",
+                "Eastern European",
+                "Ukrainian"
+            ],
+            "telephone": "+84 28 3911 8877",
+            "review_id": "REV_12800212_p2_4",
+            "reviewer_id": "User_12800212_2_4",
+            "review_title": "Review at CCCP Saigon Cafe & Restaurant",
+            "review_text": "drvaibhavmisra\nMeerut, India859 contributions\n0\nGood Russian food\nDec 2017\nAuthentic Russian crusine, very tasty and good service , ambiance is average but if are a Russian food lover u need to go to this place\nWritten December 14, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T01:49:46.201319",
+            "restaurant_id": "12800212",
+            "restaurant_name": "CCCP Saigon Cafe & Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12800212-Reviews-CCCP_Saigon_Cafe_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12800212-Reviews-CCCP_Saigon_Cafe_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.791686,
+                "longitude": 106.70026
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/01/47/38/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Healthy",
+                "Russian",
+                "Eastern European",
+                "Ukrainian"
+            ],
+            "telephone": "+84 28 3911 8877",
+            "review_id": "REV_12800212_p2_5",
+            "reviewer_id": "User_12800212_2_5",
+            "review_title": "Review at CCCP Saigon Cafe & Restaurant",
+            "review_text": "desiremmwekb10\nHo Chi Minh City, Vietnam2964 contributions\n0\nAuthentic Russian Restaurant\nNov 2017 • Family\nI like this lovely Russian restaurant. The decoration is simple yet still give you a feel for Russian culture. The menu offers most of the genuine recognized Russian food. The food is very good. I like borsch soup, russian salad, pork shashlik, and Beluga vodka. Will come back for more.\nWritten November 23, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

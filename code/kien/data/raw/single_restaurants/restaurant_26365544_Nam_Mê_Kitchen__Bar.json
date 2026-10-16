@@ -105,7 +105,7 @@
         ],
         "telephone": "+84 397 949 399"
     },
-    "reviews_count": 15,
+    "reviews_count": 29,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1844,6 +1844,1630 @@
             "review_text": "dong n\n7 contributions\n0\nAffordable place\nAug 2024 • Family\nDespite this place located in Thao Dien, which is often considered expensive and for affluent people, it offers so affordable items for both food and drinks\nValue\nService\nFood\nAtmosphere\nWritten August 30, 2024",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:31:39.370349",
+            "restaurant_id": "26365544",
+            "restaurant_name": "Nam Mê Kitchen & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 40
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.806142,
+                "longitude": 106.72912
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0e/a5/bf/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 397 949 399",
+            "review_id": "REV_26365544_p2_0",
+            "reviewer_id": "User_26365544_2_0",
+            "review_title": "Review at Nam Mê Kitchen & Bar",
+            "review_text": "Thien DDT\nHo Chi Minh City, Vietnam7 contributions\n0\nDeserves high recommendation\nAug 2024 • Family\nYou will definitely be surprised by how affordable this place is compared to all the restaurants in Thao Dien area, which is a really high price area to dine in. We had 5 people but the bill came out just about $20 each, including one drink and water for each of us. In Thao Dien, a normal restaurant meal would easily cost somewhere between $30 and 40 each. Much more for more fine dining places (probably $50-200 each). So this place is highly recommended, not only for good and reasonable price food, but also for service and their nicely decorated venue.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten August 28, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:31:39.403476",
+            "restaurant_id": "26365544",
+            "restaurant_name": "Nam Mê Kitchen & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 40
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.806142,
+                "longitude": 106.72912
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0e/a5/bf/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 397 949 399",
+            "review_id": "REV_26365544_p2_1",
+            "reviewer_id": "User_26365544_2_1",
+            "review_title": "Review at Nam Mê Kitchen & Bar",
+            "review_text": "Chi Linh\nHo Chi Minh City, Vietnam7 contributions\n0\nA good to place to hang out with friends\nJul 2024 • Friends\nThis is definitely a spot to hangout with friends. Good conversations serviced with good food and drinks. It's what a good get-together needs\nValue\nService\nFood\nAtmosphere\nWritten July 31, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:31:39.425470",
+            "restaurant_id": "26365544",
+            "restaurant_name": "Nam Mê Kitchen & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 40
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.806142,
+                "longitude": 106.72912
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0e/a5/bf/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 397 949 399",
+            "review_id": "REV_26365544_p2_2",
+            "reviewer_id": "User_26365544_2_2",
+            "review_title": "Review at Nam Mê Kitchen & Bar",
+            "review_text": "anuszka13\nHo Chi Minh City, Vietnam107 contributions\n0\nExcellent «  value for money « restaurant which offers variety of regional dishes\nJul 2024 • Couples\nSuper fresh , reasonable price , the restaurant offers large variety of typical food from countries crossed by the Mekong river . The service is as well perfect with kind attention and smiles .\nWritten July 7, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:31:39.449392",
+            "restaurant_id": "26365544",
+            "restaurant_name": "Nam Mê Kitchen & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 40
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.806142,
+                "longitude": 106.72912
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0e/a5/bf/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 397 949 399",
+            "review_id": "REV_26365544_p2_3",
+            "reviewer_id": "User_26365544_2_3",
+            "review_title": "Review at Nam Mê Kitchen & Bar",
+            "review_text": "ThanhVang\nHo Chi Minh City, Vietnam1 contribution\n0\nAmazing food\nMay 2024 • Friends\nIf you are here once, you might get addicted to their amazing food. Their marinated steak are to die for and tomyum bulot is out of this world\nValue\nService\nFood\nAtmosphere\nWritten June 30, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:31:39.483624",
+            "restaurant_id": "26365544",
+            "restaurant_name": "Nam Mê Kitchen & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 40
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.806142,
+                "longitude": 106.72912
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0e/a5/bf/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 397 949 399",
+            "review_id": "REV_26365544_p2_4",
+            "reviewer_id": "User_26365544_2_4",
+            "review_title": "Review at Nam Mê Kitchen & Bar",
+            "review_text": "Huy T\n5 contributions\n0\nYou won't be disappointed\nMay 2024 • Friends\nIf you don't know where to go when visiting this beautiful HCM, Nam Me is a very good choice. You won't be disappointed, especially ơn their cuisine\nValue\nService\nFood\nAtmosphere\nWritten June 23, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:31:39.511147",
+            "restaurant_id": "26365544",
+            "restaurant_name": "Nam Mê Kitchen & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 40
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.806142,
+                "longitude": 106.72912
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0e/a5/bf/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 397 949 399",
+            "review_id": "REV_26365544_p2_5",
+            "reviewer_id": "User_26365544_2_5",
+            "review_title": "Review at Nam Mê Kitchen & Bar",
+            "review_text": "Eattheworld\nHo Chi Minh City, Vietnam7 contributions\n0\nGORGEOUS PLACE AND FOOD\nJun 2024 • Friends\nThis is absolutely a gorgeous place with a pool and a garden, suitable for many kinds of gathering. Food is quite cheap compared to the taste and the service they offer. Drinks are also just as good. Take your date/friends/family. I'm sure you all are gonna love it !!!\nValue\nService\nFood\nAtmosphere\nWritten June 13, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:31:39.540092",
+            "restaurant_id": "26365544",
+            "restaurant_name": "Nam Mê Kitchen & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 40
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.806142,
+                "longitude": 106.72912
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0e/a5/bf/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 397 949 399",
+            "review_id": "REV_26365544_p2_6",
+            "reviewer_id": "User_26365544_2_6",
+            "review_title": "Review at Nam Mê Kitchen & Bar",
+            "review_text": "Trang Bui\n9 contributions\n1\nGreat Asian/Fusion resto - nice steak\nMay 2024 • Friends\nI came for lunch and ordered the steak, prawn curry, and duck larp. Steak was pretty flavourful and juicy. Definitely different from what you’d get from a steakhouse since the seasoning and sides that come with it is Asian-flavoured. They had a taro mash instead of potato mash. Prawn curry is tasty and quite spicy.\nI like Asian /fusion food so definitely appreciate the big flavours and seasonings in their food. Didn’t try their wine but looks like they have a decent wine list.\nRead more\nWritten May 7, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:31:39.556155",
+            "restaurant_id": "26365544",
+            "restaurant_name": "Nam Mê Kitchen & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 40
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.806142,
+                "longitude": 106.72912
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0e/a5/bf/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 397 949 399",
+            "review_id": "REV_26365544_p2_7",
+            "reviewer_id": "User_26365544_2_7",
+            "review_title": "Review at Nam Mê Kitchen & Bar",
+            "review_text": "Flyer66722973483\n1 contribution\n0\ngreat, will come back next time\nApr 2024 • Family\nThe restaurant has delicious food, suitable for my family's taste. Vietnamese food is so familiar that my family can visit it multiple times a week when we're lazy to cook. The restaurant has a kidzone so my two kids really like it. I chose a table next to the kidzones so I could eat and watch the kids. The service is very friendly and enthusiastic\nShow original\nWritten April 22, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:31:39.689026",
+            "restaurant_id": "26365544",
+            "restaurant_name": "Nam Mê Kitchen & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 40
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.806142,
+                "longitude": 106.72912
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0e/a5/bf/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 397 949 399",
+            "review_id": "REV_26365544_p2_8",
+            "reviewer_id": "User_26365544_2_8",
+            "review_title": "Review at Nam Mê Kitchen & Bar",
+            "review_text": "Anh Lê\nHo Chi Minh City, Vietnam9 contributions\n0\nExcellent Mekong restaurant in Saigon - Must visit!\nApr 2024 • Friends\nExcellent time in Nam Mê. Very tasty Mekong food, beautiful vibe, Mekong atmosphere in the air. They have the best Bò Ruốc Sả (Steaks lemongrass fermented sauce) with smashed taro, also the Hot Pop shrimp is amazingly great with traditional flavour of Western Vietnam. I really recommend their Tau Hu Ben Tre cocktail and pool side seats (need to book in advance)\nRead more\nInsider tip:\n- Tau Hu Ben Tre - Bò Ruốc Sả - Lẩu Hot Pot Shrimp - Dessert is the best\nValue\nService\nFood\nAtmosphere\nWritten April 16, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:31:39.725315",
+            "restaurant_id": "26365544",
+            "restaurant_name": "Nam Mê Kitchen & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 40
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.806142,
+                "longitude": 106.72912
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0e/a5/bf/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 397 949 399",
+            "review_id": "REV_26365544_p2_9",
+            "reviewer_id": "User_26365544_2_9",
+            "review_title": "Review at Nam Mê Kitchen & Bar",
+            "review_text": "R. K. V.\nBogota, Colombia3397 contributions\n0\nGood!\nMar 2024 • Family\ngood spot for lunch. very good, though not spectacular dishes. Ambiance is quite nice especially outside and very good service\nWritten March 22, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:31:39.774971",
+            "restaurant_id": "26365544",
+            "restaurant_name": "Nam Mê Kitchen & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 40
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.806142,
+                "longitude": 106.72912
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0e/a5/bf/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 397 949 399",
+            "review_id": "REV_26365544_p2_10",
+            "reviewer_id": "User_26365544_2_10",
+            "review_title": "Review at Nam Mê Kitchen & Bar",
+            "review_text": "Quang Kiet Le\nHo Chi Minh City, Vietnam1197 contributions\n0\nHidden gem in Ho Chi Minh City\nJan 2024 • Friends\nThis place is truly a hidden gem. Location was a bit hard to navigate. Thanks to our Grab driver, we found it easily. Staff was really nice and helpful. Food was well prepared and came in decent portions. Love the authentic Vietnamese taste!\nValue\nService\nFood\nAtmosphere\nWritten January 11, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:31:39.798203",
+            "restaurant_id": "26365544",
+            "restaurant_name": "Nam Mê Kitchen & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 40
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.806142,
+                "longitude": 106.72912
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0e/a5/bf/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 397 949 399",
+            "review_id": "REV_26365544_p2_11",
+            "reviewer_id": "User_26365544_2_11",
+            "review_title": "Review at Nam Mê Kitchen & Bar",
+            "review_text": "Louis Khai Anh\n2 contributions\n0\nA wonderful experience!\nOct 2023 • Family\nWe went to Nam Me for the first time this past week and were overwhelmed by the quality of the meal and the equally wonderful service! We could not have been more pleased with everything. Add to this the beautiful atmosphere in the restaurant. We will certainly return to this excellent restaurant.\nReview collected in partnership with this restaurant \nWritten October 25, 2023\nNam Mê Kitchen & Bar\nThank you for your review! We appreciate your feedback and wish to have you around soon!\nWritten January 17, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:31:39.838156",
+            "restaurant_id": "26365544",
+            "restaurant_name": "Nam Mê Kitchen & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 40
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.806142,
+                "longitude": 106.72912
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0e/a5/bf/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 397 949 399",
+            "review_id": "REV_26365544_p2_12",
+            "reviewer_id": "User_26365544_2_12",
+            "review_title": "Review at Nam Mê Kitchen & Bar",
+            "review_text": "Inspire05851856059\n1 contribution\n1\nTrue to the name of the restaurant. Enter and Me.\nOct 2023 • Family\nDelicious food, rich taste. There is a beautiful view and gentle music for 2 VC. There is also a ball pit for children to play in and observe easily.\nValue\nService\nFood\nAtmosphere\nShow original\nWritten October 25, 2023\nNam Mê Kitchen & Bar\nThank you for your review! We appreciate your feedback and wish to have you around soon!\nWritten January 17, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:31:39.885442",
+            "restaurant_id": "26365544",
+            "restaurant_name": "Nam Mê Kitchen & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26365544-Reviews-Nam_Me_Kitchen_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 40
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.806142,
+                "longitude": 106.72912
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0e/a5/bf/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 397 949 399",
+            "review_id": "REV_26365544_p2_13",
+            "reviewer_id": "User_26365544_2_13",
+            "review_title": "Review at Nam Mê Kitchen & Bar",
+            "review_text": "Cruiser48633540455\n2 contributions\n0\nCool space, delicious food, good service\nOct 2023 • Family\nSuitable for family and friends meetings, very chill experience, dating is also ok, I went on the weekend so it was fun, there was a DJ and everything was very bustling.\nValue\nService\nFood\nAtmosphere\nShow original\nWritten October 25, 2023\nNam Mê Kitchen & Bar\nThank you for your review! We appreciate your feedback and wish to have you around soon!\nWritten January 17, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

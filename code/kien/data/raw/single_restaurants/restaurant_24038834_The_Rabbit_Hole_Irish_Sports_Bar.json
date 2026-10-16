@@ -4,7 +4,7 @@
     "city": "Vietnam_Subregion",
     "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24038834-Reviews-The_Rabbit_Hole_Irish_Sports_Bar-Ho_Chi_Minh_City.html",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24038834-Reviews-The_Rabbit_Hole_Irish_Sports_Bar-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24038834-Reviews-The_Rabbit_Hole_Irish_Sports_Bar-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -78,7 +78,7 @@
         ],
         "telephone": "+84 774 815 080"
     },
-    "reviews_count": 13,
+    "reviews_count": 14,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1234,6 +1234,95 @@
             "review_text": "Max, Rubi and Bennie\n5 contributions\n1\nSunday Brunch at The Rabbit Hole\nJul 2022 • Family\nHey everyone, hope you are all having a great Sunday. 😊\n\nI‘m normal not very active in writing reviews, but this afternoon me and the family went to The Rabbit Hole Irish Sports Bar (Ho Chi Minh) for a Sunday roast brunch which really blew us away and just had to share our experience with you. \n\nWe ordered the pork roast and 2 steaks with Phu Quốc pepper sauce and a chef’s special sauce with fries, mash, salad and crunchy greens. If you are looking for a proper home cooked meal to enjoy with family and friends in a smoke free place, I highly recommend you give this a try! \n\nThank you very much Ian and Hoa for the great hospitality! Definitely coming back for more. 😅🍻\nRead more\nReview collected in partnership with this restaurant \nWritten July 24, 2022",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T01:59:28.124878",
+            "restaurant_id": "24038834",
+            "restaurant_name": "The Rabbit Hole Irish Sports Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24038834-Reviews-The_Rabbit_Hole_Irish_Sports_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24038834-Reviews-The_Rabbit_Hole_Irish_Sports_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 14
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.79005,
+                "longitude": 106.71238
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6d/01/f1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "15:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "15:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "15:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "15:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "15:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "02:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Irish",
+                "Bar",
+                "International",
+                "British",
+                "Pub"
+            ],
+            "telephone": "+84 774 815 080",
+            "review_id": "REV_24038834_p1_6",
+            "reviewer_id": "User_24038834_1_6",
+            "review_title": "Review at The Rabbit Hole Irish Sports Bar",
+            "review_text": "Doc Bok\nVientiane, Laos1130 contributions\n0\nChill Sports Bar\nAug 2024 • Solo\nSome good draught beers here and plays a lot of sports late night. Good place to have some drinks and play pool or table football as well\nWritten September 1, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

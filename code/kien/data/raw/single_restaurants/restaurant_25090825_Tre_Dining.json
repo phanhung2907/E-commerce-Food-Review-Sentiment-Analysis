@@ -76,7 +76,7 @@
         ],
         "telephone": "+84 94 984 86 96"
     },
-    "reviews_count": 15,
+    "reviews_count": 27,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1380,6 +1380,1050 @@
             "review_text": "mick\nRotterdam, The Netherlands3 contributions\n1\nExcellent food, professional staff and great atmosphere\nOct 2023 • Couples\nExcellent and great variety of dishes. The menu is carefully put together and are combined into one story (or journey). Staff was professional and very friendly. We had a seat at the bar next to the kitchen which allowed us to get the full experience.\nWritten October 29, 2023\n523 Dong Du\nThank you for your fantastic review! It's wonderful to know that our staff provided professional and friendly service, enhancing your overall experience. Sitting at the bar next to the kitchen sounds like a great choice, and we're delighted you got the full experience.\n\nWe appreciate your kind words and can't wait to welcome you back for another delightful dining experience!\nRead more\nWritten November 21, 2023\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T05:49:05.113161",
+            "restaurant_id": "25090825",
+            "restaurant_name": "Tre Dining",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.803368,
+                "longitude": 106.73061
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d9/ec/e4/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Bar",
+                "Asian",
+                "Diner"
+            ],
+            "telephone": "+84 94 984 86 96",
+            "review_id": "REV_25090825_p2_0",
+            "reviewer_id": "User_25090825_2_0",
+            "review_title": "Review at Tre Dining",
+            "review_text": "Roland P\n2 contributions\n1\nLike the town! A Creativ fusion between west and east\nOct 2023 • Couples\nWas introduced by a business partner. Great service, creative kitchen, nice Location. What not to like.\nValue\nService\nFood\nAtmosphere\nWritten October 28, 2023\n523 Dong Du\nThank you for appreciating the creative fusion between the East and West in our kitchen. We're glad you liked the service and the nice location. It's fantastic that you were introduced by a business partner, and we hope to continue exceeding your expectations. If there's anything specific you loved or any suggestions you have, feel free to share. Looking forward to welcoming you back soon!\nRead more\nWritten November 21, 2023\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T05:49:05.148396",
+            "restaurant_id": "25090825",
+            "restaurant_name": "Tre Dining",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.803368,
+                "longitude": 106.73061
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d9/ec/e4/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Bar",
+                "Asian",
+                "Diner"
+            ],
+            "telephone": "+84 94 984 86 96",
+            "review_id": "REV_25090825_p2_1",
+            "reviewer_id": "User_25090825_2_1",
+            "review_title": "Review at Tre Dining",
+            "review_text": "Steph C\nHo Chi Minh City, Vietnam24 contributions\n1\nKindness and Warmth\nOct 2023 • Solo\nDelicious duck, complimentary cocktail, the best sourdough bread I’ve had in I don’t know when with three super delicious butters. \nKindness and warmth is the demeanor, quick with answers about the food and flavors, and simply delicious delicious delicious. \nI’m going back next week! And again and again.\nValue\nService\nFood\nAtmosphere\nWritten October 27, 2023\n523 Dong Du\nThank you so much for your wonderful review! Your appreciation for the kindness and warmth of our team, along with the quick answers about the food and flavors, means a lot to us.\n\nWe're excited to have you back next week and look forward to creating more delicious experiences for you, again and again!\nRead more\nWritten November 21, 2023\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T05:49:05.188304",
+            "restaurant_id": "25090825",
+            "restaurant_name": "Tre Dining",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.803368,
+                "longitude": 106.73061
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d9/ec/e4/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Bar",
+                "Asian",
+                "Diner"
+            ],
+            "telephone": "+84 94 984 86 96",
+            "review_id": "REV_25090825_p2_2",
+            "reviewer_id": "User_25090825_2_2",
+            "review_title": "Review at Tre Dining",
+            "review_text": "Sang Ng\n6 contributions\n1\nHats off ❤️\nOct 2023 • Friends\nWonderful heart of Thao Dien area. The food is super hyper tasting by Vietnamese related fusion technics.\nHats off to you, TRE team!\nValue\nService\nFood\nAtmosphere\nWritten October 8, 2023\n523 Dong Du\nThank you for your heartwarming words! We're honored to be considered the wonderful heart of Thao Dien, and we're thrilled that you found our food to be a delightful fusion of Vietnamese flavors. Your \"Hats off\" is truly appreciated, and we can't wait to welcome you back for more culinary delights!\nRead more\nWritten November 21, 2023\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T05:49:05.224239",
+            "restaurant_id": "25090825",
+            "restaurant_name": "Tre Dining",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.803368,
+                "longitude": 106.73061
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d9/ec/e4/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Bar",
+                "Asian",
+                "Diner"
+            ],
+            "telephone": "+84 94 984 86 96",
+            "review_id": "REV_25090825_p2_3",
+            "reviewer_id": "User_25090825_2_3",
+            "review_title": "Review at Tre Dining",
+            "review_text": "Luke\n2 contributions\n1\nLike\nOct 2023 • Friends\nPerfect atmosphere with good service\nTheir menu has a story from the starters to dessert, really nice food journey, Vinh makes the dinner even better. Highly recommended!!!\nValue\nService\nFood\nAtmosphere\nWritten October 7, 2023\n523 Dong Du\nDear Wanderluketw, \n\nThank you for your kind words! It's fantastic to know that our menu, with its story from starters to dessert, provided a nice food journey for you. We're also thrilled to hear that Vinh enhanced your dining experience. Your recommendation means the world to us, and we look forward to serving you again soon!\nRead more\nWritten November 21, 2023\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T05:49:05.251920",
+            "restaurant_id": "25090825",
+            "restaurant_name": "Tre Dining",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.803368,
+                "longitude": 106.73061
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d9/ec/e4/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Bar",
+                "Asian",
+                "Diner"
+            ],
+            "telephone": "+84 94 984 86 96",
+            "review_id": "REV_25090825_p2_4",
+            "reviewer_id": "User_25090825_2_4",
+            "review_title": "Review at Tre Dining",
+            "review_text": "CSquared\nWindsor, Canada5 contributions\n1\nGastronomical delight\nOct 2023 • Business\nA fantastic “storytelling” experience with their “Reborn” chef’s menu. Gastronomy at its finest. First class all around!!\nWritten October 6, 2023\n523 Dong Du\nThank you for your wonderful review! Your kind words about our gastronomy being at its finest and the overall first-class experience mean a lot to us. We can't wait to have you back for another culinary journey!\nRead more\nWritten November 21, 2023\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T05:49:05.279702",
+            "restaurant_id": "25090825",
+            "restaurant_name": "Tre Dining",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.803368,
+                "longitude": 106.73061
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d9/ec/e4/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Bar",
+                "Asian",
+                "Diner"
+            ],
+            "telephone": "+84 94 984 86 96",
+            "review_id": "REV_25090825_p2_5",
+            "reviewer_id": "User_25090825_2_5",
+            "review_title": "Review at Tre Dining",
+            "review_text": "R. K. V.\nBogota, Colombia3397 contributions\n1\nsensational\nSep 2023 • Solo\nthe food is exceptional. one of the top places i have been to, in hcmc and beyond. atmosphere is also good as is the service\nWritten September 24, 2023\n523 Dong Du\nDear Rkigervaron\n\nThank you for your sensational review! We're delighted to hear that you found our food exceptional and consider us one of the top places in HCMC and beyond. Your praise for the atmosphere and service is truly appreciated. We're grateful for your support and look forward to welcoming you back for another exceptional experience.\nRead more\nWritten November 21, 2023\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T05:49:05.301881",
+            "restaurant_id": "25090825",
+            "restaurant_name": "Tre Dining",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.803368,
+                "longitude": 106.73061
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d9/ec/e4/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Bar",
+                "Asian",
+                "Diner"
+            ],
+            "telephone": "+84 94 984 86 96",
+            "review_id": "REV_25090825_p2_6",
+            "reviewer_id": "User_25090825_2_6",
+            "review_title": "Review at Tre Dining",
+            "review_text": "Vuu\nHo Chi Minh City, Vietnam6 contributions\n1\nGood experience\nApr 2023 • Family\nFine dining, special fusion styles of vietnamese foods and western tastes, with good presentations and nice atmosphere. Price is right for the quality of the food.\nWritten September 23, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T05:49:05.335055",
+            "restaurant_id": "25090825",
+            "restaurant_name": "Tre Dining",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.803368,
+                "longitude": 106.73061
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d9/ec/e4/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Bar",
+                "Asian",
+                "Diner"
+            ],
+            "telephone": "+84 94 984 86 96",
+            "review_id": "REV_25090825_p2_7",
+            "reviewer_id": "User_25090825_2_7",
+            "review_title": "Review at Tre Dining",
+            "review_text": "stephen long T\n1 contribution\n1\nThe food and drink style is very Asian fusion, a very wonderful experience\nSep 2023 • Friends\nThe food and drinks are very delicious\nGood service, beautiful view, very crowded here on weekends. Diverse food and drinks, there is a show kitchen\nValue\nService\nFood\nAtmosphere\nShow original\nWritten September 22, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T05:49:05.367604",
+            "restaurant_id": "25090825",
+            "restaurant_name": "Tre Dining",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.803368,
+                "longitude": 106.73061
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d9/ec/e4/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Bar",
+                "Asian",
+                "Diner"
+            ],
+            "telephone": "+84 94 984 86 96",
+            "review_id": "REV_25090825_p2_8",
+            "reviewer_id": "User_25090825_2_8",
+            "review_title": "Review at Tre Dining",
+            "review_text": "Jenny\n12 contributions\n1\nFabulous Night out\nFeb 2023 • Friends\nWe had a fantastic night at Tre Dining in Thao Dien, District 2. With the top of the view, we really loved and enjoyed the beautiful and dazzling view to Landmark 81. The atmosphere there was very great. High food quality, professional staffs who are always attentive to the details. Opened Kitchen with talented Chefs. The dishes were decorated nicely, well presented. You will have a staff to be ready at your service at the table and present for each dishes. Bar prices cheap, snack food prices cheap. Great night out for not a lot of money. Well worth a visit. Would definetly go back here again.\nRead more\nWritten March 6, 2023\n523 Dong Du\nDear Quuynh \nThank you for the glowing review! We're thrilled to hear that you had a fabulous night at our place. It's wonderful to know that you enjoyed the breathtaking view of Landmark 81, the great atmosphere, and the high-quality food. We're proud to have professional and attentive staff, along with talented chefs in our open kitchen.\n\nYour feedback on the well-decorated and well-presented dishes is much appreciated. We're also glad to hear that you found our bar and snack prices to be budget-friendly, making it a great night out without breaking the bank.\n\nWe can't wait to welcome you back for another fantastic dining experience. Thank you for choosing Tre Dining!\nRead more\nWritten November 21, 2023\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T05:49:05.388492",
+            "restaurant_id": "25090825",
+            "restaurant_name": "Tre Dining",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.803368,
+                "longitude": 106.73061
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d9/ec/e4/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Bar",
+                "Asian",
+                "Diner"
+            ],
+            "telephone": "+84 94 984 86 96",
+            "review_id": "REV_25090825_p2_9",
+            "reviewer_id": "User_25090825_2_9",
+            "review_title": "Review at Tre Dining",
+            "review_text": "đông l\n4 contributions\n1\nWonderful Experience\nOct 2022 • Family\nGood food, good wine and good vibe. \nA wonderful experience. i love everything here\nstandard fine dining restaurant but extremely attractive prices\nWritten November 23, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T05:49:05.419701",
+            "restaurant_id": "25090825",
+            "restaurant_name": "Tre Dining",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.803368,
+                "longitude": 106.73061
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d9/ec/e4/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Bar",
+                "Asian",
+                "Diner"
+            ],
+            "telephone": "+84 94 984 86 96",
+            "review_id": "REV_25090825_p2_10",
+            "reviewer_id": "User_25090825_2_10",
+            "review_title": "Review at Tre Dining",
+            "review_text": "Thomas Nguyen\n1 contribution\n1\nExcellent Design with Bamboo, Fascinating food & drinks\nNov 2022\nIt was everything is Bamboo, traditional but modern as well. Highly recommend for couple, business dinner.\nVery interesting menu.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten November 18, 2022\n523 Dong Du\nDear Thomas, \n\nThank you for the wonderful review! We're delighted you appreciated our bamboo-themed design, and we're thrilled you enjoyed our fascinating food and drinks. Your recommendation for couples and business dinners means a lot to us. We hope to welcome you back soon to explore more of our interesting menu!\n\nBest regards,\nRead more\nWritten November 21, 2023\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T05:49:05.444201",
+            "restaurant_id": "25090825",
+            "restaurant_name": "Tre Dining",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25090825-Reviews-Tre_Dining-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.803368,
+                "longitude": 106.73061
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d9/ec/e4/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Bar",
+                "Asian",
+                "Diner"
+            ],
+            "telephone": "+84 94 984 86 96",
+            "review_id": "REV_25090825_p2_11",
+            "reviewer_id": "User_25090825_2_11",
+            "review_title": "Review at Tre Dining",
+            "review_text": "Vuu\nHo Chi Minh City, Vietnam6 contributions\n1\nCustomer\nSep 2022 • Friends\nVery good experience, good food, good service. A beautiful decorated place. I would definitely go again. And can't forget cocktail at Tre🥰\nReview collected in partnership with this restaurant \nWritten November 16, 2022\n523 Dong Du\nDear Hong, \n\nThank you for the fantastic review! We're thrilled you enjoyed the food, service, and ambiance. Your kind words about Tre's cocktail made our day! We look forward to welcoming you back soon for another great experience.\n\nCheers,\nRead more\nWritten November 21, 2023\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

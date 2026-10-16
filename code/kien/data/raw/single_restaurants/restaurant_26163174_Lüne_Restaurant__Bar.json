@@ -4,7 +4,7 @@
     "city": "Vietnam_Subregion",
     "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -107,7 +107,7 @@
         ],
         "telephone": "+84 28 7777 2022"
     },
-    "reviews_count": 15,
+    "reviews_count": 44,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1876,6 +1876,3428 @@
             "review_text": "Dane\n6 contributions\n0\nCome to have an impressive serving !\nDec 2024 • Friends\nIt's completely achieve my taste. I love the Foie gras with Pho, a good combination between France and Viet Nam cuisine. And the server is very friendly, so nice and comfortable.\nValue\nService\nFood\nAtmosphere\nWritten December 17, 2024\nLÜNE RESTAURANT & BAR\nDear Resort,\nThank you so much for your feedback and appreciation.\nWe are always delighted when our host leave happy.\nSee you soon\nRead more\nWritten December 17, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:59.595069",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p2_0",
+            "reviewer_id": "User_26163174_2_0",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "simon k\n5 contributions\n0\nMIchelin star restaurant without the star\nDec 2024 • Friends\nExcellent!!! Top notch food & notch service. It's a bit pricey as it is a fine dining but still half price than equivalent restaurant in America. Our best dining experience in Vietnam!\nValue\nService\nFood\nAtmosphere\nWritten December 17, 2024\nLÜNE RESTAURANT & BAR\nDear Simon,\nIt was a pleasure meeting you. We are really happy that we made your last night in Saigon memorable.\nWe wish you a safe flight back to America.\nRead more\nWritten December 17, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:59.648196",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p2_1",
+            "reviewer_id": "User_26163174_2_1",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "Tour50663893638\n1 contribution\n0\nA Wonderful Dining Experience\nDec 2024 • Friends\nThe decor was beautifully done, with soft lighting. The service was friendly, and ensured that we felt comfortable and well taken care of throughout the meal. The food was absolutely delicious! Every dish we tried showcased authentic flavors and careful attention to detail. This is a place worth experiencing\nValue\nService\nFood\nAtmosphere\nWritten December 17, 2024\nLÜNE RESTAURANT & BAR\nDear Tour,\nThank you so much for your lovely comment. We are very happy that you enjoyed your time with us.\nWe hope to welcome you back in the future\nRead more\nWritten December 17, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:59.711739",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p2_2",
+            "reviewer_id": "User_26163174_2_2",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "Victor\n1 contribution\n0\nOne of the best business lunch\nDec 2024 • Friends\nI was so suprised, quality and services are excellent even though the prices is very reasonable, everything was well prepared from the welcome food to dessert and also drink, very worth the experience !\nInsider tip:\nTry the Duck Pithivier\nValue\nService\nFood\nAtmosphere\nWritten December 17, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:59.785416",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p2_3",
+            "reviewer_id": "User_26163174_2_3",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "2012Jaime\nSingapore85 contributions\n1\nGood food and good value\nJun 2024 • Family\nProbably one of the best restaurants in Saigon. Try out the affordable lunch sets amd go back for the main menu if you like the atmosphere.\nWhether it is the decor or food, the chef owner has put in much effort to make the dining experience in this small restaurant enjoyable. Desserts (example in photo) are good too.\nValue\nService\nFood\nAtmosphere\nWritten June 23, 2024\nLÜNE RESTAURANT & BAR\nDear Jaime,\nThank you so much for your review. We are happy to read that you enjoyed your lunch with us.\nBest\nRead more\nWritten December 11, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:59.841254",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p2_4",
+            "reviewer_id": "User_26163174_2_4",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "Pierre M\n1 contribution\n0\nLune by Adrien Guenzi\nJun 2024 • Family\nVery nice place, french food was nice and the wines selection was great.\nYou need to try this restaurant, it won’t be stay secret for a long time\nWritten June 3, 2024\nLÜNE RESTAURANT & BAR\nDear Pierre,\nThank you so much for your lovely comment.\nWe hope to see you another time\nWritten December 11, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:59.890813",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p2_5",
+            "reviewer_id": "User_26163174_2_5",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "Olivier C\nDa Nang, Vietnam38 contributions\n1\nTrue French spirit!\nApr 2024 • Friends\nGreat atmosphere and service. Food was definitely the highlight, such a great stop in this busy area! \nBy the great cocktails too.!\nWritten April 25, 2024\nLÜNE RESTAURANT & BAR\nThank you Olivier for taking the time to write a review. We are happy to read that you had a good time with us!!\nWritten December 11, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:59.928654",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p2_6",
+            "reviewer_id": "User_26163174_2_6",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "LoveTravel604628\n4 contributions\n1\nGreat Food\nApr 2024 • Friends\nLounge drinks were skillfully presented and the menu and flavors exceptional. Nice wine selection, service was attentive. Really enjoyed it\nWritten April 11, 2024\nLÜNE RESTAURANT & BAR\nDear Love Travel,\nThank you very much for your feedback. We hope that you keep travelling and discover the world\nBest regards\nRead more\nWritten December 11, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:33:59.968289",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p2_7",
+            "reviewer_id": "User_26163174_2_7",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "Majid H\nThornhill, Canada4 contributions\n1\nLate night drink in Saigon\nMar 2024 • Solo\nI stopped here for a drink, and Khoa, the mixologist, made me two of his well-crafted signature cocktails. I also had a long, friendly chat with Stef, the operations manager, about life in Vietnam. Thanks, this is an unforgettable memory.\nValue\nService\nAtmosphere\nWritten March 12, 2024\nLÜNE RESTAURANT & BAR\nDear Majidh,\nThank you so much for your review. \nBest regards\nWritten December 11, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:34:00.012527",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p2_8",
+            "reviewer_id": "User_26163174_2_8",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "Chase.Enj\nHo Chi Minh City, Vietnam1 contribution\n1\nGreat Night Out at French Restaurant and Bar by the Japanese Town in D1- Saigon\nMar 2024 • Friends\nNight out with colleagues. Luxurious but also warm and cozy space for gathering here. Great dishes of authentic French cuisine for dinner (cold-served chicken and lamb with great sauce and red wine; we took 3 bottles for six people) then late night drink at the bar on the first floor. The bartenders are really friendly and chef Adrien is so funny. They serve lunch menu with reasonable price, too. I will come back for more.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten March 7, 2024\nLÜNE RESTAURANT & BAR\nDear Sunshine,\nThank you so much for your comments.\nWe hope to see you again soon!!\nBest regards\nLune team\nRead more\nWritten December 11, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:34:00.071001",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p2_9",
+            "reviewer_id": "User_26163174_2_9",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "ABZSteve\n2 contributions\n1\nYou have to try it.\nFeb 2024 • Business\nWe had a fantastic night at Lune. Chef Adrien made several recommendations for our table and each was a delight. Adrien and his staff were extremely pleasant and made us feel so welcome. This was my first time inn Vietnam and obviously, my first time in Lune. I will definitely be back on my next trip. Thanks to Adrien and his staff for wonderful food and wine.\nInsider tip:\nAsk Adrien to make recommendations\nValue\nService\nFood\nAtmosphere\nWritten March 2, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:34:00.137337",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p2_10",
+            "reviewer_id": "User_26163174_2_10",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "Billy P\nMilwaukee, Wisconsin7 contributions\n1\nAmazing experience\nFeb 2024 • Friends\nThis is one of the best spots I've found in Saigon in my 7 years living here, and has become my favorite place to go. The customer service might be the best in town, from the hostesses when you walk in the door all the way to the bartenders and managers and chef. Everyone is so friendly and eager to make you feel comfortable. The cocktails and food are delicious, and the decor has such a great vibe to it. Great menu, great happy hour, great people, great place!\nRead more\nValue\nService\nFood\nAtmosphere\nWritten February 20, 2024\nLÜNE RESTAURANT & BAR\nHey Billy, thank you for the nice review. You are a star, see you soon for G&T and a fries ;-)\nWritten February 22, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:34:00.186116",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p2_11",
+            "reviewer_id": "User_26163174_2_11",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "Susanne\nCopenhagen, Denmark53 contributions\n1\nBest dinner we had in HCMC\nFeb 2024 • Friends\nWe had the best evening \nFantastic food, good service and great atmosphere. \nWe will for sure come back and we will give our best recommendation to this place\nWritten February 1, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:34:00.255901",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p2_12",
+            "reviewer_id": "User_26163174_2_12",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "Catherine L\n2 contributions\n1\nDelicious French Food\nJan 2024 • Family\nAmazing food, Steak & Seabass were just delicious, so flavorful. Staff so lovely. Lovely Bar & restaurant, I highly recommend. Definitely be back.\nValue\nService\nFood\nAtmosphere\nWritten January 8, 2024\nLÜNE RESTAURANT & BAR\nThank you for you nice review Catherine. Pleasure meeting you on that evening.\nWritten January 11, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:34:00.286141",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p2_13",
+            "reviewer_id": "User_26163174_2_13",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "AndrewLovesFood\nBaden, Austria2 contributions\n1\nWorthy of a Michelin star---Michelin \"Are you listening??\"\nDec 2023 • Couples\nWe completely agree with the other 5 star ratings. I would also give it a Michelin 1 star, if not two, and we have eaten at a lot of Michelin-starred restaurants, especially in France. The food was creative, presentation was beautiful, waiters were cordial and attentive without being over-bearing. We ordered one of their 4 course meals, one of the 5 course ones, and split or shared everything. It wasn't cheap, by Asian standards, but a real bargain for the quality by Boston prices. Certainly worth the price.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten January 6, 2024\nLÜNE RESTAURANT & BAR\nWow, thank you. We are pleased to read your lovely comment and keep it up!!!\nWritten January 11, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:34:00.327555",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p2_14",
+            "reviewer_id": "User_26163174_2_14",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "Sylviane V\n21 contributions\n0\nIn the top\nDec 2023 • Family\nWelcome, smiles and kindness accompanied an excellent meal. Everything is done to satisfy you. I will return with pleasure.\nValue\nService\nFood\nAtmosphere\nShow original\nWritten December 20, 2023\nLÜNE RESTAURANT & BAR\nDear Sylviane,\nThank you very much for your comment, Always great to read that our guests have a lovely time with us.\nWe hope to see you soon\nRead more\nWritten December 11, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:34:08.808724",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p3_0",
+            "reviewer_id": "User_26163174_3_0",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "Stephanie G\n6 contributions\n0\nExcellent gastro\nDec 2023 • Family\nExcellent meal, welcoming and remarkable service\nUnforgettable culinary experience\n2 or 3 course menu very suitable and very sophisticated I recommend this restaurant in Ho Chi Minh\nValue\nService\nFood\nAtmosphere\nShow original\nWritten December 13, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:34:08.835175",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p3_1",
+            "reviewer_id": "User_26163174_3_1",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "Paradise58231917190\n2 contributions\n1\nVery pleasant and impressive experience\nDec 2023 • Friends\nVery good food and nice staff! Creative food mixing of Asian and French. Nice welcoming food and drink!\nWritten December 11, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:34:08.855747",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p3_2",
+            "reviewer_id": "User_26163174_3_2",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "Jean Jacques C\nRiec-sur-Belon, France31 contributions\n0\nAwesome\nOct 2023 • Business\nExtraordinary dinner. I highly recommend. Top notch food and service atmosphere. A must do in Saigon. A discovery …\nShow original\nWritten October 26, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:34:08.882722",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p3_3",
+            "reviewer_id": "User_26163174_3_3",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "Jason L\nHo Chi Minh City, Vietnam3 contributions\n1\nBest restaurant for french food\nOct 2023 • Family\nGreat for casual or business meals, food was delicious and staffs were friendly, knowledgable about wine pairing. A must try.\nValue\nService\nFood\nAtmosphere\nWritten October 9, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:34:08.902469",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p3_4",
+            "reviewer_id": "User_26163174_3_4",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "PURE - Fusion & Bespoke\nHo Chi Minh City, Vietnam5 contributions\n1\nAmazing experience 👍👍\nOct 2023 • Couples\nI'm delighted to share my wonderful experience at Lune - Restaurant & Bar\n\nThis restaurant is truly a standout in my culinary journey. From the service to the quality of the food, it left me impressed.\n\nThe staff were very friendly and professional. They went out of their way to ensure we had the best dining experience.\n\nThe cocktail menu here is exceptional. Each drink is a work of art, and the mixologists really know their craft. I tried the \"Luxe Lune\" cocktail, and it was a delightful blend of flavors, perfectly balanced. \n\nBut what truly stood out was the special touch of the head chef - Adrien. Every dish we ordered was a masterpiece. The creativity and attention to detail in the presentation were remarkable. It's evident that the head chef is a culinary artist who takes pride in their work.\nThe food here is delicious and diverse. I tried several dishes, and I couldn't forget the unique flavors\n\nThe restaurant's ambiance is cozy and comfortable, suitable for family gatherings or romantic dinners.\n\nThis restaurant is a must-visit for food enthusiasts looking to experience unique culinary delights. I'll be returning whenever I have the chance and will recommend it to my close friends.\nRead more\nWritten October 8, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:34:08.929822",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p3_5",
+            "reviewer_id": "User_26163174_3_5",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "worldeater01\nHo Chi Minh City, Vietnam13 contributions\n0\nAn interesting date with French cuisine in Saigon.\nSep 2023 • Couples\nI celebrated my girlfriend's birthday at this restaurant and found this to be a place worth experiencing for meetings with a cozy space, attentive and friendly service attitude, and French-style food and drinks. Modern dishes are carefully prepared and of high quality, the prices are not too high to be able to fully experience the variety of the menu.\nRead more\nShow original\nWritten October 7, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:34:08.961341",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p3_6",
+            "reviewer_id": "User_26163174_3_6",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "Trần Thị Mỹ Linh\nHo Chi Minh City, Vietnam1 contribution\n1\nUnique food decoration\nSep 2023 • Family\nThe space is cozy, the food and drink decor is extremely beautiful, satisfying and also very delicious. The staff is also very enthusiastic. Will definitely come back.\nValue\nService\nFood\nAtmosphere\nShow original\nWritten September 29, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:34:08.990687",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p3_7",
+            "reviewer_id": "User_26163174_3_7",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "Safari666936\n3 contributions\n1\nA great experience!\nJul 2023 • Friends\nReally liked the lounge bar and the canapés, good service as usual. \nCreative culinary experience with tasteful dishes.\nValue\nService\nFood\nAtmosphere\nWritten September 28, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:34:09.109571",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p3_8",
+            "reviewer_id": "User_26163174_3_8",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "Linh T\nHo Chi Minh City, Vietnam1 contribution\n0\nVery good French restaurant\nJun 2023 • Friends\nGood food. Nice restaurant. Higly recommended. Staff friendly,good environment nice beverage service with very tasty cousin with good selection of the wine list.\nWritten September 23, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:34:09.131122",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p3_9",
+            "reviewer_id": "User_26163174_3_9",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "Huy D\n1 contribution\n0\nBe back soon\nJul 2023 • Friends\nNice place, nice service, also the price was so cheap in happy hour\n1 drink just about more than 100.000 vnd\nThe food was so good\nWritten September 22, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:34:09.161810",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p3_10",
+            "reviewer_id": "User_26163174_3_10",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "Chloe N\n5 contributions\n0\nGood food and service for a night out\nJul 2023 • Friends\nHad a great time at Lüne👍🏻\nKick-off with a pairing of cocktail and the finger food actually created a curious palate for more.\nI had the chicken terrine, black cod, and the cacao crumble, which I really enjoy and all were delicious.\nThe plating of each dish is beautiful so I took a lot of pictures for these dishes 😋. Kudos to the chefs.\nThe staff is super nice, friendly and well-trained.\nDefinitely will come back.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten July 24, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:34:09.199480",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p3_11",
+            "reviewer_id": "User_26163174_3_11",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "Ash D\n9 contributions\n0\nAn Exquisite Lunar Culinary Journey\nJun 2023 • Couples\nOur experience at Lüne in Saigon was truly exceptional, thanks to Chef Adrien and his remarkable culinary skills.\n\nFrom the moment we stepped into the restaurant, we were greeted with warm hospitality and an elegant ambiance that set the stage for a perfect evening. Chef Adrien's creations were nothing short of culinary masterpieces. Each dish was beautifully presented and bursting with flavors that danced on our palates.\n\nThe attention to detail in Chef Adrien's dishes was remarkable. Every element on the plate had a purpose and contributed to the overall harmony of flavors.We were particularly impressed with the way Chef Adrien incorporated local Vietnamese ingredients into his French-inspired dishes, creating a delightful fusion of flavors.\n\nThe sommelier at Lüne expertly paired each course with the perfect wine, elevating the dining experience to new heights. One standout dish was the perfectly cooked monk fish, accompanied by a heavenly truffle sauce that left us craving for more. Chef Adrien's passion for his craft was evident in every bite. His dedication to sourcing the finest ingredients and his creative approach to cooking truly shone through in his dishes. The service at Lüne was impeccable. The staff was knowledgeable, attentive, and ensured that every aspect of our dining experience was flawless.\n\nAs a couple, we couldn't have asked for a more romantic and memorable evening. Lüne, with its enchanting atmosphere and Chef Adrien's culinary genius, exceeded all our expectations and left us with unforgettable memories. Overall, our dining experience at Lüne with Chef Adrien was nothing short of extraordinary. It is a true gem in Saigon's culinary scene, and we highly recommend it to anyone seeking a fantastic French dining experience.\nRead more\nValue\nService\nFood\nWritten June 30, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:34:09.230122",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p3_12",
+            "reviewer_id": "User_26163174_3_12",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "Thomas K\nHo Chi Minh City, Vietnam166 contributions\n0\nGreat place for after work drinks in District 1\nJun 2023 • Friends\nWe came to Lüne last week for after work drinks with friends. The place is cozy and serves great drinks. We'll be back soon.\nValue\nService\nFood\nWritten June 28, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:34:09.279964",
+            "restaurant_id": "26163174",
+            "restaurant_name": "Lüne Restaurant & Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26163174-Reviews-Lune_Restaurant_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 46
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779881,
+                "longitude": 106.704254
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/86/51/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "French",
+                "Contemporary",
+                "Fusion",
+                "Healthy"
+            ],
+            "telephone": "+84 28 7777 2022",
+            "review_id": "REV_26163174_p3_13",
+            "reviewer_id": "User_26163174_3_13",
+            "review_title": "Review at Lüne Restaurant & Bar",
+            "review_text": "Theresa Duong\n1 contribution\n0\nThis is the best French restaurant in the area.\nJun 2023 • Business\nThe lamb dish I had at Lune Restaurant was beyond exceptional! It's no exaggeration to say that it may be the best lamb steak I've ever tasted. The flavors were simply exquisite. The lamb was cooked to perfection, tender and succulent, with a beautiful pink center. Every bite was a delight, with the meat being incredibly flavorful and juicy. The seasoning was spot on, complementing the natural richness of the lamb without overpowering it. It was truly a remarkable culinary experience.\n\nI must also mention the outstanding service at Lune Restaurant. The staff was attentive, knowledgeable, and friendly. They provided excellent recommendations, ensuring that our dining experience was top-notch. The ambiance of the restaurant was inviting and sophisticated, creating a pleasant atmosphere for enjoying the meal.\n\nOverall, my dining experience at Lune Restaurant exceeded my expectations. The lamb dish was a standout, demonstrating the restaurant's commitment to culinary excellence. I highly recommend trying their lamb steak to anyone who appreciates modern French dining and exquisite flavors.\nRead more\nValue\nService\nFood\nWritten June 28, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

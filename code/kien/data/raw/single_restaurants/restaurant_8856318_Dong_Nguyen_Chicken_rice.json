@@ -2,9 +2,9 @@
     "restaurant_id": "8856318",
     "restaurant_name": "Dong Nguyen Chicken rice",
     "city": "Vietnam_Subregion",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8856318-Reviews-Dong_Nguyen_Chicken_rice-Ho_Chi_Minh_City.html",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8856318-Reviews-Dong_Nguyen_Chicken_rice-Ho_Chi_Minh_City.html#REVIEWS",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8856318-Reviews-Dong_Nguyen_Chicken_rice-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8856318-Reviews-Dong_Nguyen_Chicken_rice-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -78,7 +78,7 @@
         ],
         "telephone": "+84 8 3456 7168"
     },
-    "reviews_count": 15,
+    "reviews_count": 24,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1412,6 +1412,807 @@
             "review_text": "JASON N\nWarwick Farm, Australia286 contributions\n0\nNice enough but comparatively just ok to other local cuisines\nJan 2018 • Family\nPopular restaurant to many locals and tourist alike. Established place for many years I had high expectation of this place as recommended by locals however taste of the featured dishes were good but not as tasty as other local cuisines.\nValue\nService\nFood\nWritten February 9, 2018",
             "rating": 5.0,
             "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:19:53.702052",
+            "restaurant_id": "8856318",
+            "restaurant_name": "Dong Nguyen Chicken rice",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8856318-Reviews-Dong_Nguyen_Chicken_rice-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8856318-Reviews-Dong_Nguyen_Chicken_rice-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 35
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.752913,
+                "longitude": 106.65838
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Asian",
+                "Vietnamese",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 8 3456 7168",
+            "review_id": "REV_8856318_p2_0",
+            "reviewer_id": "User_8856318_2_0",
+            "review_title": "Review at Dong Nguyen Chicken rice",
+            "review_text": "Sokthai Chea\n6 contributions\n1\nDelicious of Chinese food in Ho Chi Minh\nNov 2017 • Family\nThe food is Delicious & clean, I always went there more often while I visit Saigon city. If you don’t go to that place, you don’t know the real Chinese food in Vietnam.\n\nSokthai\nWritten November 23, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:19:53.738075",
+            "restaurant_id": "8856318",
+            "restaurant_name": "Dong Nguyen Chicken rice",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8856318-Reviews-Dong_Nguyen_Chicken_rice-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8856318-Reviews-Dong_Nguyen_Chicken_rice-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 35
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.752913,
+                "longitude": 106.65838
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Asian",
+                "Vietnamese",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 8 3456 7168",
+            "review_id": "REV_8856318_p2_1",
+            "reviewer_id": "User_8856318_2_1",
+            "review_title": "Review at Dong Nguyen Chicken rice",
+            "review_text": "Staf W\nMechelen, Belgium445 contributions\n0\nLocal Vietnamese restaurant.\nJul 2017 • Friends\nNice and clean place for a quick lunch or dinner without lot of fuzz but with tasty and nice food. Prices are real good for what they serve.\nWritten July 4, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:19:53.772843",
+            "restaurant_id": "8856318",
+            "restaurant_name": "Dong Nguyen Chicken rice",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8856318-Reviews-Dong_Nguyen_Chicken_rice-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8856318-Reviews-Dong_Nguyen_Chicken_rice-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 35
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.752913,
+                "longitude": 106.65838
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Asian",
+                "Vietnamese",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 8 3456 7168",
+            "review_id": "REV_8856318_p2_2",
+            "reviewer_id": "User_8856318_2_2",
+            "review_title": "Review at Dong Nguyen Chicken rice",
+            "review_text": "Thomas L\nSingapore179 contributions\n0\nLocal place, good chiinese food\nMar 2017 • Family\nLocated in District 5 (Cholon), it is one of the few eating places that we could find in this area. Nothing fancy about the restaurant, but it has a big turnover including with overseas tourists who come for the reputed Chinese food (since 1945 says their card), which is deserved. We enjoyed the chicken rice, soup and claypot. Prices were reasonable. Best if you crave Chinese food from home in the midst of your Vietnam trip, you will not be disappointed!\nRead more\nValue\nService\nFood\nWritten April 1, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:19:53.794206",
+            "restaurant_id": "8856318",
+            "restaurant_name": "Dong Nguyen Chicken rice",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8856318-Reviews-Dong_Nguyen_Chicken_rice-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8856318-Reviews-Dong_Nguyen_Chicken_rice-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 35
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.752913,
+                "longitude": 106.65838
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Asian",
+                "Vietnamese",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 8 3456 7168",
+            "review_id": "REV_8856318_p2_3",
+            "reviewer_id": "User_8856318_2_3",
+            "review_title": "Review at Dong Nguyen Chicken rice",
+            "review_text": "amungiu\nPrague, Czech Republic74 contributions\n0\nLovely local food . Based on rice, no noodles\nJan 2017\nWonderful local food. Very fresh. Moved address 20m around the corner on801 Nguyen trai. Ask anyone if you can't find it because it is a very popular place.\nWritten January 3, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:19:53.816863",
+            "restaurant_id": "8856318",
+            "restaurant_name": "Dong Nguyen Chicken rice",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8856318-Reviews-Dong_Nguyen_Chicken_rice-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8856318-Reviews-Dong_Nguyen_Chicken_rice-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 35
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.752913,
+                "longitude": 106.65838
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Asian",
+                "Vietnamese",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 8 3456 7168",
+            "review_id": "REV_8856318_p2_4",
+            "reviewer_id": "User_8856318_2_4",
+            "review_title": "Review at Dong Nguyen Chicken rice",
+            "review_text": "Dahnaraj\nKuala Lumpur, Malaysia42 contributions\n0\nRoasted Pork much Better\nSep 2016 • Friends\nIts a wonderful experience to enjoy a common malaysian dish in oversea. I personally felt that the roasted pork rice is way way better than chicken rice which have very mild and dull taste. Definitely will recommend roasted pork rice.👌👌\nWritten September 21, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:19:53.833682",
+            "restaurant_id": "8856318",
+            "restaurant_name": "Dong Nguyen Chicken rice",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8856318-Reviews-Dong_Nguyen_Chicken_rice-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8856318-Reviews-Dong_Nguyen_Chicken_rice-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 35
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.752913,
+                "longitude": 106.65838
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Asian",
+                "Vietnamese",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 8 3456 7168",
+            "review_id": "REV_8856318_p2_5",
+            "reviewer_id": "User_8856318_2_5",
+            "review_title": "Review at Dong Nguyen Chicken rice",
+            "review_text": "NadineNguyen2005\n36 contributions\n0\nThe unchanged taste during 15 years\nAug 2016 • Family\nThe most impressive thing about this restaurant is its taste. They maintained the taste to be exactly the same during all the time, for more than ten years. Try their delicious lotus soup, mapo tofu and chicken rice. Try them back after a few weeks, months... and you will see. Just amazing to me.\nWritten September 16, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:19:53.860058",
+            "restaurant_id": "8856318",
+            "restaurant_name": "Dong Nguyen Chicken rice",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8856318-Reviews-Dong_Nguyen_Chicken_rice-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8856318-Reviews-Dong_Nguyen_Chicken_rice-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 35
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.752913,
+                "longitude": 106.65838
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Asian",
+                "Vietnamese",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 8 3456 7168",
+            "review_id": "REV_8856318_p2_6",
+            "reviewer_id": "User_8856318_2_6",
+            "review_title": "Review at Dong Nguyen Chicken rice",
+            "review_text": "Lai C H\n92 contributions\n0\nExcellent chicken rice\nAug 2016 • Solo\nThis place offer good chicken rice. Roasted pork is a must try too. Very tasty with crispy skin.\n\nRestaurant is clean with fast service . Very decent place to eat. Price slightly expensive compared to road side stall but worth it.\nWritten August 31, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:19:53.889143",
+            "restaurant_id": "8856318",
+            "restaurant_name": "Dong Nguyen Chicken rice",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8856318-Reviews-Dong_Nguyen_Chicken_rice-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8856318-Reviews-Dong_Nguyen_Chicken_rice-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 35
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.752913,
+                "longitude": 106.65838
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Asian",
+                "Vietnamese",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 8 3456 7168",
+            "review_id": "REV_8856318_p2_7",
+            "reviewer_id": "User_8856318_2_7",
+            "review_title": "Review at Dong Nguyen Chicken rice",
+            "review_text": "Bernice T\n82 contributions\n0\nGood taste chicken rice\nAug 2016 • Couples\nFamous chicken rice at CHOLON. Recommended by local . We ordered roasted piggy, steam chicken, herbal soup and prawn dimsum. You will not regret with their food.\nWritten August 30, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:19:53.910076",
+            "restaurant_id": "8856318",
+            "restaurant_name": "Dong Nguyen Chicken rice",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8856318-Reviews-Dong_Nguyen_Chicken_rice-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d8856318-Reviews-Dong_Nguyen_Chicken_rice-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 35
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.752913,
+                "longitude": 106.65838
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "20:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Asian",
+                "Vietnamese",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84 8 3456 7168",
+            "review_id": "REV_8856318_p2_8",
+            "reviewer_id": "User_8856318_2_8",
+            "review_title": "Review at Dong Nguyen Chicken rice",
+            "review_text": "tncl\nchina121 contributions\n0\nGood Service Cantonese/ Chinese speaking Waitress\nFeb 2016 • Solo\n2 min walk across the busy main road. Lots of seating above for groups. Freshly cook white/roasted chicken, suckling pig, crispy roasted meat, soup and etc.... Yummy!\nWritten February 26, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

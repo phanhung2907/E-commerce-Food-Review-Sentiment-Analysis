@@ -4,7 +4,7 @@
     "city": "Vietnam_Subregion",
     "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24124677-Reviews-The_HYPE_Eatery_More-Ho_Chi_Minh_City.html",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24124677-Reviews-The_HYPE_Eatery_More-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24124677-Reviews-The_HYPE_Eatery_More-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -69,7 +69,7 @@
         ],
         "telephone": "+84 93 842 82 03"
     },
-    "reviews_count": 15,
+    "reviews_count": 20,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1268,6 +1268,406 @@
             "review_text": "Stephie\nHo Chi Minh City, Vietnam15 contributions\n1\nOne of the new places to eat, drink and get enjoyed in Saigon!!!\nJun 2022 • Friends\nAwesome food and perfect service with 5-star standard. The waiter takes care us a lot and especially the best view ever in town\nWritten June 24, 2022\nThe Hype E\nDear Stephie1701,\nThank you for choosing The Hype and for sharing your recent experience with us on Tripadvisor.\n\nWe are truly delighted to know that you are happy with the view, the food, and the service. Our large windows with the view to the heart of Saigon are also the favorite part of many beloved customers.\n\nWe look forward to welcoming you in the nearest future!\n\nBest regards,\nTrang Tran.\nOwner.\nRead more\nWritten June 26, 2022\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T05:47:32.103780",
+            "restaurant_id": "24124677",
+            "restaurant_name": "The HYPE Eatery & More",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24124677-Reviews-The_HYPE_Eatery_More-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24124677-Reviews-The_HYPE_Eatery_More-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 22
+            },
+            "geo": {
+                "latitude": "N/A",
+                "longitude": "N/A"
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/0a/6e/cf/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Fusion",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 842 82 03",
+            "review_id": "REV_24124677_p2_0",
+            "reviewer_id": "User_24124677_2_0",
+            "review_title": "Review at The HYPE Eatery & More",
+            "review_text": "Nhu Le\nHo Chi Minh City, Vietnam4 contributions\n1\nGood experience\nJun 2022 • Friends\nThis place is really new, located in the centre of entertainment district. Look retro, great view from the large window. \nYou should try a snack \"Dip & Spead\", its my favorite. \nThe price is a higher than my expectation however the Hype is as good a place as any to experience.\nWritten June 24, 2022\nThe Hype E\nDear hoteldanang,\nThank you for choosing The Hype and for sharing your recent experience with us on Tripadvisor.\n\nWe are truly delighted to know that you are happy with the space and the food. The \"Dip and Spread\" is a really good choice! The price comes with quality food, service, and space; and we will definitely improve more to meet your expectation.\n\nWe look forward to welcoming you in the nearest future!\n\nBest regards,\nTrang Tran.\nOwner.\nRead more\nWritten June 26, 2022\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T05:47:32.124507",
+            "restaurant_id": "24124677",
+            "restaurant_name": "The HYPE Eatery & More",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24124677-Reviews-The_HYPE_Eatery_More-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24124677-Reviews-The_HYPE_Eatery_More-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 22
+            },
+            "geo": {
+                "latitude": "N/A",
+                "longitude": "N/A"
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/0a/6e/cf/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Fusion",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 842 82 03",
+            "review_id": "REV_24124677_p2_1",
+            "reviewer_id": "User_24124677_2_1",
+            "review_title": "Review at The HYPE Eatery & More",
+            "review_text": "Ngọc Yu\nHo Chi Minh City, Vietnam13 contributions\n1\nNew chill in town 👍\nJun 2022 • Friends\nNew chill in town\nGood food good vibes with great service and nice owner 👍\nLove the Hype snack, Chicken wings and Kimchi chicken bao buns\nWritten June 23, 2022\nThe Hype E\nDear Yubi166, thank you for your review. We are happy to learn that you enjoyed the food, the vibe, and the service at The Hype.\nWe look forward to welcoming you back in the nearest future!\nRead more\nWritten June 26, 2022\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T05:47:32.164206",
+            "restaurant_id": "24124677",
+            "restaurant_name": "The HYPE Eatery & More",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24124677-Reviews-The_HYPE_Eatery_More-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24124677-Reviews-The_HYPE_Eatery_More-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 22
+            },
+            "geo": {
+                "latitude": "N/A",
+                "longitude": "N/A"
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/0a/6e/cf/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Fusion",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 842 82 03",
+            "review_id": "REV_24124677_p2_2",
+            "reviewer_id": "User_24124677_2_2",
+            "review_title": "Review at The HYPE Eatery & More",
+            "review_text": "nguyen dat\n1 contribution\n1\nBest place in town\nJun 2022 • Couples\nExplosive taste that blow your mind with very reasonable price. Chill place. Nice owner and staff. Will visit again\nWritten June 23, 2022\nThe Hype E\nDear Datsunsteel, thank you so much for your review. We look forward to welcoming you back in the very near future!\nWritten June 26, 2022\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T05:47:32.205673",
+            "restaurant_id": "24124677",
+            "restaurant_name": "The HYPE Eatery & More",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24124677-Reviews-The_HYPE_Eatery_More-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24124677-Reviews-The_HYPE_Eatery_More-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 22
+            },
+            "geo": {
+                "latitude": "N/A",
+                "longitude": "N/A"
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/0a/6e/cf/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Fusion",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 842 82 03",
+            "review_id": "REV_24124677_p2_3",
+            "reviewer_id": "User_24124677_2_3",
+            "review_title": "Review at The HYPE Eatery & More",
+            "review_text": "Annyhjsjoqhuzjs\n4 contributions\n1\nGreat place to chill with friends right @ Saigon center!\nJun 2022 • Couples\nExcellent snacks and food at a very reasonable price. Super nice owner and staffs. The atmosphere was lovely, like an old movie theater :)\nWritten June 23, 2022\nThe Hype E\nDear hoanng13, thank you for your lovely review. It was a joy to have you at The Hype. We look forward to welcoming you next time!\nWritten June 26, 2022\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T05:47:32.222732",
+            "restaurant_id": "24124677",
+            "restaurant_name": "The HYPE Eatery & More",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24124677-Reviews-The_HYPE_Eatery_More-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d24124677-Reviews-The_HYPE_Eatery_More-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 22
+            },
+            "geo": {
+                "latitude": "N/A",
+                "longitude": "N/A"
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/0a/6e/cf/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Fusion",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 842 82 03",
+            "review_id": "REV_24124677_p2_4",
+            "reviewer_id": "User_24124677_2_4",
+            "review_title": "Review at The HYPE Eatery & More",
+            "review_text": "Seven Le\n2 contributions\n1\nHidden gem\nJun 2022 • Business\nNew place in town. The best bar snack, friendly service and good vibe. It would be perfect if has parking area for motorbike\nWritten June 22, 2022\nThe Hype E\nDear Duong, thank you for your review. We would definitely improve on the motorbike area. Looking forward to welcoming you to The Hype again!\nWritten June 26, 2022\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

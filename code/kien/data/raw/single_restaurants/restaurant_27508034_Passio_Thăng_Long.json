@@ -2,9 +2,9 @@
     "restaurant_id": "27508034",
     "restaurant_name": "Passio Thăng Long",
     "city": "Vietnam_Subregion",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27508034-Reviews-Passio_Thang_Long-Ho_Chi_Minh_City.html",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27508034-Reviews-Passio_Thang_Long-Ho_Chi_Minh_City.html#REVIEWS",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27508034-Reviews-Passio_Thang_Long-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27508034-Reviews-Passio_Thang_Long-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -74,7 +74,7 @@
         ],
         "telephone": "N/A"
     },
-    "reviews_count": 1,
+    "reviews_count": 2,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -158,6 +158,91 @@
             "review_text": "Soko37\nBudapest, Hungary20962 contributions\n1\nGood coffee time\nMar 2024 • Solo\nCoffee ☕️ time close to airport, sitting outside under umbrella ☂️ more comfortable than colder air conditioned room inside. Good parking place for motorcycles 🏍️, road unusually not so busy here. Music blasting from loud speakers. Happy with coffee and some minutes of relax\nWritten March 26, 2024",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T20:09:04.794069",
+            "restaurant_id": "27508034",
+            "restaurant_name": "Passio Thăng Long",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27508034-Reviews-Passio_Thang_Long-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d27508034-Reviews-Passio_Thang_Long-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.802006,
+                "longitude": 106.66048
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Cafe"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_27508034_p1_0",
+            "reviewer_id": "User_27508034_1_0",
+            "review_title": "Review at Passio Thăng Long",
+            "review_text": "Soko37\nBudapest, Hungary21080 contributions\n1\nGood coffee time\nMar 2024 • Solo\nCoffee ☕️ time close to airport, sitting outside under umbrella ☂️ more comfortable than colder air conditioned room inside. Good parking place for motorcycles 🏍️, road unusually not so busy here. Music blasting from loud speakers. Happy with coffee and some minutes of relax\nWritten March 26, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

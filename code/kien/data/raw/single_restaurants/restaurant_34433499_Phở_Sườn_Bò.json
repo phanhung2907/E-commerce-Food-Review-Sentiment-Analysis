@@ -4,7 +4,7 @@
     "city": "Vietnam_Subregion",
     "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34433499-Reviews-Ph_Su_n_Bo-Ho_Chi_Minh_City.html",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34433499-Reviews-Ph_Su_n_Bo-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34433499-Reviews-Ph_Su_n_Bo-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -23,7 +23,7 @@
             "latitude": 10.771631,
             "longitude": 106.69342
         },
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/28/ea/9f/caption.jpg?w=600&h=400&s=1",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
         "openingHoursSpecification": [
             {
                 "@type": "OpeningHoursSpecification",
@@ -77,7 +77,7 @@
         ],
         "telephone": "+84035 746 6006"
     },
-    "reviews_count": 15,
+    "reviews_count": 19,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1396,6 +1396,358 @@
             "review_text": "Min L\n4 contributions\n0\nGood pho in HCM\nJul 2026 • Solo\nThis is the best pho restaurant I’ve tried since I came to Ho Chi Minh City. The broth is light yet incredibly flavorful, and the garlic vinegar isn’t too strong—it complements the pho perfectly. The staff are very friendly, especially Hieu, who provided excellent service. The restaurant is located right in the city center, so it’s easy to find, and it’s also highly rated on Google. I’ll definitely come back, and I highly recommend this place to anyone looking for authentic and delicious pho! 🍜⭐\nRead more\nValue\nService\nFood\nAtmosphere\nWritten July 7, 2026\nPhở Sườn Bò\nCảm ơn bạn đã tin tưởng lựa chọn Phở Sườn Bò. Rất vui vì bạn đã có một trải nghiệm ẩm thực ưng ý, hy vọng sớm được đón tiếp bạn trong những bữa ăn tới.\n-----\nThank you for choosing Phở Sườn Bò. We are delighted to hear that you had an enjoyable dining experience, and we look forward to welcoming you back soon!\nRead more\nWritten July 13, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T05:40:44.347887",
+            "restaurant_id": "34433499",
+            "restaurant_name": "Phở Sườn Bò",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34433499-Reviews-Ph_Su_n_Bo-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34433499-Reviews-Ph_Su_n_Bo-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 19
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.771631,
+                "longitude": 106.69342
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84035 746 6006",
+            "review_id": "REV_34433499_p2_0",
+            "reviewer_id": "User_34433499_2_0",
+            "review_title": "Review at Phở Sườn Bò",
+            "review_text": "Seaside05161759801\n1 contribution\n0\nWaitress very nice!\nJul 2026 • Solo\nGiang is a very good waitress ! I had a lot of fun communicating with her !\nWritten July 7, 2026\nPhở Sườn Bò\nCảm ơn bạn đã tin tưởng lựa chọn Phở Sườn Bò. Rất vui vì bạn đã có một trải nghiệm ẩm thực ưng ý, hy vọng sớm được đón tiếp bạn trong những bữa ăn tới.\n-----\nThank you for choosing Phở Sườn Bò. We are delighted to hear that you had an enjoyable dining experience, and we look forward to welcoming you back soon!\nRead more\nWritten July 13, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T05:40:44.401910",
+            "restaurant_id": "34433499",
+            "restaurant_name": "Phở Sườn Bò",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34433499-Reviews-Ph_Su_n_Bo-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34433499-Reviews-Ph_Su_n_Bo-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 19
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.771631,
+                "longitude": 106.69342
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84035 746 6006",
+            "review_id": "REV_34433499_p2_1",
+            "reviewer_id": "User_34433499_2_1",
+            "review_title": "Review at Phở Sườn Bò",
+            "review_text": "Brendan D\nBrisbane, Australia16 contributions\n0\nNew place worth the visit.\nJun 2026 • Couples\nThis place has only been opened a month. It truly was incredible. As soon as you walk in, you notice how clean it is. The staff were super friendly and helpful. The Pho was divine. It was super tasty with fresh ingredients. If you are nearby the Ben Thanh markets, it is only 100 or so metres up the road. Well worth the visit.\nValue\nService\nFood\nAtmosphere\nWritten June 20, 2026\nPhở Sườn Bò\nCảm ơn bạn đã tin tưởng lựa chọn Phở Sườn Bò. Rất vui vì bạn đã có một trải nghiệm ẩm thực ưng ý, hy vọng sớm được đón tiếp bạn trong những bữa ăn tới.\n-----\nThank you for choosing Phở Sườn Bò. We are delighted to hear that you had an enjoyable dining experience, and we look forward to welcoming you back soon!\nRead more\nWritten June 23, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T05:40:44.461512",
+            "restaurant_id": "34433499",
+            "restaurant_name": "Phở Sườn Bò",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34433499-Reviews-Ph_Su_n_Bo-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34433499-Reviews-Ph_Su_n_Bo-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 19
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.771631,
+                "longitude": 106.69342
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84035 746 6006",
+            "review_id": "REV_34433499_p2_2",
+            "reviewer_id": "User_34433499_2_2",
+            "review_title": "Review at Phở Sườn Bò",
+            "review_text": "Hody\nHo Chi Minh City, Vietnam2 contributions\n0\nbest pho in sai gon\nJun 2026 • Solo\nThe pho was absolutely delicious, with a flavor unlike any other I've tried. I loved it so much that I ordered another portion to take home for my husband.\nInsider tip:\nIf you love authentic Vietnamese pho, this place is a must-try.\nValue\nService\nFood\nAtmosphere\nWritten June 8, 2026\nPhở Sườn Bò\nCảm ơn bạn đã tin tưởng lựa chọn Phở Sườn Bò. Rất vui vì bạn đã có một trải nghiệm ẩm thực ưng ý, hy vọng sớm được đón tiếp bạn trong những bữa ăn tới.\n-----\nThank you for choosing Phở Sườn Bò. We are delighted to hear that you had an enjoyable dining experience, and we look forward to welcoming you back soon!\nRead more\nWritten June 10, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T05:40:44.496179",
+            "restaurant_id": "34433499",
+            "restaurant_name": "Phở Sườn Bò",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34433499-Reviews-Ph_Su_n_Bo-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34433499-Reviews-Ph_Su_n_Bo-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 19
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.771631,
+                "longitude": 106.69342
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Soups",
+                "Indigenous"
+            ],
+            "telephone": "+84035 746 6006",
+            "review_id": "REV_34433499_p2_3",
+            "reviewer_id": "User_34433499_2_3",
+            "review_title": "Review at Phở Sườn Bò",
+            "review_text": "nglaoi\n7 contributions\n0\nPho Vietnam\nJun 2026 • Family\nbest pho in saigon, super delicious\nValue\nService\nFood\nAtmosphere\nWritten June 5, 2026\nPhở Sườn Bò\nCảm ơn bạn đã tin tưởng lựa chọn Phở Sườn Bò. Rất vui vì bạn đã có một trải nghiệm ẩm thực ưng ý, hy vọng sớm được đón tiếp bạn trong những bữa ăn tới.\n-----\nThank you for choosing Phở Sườn Bò. We are delighted to hear that you had an enjoyable dining experience, and we look forward to welcoming you back soon!\nRead more\nWritten June 10, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

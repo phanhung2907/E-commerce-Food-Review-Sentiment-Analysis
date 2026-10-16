@@ -4,7 +4,7 @@
     "city": "Vietnam_Subregion",
     "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -74,7 +74,7 @@
         ],
         "telephone": "+84 90 879 93 00"
     },
-    "reviews_count": 15,
+    "reviews_count": 39,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1348,6 +1348,2046 @@
             "review_text": "AdamNish\nColumbus, Ohio110 contributions\n0\nExcellent Restaurant with a Great View!\nDec 2018 • Friends\nA group of friends were brought here on a Jeep tour. The food was phenomenal and the restaurant was very accommodating for our vegan friend too!!\nWritten December 27, 2018",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:30.736524",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p2_0",
+            "reviewer_id": "User_13275946_2_0",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "Patricia B\nPalo Alto, California8 contributions\n0\nWonderful restaurant with amazing view\nDec 2018 • Family\nGreat Vietnamese cuisine with vegetarian options. Staff is really nice and Law one of the server speaks English. Recommend this place!\nValue\nService\nFood\nWritten December 24, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:30.775640",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p2_1",
+            "reviewer_id": "User_13275946_2_1",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "Mei\nPenang Island, Malaysia24 contributions\n0\nThe perfect combination of a great view with good food!\nOct 2018 • Friends\nLovely and friendly staff makes the experience of dining here even better! Simple menu, but deliciously cooked. The iced coffee is great too! The night view of the city is fantastic!\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten November 9, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:30.803258",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p2_2",
+            "reviewer_id": "User_13275946_2_2",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "OpenSpaceWanderer\nLondon, United Kingdom85 contributions\n0\nGreat view, great service..just one thing\nOct 2018 • Solo\nAn otherwise great location reduced by the constant repetition of the same few musical tracks. Happy Hour is good, it’s nice hotel too, and the breeze is wonderful.\nWritten October 29, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:30.823185",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p2_3",
+            "reviewer_id": "User_13275946_2_3",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "yvr1\nVancouver, Canada8393 contributions\n0\nNice restaurant with good view\nOct 2018 • Friends\nLocated on the 7th floor of the Chez Mimosa Corner hotel. Open air, serving dinner from 6pm to 930pm. A small but varied menu, food is well prepared. Staff are gracious and very helpful\nWritten October 10, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:30.840630",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p2_4",
+            "reviewer_id": "User_13275946_2_4",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "RSD78\nNorth Yorkshire, United Kingdom309 contributions\n0\nLovely view from the top of Chez Mimosa Corner\nAug 2018\nThe restaurant is on the open, top-floor of Chez Mimosa Corner hotel in District 1 to the south of the centre of HCMC. We were staying in the sister hotel just 20m away on the same road. We were greeted by name (obviously our reception had called ahead when we'd said we were going) which was very nice. The service was very friendly and timely throughout, the view while we ate was good and the food was very nice.\nRead more\nReview collected in partnership with this restaurant \nWritten August 30, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:30.860256",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p2_5",
+            "reviewer_id": "User_13275946_2_5",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "Soteris M\nNicosia, Cyprus22 contributions\n0\nExcellent hospitality\nAug 2018 • Family\nThe best food in our 3 weeks in Phuket, Vietnam and Singapore. Vietnamese pancake is excellent and personnel are outstanding. Cindy the receptionist, she is unreal, very friendly and polite. HIGHLY RECOMMENDED\nReview collected in partnership with this restaurant \nWritten August 19, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:30.884199",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p2_6",
+            "reviewer_id": "User_13275946_2_6",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "Jason M\nNottingham, United Kingdom10 contributions\n2\nThe Food Gets Better And Better\nAug 2018 • Couples\nWell what can we say our third night eating there and I’m reviewing it with stil tomorrow night to go. Tonight’s food was amazing, Oliver and Emily are outstanding hosts and the food the chefs freshly cook you is out if this world. I cannot speak more highly of this place, oh and the view.......\nReview collected in partnership with this restaurant \nWritten August 16, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:30.906710",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p2_7",
+            "reviewer_id": "User_13275946_2_7",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "Jodiann1108\nLitchfield, Connecticut22 contributions\n1\nLovely happy hour\nJul 2018 • Family\nWe are staying at the Chez Mimosa Boutique Hotel and visited the Rice Terrace which is owned by the same company. We had cocktails, the fried spring rolls, and the Vietnamese pancake. They were all excellent - some of the best food I have had on our 2 week SE Asia trip! I’m sure we will return before we leave Ho Chi Min City.\nWritten July 31, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:30.925263",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p2_8",
+            "reviewer_id": "User_13275946_2_8",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "Ash L\nDunedin, New Zealand247 contributions\n0\nThe cutest little rooftop\nJul 2018 • Family\nSuch a great find, we were staying at the hotel down the road and came down for a drink- service is fantastic and drinks are delicious. Situated in a great spot to look down at the crazy hustle and bustle below. \nFood and drinks are very reasonably priced!\nWritten July 23, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:30.941521",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p2_9",
+            "reviewer_id": "User_13275946_2_9",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "Jolán P\nBudapest, Hungary33 contributions\n0\nVery nice terrace\nJul 2018 • Family\nWe stayed in the hotel belowe the terrace so the breakfast was served at the terrace. It is a wonderful place to start your day with a delicious breakfast prepared by the lovely staff of the restaurant. I recommend this place for everyone!!\nWritten July 22, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:30.959548",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p2_10",
+            "reviewer_id": "User_13275946_2_10",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "KEliza\nAdelaide, Australia11 contributions\n0\nGreat View and Service\nJul 2018 • Family\nThis is a little restaurant with great food and a really beautiful view especially as the sun is setting. The staff and lovely and its good value, family of 5, food and drinks (cocktails and beer included) about $35 AUD.\nReview collected in partnership with this restaurant \nWritten July 21, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:30.979610",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p2_11",
+            "reviewer_id": "User_13275946_2_11",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "Tim T\nMollymook, Australia35 contributions\n0\nGreat view, great food, excellent service\nJul 2018\nMy wife and I and three daughters recently visited Rice Terrace, and couldn’t believe our luck in finding this place. The food was fantastic, traditional Vietnamese with great flavours. Oliver, our waiter was ever attentive without being imposing, and the view over the city was amazing.This restaurant is tiny, so as it becomes more well known it will become essential to book. Can’t recommend highly enough.\nRead more\nWritten July 13, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:31.000204",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p2_12",
+            "reviewer_id": "User_13275946_2_12",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "Joelle H\nSeoul, South Korea93 contributions\n0\nDelicious vietnamese cuisine with a view\nApr 2018 • Family\nWe stayed at the boutique hotel “Chez Mimosa”, run by the same people (see separate review), so this was most convenient after a day of sightseeing. It also turned out to be a little gem set on the rooftop of a small building, overlooking the city. Staff is very friendly and the food is delicious. We particularly enjoyed the fried spring rolls, fresh spring rolls, pomelo and prawn salad, Bun Cha and fish in claypot.\nRead more\nReview collected in partnership with this restaurant \nWritten April 30, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:31.015205",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p2_13",
+            "reviewer_id": "User_13275946_2_13",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "Stephens J\n2 contributions\n0\nGreat night\nApr 2018\nRecommended by our local guide, we been here for dinner. It's small cozy restaurant,located at rooftop of the hotel. You can see panomara view of Saigon.it's so romantic and the food is awesome. Highly recommend for couple and family\nWritten April 7, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:31.032098",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p2_14",
+            "reviewer_id": "User_13275946_2_14",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "Tim C\n12 contributions\n0\nBeautiful evening breezes\nApr 2018\nWe had 3 breakfasts and 2 evening meals. Lovely food. Great views and really helpful staff. Highly recommended. Happy hour between 5pm and 6:30pm.\nWritten April 4, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:39.134512",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p3_0",
+            "reviewer_id": "User_13275946_3_0",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "huynh m\n2 contributions\n0\nBest Vietnamese food in Vietnam\nApr 2018 • Family\nWe been here as first stop of our saigon by night tour. We were really supprise about the way the staffs welcome us, very friendly and always smiles. Food were delicious, fresh and tasty. I love Banh Xeo and spring roll here. They have cocktails so we can enjoy drinks and nice view to center.\nWritten April 3, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:39.150499",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p3_1",
+            "reviewer_id": "User_13275946_3_1",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "williamswackwitz\nYarraman, Australia38 contributions\n0\nTerrific food and a stunning view\nMar 2018 • Couples\nWe had not read any reviews about this restaurant - we mostly chose it as we were staying at the motel next door and had arrived late into Saigon - tired and hungry. It was a great surprise. We had excellent food, delicious cocktails and the service was very good. There was a beautiful breeze blowing up on the 7th floor so it made hot steamy Saigon delightfully cool. Definitely recommend this restaurant\nRead more\nWritten March 29, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:39.167304",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p3_2",
+            "reviewer_id": "User_13275946_3_2",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "Tahliaiz\nDarebin, Australia4 contributions\n0\nGreat view, great service\nMar 2018 • Couples\nWe were a little sceptical going here as it only had a few reviews, however we were so pleased with our dinner. The view is great, the staff are super friendly and the food is delicious! Highly recommend!\nWritten March 15, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:39.183169",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p3_3",
+            "reviewer_id": "User_13275946_3_3",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "Baldwin_Mr\nSingapore, Singapore361 contributions\n1\nExcellent food!\nMar 2018 • Family\nThe food here is delicious! We really enjoyed the view and the cocktails were yummy. I recommend dining here, I would definitely go back. The very warm and welcoming staff made it perfect!\nWritten March 3, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:39.202029",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p3_4",
+            "reviewer_id": "User_13275946_3_4",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "Nicole L\nHanoi, Vietnam29 contributions\n0\nTraditional Vietnamese Cooking!\nJan 2018 • Family\nThis restaurant is located on the rooftop of the Chez Mimosa Corner hotel. We had cocktails there daily and also dinner and breakfast. The staff were outstanding, the food was delicious, and the views were spectacular. Highly recommended!\nReview collected in partnership with this restaurant \nWritten February 4, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:39.217808",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p3_5",
+            "reviewer_id": "User_13275946_3_5",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "Carol H\nHitchin, United Kingdom113 contributions\n1\nDisappointed\nJan 2018 • Couples\nHaving read the reviews I thought we were in for a treat but it was very ordinary and nothing to write home about. Service was great but food mediocre and unmemorable.\nWritten January 31, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:39.233223",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p3_6",
+            "reviewer_id": "User_13275946_3_6",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "Benny h\nHo Chi Minh City, Vietnam2 contributions\n0\nInteresting and tasty Banh Xeo pancake\nDec 2017 • Couples\nWe took the tour and stop here for dinner. Banh Xeo is very delicious pancake, tasty and crispy. The staff showed us how to eat correctly but it really fun, you can drink cocktail and beer here as well. This restaurant at rooftop of the hotel in district 1 , so while having dinner we enjoy romantic panorama view of the city. We'll back again\nWritten January 1, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:39.251000",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p3_7",
+            "reviewer_id": "User_13275946_3_7",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "Lasse A\nUpplands-Väsby, Sweden104 contributions\n0\nGreat place\nJan 2018 • Couples\nLovely place to have a drink or have dinner with a fantastic view. \nThe staff is SO friendly and helpful. The food was vietnamese and tasty.\nWritten January 1, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T03:23:39.266717",
+            "restaurant_id": "13275946",
+            "restaurant_name": "Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d13275946-Reviews-Rice_Terrace_Restaurant_Authentic_Vietnamese_Cuisine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 67
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.764146,
+                "longitude": 106.69624
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9d/fc/8f/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 879 93 00",
+            "review_id": "REV_13275946_p3_8",
+            "reviewer_id": "User_13275946_3_8",
+            "review_title": "Review at Rice Terrace Restaurant – Authentic Vietnamese Cuisine",
+            "review_text": "currie4743\nSeattle, Washington142 contributions\n0\nGreat views and great food\nDec 2017 • Family\nWe are here while staying at Chez Mimosa so it was a convenient location our first night. It is an intimate setting on the rooftop and you also feel as if you are part of the city as you can see and hear the going’s on in the neighborhood. We had lovely local cuisine full of flavor. We went back again our next night for appetizers and drinks. I particularly love how kind the staff is and also how the menu explains the food and the regions they come from. \nIt’s a sweet spot worth checking out!\nRead more\nWritten January 1, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

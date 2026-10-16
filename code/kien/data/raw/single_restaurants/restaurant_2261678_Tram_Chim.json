@@ -2,7 +2,7 @@
     "restaurant_id": "2261678",
     "restaurant_name": "Tram Chim",
     "city": "Vietnam_Subregion",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2261678-Reviews-Tram_Chim-Ho_Chi_Minh_City.html#REVIEWS",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2261678-Reviews-Tram_Chim-Ho_Chi_Minh_City.html",
     "metadata": {
         "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2261678-Reviews-Tram_Chim-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
@@ -75,7 +75,7 @@
         ],
         "telephone": "+84 8 3930 7982"
     },
-    "reviews_count": 15,
+    "reviews_count": 25,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1364,6 +1364,866 @@
             "review_text": "Toon Wee\nSingapore, Singapore21 contributions\n0\nGreat See Food restaurant\nOct 2015 • Business\nBeautiful waitresses serving food. Makes food taste even better.would not recommend for family as joint is more male oriented friendly.\nReview collected in partnership with this restaurant \nWritten October 10, 2015",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:08:10.483170",
+            "restaurant_id": "2261678",
+            "restaurant_name": "Tram Chim",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2261678-Reviews-Tram_Chim-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2261678-Reviews-Tram_Chim-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.6,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.777011,
+                "longitude": 106.68415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/df/30/b8/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 8 3930 7982",
+            "review_id": "REV_2261678_p2_0",
+            "reviewer_id": "User_2261678_2_0",
+            "review_title": "Review at Tram Chim",
+            "review_text": "rdfmt\nSão Paulo, Brasil20 contributions\n1\nVietnamese Hooters\nSep 2015 • Friends\nThe food is good but overpriced. What you really pay for is the very attentive female staff. Although all the attention we had (even for the women at our group) the food took a lot to arrive.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten September 25, 2015",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:08:10.499625",
+            "restaurant_id": "2261678",
+            "restaurant_name": "Tram Chim",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2261678-Reviews-Tram_Chim-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2261678-Reviews-Tram_Chim-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.6,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.777011,
+                "longitude": 106.68415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/df/30/b8/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 8 3930 7982",
+            "review_id": "REV_2261678_p2_1",
+            "reviewer_id": "User_2261678_2_1",
+            "review_title": "Review at Tram Chim",
+            "review_text": "johnno46\nBairnsdale, Australia7 contributions\n0\nlunchtime gem\nSep 2014 • Solo\nfood,service and waitresses are all worth the visit and they peel your prawns cut the pork and even massage your shoulders while you eat\nWritten September 11, 2014",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:08:10.521552",
+            "restaurant_id": "2261678",
+            "restaurant_name": "Tram Chim",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2261678-Reviews-Tram_Chim-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2261678-Reviews-Tram_Chim-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.6,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.777011,
+                "longitude": 106.68415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/df/30/b8/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 8 3930 7982",
+            "review_id": "REV_2261678_p2_2",
+            "reviewer_id": "User_2261678_2_2",
+            "review_title": "Review at Tram Chim",
+            "review_text": "Mick9534\nMelbourne, Australia6 contributions\n0\nHCM Icon\nMar 2014 • Solo\nA lot of expats will go here and tell you about it, and you have to try it at least once. You see 'Tram Chim' translates to '100 ****' meaning the amount of girls they have on deck at that establishments.\n\nThe girls will pop your beer then rest their arms around your shoulders, stick their fingers in your ear, rub your back.....just go with it :)\nRead more\nWritten September 1, 2014",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:08:10.549470",
+            "restaurant_id": "2261678",
+            "restaurant_name": "Tram Chim",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2261678-Reviews-Tram_Chim-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2261678-Reviews-Tram_Chim-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.6,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.777011,
+                "longitude": 106.68415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/df/30/b8/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 8 3930 7982",
+            "review_id": "REV_2261678_p2_3",
+            "reviewer_id": "User_2261678_2_3",
+            "review_title": "Review at Tram Chim",
+            "review_text": "Rob J\nHobart, Tasmania, Australia30 contributions\n0\nA real Vietnamese Restaurant\nMar 2013 • Friends\nLocated just outside the city centre (about 25,000VND taxi fare from the Caravelle Hotel), this gem of a restaurant provides ample seating in a typical Vietnamese \"Mans'\" eatery.\n\nThe food is good, beer usually served warm over ice (ask them to put extra bottles into a bucket of ice), huge selection of all types of foods, \n\nWaitresses are stunning and friendly and enjoy interacting with locals and tourists (which are few and far between) and provide great service (generally a couple are allocated to each table).\n\nA great experience.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten May 27, 2013",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:08:10.577732",
+            "restaurant_id": "2261678",
+            "restaurant_name": "Tram Chim",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2261678-Reviews-Tram_Chim-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2261678-Reviews-Tram_Chim-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.6,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.777011,
+                "longitude": 106.68415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/df/30/b8/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 8 3930 7982",
+            "review_id": "REV_2261678_p2_4",
+            "reviewer_id": "User_2261678_2_4",
+            "review_title": "Review at Tram Chim",
+            "review_text": "Captbill98\nLA, CA33 contributions\n0\nNot what it used to be\nAug 2012 • Friends\nThe restaurant that is supposed to have the prettiest women in HCMC doesn't! Granted, some are pretty, but you can find pretty at many \"Beer Om\" restaurants/bars, and you don't have to deal with the arrogance, bad service and mediocre food of Tram Chim, to say nothing of the overpriced food. \nIf you want good food, great atmosphere, and terrific service, go to Basilico in Kumhoe Plaza. If you want very beautiful and more than friendly women, go to a beauty shop.\nRead more\nValue\nService\nFood\nAtmosphere\nReview collected in partnership with this restaurant \nWritten February 25, 2013",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:08:10.606633",
+            "restaurant_id": "2261678",
+            "restaurant_name": "Tram Chim",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2261678-Reviews-Tram_Chim-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2261678-Reviews-Tram_Chim-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.6,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.777011,
+                "longitude": 106.68415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/df/30/b8/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 8 3930 7982",
+            "review_id": "REV_2261678_p2_5",
+            "reviewer_id": "User_2261678_2_5",
+            "review_title": "Review at Tram Chim",
+            "review_text": "Angarish\nEgypt88 contributions\n0\nYour eyes will wander\nJan 2013 • Friends\nI was taken to this place by my business associates, who are vietnamese. So while they ordered food, and explained me the stuff, I was looking around.\n\nyes, it is like hooters vietnamese style. your eyes will wander here, but the food also kept me occupied :) the french fries came in a new style - the dip was a blob of butter and sugar. Each table has beer crate, and you can just keep on having them (of course you pay for it).\n\nI had crispy pork, which was OK. Fried eel was good.\n\nI felt this place is better with a vietnamese, because language is a barrier here.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten January 30, 2013",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:08:10.621556",
+            "restaurant_id": "2261678",
+            "restaurant_name": "Tram Chim",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2261678-Reviews-Tram_Chim-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2261678-Reviews-Tram_Chim-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.6,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.777011,
+                "longitude": 106.68415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/df/30/b8/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 8 3930 7982",
+            "review_id": "REV_2261678_p2_6",
+            "reviewer_id": "User_2261678_2_6",
+            "review_title": "Review at Tram Chim",
+            "review_text": "fartylam\nHong Kong25 contributions\n1\nLovely ladies to serve you\nNov 2012 • Business\nBrought there by my business partner last week, 1st time there. Got off the taxi, and was immediately attracted by a lot of gorgeous girls, some of them are really beautiful and good figures, even better than those working in nightclub.\n\nBooked a room in upstairs, and 4-5 girls come in to serve you food, light cigarettes, fillup beers, etc... According to the rules there, you cannot touch the girls, and they are not allowed to sit, but they will drink/eat/chat with you. But girls can only speak Vietnemses.\n\nPartner paid the bill, so I don't know how much was that, but seems not expensive, and we drank about 2 dozen cans of beers, with a lot of seafood.\n\nIt's a nice place for males, don't bring girlfriend, female colleagues, kids, wife to there. \n\nI miss that place and want to go back there.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten November 13, 2012",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:08:10.659525",
+            "restaurant_id": "2261678",
+            "restaurant_name": "Tram Chim",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2261678-Reviews-Tram_Chim-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2261678-Reviews-Tram_Chim-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.6,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.777011,
+                "longitude": 106.68415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/df/30/b8/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 8 3930 7982",
+            "review_id": "REV_2261678_p2_7",
+            "reviewer_id": "User_2261678_2_7",
+            "review_title": "Review at Tram Chim",
+            "review_text": "gary f\nIssaquah78 contributions\n0\nThe food is mediocre but the \"staff\" is hot!\nOct 2012 • Friends\nIf you want to have a lot fun with your dining experience this is the restaurant. The food is ok but you don't go here for the food. They probably have the most attractive \"staff\" members in Saigon for a restaurant. Beautiful girls who are friendly and very good service people as well. The food is ok, the beer is cold and the servers are hot! Enjoy but don't take your wife.\nRead more\nValue\nService\nFood\nAtmosphere\nReview collected in partnership with this restaurant \nWritten November 1, 2012",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:08:10.694355",
+            "restaurant_id": "2261678",
+            "restaurant_name": "Tram Chim",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2261678-Reviews-Tram_Chim-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2261678-Reviews-Tram_Chim-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.6,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.777011,
+                "longitude": 106.68415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/df/30/b8/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 8 3930 7982",
+            "review_id": "REV_2261678_p2_8",
+            "reviewer_id": "User_2261678_2_8",
+            "review_title": "Review at Tram Chim",
+            "review_text": "Joeypham\n3 contributions\n0\nCan you say hooters vn style?\nPerfect boys hangout place but dont always assume you get seats. Number one destination for overseas vietnamese male visiting the motherland. Caution though, not for the faint of heart cuz some of the waitresses are drop dead gorgeous! Some.\nValue\nService\nFood\nAtmosphere\nReview collected in partnership with this restaurant \nWritten September 3, 2011",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:08:10.738596",
+            "restaurant_id": "2261678",
+            "restaurant_name": "Tram Chim",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2261678-Reviews-Tram_Chim-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2261678-Reviews-Tram_Chim-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.6,
+                "reviewCount": 36
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.777011,
+                "longitude": 106.68415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/df/30/b8/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 8 3930 7982",
+            "review_id": "REV_2261678_p2_9",
+            "reviewer_id": "User_2261678_2_9",
+            "review_title": "Review at Tram Chim",
+            "review_text": "Peter B\nBunbury, Australia134 contributions\n0\nWOW!!!!\nAug 2011 • Friends\nNow this is a big and very authentic vietnamese restaurant that is filled to bursting with locals. We were the only tourists there, the staff speak very little english, the beer is served with ice to make it cold and there is no air-conditioning . But the food, mostly seafood, is sensational and the prices are the cheapest i've seen in Saigon. But the waitresses are out of this world. There are probably 40-50 waitresses working there, and they're doing everything from peeling your prawns by hand to lighting customers cigarettes. Do yourself a favour and try this place out.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten August 30, 2011",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

@@ -2,7 +2,7 @@
     "restaurant_id": "10737011",
     "restaurant_name": "Tuan & Tu Restaurant",
     "city": "Vietnam_Subregion",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html",
     "metadata": {
         "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
@@ -78,7 +78,7 @@
         ],
         "telephone": "+84 93 151 94 88"
     },
-    "reviews_count": 15,
+    "reviews_count": 28,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1412,6 +1412,1163 @@
             "review_text": "cmatthewschulz\nPalo Alto, California137 contributions\n0\nGood eats\nFeb 2018 • Business\nThe location may be hard to find, but this gem of a restaurant never ceases to please.\n\nTraditional Vietnamese cuisine presented beautifully with many hard to find options. The drink list includes many interesting non-alcoholic items. Try the nuoc sau - more of a Hanoi favorite but wonderfully done in Ho Chi Minh City.\nRead more\nReview collected in partnership with this restaurant \nWritten April 21, 2018",
             "rating": 5.0,
             "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:21:01.852494",
+            "restaurant_id": "10737011",
+            "restaurant_name": "Tuan & Tu Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 34
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77944,
+                "longitude": 106.706085
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Fusion",
+                "Vietnamese",
+                "Diner",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 151 94 88",
+            "review_id": "REV_10737011_p2_0",
+            "reviewer_id": "User_10737011_2_0",
+            "review_title": "Review at Tuan & Tu Restaurant",
+            "review_text": "panasia\nMontreal, Canada134 contributions\n0\nGood food!\nMar 2018 • Couples\nNice, cosy dining room,, very good northern vietnamese dishes, very good service, well worth a relatively above average pricing! The soup ( canh) should be warmer. Call for directions as this restaurant is at the end of lane.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten March 3, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:21:01.895155",
+            "restaurant_id": "10737011",
+            "restaurant_name": "Tuan & Tu Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 34
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77944,
+                "longitude": 106.706085
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Fusion",
+                "Vietnamese",
+                "Diner",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 151 94 88",
+            "review_id": "REV_10737011_p2_1",
+            "reviewer_id": "User_10737011_2_1",
+            "review_title": "Review at Tuan & Tu Restaurant",
+            "review_text": "QA P\nHo Chi Minh City, Vietnam135 contributions\n0\nAuthentic Hanoian cuisines in the heart of Saigon!\nFeb 2018 • Friends\nI met Tuan in 2002, on my first working day at Saatchi and Saatchi VN. Tuan was a very good Account Director. Who could tell one day he quitted to focus on his passion of cooking. \n\nHis restaurant doesn't just have tasty authentic Hanoian cuisines, but also beautiful decoration that is intertwined tradition with modern design, the atmosphere is homy and pleasant. Tuan Tu Restaurant is where we have our gathering, is where I come when I crave for its special fresh spring roles and 'lẩu bò cua đồng' - beef hotpot with pond crab as nowhere else can make them that good.\n\nVietnamese, especially Hanoian, is crazy for their food. It seems almost impossible to live without rice nor fish sauce. When we travel thousands of miles far from home, such as Macedonia, Slovenia or Croatia, when Tuan is with us, we are certain that he will manage to happily cook us at least a great bowl of Pho. Having a good friend who is also a good chef is one of the most privilege things you could have in life.\nRead more\nValue\nService\nFood\nWritten February 8, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:21:01.927173",
+            "restaurant_id": "10737011",
+            "restaurant_name": "Tuan & Tu Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 34
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77944,
+                "longitude": 106.706085
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Fusion",
+                "Vietnamese",
+                "Diner",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 151 94 88",
+            "review_id": "REV_10737011_p2_2",
+            "reviewer_id": "User_10737011_2_2",
+            "review_title": "Review at Tuan & Tu Restaurant",
+            "review_text": "PS F\nUnited States3 contributions\n0\nExcellent place, delicious food\nDec 2017 • Business\nWhen in Vietnam, a priority should always be to eat well, and try some of the remarkable culinary achievements of Vietnamese culture. Tuan & Tu specializes in Northern Vietnamese dishes. Everything is well-prepared in a lovely atmosphere with good service. Don't miss the crab spring rolls.\nValue\nService\nFood\nWritten December 18, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:21:01.945434",
+            "restaurant_id": "10737011",
+            "restaurant_name": "Tuan & Tu Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 34
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77944,
+                "longitude": 106.706085
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Fusion",
+                "Vietnamese",
+                "Diner",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 151 94 88",
+            "review_id": "REV_10737011_p2_3",
+            "reviewer_id": "User_10737011_2_3",
+            "review_title": "Review at Tuan & Tu Restaurant",
+            "review_text": "LinhVu\nHanoi, Vietnam332 contributions\n0\nBest Hanoi breakfast in Saigon\nSep 2017 • Family\nWe visit Tuấn Tú mostly every weekend since the chefs, who are siblings, are always put the best ingredients for the authentic & original Hanoi meals.\nReview collected in partnership with this restaurant \nWritten October 1, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:21:01.975413",
+            "restaurant_id": "10737011",
+            "restaurant_name": "Tuan & Tu Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 34
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77944,
+                "longitude": 106.706085
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Fusion",
+                "Vietnamese",
+                "Diner",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 151 94 88",
+            "review_id": "REV_10737011_p2_4",
+            "reviewer_id": "User_10737011_2_4",
+            "review_title": "Review at Tuan & Tu Restaurant",
+            "review_text": "Annie Dinh\nCalgary, Canada4 contributions\n0\nA good place to catch up with friends\nMay 2017 • Friends\nI am from the Southern Vietnam, therefore I don't usually favor of going to a restaurant serving Northern food. However, I enjoy to have meals in Tuan Tu restaurant. I always have to call for seat reservation in advance. The interior decoration is exotic where I can enjoy the view from anywhere you seat. The staff is professional and friendly. I love the food here, truly nice and satisfied from the \"eye\" to \"tongue\". Recommended to some of my friends and they love it too.\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten May 17, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:21:02.007140",
+            "restaurant_id": "10737011",
+            "restaurant_name": "Tuan & Tu Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 34
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77944,
+                "longitude": 106.706085
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Fusion",
+                "Vietnamese",
+                "Diner",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 151 94 88",
+            "review_id": "REV_10737011_p2_5",
+            "reviewer_id": "User_10737011_2_5",
+            "review_title": "Review at Tuan & Tu Restaurant",
+            "review_text": "Jel86\nHo Chi Minh City, Vietnam1029 contributions\n0\nNot very impressive.\nFeb 2017 • Business\nBesides the nem which were unusually spicy for Vietnamese traditional food, nothing was even close to a decent standard. The duck salad salad and any part of it besides the roasted duck was swallow. The fried sticky rice croquettes (swallow again) were tasteless. The honey ribs that accompanied were bones more than meat and really not very flavorful. Pick up the wrong bottles off the side wine menu (showing only 6 bottles of each or red and white- whereas the regular menu is supposed to pretentiously offer 30 reds and 30 whites) which was 1,100,000 VND (only the third most expensive of the list), a Pinot noir of Bourgogne that was served too cold and surely had not been kept well. No sparkling bottle besides the Perrier that travelled 1/2 of the globe to end up vnd95,000 a bottle of 33cl. All prices will get a 10% Vat plus when you get the bill. Surprised I got there but I will surely never go back.\nRead more\nWritten March 1, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:21:02.031845",
+            "restaurant_id": "10737011",
+            "restaurant_name": "Tuan & Tu Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 34
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77944,
+                "longitude": 106.706085
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Fusion",
+                "Vietnamese",
+                "Diner",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 151 94 88",
+            "review_id": "REV_10737011_p2_6",
+            "reviewer_id": "User_10737011_2_6",
+            "review_title": "Review at Tuan & Tu Restaurant",
+            "review_text": "Michael H\n482 contributions\n0\nClosest proper vietnamese restaurant for anyone staying at Lotte\nFeb 2017 • Couples\nSort of Elegant feeling, top Vietnamese food, with very good table service.\n\nIf you like, ask for a table outside. If you are lucky, you will have a private dining feel with your own personal service. You may enjoy live 80ties music as well from the close by bar.\n\nShort walking distance from Hotel Lotte legend (just around the corner, walking out through the hotel back side), but also close to le Meridien and very close from the Millenium hotel.\n\nMost restaurants in the area are Japanese. This is the only one, or one of the few proper Vietnamese restaurants in this area.\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten February 4, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:21:02.058544",
+            "restaurant_id": "10737011",
+            "restaurant_name": "Tuan & Tu Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 34
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77944,
+                "longitude": 106.706085
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Fusion",
+                "Vietnamese",
+                "Diner",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 151 94 88",
+            "review_id": "REV_10737011_p2_7",
+            "reviewer_id": "User_10737011_2_7",
+            "review_title": "Review at Tuan & Tu Restaurant",
+            "review_text": "LinhVu\nHanoi, Vietnam332 contributions\n0\nJust like home\nJan 2017 • Family\nI come to Tuan Tu mostly every week, for any occasion or even no occasion, at anytime of the day, for a very special Hanoi meals that cook with love & care. Excellent recipes & the chefs (actually 2 of them are siblings) really know how to lure us with best options of food & fabulous stories behind each dishes. If you're lucky enough to meet with the chefs (aka owners) of Tuan Tu, ask for their recommendation, you sure will be pleased.\nRead more\nWritten January 11, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:21:02.117596",
+            "restaurant_id": "10737011",
+            "restaurant_name": "Tuan & Tu Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 34
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77944,
+                "longitude": 106.706085
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Fusion",
+                "Vietnamese",
+                "Diner",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 151 94 88",
+            "review_id": "REV_10737011_p2_8",
+            "reviewer_id": "User_10737011_2_8",
+            "review_title": "Review at Tuan & Tu Restaurant",
+            "review_text": "HenkeySleven\nLos Angeles, California33 contributions\n0\nGreat atmosphere and upscale authentic food\nJan 2017 • Friends\nI went here for lunch in a recent trip to SaiGon. The Indochinese/colonial atmosphere is quite interesting. The restaurant is definitely caters to tourist and high-income Vietnamese ppl (the price is quite reasonable, however). \nThe food here is excellent, probably the best upscale (but authentic) Vietnamese food I had during the trip (and I'm ethnic Vietnamese, by the way).\nService is decent, but I think it was slow because we catch the end of the lunch shift. They probably have more staffs members during prime lunch and dinner hours.\nOverall, I highly recommended this restaurant if you look for a good restaurant in District 1, SaiGon.\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten January 6, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:21:02.137148",
+            "restaurant_id": "10737011",
+            "restaurant_name": "Tuan & Tu Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 34
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77944,
+                "longitude": 106.706085
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Fusion",
+                "Vietnamese",
+                "Diner",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 151 94 88",
+            "review_id": "REV_10737011_p2_9",
+            "reviewer_id": "User_10737011_2_9",
+            "review_title": "Review at Tuan & Tu Restaurant",
+            "review_text": "Belpat007\nLondon81 contributions\n0\nFine local food\nDec 2016 • Couples\nStaying at the Lotte legend hotel this was the closest restaurant to our hotel. we risked it (only a few reviews on TA as it is a fairly new place) and didn't have any regrets. There is ample choice on the menu. The food is based on local recipes. All the dishes we tried had lots of flavour, were well presented and were good value for money.\nReview collected in partnership with this restaurant \nWritten December 6, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:21:02.168551",
+            "restaurant_id": "10737011",
+            "restaurant_name": "Tuan & Tu Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 34
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77944,
+                "longitude": 106.706085
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Fusion",
+                "Vietnamese",
+                "Diner",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 151 94 88",
+            "review_id": "REV_10737011_p2_10",
+            "reviewer_id": "User_10737011_2_10",
+            "review_title": "Review at Tuan & Tu Restaurant",
+            "review_text": "SanjiSkywalker\nLondon, United Kingdom104 contributions\n0\nAuthentic Nothern Vietnam food!\nOct 2016 • Friends\nThe food is truly Nothern-flavour (not as sweet as Southern dish). You can find some authentic special dish like 'oc chuoi dau' (green banana cooked with tofu, pork, and snails), 'canh chua sau thit nac' (sour soup with pork), 'dau phu tam hanh' (fried tofu with spring onion and fish sauce). Besides, nice decoration, friendly and helpful staff. Give it a try!\nWritten November 4, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:21:02.184736",
+            "restaurant_id": "10737011",
+            "restaurant_name": "Tuan & Tu Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 34
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77944,
+                "longitude": 106.706085
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Fusion",
+                "Vietnamese",
+                "Diner",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 151 94 88",
+            "review_id": "REV_10737011_p2_11",
+            "reviewer_id": "User_10737011_2_11",
+            "review_title": "Review at Tuan & Tu Restaurant",
+            "review_text": "Huyen Thuong N\nHo Chi Minh City, Vietnam19 contributions\n0\nTruly Southern Vietnamese cuisine\nSep 2016 • Friends\nThe real \"cơm Bắc\" - Their dishes reminded me about the time in Hanoi. Good atmosphere. Good foods. Should try!\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten September 13, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:21:02.211924",
+            "restaurant_id": "10737011",
+            "restaurant_name": "Tuan & Tu Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10737011-Reviews-Tuan_Tu_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 34
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77944,
+                "longitude": 106.706085
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/27/e8/54/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Fusion",
+                "Vietnamese",
+                "Diner",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 151 94 88",
+            "review_id": "REV_10737011_p2_12",
+            "reviewer_id": "User_10737011_2_12",
+            "review_title": "Review at Tuan & Tu Restaurant",
+            "review_text": "TaDaYeah\nParis, France2376 contributions\n0\nFood north vietnam\nSep 2016\nAt the end of a renovated street in district 1, the restaurant has also been renovated with large space between tables with old and elegant wood furniture. Food was very good, especially the Cha ca. Good and nice service. Price ok\nWritten September 1, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

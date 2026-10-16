@@ -74,7 +74,7 @@
         ],
         "telephone": "+84 90 136 87 29"
     },
-    "reviews_count": 9,
+    "reviews_count": 10,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -838,6 +838,91 @@
             "review_text": "Explore00518071925\n14 contributions\n0\nvery good food and good service\nDec 2023 • Friends\nDelicious food, good service staff Good food quality, reasonable price The atmosphere inside the shop is clean and comfortable. There is live music every Thursday and Saturday.\nValue\nService\nFood\nAtmosphere\nShow original\nWritten December 22, 2023",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T02:07:34.381495",
+            "restaurant_id": "25067884",
+            "restaurant_name": "Jatujak Retro Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25067884-Reviews-Jatujak_Retro_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25067884-Reviews-Jatujak_Retro_Bar-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 9
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.812824,
+                "longitude": 106.66691
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/52/b0/b6/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:30:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:30:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:30:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:30:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:30:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:30:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:30:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Thai"
+            ],
+            "telephone": "+84 90 136 87 29",
+            "review_id": "REV_25067884_p1_2",
+            "reviewer_id": "User_25067884_1_2",
+            "review_title": "Review at Jatujak Retro Bar",
+            "review_text": "CarolineLanc\nReading, United Kingdom561 contributions\n0\nGreat Thai restaurant near Saigon Airport\nApr 2026 • Couples\nLovely tasty dinner. Friendly staff. Good mojitos. Great prices. Nice authentic Thai meal at this cafe-style restaurant near Ho Chi Minh airport. Would definitely go back\nWritten April 29, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

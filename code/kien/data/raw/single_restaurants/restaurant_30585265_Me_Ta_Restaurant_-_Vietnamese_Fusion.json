@@ -4,7 +4,7 @@
     "city": "Vietnam_Subregion",
     "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d30585265-Reviews-Me_Ta_Restaurant_Vietnamese_Fusion-Ho_Chi_Minh_City.html",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d30585265-Reviews-Me_Ta_Restaurant_Vietnamese_Fusion-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d30585265-Reviews-Me_Ta_Restaurant_Vietnamese_Fusion-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -16,14 +16,14 @@
         "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": 5,
-            "reviewCount": 69
+            "reviewCount": 71
         },
         "geo": {
             "@type": "GeoCoordinates",
             "latitude": 10.771855,
             "longitude": 106.69533
         },
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/a1/0b/1a/caption.jpg?w=600&h=400&s=1",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/db/21/caption.jpg?w=600&h=400&s=1",
         "openingHoursSpecification": [
             {
                 "@type": "OpeningHoursSpecification",
@@ -78,7 +78,7 @@
         ],
         "telephone": "+84 97 919 66 11"
     },
-    "reviews_count": 15,
+    "reviews_count": 17,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1412,6 +1412,184 @@
             "review_text": "Autogirogiringiro\nLodi, Italy5986 contributions\n0\nExcellence in downtown Saigon\nAug 2025 • Family\nPerfect Service, perhaps even too much. The manager very attentive to every detail. Appreciated the context and of course especially the dishes very welcome. The crab exceptional in consistency. Order and cleanliness are other hallmarks of this restaurant.\nTranslated from Italian\nShow original\nWritten August 19, 2025\nMe Ta Restaurant\nGrazie mille! Thank you so much for your kind words about our service, the attention to detail and, of course, the crab – we're delighted it was a highlight. It means a lot coming from such an experienced traveller. We hope to welcome you back to Me Ta on your next visit to Saigon. The Me Ta team\nRead more\nWritten September 25, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T22:24:54.726730",
+            "restaurant_id": "30585265",
+            "restaurant_name": "Me Ta Restaurant - Vietnamese Fusion",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d30585265-Reviews-Me_Ta_Restaurant_Vietnamese_Fusion-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d30585265-Reviews-Me_Ta_Restaurant_Vietnamese_Fusion-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 71
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.771855,
+                "longitude": 106.69533
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/db/21/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Fusion",
+                "Vietnamese",
+                "Wine Bar",
+                "Street Food"
+            ],
+            "telephone": "+84 97 919 66 11",
+            "review_id": "REV_30585265_p1_0",
+            "reviewer_id": "User_30585265_1_0",
+            "review_title": "Review at Me Ta Restaurant - Vietnamese Fusion",
+            "review_text": "alexandra w\n1 contribution\n0\nFabulous\nOct 2026 • Family\nThe food is amazing! I’ve ate here multiple times and could not fault any dishes.\nWritten October 14, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T22:24:55.919315",
+            "restaurant_id": "30585265",
+            "restaurant_name": "Me Ta Restaurant - Vietnamese Fusion",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d30585265-Reviews-Me_Ta_Restaurant_Vietnamese_Fusion-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d30585265-Reviews-Me_Ta_Restaurant_Vietnamese_Fusion-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 71
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.771855,
+                "longitude": 106.69533
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/db/21/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Fusion",
+                "Vietnamese",
+                "Wine Bar",
+                "Street Food"
+            ],
+            "telephone": "+84 97 919 66 11",
+            "review_id": "REV_30585265_p1_3",
+            "reviewer_id": "User_30585265_1_3",
+            "review_title": "Review at Me Ta Restaurant - Vietnamese Fusion",
+            "review_text": "Tony B\n25 contributions\n0\nGreat food and hotel\nSep 2026 • Solo\nI stayed at Me boutique and while there that evening I had meal in there restaurant was 10/10 for service and food then to top it off the breakfast was amazing too and a special thank you to Hanh for knowing that I want to 3 poached eggs every morning didn’t even after asking the end a great hotel and we will definitely revisit it again\nWritten September 27, 2026\nMe Ta Restaurant\nDear valued guest,\n\nThank you so much for this wonderful review! We're thrilled that both your dinner at MeTa Restaurant and our breakfast lived up to your expectations — a 10/10 for food and service means a great deal to our kitchen and service team.\n\nWe'll be sure to pass your kind words on to Hanh. Remembering our guests' little preferences, like your three poached eggs each morning, is exactly the kind of personal touch we strive for, and it's lovely to know it made your stay special.\n\nWe look forward to welcoming you back to Me Saigon Boutique Hotel soon — your poached eggs will be ready!\n\nWarm regards,\nThe Me Saigon Boutique Hotel Team\nRead more\nWritten October 2, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

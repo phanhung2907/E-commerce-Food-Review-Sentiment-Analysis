@@ -2,7 +2,7 @@
     "restaurant_id": "4507175",
     "restaurant_name": "Sushi World",
     "city": "Vietnam_Subregion",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
     "metadata": {
         "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
@@ -78,7 +78,7 @@
         ],
         "telephone": "+84 8 3823 5089"
     },
-    "reviews_count": 15,
+    "reviews_count": 30,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1412,6 +1412,1341 @@
             "review_text": "Kuan T\n7 contributions\n0\nVariety food\nJul 2016 • Business\nNot bad..waitress pretty and polite and sweet. All look well and price a bit high.i love it as well .tq\nWritten July 29, 2016",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:39:48.279179",
+            "restaurant_id": "4507175",
+            "restaurant_name": "Sushi World",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "15E Le Thanh Ton St.",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "70000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 52
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78093,
+                "longitude": 106.70512
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/99/79/ed/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Japanese",
+                "Sushi",
+                "Asian"
+            ],
+            "telephone": "+84 8 3823 5089",
+            "review_id": "REV_4507175_p1_5",
+            "reviewer_id": "User_4507175_1_5",
+            "review_title": "Review at Sushi World",
+            "review_text": "DENIS C\nFontenay-sous-Bois, France1492 contributions\n0\nVery good sushi place with nice sushi bar\nOct 2022 • Solo\nIn fact very good sushi for outside Japan , super good service , decent prices , good selection of sushi , peaceful atmosphere , products are very fresh , good selection of Sake\nWritten October 3, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:39:58.839882",
+            "restaurant_id": "4507175",
+            "restaurant_name": "Sushi World",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "15E Le Thanh Ton St.",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "70000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 52
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78093,
+                "longitude": 106.70512
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/99/79/ed/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Japanese",
+                "Sushi",
+                "Asian"
+            ],
+            "telephone": "+84 8 3823 5089",
+            "review_id": "REV_4507175_p2_0",
+            "reviewer_id": "User_4507175_2_0",
+            "review_title": "Review at Sushi World",
+            "review_text": "katanankes\nHo Chi Minh City, Vietnam90 contributions\n0\nIt did not win me over\nJun 2016 • Solo\nI am aware that Sushi World brand has been around for a while. I remember years ago when I visited a number of other locations. This was my first visit in the flagship location on Le Thanh Ton. \n\nWhile they might have been pioneers in the sushi scene in Saigon, with all the current choice available, they quite failed to stay on top and offer anything special.\n\nSushi and sashimi (I tried a sushi mix and a maguro sashimi) tasted quite bland. Especially the tuna sashimi was quite subpar. Admittedly the menu is quite extensive.\n\nIn my reviews you can find a lot of other sushi restaurants with a lot of in depth comments.\nRead more\nValue\nService\nFood\nWritten June 26, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:39:58.864177",
+            "restaurant_id": "4507175",
+            "restaurant_name": "Sushi World",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "15E Le Thanh Ton St.",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "70000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 52
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78093,
+                "longitude": 106.70512
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/99/79/ed/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Japanese",
+                "Sushi",
+                "Asian"
+            ],
+            "telephone": "+84 8 3823 5089",
+            "review_id": "REV_4507175_p2_1",
+            "reviewer_id": "User_4507175_2_1",
+            "review_title": "Review at Sushi World",
+            "review_text": "Pau Chuan H\nSingapore, Singapore17 contributions\n0\nFresh sashimi !!\nJun 2016\n1st time try the sea grape at sushi world.nice ,everything is fresh ....and a complimentary coffee when u finish the food.great job\nWritten June 13, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:39:58.881022",
+            "restaurant_id": "4507175",
+            "restaurant_name": "Sushi World",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "15E Le Thanh Ton St.",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "70000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 52
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78093,
+                "longitude": 106.70512
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/99/79/ed/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Japanese",
+                "Sushi",
+                "Asian"
+            ],
+            "telephone": "+84 8 3823 5089",
+            "review_id": "REV_4507175_p2_2",
+            "reviewer_id": "User_4507175_2_2",
+            "review_title": "Review at Sushi World",
+            "review_text": "LMVA90\nColchester, United Kingdom57 contributions\n0\nLate night Meal\nApr 2016 • Couples\nWas open until 1am so was perfect for jet lagged visitors like us. Vast selection and tasty food. Partner had the chicken and rice bowl and was fantastic\nWritten April 25, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:39:58.896702",
+            "restaurant_id": "4507175",
+            "restaurant_name": "Sushi World",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "15E Le Thanh Ton St.",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "70000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 52
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78093,
+                "longitude": 106.70512
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/99/79/ed/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Japanese",
+                "Sushi",
+                "Asian"
+            ],
+            "telephone": "+84 8 3823 5089",
+            "review_id": "REV_4507175_p2_3",
+            "reviewer_id": "User_4507175_2_3",
+            "review_title": "Review at Sushi World",
+            "review_text": "travelbugAZ\nHo Chi Minh City, Vietnam98 contributions\n0\nour new favorite sushi spot in Ho Chi Minh City\nFeb 2016 • Couples\nThis place has a large menu and the food is excellent. Very generous portion of edamame, and very nice sushi, rolls, sashimi, and even Japanese gelato for dessert. They also have a wide variety of sake, including some VERY fancy bottles. It is a Japanese restaurant in \"Japan Town\" part of Saigon, and it serves a lot of Japanese clientele, so is the real deal.\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten March 1, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:39:58.928392",
+            "restaurant_id": "4507175",
+            "restaurant_name": "Sushi World",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "15E Le Thanh Ton St.",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "70000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 52
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78093,
+                "longitude": 106.70512
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/99/79/ed/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Japanese",
+                "Sushi",
+                "Asian"
+            ],
+            "telephone": "+84 8 3823 5089",
+            "review_id": "REV_4507175_p2_4",
+            "reviewer_id": "User_4507175_2_4",
+            "review_title": "Review at Sushi World",
+            "review_text": "RIP\nSparta, New Jersey623 contributions\n0\nExcellent Sushi Boats\nJan 2016 • Business\nWe enjoyed a larger party at this Sushi restaurant in an upstairs room. Great service and awesome sushi. Would absolutely go back again.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten January 25, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:39:58.944441",
+            "restaurant_id": "4507175",
+            "restaurant_name": "Sushi World",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "15E Le Thanh Ton St.",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "70000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 52
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78093,
+                "longitude": 106.70512
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/99/79/ed/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Japanese",
+                "Sushi",
+                "Asian"
+            ],
+            "telephone": "+84 8 3823 5089",
+            "review_id": "REV_4507175_p2_5",
+            "reviewer_id": "User_4507175_2_5",
+            "review_title": "Review at Sushi World",
+            "review_text": "Tiên Dương\nHo Chi Minh City, Vietnam2 contributions\n0\nGood restaurant\nOct 2015 • Friends\nis one of your favorite restaurants, sashimi here tasty, fresh anymore, beautifully decorated restaurant, good staff\nWritten October 31, 2015",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:39:58.959511",
+            "restaurant_id": "4507175",
+            "restaurant_name": "Sushi World",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "15E Le Thanh Ton St.",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "70000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 52
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78093,
+                "longitude": 106.70512
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/99/79/ed/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Japanese",
+                "Sushi",
+                "Asian"
+            ],
+            "telephone": "+84 8 3823 5089",
+            "review_id": "REV_4507175_p2_6",
+            "reviewer_id": "User_4507175_2_6",
+            "review_title": "Review at Sushi World",
+            "review_text": "NhuTruc\nHo Chi Minh City, null, Vietnam22 contributions\n0\nSo so foods with a bit high price\nOct 2015 • Friends\nI and my friend ordered lunch set and both of us were not satisfied. Ramen and rice with chicken is so so, but the price is a bit higher than other same level restaurants.\nValue\nService\nFood\nWritten October 18, 2015",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:39:58.984806",
+            "restaurant_id": "4507175",
+            "restaurant_name": "Sushi World",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "15E Le Thanh Ton St.",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "70000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 52
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78093,
+                "longitude": 106.70512
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/99/79/ed/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Japanese",
+                "Sushi",
+                "Asian"
+            ],
+            "telephone": "+84 8 3823 5089",
+            "review_id": "REV_4507175_p2_7",
+            "reviewer_id": "User_4507175_2_7",
+            "review_title": "Review at Sushi World",
+            "review_text": "Rebecca G\nSingapore, Singapore201 contributions\n0\nDelicious Hotpot\nFeb 2015 • Family\nThe service was extremely slow but it is largely due to the TET holidays (I think) but the service staff is really doing their best and I must say it is not easy especially the dining area is on 3 different levels with no lift nor escalator. Kudos to the service staff. The sushi, salad, grilled squid, California maki, ikura don were ordinary - nothing to talk about, but the hotpot was delicious and value for money.\nRead more\nReview collected in partnership with this restaurant \nWritten February 23, 2015",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:39:59.010355",
+            "restaurant_id": "4507175",
+            "restaurant_name": "Sushi World",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "15E Le Thanh Ton St.",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "70000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 52
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78093,
+                "longitude": 106.70512
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/99/79/ed/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Japanese",
+                "Sushi",
+                "Asian"
+            ],
+            "telephone": "+84 8 3823 5089",
+            "review_id": "REV_4507175_p2_8",
+            "reviewer_id": "User_4507175_2_8",
+            "review_title": "Review at Sushi World",
+            "review_text": "touristvietnam2015\nHo Chi Minh City, Vietnam1 contribution\n0\nawesome wating time\nFeb 2015 • Solo\nI had to wait for 1hour in order to get 10 piceses of sushi.\nI was alone so other team could get theire foods even they are later than me.\nIt is the experience of worsr thing in Hochiminh\nValue\nService\nFood\nAtmosphere\nWritten February 18, 2015",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:39:59.028646",
+            "restaurant_id": "4507175",
+            "restaurant_name": "Sushi World",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "15E Le Thanh Ton St.",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "70000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 52
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78093,
+                "longitude": 106.70512
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/99/79/ed/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Japanese",
+                "Sushi",
+                "Asian"
+            ],
+            "telephone": "+84 8 3823 5089",
+            "review_id": "REV_4507175_p2_9",
+            "reviewer_id": "User_4507175_2_9",
+            "review_title": "Review at Sushi World",
+            "review_text": "Bruce S\n44 contributions\n0\nDecent\nDec 2014\nLooking for a Japanese resto so choose Sushi World as heard it was good . Was some japanese customers which usually means its good. Thought it was decent but some of portions for seafood dishes are a little small such as hotaru squid. Sashimi was average.\nReview collected in partnership with this restaurant \nWritten December 8, 2014",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:39:59.056845",
+            "restaurant_id": "4507175",
+            "restaurant_name": "Sushi World",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "15E Le Thanh Ton St.",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "70000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 52
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78093,
+                "longitude": 106.70512
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/99/79/ed/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Japanese",
+                "Sushi",
+                "Asian"
+            ],
+            "telephone": "+84 8 3823 5089",
+            "review_id": "REV_4507175_p2_10",
+            "reviewer_id": "User_4507175_2_10",
+            "review_title": "Review at Sushi World",
+            "review_text": "Willo209\nPerth, Australia100 contributions\n0\nHotpot Heaven\nOct 2014 • Couples\nLe Thanh Ton St is called Japan street in Saigon and for good reason. My personal favourite is Sushi World. A very warm almost orchestrated welcome sees you enter the ground floor ramen style bar. Upstairs is a traditional style restaurant with western and in the other rooms Japanese style seating. The menu is extensive with every conceivable Japanese dish you could imagine. The place is full of Japanese ex-pats so you know you are on a winner. The prices are very reasonable and the service is top notch- a quick wave of the hand and you have a nice cold beer. I have been there with a small group as well as dining as a couple. I can vouch for the freshness, quality and presentation of the dishes. For me the seafood hotpot is the stand out with a lovely flavoursome broth and lots of seafood delights including prawns, squid and salmon. They make the hotpot on the spot for you if you wish- putting the right ingredient in at the right time. I have had the sushi and the sashimi and both were delicious. If I lived in Saigon it would be my local- highly recommended.\nRead more\nValue\nService\nFood\nAtmosphere\nReview collected in partnership with this restaurant \nWritten October 13, 2014",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:39:59.093617",
+            "restaurant_id": "4507175",
+            "restaurant_name": "Sushi World",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "15E Le Thanh Ton St.",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "70000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 52
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78093,
+                "longitude": 106.70512
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/99/79/ed/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Japanese",
+                "Sushi",
+                "Asian"
+            ],
+            "telephone": "+84 8 3823 5089",
+            "review_id": "REV_4507175_p2_11",
+            "reviewer_id": "User_4507175_2_11",
+            "review_title": "Review at Sushi World",
+            "review_text": "Back Street Crawler\nMelbourne, Australia474 contributions\n0\nMade my day\nAug 2014 • Solo\nYesterday I had a strong desire to eat Japanese food, so I headed towards to japan quarter of HCMC, which I'd heard of, but hadn't been to.\nAnd, yes, there were many Resteaurants to choose from.....says me licking my lips at the selection.......so I chose Sushi World........and had the most wonderful sashimi I have had in a long time......will go back there when I get the chance again\nRead more\nValue\nService\nFood\nAtmosphere\nWritten August 31, 2014",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:39:59.110837",
+            "restaurant_id": "4507175",
+            "restaurant_name": "Sushi World",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "15E Le Thanh Ton St.",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "70000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 52
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78093,
+                "longitude": 106.70512
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/99/79/ed/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Japanese",
+                "Sushi",
+                "Asian"
+            ],
+            "telephone": "+84 8 3823 5089",
+            "review_id": "REV_4507175_p2_12",
+            "reviewer_id": "User_4507175_2_12",
+            "review_title": "Review at Sushi World",
+            "review_text": "jmpirir5773\n3 contributions\n0\nA Winner\nMar 2014 • Friends\nAfter sampling many good sushi restaurants in Saigon I think I have found my favourite. The freshness, quality and the acute attention to presentation make this restaurant worth a visit.\nWritten March 5, 2014",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:39:59.159947",
+            "restaurant_id": "4507175",
+            "restaurant_name": "Sushi World",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d4507175-Reviews-Sushi_World-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "15E Le Thanh Ton St.",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "70000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.8,
+                "reviewCount": 52
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78093,
+                "longitude": 106.70512
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/99/79/ed/photo0jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Japanese",
+                "Sushi",
+                "Asian"
+            ],
+            "telephone": "+84 8 3823 5089",
+            "review_id": "REV_4507175_p2_13",
+            "reviewer_id": "User_4507175_2_13",
+            "review_title": "Review at Sushi World",
+            "review_text": "ozalex\nPerth, Australia7 contributions\n0\nGreat food, fresh as Japan\nDec 2013\nStaff were friendly. The sushi was fresh and as good as Japan. Service was fast and polite. Would definitely go back again.\nValue\nService\nFood\nAtmosphere\nReview collected in partnership with this restaurant \nWritten December 17, 2013",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

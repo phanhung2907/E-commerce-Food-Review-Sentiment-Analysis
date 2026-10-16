@@ -2,7 +2,7 @@
     "restaurant_id": "10804299",
     "restaurant_name": "Majestic Restaurant",
     "city": "Vietnam_Subregion",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html",
     "metadata": {
         "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
@@ -29,7 +29,7 @@
         "servesCuisine": "N/A",
         "telephone": "N/A"
     },
-    "reviews_count": 15,
+    "reviews_count": 32,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -628,6 +628,686 @@
             "review_text": "Peter G\nBrisbane, Australia65 contributions\n0\nA piece of History\nOct 2018\nWe didn't actually eat here but enjoyed a drink at the rooftop bar, a great place to take in the city, alongside the river.\nReview collected in partnership with this restaurant \nWritten November 13, 2018",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:24:49.047120",
+            "restaurant_id": "10804299",
+            "restaurant_name": "Majestic Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 60
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.773085,
+                "longitude": 106.706184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/f9/f5/55/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "N/A",
+            "review_id": "REV_10804299_p2_0",
+            "reviewer_id": "User_10804299_2_0",
+            "review_title": "Review at Majestic Restaurant",
+            "review_text": "berr520\nCopenhagen, Denmark77 contributions\n0\nWent for the cocktails after a rainstorm\nSep 2018 • Friends\nMy friend and I decided to give this a try - first, we went during the weekend of Vietnamese Independence Day and also after dinner time/after a storm so perhaps it was more quiet than usual. We could only sit on the covered outdoor terrace area as the roof was shut off because of the rain so the view wasn't great - we were looking out at the Saigon River in the dark. It would be a lovely place for a quiet romantic drink, and they have very generous Gin and Tonics - more expensive than other parts of the city, but still very affordable. I would go again under better weather circumstances to see the views!\nRead more\nValue\nService\nReview collected in partnership with this restaurant \nWritten September 19, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:24:49.089295",
+            "restaurant_id": "10804299",
+            "restaurant_name": "Majestic Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 60
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.773085,
+                "longitude": 106.706184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/f9/f5/55/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "N/A",
+            "review_id": "REV_10804299_p2_1",
+            "reviewer_id": "User_10804299_2_1",
+            "review_title": "Review at Majestic Restaurant",
+            "review_text": "Timothy H\n4 contributions\n1\nFive star views, less than five star cocktails\nAug 2018 • Solo\nStopped off at the rooftop bar here as I've heard it's a good place to watch the sunset. The hotel and the views are amazing, but the cocktails were just fine. Not really what you'd expect from a five star hotel. Weak flavours and the tiny ice cubes melted too quickly to water things down even more. Worth having a drink for the view, but not that great to be honest.\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten August 2, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:24:49.117148",
+            "restaurant_id": "10804299",
+            "restaurant_name": "Majestic Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 60
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.773085,
+                "longitude": 106.706184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/f9/f5/55/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "N/A",
+            "review_id": "REV_10804299_p2_2",
+            "reviewer_id": "User_10804299_2_2",
+            "review_title": "Review at Majestic Restaurant",
+            "review_text": "JLM3080\nBognor Regis, United Kingdom1127 contributions\n0\natmosphere and views\nApr 2018 • Couples\nanother had to visit, and what great views across the river, great outdoor space, good bar food, and great service and a brilliant atmosphere.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten April 20, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:24:49.141875",
+            "restaurant_id": "10804299",
+            "restaurant_name": "Majestic Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 60
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.773085,
+                "longitude": 106.706184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/f9/f5/55/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "N/A",
+            "review_id": "REV_10804299_p2_3",
+            "reviewer_id": "User_10804299_2_3",
+            "review_title": "Review at Majestic Restaurant",
+            "review_text": "elindoo\nStuart, Florida2150 contributions\n0\nStopped for a quick lunch\nMar 2018 • Couples\nLunch was pretty good considering you're in Vietnam. Views of the river are good making it more worth it. I'd probably go again.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten April 8, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:24:49.159075",
+            "restaurant_id": "10804299",
+            "restaurant_name": "Majestic Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 60
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.773085,
+                "longitude": 106.706184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/f9/f5/55/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "N/A",
+            "review_id": "REV_10804299_p2_4",
+            "reviewer_id": "User_10804299_2_4",
+            "review_title": "Review at Majestic Restaurant",
+            "review_text": "nihan19721969\nIzmir, Türkiye754 contributions\n0\nGreat restaurant\nMar 2018 • Friends\nTo have dinner at this restaurant with friends was really fun. The local cuisine was well represented\nWritten March 29, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:24:49.175699",
+            "restaurant_id": "10804299",
+            "restaurant_name": "Majestic Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 60
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.773085,
+                "longitude": 106.706184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/f9/f5/55/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "N/A",
+            "review_id": "REV_10804299_p2_5",
+            "reviewer_id": "User_10804299_2_5",
+            "review_title": "Review at Majestic Restaurant",
+            "review_text": "JTraveler26\nOrlando, Florida107 contributions\n0\nMagical Place\nSep 2016 • Business\nMy wife and I stayed at the Majestic Hotel for about 3-4 weeks while being transferred to Ho Chi Minh City for work. The old world French architectural was amazing. Each morning we went to the 5 floor restaurant for an outstanding breakfast. The highlight of our day. For dinner we visited the other restaurants. The views of HCM were great. Food was great too. The rooms had very high ceiling and were well updated and very comfortable. The staff are very friendly and helpful. We stay at the Majestic every time are traveling through HCM. This is the only place to stay in HCM.\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten August 9, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:24:49.201218",
+            "restaurant_id": "10804299",
+            "restaurant_name": "Majestic Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 60
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.773085,
+                "longitude": 106.706184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/f9/f5/55/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "N/A",
+            "review_id": "REV_10804299_p2_6",
+            "reviewer_id": "User_10804299_2_6",
+            "review_title": "Review at Majestic Restaurant",
+            "review_text": "Tracey and Mart... B\nSydney, Australia147 contributions\n0\nNice view but terrible service and food\nMay 2017\nWe called in for lunch and a view of the river. The service was disgraceful for a five star hotel and the food was average at best. I wouldn't bother as even though the service isn't five star the prices are. Plenty of other options near by\nReview collected in partnership with this restaurant \nWritten June 12, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:24:49.225461",
+            "restaurant_id": "10804299",
+            "restaurant_name": "Majestic Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 60
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.773085,
+                "longitude": 106.706184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/f9/f5/55/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "N/A",
+            "review_id": "REV_10804299_p2_7",
+            "reviewer_id": "User_10804299_2_7",
+            "review_title": "Review at Majestic Restaurant",
+            "review_text": "Rfussy\nGreater Melbourne, Australia93 contributions\n0\nAll you can eat lobster\nApr 2017 • Couples\nThe buffet dinner at Hotel Majestic is pricy by Vietnamese standards at 1,000,000VND each $60AUD but well worth it if you like seafood. You can choose from an assortment of seafood including lobster, bugs, crab, prawns, oysters and have it cooked freshly on the BBQ. The price also includes unlimited beer, wine and soft drink.\nValue\nService\nFood\nWritten May 3, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:24:49.243483",
+            "restaurant_id": "10804299",
+            "restaurant_name": "Majestic Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 60
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.773085,
+                "longitude": 106.706184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/f9/f5/55/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "N/A",
+            "review_id": "REV_10804299_p2_8",
+            "reviewer_id": "User_10804299_2_8",
+            "review_title": "Review at Majestic Restaurant",
+            "review_text": "holidaymode01\nBrisbane, Australia37 contributions\n0\nSeafood buffets\nApr 2017 • Friends\nReally good choices and bbq'ed to order. Also great value looking over the river, very much enjoyed.\nReview collected in partnership with this restaurant \nWritten April 30, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:24:49.266176",
+            "restaurant_id": "10804299",
+            "restaurant_name": "Majestic Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 60
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.773085,
+                "longitude": 106.706184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/f9/f5/55/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "N/A",
+            "review_id": "REV_10804299_p2_9",
+            "reviewer_id": "User_10804299_2_9",
+            "review_title": "Review at Majestic Restaurant",
+            "review_text": "IdahoTravelerUSA\nBoise, Idaho55 contributions\n0\nFree breakfast with your room.\nApr 2017 • Friends\nBe sure to include The Majestic's free breakfast with your room. Excellent breakfast. Outstanding fruit bar, American breakfast, continental breakfast, Asian breakfast, omelette bar. All delicious!\nReview collected in partnership with this restaurant \nWritten April 20, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:24:49.282055",
+            "restaurant_id": "10804299",
+            "restaurant_name": "Majestic Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 60
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.773085,
+                "longitude": 106.706184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/f9/f5/55/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "N/A",
+            "review_id": "REV_10804299_p2_10",
+            "reviewer_id": "User_10804299_2_10",
+            "review_title": "Review at Majestic Restaurant",
+            "review_text": "Roy G\nWhittlesey, United Kingdom379 contributions\n0\nTry it....\nJan 2017 • Couples\nIf you are staying in The Majestic, it is a place to try at least once. Good menu and food well served + quality.\nReview collected in partnership with this restaurant \nWritten March 7, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:24:49.299783",
+            "restaurant_id": "10804299",
+            "restaurant_name": "Majestic Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 60
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.773085,
+                "longitude": 106.706184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/f9/f5/55/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "N/A",
+            "review_id": "REV_10804299_p2_11",
+            "reviewer_id": "User_10804299_2_11",
+            "review_title": "Review at Majestic Restaurant",
+            "review_text": "Chingachgook\nSanta Monica, California471 contributions\n0\ngood food\nFeb 2017 • Friends\nStandard good hotel food in an excellent hotel. Service is good and the food is adequate quality and quantity.\nWritten March 5, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:24:49.321153",
+            "restaurant_id": "10804299",
+            "restaurant_name": "Majestic Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 60
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.773085,
+                "longitude": 106.706184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/f9/f5/55/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "N/A",
+            "review_id": "REV_10804299_p2_12",
+            "reviewer_id": "User_10804299_2_12",
+            "review_title": "Review at Majestic Restaurant",
+            "review_text": "seetheworld010\nSedona, Arizona1112 contributions\n0\nStopped by for....\nFeb 2017 • Couples\none of their fabulous cocktails. what a treat! it was delicious and the service was excellent. this bar was on the fourth floor so a nice view of the river -- we so enjoyed ourselves.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten March 2, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:24:49.340511",
+            "restaurant_id": "10804299",
+            "restaurant_name": "Majestic Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 60
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.773085,
+                "longitude": 106.706184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/f9/f5/55/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "N/A",
+            "review_id": "REV_10804299_p2_13",
+            "reviewer_id": "User_10804299_2_13",
+            "review_title": "Review at Majestic Restaurant",
+            "review_text": "Colin M\nNewport Pagnell83 contributions\n0\nUnbeatable seafood and other dishes\nJan 2017 • Couples\nAttentive staff, wonderful presentation of top quality seafood and various other dishes at very realistic prices. Enjoyed every minute in lovely surroundings\nReview collected in partnership with this restaurant \nWritten February 17, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:24:49.357452",
+            "restaurant_id": "10804299",
+            "restaurant_name": "Majestic Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 60
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.773085,
+                "longitude": 106.706184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/f9/f5/55/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "N/A",
+            "review_id": "REV_10804299_p2_14",
+            "reviewer_id": "User_10804299_2_14",
+            "review_title": "Review at Majestic Restaurant",
+            "review_text": "LisaParris69\nPerth, Australia46 contributions\n0\nIts not bad, cocktails are nice and the red wine by glass is very nice\nJan 2017 • Family\nSomewhere different, but not the best eatery at a hotel. Good roof top position though, and worth a look if even for just a nice cocktail or lovely glass or red. Beer cold.\nReview collected in partnership with this restaurant \nWritten February 1, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:24:58.511562",
+            "restaurant_id": "10804299",
+            "restaurant_name": "Majestic Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 60
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.773085,
+                "longitude": 106.706184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/f9/f5/55/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "N/A",
+            "review_id": "REV_10804299_p3_0",
+            "reviewer_id": "User_10804299_3_0",
+            "review_title": "Review at Majestic Restaurant",
+            "review_text": "Ryan Hubris #1 in Vietnam\nHo Chi Minh City, Vietnam1144 contributions\n0\nGreat Vietnamese Fusion\nAug 2016 • Friends\nThis is a great place to take clients because of the ambiance and decor and average Vietnamese food. If you're looking for local Vietnamese food, this place is not it.\nReview collected in partnership with this restaurant \nWritten October 18, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T04:24:58.545459",
+            "restaurant_id": "10804299",
+            "restaurant_name": "Majestic Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10804299-Reviews-Majestic_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 60
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.773085,
+                "longitude": 106.706184
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/f9/f5/55/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "N/A",
+            "review_id": "REV_10804299_p3_1",
+            "reviewer_id": "User_10804299_3_1",
+            "review_title": "Review at Majestic Restaurant",
+            "review_text": "Scott W\nNewcastle, Australia103 contributions\n0\nGood food good location\nSep 2016 • Friends\nWe cane here for lunch and had our first Pho which was a great experience. All then food here was good but of course a bit more expensive than on a street side restaurant. The views are great\nValue\nService\nFood\nWritten September 26, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

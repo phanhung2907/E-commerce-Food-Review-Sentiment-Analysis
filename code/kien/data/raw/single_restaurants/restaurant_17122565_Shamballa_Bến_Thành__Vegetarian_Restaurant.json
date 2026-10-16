@@ -1,10 +1,10 @@
 {
     "restaurant_id": "17122565",
     "restaurant_name": "Shamballa Bến Thành | Vegetarian Restaurant",
-    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,969 restaurants",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17122565-Reviews-Shamballa_B_n_Thanh_Vegetarian_Restaurant-Ho_Chi_Minh_City.html",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17122565-Reviews-Shamballa_B_n_Thanh_Vegetarian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17122565-Reviews-Shamballa_B_n_Thanh_Vegetarian_Restaurant-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17122565-Reviews-Shamballa_B_n_Thanh_Vegetarian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -23,7 +23,7 @@
             "latitude": 10.771584,
             "longitude": 106.69729
         },
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/a3/b0/d2/caption.jpg?w=600&h=400&s=1",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/c9/20/d7/caption.jpg?w=600&h=400&s=1",
         "openingHoursSpecification": [
             {
                 "@type": "OpeningHoursSpecification",
@@ -77,7 +77,7 @@
         ],
         "telephone": "+84 91 787 67 88"
     },
-    "reviews_count": 15,
+    "reviews_count": 16,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1396,6 +1396,94 @@
             "review_text": "Barbara K\nBasel, Switzerland16 contributions\n0\nA must for everyone\nJul 2025 • Family\nWe've never eaten so well in Vietnam. The decor is very stylish and lovely. The food very original, a paradise for vegetarians and non-vegetarians\nTranslated from German\nShow original\nWritten July 15, 2025\nShamballa Bến Thành\nDear barbarkE4114NL,\n\nThank you for taking the time to share your experience with us! Our team is thrilled to hear that your meal with us will be a fond memory of your time in Vietnam. Despite our vegetarian menu, we never want that to be a limiting factor to the kind of flavours you can experience, so we're very pleased that our food shone through to you. Thank you again, and we hope our paths meet again in the future!\n\nWarmest Regards,\nShamballa Team\nRead more\nWritten July 25, 2025\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
             "rating": 5.0,
             "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T20:17:48.806035",
+            "restaurant_id": "17122565",
+            "restaurant_name": "Shamballa Bến Thành | Vegetarian Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17122565-Reviews-Shamballa_B_n_Thanh_Vegetarian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17122565-Reviews-Shamballa_B_n_Thanh_Vegetarian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 557
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.771584,
+                "longitude": 106.69729
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/c9/20/d7/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy",
+                "Soups"
+            ],
+            "telephone": "+84 91 787 67 88",
+            "review_id": "REV_17122565_p1_11",
+            "reviewer_id": "User_17122565_1_11",
+            "review_title": "Review at Shamballa Bến Thành | Vegetarian Restaurant",
+            "review_text": "Mette L\nCopenhagen, Denmark51 contributions\n0\nTasty dishes besutifully presented\nAug 2025 • Family\nExtensive menu with so many tempting options! Which can be a rare experience being a vegetarian.\n\nDishes are very tasty and beautifully presented. The restaurant charmingly decorated in vietnamese style. Service fine.\n\nIt was a very good experience - and we are going to Shamballa again tonight 😃\nRead more\nWritten August 11, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

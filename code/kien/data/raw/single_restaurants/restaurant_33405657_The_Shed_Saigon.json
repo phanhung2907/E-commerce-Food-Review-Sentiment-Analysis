@@ -2,9 +2,9 @@
     "restaurant_id": "33405657",
     "restaurant_name": "The Shed Saigon",
     "city": "Vietnam_Subregion",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33405657-Reviews-The_Shed_Saigon-Ho_Chi_Minh_City.html",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33405657-Reviews-The_Shed_Saigon-Ho_Chi_Minh_City.html#REVIEWS",
     "metadata": {
-        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33405657-Reviews-The_Shed_Saigon-Ho_Chi_Minh_City.html",
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33405657-Reviews-The_Shed_Saigon-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "Vietnam",
@@ -78,7 +78,7 @@
         ],
         "telephone": "078 2350178"
     },
-    "reviews_count": 15,
+    "reviews_count": 17,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -1412,6 +1412,184 @@
             "review_text": "john R\n1 contribution\n0\nLovely friendly atmosphere\nAug 2025 • Couples\nWe popped in for the Formula 1,noticing they had just opened.\nThought we would try a few snacks and a drink.tried the Pizza that was made in house and was blown away.\nVery nice friendly staff and decor we enjoyed the atmosphere on our first visit and will certainly be calling again.\nRead more\nInsider tip:\nTry the home made pizza\nValue\nService\nFood\nAtmosphere\nWritten September 2, 2025",
             "rating": 5.0,
             "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:32:32.552304",
+            "restaurant_id": "33405657",
+            "restaurant_name": "The Shed Saigon",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33405657-Reviews-The_Shed_Saigon-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33405657-Reviews-The_Shed_Saigon-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 18
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778276,
+                "longitude": 106.69847
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "00:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Bar",
+                "British",
+                "Pub",
+                "Australian",
+                "Dining bars"
+            ],
+            "telephone": "078 2350178",
+            "review_id": "REV_33405657_p2_0",
+            "reviewer_id": "User_33405657_2_0",
+            "review_title": "Review at The Shed Saigon",
+            "review_text": "rockthesuburb\nrockthesuburb19 contributions\n0\nClean Bar, Cold Beer – A Great New Find in Saigon\nSep 2025 • Friends\nStopped in at The Shed Saigon and was impressed. The place is spotless, staff were friendly, and the atmosphere was relaxed. Beer was icy cold—just what you want in Saigon’s heat. A great addition to the city’s sports bar scene, definitely worth a visit.\nInsider tip:\nTry the Shed Chicken wings - they are very good.\nValue\nService\nFood\nAtmosphere\nWritten September 2, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-16T06:32:32.588482",
+            "restaurant_id": "33405657",
+            "restaurant_name": "The Shed Saigon",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33405657-Reviews-The_Shed_Saigon-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33405657-Reviews-The_Shed_Saigon-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 18
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.778276,
+                "longitude": 106.69847
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "00:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Bar",
+                "British",
+                "Pub",
+                "Australian",
+                "Dining bars"
+            ],
+            "telephone": "078 2350178",
+            "review_id": "REV_33405657_p2_1",
+            "reviewer_id": "User_33405657_2_1",
+            "review_title": "Review at The Shed Saigon",
+            "review_text": "Alexander R\n14 contributions\n0\nProper sports bar.\nAug 2025 • Friends\nCurrently “soft” opening. Large selection of beers on tap, good food and almost 20 screens for you to watch your favorite teams on.\nWritten August 31, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-16",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }
