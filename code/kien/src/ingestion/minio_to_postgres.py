@@ -1,164 +1,300 @@
 import os
 import json
 import psycopg2
-from psycopg2.extras import execute_values
+from dotenv import load_dotenv
 
-# Cấu hình kết nối PostgreSQL chuẩn theo file .env của nhóm
-DB_CONFIG = {
-    "dbname": "food_review_db",
-    "user": "postgres",
-    "password": "postgres",
-    "host": "127.0.0.1",
-    "port": "5432"
-}
+# Load biến môi trường từ file .env
+load_dotenv()
 
-def create_tables(cursor):
-    # 1. Tạo bảng restaurants
+DB_HOST = os.getenv("POSTGRES_HOST", "localhost")
+DB_PORT = os.getenv("POSTGRES_PORT", "5432")
+DB_NAME = os.getenv("POSTGRES_DB", "food_review_db")
+DB_USER = os.getenv("POSTGRES_USER", "postgres")
+DB_PASS = os.getenv("POSTGRES_PASSWORD", "postgres")
+
+LOCAL_DIR = "code/kien/data/raw/single_restaurants"
+
+def safe_str(val):
+    """Hàm phụ trợ ép mọi kiểu dữ liệu (dict, list, None) thành string an toàn"""
+    if val is None:
+        return "N/A"
+    if isinstance(val, (dict, list)):
+        return json.dumps(val, ensure_ascii=False)
+    return str(val)
+
+def init_3nf_database(cursor):
+    """Xóa và khởi tạo lại cấu trúc 7 bảng chuẩn 3NF trong PostgreSQL"""
+    print("[Database] Đang làm mới cấu trúc 7 bảng chuẩn 3NF...")
+    
+    # Drop các bảng cũ theo thứ tự ràng buộc khóa ngoại CASCADE
+    cursor.execute("DROP TABLE IF EXISTS review_tags CASCADE;")
+    cursor.execute("DROP TABLE IF EXISTS reviews CASCADE;")
+    cursor.execute("DROP TABLE IF EXISTS reviewers CASCADE;")
+    cursor.execute("DROP TABLE IF EXISTS restaurant_cuisines CASCADE;")
+    cursor.execute("DROP TABLE IF EXISTS restaurant_opening_hours CASCADE;")
+    cursor.execute("DROP TABLE IF EXISTS restaurants CASCADE;")
+    cursor.execute("DROP TABLE IF EXISTS sources CASCADE;")
+
+    # 1. Bảng sources
     cursor.execute("""
-        CREATE TABLE IF NOT EXISTS restaurants (
-            restaurant_id VARCHAR(50) PRIMARY KEY,
-            restaurant_name TEXT,
-            city VARCHAR(100),
-            restaurant_url TEXT,
-            rating_value NUMERIC(3,2),
-            review_count_web INT,
-            latitude NUMERIC(10, 6),
-            longitude NUMERIC(10, 6),
-            price_range VARCHAR(50),
-            serves_cuisine TEXT,
-            telephone VARCHAR(50)
+        CREATE TABLE sources (
+            source_id SERIAL PRIMARY KEY,
+            source_name VARCHAR(100) UNIQUE NOT NULL,
+            max_rating DECIMAL(3, 1) DEFAULT 5.0
         );
     """)
 
-    # 2. Tạo bảng reviews (Liên kết khóa ngoại với restaurants)
+    # 2. Bảng restaurants
     cursor.execute("""
-        CREATE TABLE IF NOT EXISTS reviews (
+        CREATE TABLE restaurants (
+            restaurant_id VARCHAR(50) PRIMARY KEY,
+            restaurant_name TEXT NOT NULL,
+            city VARCHAR(100),
+            restaurant_url TEXT,
+            address TEXT,
+            latitude TEXT,
+            longitude TEXT,
+            image TEXT,
+            price_range VARCHAR(100),
+            telephone VARCHAR(100),
+            aggregate_rating_value DECIMAL(3,1),
+            aggregate_review_count INT,
+            source_id INT REFERENCES sources(source_id)
+        );
+    """)
+
+    # 3. Bảng restaurant_opening_hours
+    cursor.execute("""
+        CREATE TABLE restaurant_opening_hours (
+            hour_id SERIAL PRIMARY KEY,
+            restaurant_id VARCHAR(50) REFERENCES restaurants(restaurant_id) ON DELETE CASCADE,
+            opening_hours_spec TEXT
+        );
+    """)
+
+    # 4. Bảng restaurant_cuisines
+    cursor.execute("""
+        CREATE TABLE restaurant_cuisines (
+            cuisine_id SERIAL PRIMARY KEY,
+            restaurant_id VARCHAR(50) REFERENCES restaurants(restaurant_id) ON DELETE CASCADE,
+            cuisine_name VARCHAR(255)
+        );
+    """)
+
+    # 5. Bảng reviewers
+    cursor.execute("""
+        CREATE TABLE reviewers (
+            reviewer_id VARCHAR(100) PRIMARY KEY,
+            reviewer_name VARCHAR(255)
+        );
+    """)
+
+    # 6. Bảng reviews
+    cursor.execute("""
+        CREATE TABLE reviews (
             review_id VARCHAR(100) PRIMARY KEY,
             restaurant_id VARCHAR(50) REFERENCES restaurants(restaurant_id) ON DELETE CASCADE,
-            reviewer_id VARCHAR(50),
+            reviewer_id VARCHAR(100) REFERENCES reviewers(reviewer_id),
             review_title TEXT,
             review_text TEXT,
-            rating NUMERIC(3,2),
+            rating DECIMAL(3,1),
             review_date DATE,
+            travel_date VARCHAR(50),
             crawl_timestamp TIMESTAMP
         );
     """)
-    print("[Database] Đã tạo thành công cấu trúc bảng trong PostgreSQL.")
 
-def run_etl_pipeline():
-    local_dir = "code/kien/data/raw/single_restaurants"
-    
-    if not os.path.exists(local_dir):
-        print(f"[Error] Không tìm thấy thư mục chứa dữ liệu: {local_dir}")
+    # 7. Bảng review_tags
+    cursor.execute("""
+        CREATE TABLE review_tags (
+            tag_id SERIAL PRIMARY KEY,
+            review_id VARCHAR(100) REFERENCES reviews(review_id) ON DELETE CASCADE,
+            tag_name VARCHAR(255)
+        );
+    """)
+    print("[Database] Đã tạo mới thành công toàn bộ 7 bảng 3NF!")
+
+def run_3nf_etl_pipeline():
+    if not os.path.exists(LOCAL_DIR):
+        print(f"[Error] Không tìm thấy thư mục local: {LOCAL_DIR}")
         return
 
-    print("[ETL] Đang kết nối đến PostgreSQL...")
     try:
-        conn = psycopg2.connect(**DB_CONFIG)
+        conn = psycopg2.connect(
+            host=DB_HOST,
+            port=DB_PORT,
+            dbname=DB_NAME,
+            user=DB_USER,
+            password=DB_PASS
+        )
+        cursor = conn.cursor()
+        print("[ETL] Đã kết nối thành công đến PostgreSQL!")
     except Exception as e:
-        print(f"[Connection Error] Không thể kết nối tới PostgreSQL: {e}")
-        print("-> Hãy chắc chắn rằng container PostgreSQL trong Docker đang chạy.")
+        print(f"[Error] Lỗi kết nối database: {e}")
         return
 
-    cursor = conn.cursor()
-
-    # Tạo bảng nếu chưa tồn tại
-    create_tables(cursor)
+    # Khởi tạo lại schema 3NF chuẩn
+    init_3nf_database(cursor)
     conn.commit()
 
-    restaurant_records = []
-    review_records = []
+    # Thêm sẵn source mặc định 'TripAdvisor'
+    cursor.execute("""
+        INSERT INTO sources (source_name, max_rating) 
+        VALUES ('TripAdvisor', 5.0) 
+        ON CONFLICT (source_name) DO NOTHING;
+    """)
+    cursor.execute("SELECT source_id FROM sources WHERE source_name = 'TripAdvisor';")
+    source_id = cursor.fetchone()[0]
+    conn.commit()
 
-    print("[ETL] Đang đọc và chuyển đổi dữ liệu từ các file JSON...")
-    for file_name in os.listdir(local_dir):
-        if file_name.endswith(".json"):
-            file_path = os.path.join(local_dir, file_name)
+    files = [f for f in os.listdir(LOCAL_DIR) if f.endswith(".json")]
+    total_files = len(files)
+    print(f"[ETL] Bắt đầu xử lý và nạp dữ liệu từ {total_files} file JSON vào mô hình 3NF...")
+
+    restaurant_count = 0
+    review_count_total = 0
+
+    for idx, filename in enumerate(files):
+        file_path = os.path.join(LOCAL_DIR, filename)
+        try:
+            with open(file_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+
+            rest_id = safe_str(data.get("restaurant_id"))
+            rest_name = safe_str(data.get("restaurant_name", "N/A"))
+            city = safe_str(data.get("city", "N/A"))
+            rest_url = safe_str(data.get("restaurant_url", "N/A"))
+            
+            metadata = data.get("metadata", {})
+            if not isinstance(metadata, dict):
+                metadata = {}
+
+            address = safe_str(metadata.get("address", "N/A"))
+            
+            geo = metadata.get("geo", {})
+            if not isinstance(geo, dict):
+                geo = {}
+            lat = safe_str(geo.get("latitude", "N/A"))
+            lon = safe_str(geo.get("longitude", "N/A"))
+            
+            image = safe_str(metadata.get("image", "N/A"))
+            price_range = safe_str(metadata.get("priceRange", "N/A"))
+            telephone = safe_str(metadata.get("telephone", "N/A"))
+
+            agg_rating = metadata.get("aggregateRating", {})
+            if not isinstance(agg_rating, dict):
+                agg_rating = {}
+            
             try:
-                with open(file_path, "r", encoding="utf-8") as f:
-                    data = json.load(f)
+                rating_val = float(str(agg_rating.get("ratingValue", 5.0)).replace(",", ""))
+            except:
+                rating_val = 5.0
+
+            try:
+                review_cnt = int(str(agg_rating.get("reviewCount", 0)).replace(",", ""))
+            except:
+                review_cnt = 0
+
+            # 1. Insert Restaurant
+            cursor.execute("""
+                INSERT INTO restaurants (
+                    restaurant_id, restaurant_name, city, restaurant_url, 
+                    address, latitude, longitude, image, price_range, 
+                    telephone, aggregate_rating_value, aggregate_review_count, source_id
+                ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                ON CONFLICT (restaurant_id) DO UPDATE SET
+                    restaurant_name = EXCLUDED.restaurant_name,
+                    city = EXCLUDED.city,
+                    address = EXCLUDED.address,
+                    aggregate_rating_value = EXCLUDED.aggregate_rating_value,
+                    aggregate_review_count = EXCLUDED.aggregate_review_count;
+            """, (rest_id, rest_name, city, rest_url, address, lat, lon, image, price_range, telephone, rating_val, review_cnt, source_id))
+            restaurant_count += 1
+
+            # 2. Insert Opening Hours (nếu có)
+            opening_hours = metadata.get("openingHoursSpecification")
+            if opening_hours and opening_hours != "N/A":
+                if isinstance(opening_hours, list):
+                    for oh in opening_hours:
+                        cursor.execute("""
+                            INSERT INTO restaurant_opening_hours (restaurant_id, opening_hours_spec)
+                            VALUES (%s, %s);
+                        """, (rest_id, safe_str(oh)))
+                else:
+                    cursor.execute("""
+                        INSERT INTO restaurant_opening_hours (restaurant_id, opening_hours_spec)
+                        VALUES (%s, %s);
+                    """, (rest_id, safe_str(opening_hours)))
+
+            # 3. Insert Cuisines (nếu có)
+            cuisines = metadata.get("servesCuisine")
+            if cuisines and cuisines != "N/A":
+                if isinstance(cuisines, list):
+                    for cuisine in cuisines:
+                        cursor.execute("""
+                            INSERT INTO restaurant_cuisines (restaurant_id, cuisine_name)
+                            VALUES (%s, %s);
+                        """, (rest_id, safe_str(cuisine)))
+                else:
+                    cursor.execute("""
+                        INSERT INTO restaurant_cuisines (restaurant_id, cuisine_name)
+                        VALUES (%s, %s);
+                    """, (rest_id, safe_str(cuisines)))
+
+            # 4. Insert Reviewers & Reviews
+            reviews = data.get("reviews", [])
+            if isinstance(reviews, list):
+                for rev in reviews:
+                    if not isinstance(rev, dict):
+                        continue
+                    rev_id = safe_str(rev.get("review_id"))
+                    reviewer_id = safe_str(rev.get("reviewer_id", f"User_{rest_id}"))
+                    reviewer_name = safe_str(rev.get("reviewer_name", "Anonymous"))
+                    rev_title = safe_str(rev.get("review_title", ""))
+                    rev_text = safe_str(rev.get("review_text", ""))
                     
-                    r_id = data.get("restaurant_id")
-                    r_name = data.get("restaurant_name", "N/A")
+                    try:
+                        r_score = float(str(rev.get("rating", 5.0)))
+                    except:
+                        r_score = 5.0
                     
-                    # Làm sạch tên thành phố
-                    raw_city = data.get("city", "Unknown")
-                    clean_city = raw_city.split("\n")[0].replace("1. ", "").replace(" Restaurants", "").strip()
-                    
-                    r_url = data.get("restaurant_url", "N/A")
-                    
-                    metadata = data.get("metadata", {})
-                    agg_rating = metadata.get("aggregateRating", {})
-                    geo = metadata.get("geo", {})
-                    
-                    # Xử lý giá trị 'N/A' thành kiểu số hoặc None cho Database
-                    rating_val = agg_rating.get("ratingValue")
-                    rating_val = float(rating_val) if rating_val not in ["N/A", None, ""] else None
-
-                    review_cnt = agg_rating.get("reviewCount")
-                    review_cnt = int(review_cnt) if str(review_cnt).isdigit() else None
-
-                    lat = geo.get("latitude")
-                    lat = float(lat) if lat not in ["N/A", None, ""] else None
-
-                    lon = geo.get("longitude")
-                    lon = float(lon) if lon not in ["N/A", None, ""] else None
-
-                    price_range = metadata.get("priceRange", "N/A")
-                    cuisines = ", ".join(metadata.get("servesCuisine", [])) if isinstance(metadata.get("servesCuisine"), list) else "N/A"
-                    telephone = metadata.get("telephone", "N/A")
-
-                    # Thêm vào danh sách nhà hàng
-                    restaurant_records.append((
-                        r_id, r_name, clean_city, r_url, rating_val, review_cnt, lat, lon, price_range, cuisines, telephone
-                    ))
-
-                    # Thêm vào danh sách reviews thuộc nhà hàng này
-                    for rev in data.get("reviews", []):
-                        rev_id = rev.get("review_id")
-                        rev_user = rev.get("reviewer_id", "Unknown")
-                        rev_title = rev.get("review_title", "")
-                        rev_text = rev.get("review_text", "")
+                    rev_date = rev.get("review_date", None)
+                    if rev_date == "N/A":
+                        rev_date = None
                         
-                        rev_rating = rev.get("rating")
-                        rev_rating = float(rev_rating) if rev_rating not in ["N/A", None, ""] else 5.0
-                        
-                        rev_date = rev.get("review_date")
-                        crawl_ts = rev.get("crawl_timestamp")
+                    travel_date = safe_str(rev.get("travel_date", "Recent"))
+                    crawl_ts = rev.get("crawl_timestamp", None)
 
-                        review_records.append((
-                            rev_id, r_id, rev_user, rev_title, rev_text, rev_rating, rev_date, crawl_ts
-                        ))
-            except Exception as e:
-                print(f"Lỗi xử lý file {file_name}: {e}")
+                    # Insert Reviewer
+                    cursor.execute("""
+                        INSERT INTO reviewers (reviewer_id, reviewer_name)
+                        VALUES (%s, %s)
+                        ON CONFLICT (reviewer_id) DO NOTHING;
+                    """, (reviewer_id, reviewer_name))
 
-    # Thực hiện Bulk Insert vào PostgreSQL bằng execute_values để tối ưu tốc độ
-    print(f"[ETL] Đang ghi {len(restaurant_records)} nhà hàng và {len(review_records)} reviews vào PostgreSQL...")
+                    # Insert Review
+                    cursor.execute("""
+                        INSERT INTO reviews (
+                            review_id, restaurant_id, reviewer_id, review_title, 
+                            review_text, rating, review_date, travel_date, crawl_timestamp
+                        ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+                        ON CONFLICT (review_id) DO NOTHING;
+                    """, (rev_id, rest_id, reviewer_id, rev_title, rev_text, r_score, rev_date, travel_date, crawl_ts))
+                    review_count_total += 1
 
-    try:
-        # Insert restaurants
-        rest_query = """
-            INSERT INTO restaurants (restaurant_id, restaurant_name, city, restaurant_url, rating_value, review_count_web, latitude, longitude, price_range, serves_cuisine, telephone)
-            VALUES %s
-            ON CONFLICT (restaurant_id) DO NOTHING;
-        """
-        execute_values(cursor, rest_query, restaurant_records)
+            conn.commit()
+            if (idx + 1) % 500 == 0:
+                print(f" -> Đã xử lý xong {idx + 1}/{total_files} nhà hàng...")
 
-        # Insert reviews
-        rev_query = """
-            INSERT INTO reviews (review_id, restaurant_id, reviewer_id, review_title, review_text, rating, review_date, crawl_timestamp)
-            VALUES %s
-            ON CONFLICT (review_id) DO NOTHING;
-        """
-        execute_values(cursor, rev_query, review_records)
+        except Exception as e:
+            conn.rollback()
+            print(f" [Error] Lỗi ở file {filename}: {e}")
 
-        conn.commit()
-        print("[SUCCESS] Hoàn thành quá trình ETL dữ liệu lên PostgreSQL thành công!")
-    except Exception as e:
-        conn.rollback()
-        print(f"[Error] Lỗi khi ghi vào Database: {e}")
-    finally:
-        cursor.close()
-        conn.close()
+    cursor.close()
+    conn.close()
+    print(f"\n[SUCCESS] Hoàn thành ETL mô hình 3NF đầy đủ!")
+    print(f" - Tổng nhà hàng đã nạp: {restaurant_count}")
+    print(f" - Tổng reviews đã nạp: {review_count_total}")
 
 if __name__ == "__main__":
-    run_etl_pipeline()
+    run_3nf_etl_pipeline()
