@@ -114,8 +114,8 @@ def discover_all_cities_automatically(driver, root_country_url):
     print(f"[Dynamic Discovery] Đang truy cập trang quốc gia: {root_country_url}")
     driver.get(root_country_url)
     
-    # Tăng thời gian chờ để tải trang quốc gia an toàn
-    time.sleep(random.uniform(8.0, 12.0))
+    # Tăng thời gian chờ an toàn lên cao hơn để tránh bị chặn từ đầu
+    time.sleep(random.uniform(12.0, 18.0))
 
     try:
         see_all_buttons = driver.find_elements(
@@ -125,11 +125,11 @@ def discover_all_cities_automatically(driver, root_country_url):
         for btn in see_all_buttons:
             try:
                 driver.execute_script("arguments[0].scrollIntoView(true);", btn)
-                time.sleep(random.uniform(2.0, 3.0))
+                time.sleep(random.uniform(3.0, 5.0))
                 if "xem tất" in btn.text.lower() or "see all" in btn.text.lower():
                     btn.click()
                     print("[Dynamic Discovery] Đã mở rộng toàn bộ danh sách khu vực.")
-                    time.sleep(random.uniform(5.0, 8.0))
+                    time.sleep(random.uniform(8.0, 12.0))
                     break
             except:
                 continue
@@ -140,7 +140,7 @@ def discover_all_cities_automatically(driver, root_country_url):
     last_height = driver.execute_script("return document.body.scrollHeight")
     for _ in range(10):
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        time.sleep(random.uniform(3.0, 5.0)) # Giãn thời gian cuộn trang
+        time.sleep(random.uniform(5.0, 8.0)) # Giãn thời gian cuộn trang rộng hơn
         new_height = driver.execute_script("return document.body.scrollHeight")
         if new_height == last_height:
             break
@@ -175,10 +175,10 @@ def discover_and_sort_restaurants(driver, city_listing_url, city_name):
     print(f"\n[Category Scan] Quét danh mục từ: {city_listing_url}")
 
     driver.get(city_listing_url)
-    time.sleep(random.uniform(7.0, 10.0)) # Tăng thời gian chờ load trang danh mục khu vực
+    time.sleep(random.uniform(10.0, 15.0)) # Tăng thời gian chờ load trang danh mục khu vực
 
     page = 0
-    max_catalog_pages = 50  # Giới hạn quét danh mục để tập trung lấy URL các quán nổi bật
+    max_catalog_pages = 50  
 
     while page < max_catalog_pages:
         page += 1
@@ -186,7 +186,7 @@ def discover_and_sort_restaurants(driver, city_listing_url, city_name):
 
         for _ in range(3):
             driver.execute_script("window.scrollBy(0, 1000);")
-            time.sleep(random.uniform(1.5, 2.5))
+            time.sleep(random.uniform(2.5, 4.0))
 
         link_elems = driver.find_elements(By.CSS_SELECTOR, "a[href*='Restaurant_Review']")
         found_on_page = 0
@@ -218,9 +218,9 @@ def discover_and_sort_restaurants(driver, city_listing_url, city_name):
                     break
 
                 driver.execute_script("arguments[0].scrollIntoView(true);", next_btn)
-                time.sleep(random.uniform(2.5, 4.0))
+                time.sleep(random.uniform(4.0, 6.0))
                 driver.execute_script("arguments[0].click();", next_btn)
-                time.sleep(random.uniform(7.0, 10.0)) # Chờ chuyển trang phân trang danh mục lâu hơn
+                time.sleep(random.uniform(10.0, 15.0)) # Tăng thời gian chuyển trang phân trang danh mục
             else:
                 break
         except:
@@ -232,7 +232,7 @@ def discover_and_sort_restaurants(driver, city_listing_url, city_name):
     for idx, url in enumerate(list(restaurant_links)):
         try:
             driver.get(url)
-            time.sleep(random.uniform(4.0, 7.0)) # Giãn thời gian kiểm tra review count của từng quán
+            time.sleep(random.uniform(6.0, 10.0)) # Tăng thời gian kiểm tra review count của từng quán
             schema = extract_json_ld_features(driver)
             r_count_str = schema.get("aggregateRating", {}).get("reviewCount", 0)
             try:
@@ -244,7 +244,6 @@ def discover_and_sort_restaurants(driver, city_listing_url, city_name):
         except:
             scored_restaurants.append({"url": url, "review_count": 0})
 
-    # Sắp xếp danh sách giảm dần theo số lượng review (Quán nhiều reviews nhất lên đầu tiên)
     scored_restaurants.sort(key=lambda x: x["review_count"], reverse=True)
     print(f"[SUCCESS] Đã sắp xếp hoàn tất! Nhà hàng đứng đầu có {scored_restaurants[0]['review_count'] if scored_restaurants else 0} reviews.")
     
@@ -263,7 +262,7 @@ def extract_full_features_from_restaurant(driver, target_url, city):
         base_url_clean = base_url_clean[:-5]
 
     driver.get(target_url if "#REVIEWS" in target_url else target_url + "#REVIEWS")
-    time.sleep(random.uniform(8.0, 12.0)) # Chờ load trang nhà hàng kỹ lưỡng
+    time.sleep(random.uniform(12.0, 18.0)) # Chờ load trang nhà hàng kỹ lưỡng hơn
     schema_info = extract_json_ld_features(driver)
 
     restaurant_name = "N/A"
@@ -288,12 +287,12 @@ def extract_full_features_from_restaurant(driver, target_url, city):
             current_page_url = f"{base_url_clean}-or{offset}.html#REVIEWS"
 
         driver.get(current_page_url)
-        time.sleep(random.uniform(7.0, 10.0)) # Nghỉ dài giữa mỗi trang review
+        time.sleep(random.uniform(10.0, 15.0)) # Nghỉ dài giữa mỗi trang review để tránh bị block
 
         last_scroll_height = driver.execute_script("return document.body.scrollHeight")
         for _ in range(5):
             driver.execute_script("window.scrollBy(0, 800);")
-            time.sleep(random.uniform(1.2, 1.8))
+            time.sleep(random.uniform(2.0, 3.0))
             new_height = driver.execute_script("return document.body.scrollHeight")
             if new_height == last_scroll_height:
                 break
@@ -304,7 +303,7 @@ def extract_full_features_from_restaurant(driver, target_url, city):
             for mb in more_buttons:
                 try:
                     driver.execute_script("arguments[0].click();", mb)
-                    time.sleep(0.3)
+                    time.sleep(0.5)
                 except:
                     continue
         except:
@@ -440,12 +439,11 @@ def run_enterprise_scale_pipeline():
 
     options = uc.ChromeOptions()
     options.add_argument("--start-maximized")
-    # Cấu hình bổ sung giúp qua mặt hệ thống chống bot hiệu quả hơn
     options.add_argument("--disable-blink-features=AutomationControlled")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
 
-    print("Khởi động Enterprise Crawler Vét Cạn Toàn Quốc (Đã giảm tốc độ, tối ưu chống chặn)...")
+    print("Khởi động Enterprise Crawler Vét Cạn Toàn Quốc (Đã tăng thời gian sleep tối đa, chống chặn tuyệt đối)...")
 
     driver = uc.Chrome(options=options)
     print("[Driver] Trình duyệt sẵn sàng!")
@@ -459,7 +457,6 @@ def run_enterprise_scale_pipeline():
             print(f"QUÉT KHU VỰC [{city_idx+1}/{len(city_listings)}]: {listing['city']}")
             print(f"==========================================")
             
-            # Gọi hàm quét và sắp xếp ưu tiên nhà hàng nhiều review lên đầu
             urls = discover_and_sort_restaurants(driver, listing["url"], listing["city"])
             
             for idx, restaurant_url in enumerate(urls):
