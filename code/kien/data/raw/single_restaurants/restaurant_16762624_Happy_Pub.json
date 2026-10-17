@@ -1,0 +1,79 @@
+{
+    "restaurant_id": "16762624",
+    "restaurant_name": "Happy Pub",
+    "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298085-d16762624-Reviews-Happy_Pub-Da_Nang.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g298085-d16762624-Reviews-Happy_Pub-Da_Nang.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Da Nang Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 16.04908,
+            "longitude": 108.24737
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/d3/03/d2/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "$",
+        "servesCuisine": [
+            "Vietnamese"
+        ],
+        "telephone": "+84 93 510 21 07"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T06:17:55.740936",
+            "restaurant_id": "16762624",
+            "restaurant_name": "Happy Pub",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298085-d16762624-Reviews-Happy_Pub-Da_Nang.html",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298085-d16762624-Reviews-Happy_Pub-Da_Nang.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Da Nang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.04908,
+                "longitude": 108.24737
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/d3/03/d2/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 510 21 07",
+            "review_id": "REV_16762624_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Happy Pub",
+            "review_text": "Jasmine R\nWorcestershire, United Kingdom5 contributions\n0\nPossibly the best food in Vietnam!\nMar 2019\nWe went here twice as it was super convenient to the hostel we were staying at and it turned out to be the best food we had in Vietnam! The tofu curry is unbelievable in flavour, the noodles were so tasty as well. Extremely well priced food at only 50k per meal. Must go if you’re in the area!\nWritten March 20, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

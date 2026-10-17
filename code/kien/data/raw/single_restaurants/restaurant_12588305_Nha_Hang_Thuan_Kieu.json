@@ -1,0 +1,75 @@
+{
+    "restaurant_id": "12588305",
+    "restaurant_name": "Nha Hang Thuan Kieu",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12588305-Reviews-Nha_Hang_Thuan_Kieu-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12588305-Reviews-Nha_Hang_Thuan_Kieu-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 3,
+            "reviewCount": 2
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.78792,
+            "longitude": 106.68587
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/ce/fe/f1/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "N/A",
+        "servesCuisine": "N/A",
+        "telephone": "+84 88 866 64 86"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T23:31:07.718997",
+            "restaurant_id": "12588305",
+            "restaurant_name": "Nha Hang Thuan Kieu",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12588305-Reviews-Nha_Hang_Thuan_Kieu-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12588305-Reviews-Nha_Hang_Thuan_Kieu-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3,
+                "reviewCount": 2
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.78792,
+                "longitude": 106.68587
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/ce/fe/f1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "N/A",
+            "servesCuisine": "N/A",
+            "telephone": "+84 88 866 64 86",
+            "review_id": "REV_12588305_p1_0",
+            "reviewer_id": "User_12588305_1_0",
+            "review_title": "Review at Nha Hang Thuan Kieu",
+            "review_text": "Daty L\n74 contributions\n0\nA typical Chinese restaurant\nDec 2017 • Family\nI have eaten here so many times since their location at Thuan Kieu Plaza. Now the new location is not as good as the old one but the food is still fantastic. Good service and professional staff. However, a little bit mess during busy time. The price is reasonable too and many typical Chinese (Hong Kong) dishes. Would recommend for family dinner.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten January 19, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

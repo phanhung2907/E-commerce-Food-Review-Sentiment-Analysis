@@ -1,0 +1,1451 @@
+{
+    "restaurant_id": "25346830",
+    "restaurant_name": "Lá Cọ La Maison Restaurant",
+    "city": "21. Dong Hoi Restaurants\nSee all 130 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Dong Hoi Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 25
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 17.460203,
+            "longitude": 106.61243
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/f0/d3/20/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "09:30:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "09:30:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "09:15:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "09:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "09:15:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "09:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "09:00:00",
+                "closes": "23:00:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Brew Pub",
+            "Seafood",
+            "European",
+            "Thai",
+            "Vietnamese",
+            "Healthy",
+            "Indigenous"
+        ],
+        "telephone": "+84 93 487 99 89"
+    },
+    "reviews_count": 15,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:29:00.108989",
+            "restaurant_id": "25346830",
+            "restaurant_name": "Lá Cọ La Maison Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "city": "21. Dong Hoi Restaurants\nSee all 130 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Dong Hoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 25
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 17.460203,
+                "longitude": 106.61243
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/f0/d3/20/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Seafood",
+                "European",
+                "Thai",
+                "Vietnamese",
+                "Healthy",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 487 99 89",
+            "review_id": "REV_25346830_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Lá Cọ La Maison Restaurant",
+            "review_text": "Grant H\nBas-Rhin, France9 contributions\n0\nOne of the better meals we had in Dong Hoi\nSep 2026 • Family\nWe came here for dinner with our family and had a really good meal. The food was tasty, the portions were good and everything we ordered was enjoyed by the whole family. We also liked the atmosphere and had a nice, relaxed evening together. Thanks to the restaurant for taking good care of us. We’ll definitely mention this place to our friends who are visiting Dong Hoi, as it was one of our favorite meals in the area.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten September 12, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:29:00.283700",
+            "restaurant_id": "25346830",
+            "restaurant_name": "Lá Cọ La Maison Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "city": "21. Dong Hoi Restaurants\nSee all 130 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Dong Hoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 25
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 17.460203,
+                "longitude": 106.61243
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/f0/d3/20/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Seafood",
+                "European",
+                "Thai",
+                "Vietnamese",
+                "Healthy",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 487 99 89",
+            "review_id": "REV_25346830_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Lá Cọ La Maison Restaurant",
+            "review_text": "Dirk R\nAso, Japan7 contributions\n0\nGood food with a nice view of Nhat Le Beach\nSep 2026 • Family\nWe enjoyed sitting there, having our meal and watching the sea at the same time. The food was tasty and the prices were not too high. Nothing fancy, just a good meal in a nice setting. We thought it was worth the money and would happily eat here again if we are back in Dong Hoi.\nValue\nService\nFood\nAtmosphere\nWritten September 11, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:29:00.395379",
+            "restaurant_id": "25346830",
+            "restaurant_name": "Lá Cọ La Maison Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "city": "21. Dong Hoi Restaurants\nSee all 130 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Dong Hoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 25
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 17.460203,
+                "longitude": 106.61243
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/f0/d3/20/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Seafood",
+                "European",
+                "Thai",
+                "Vietnamese",
+                "Healthy",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 487 99 89",
+            "review_id": "REV_25346830_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Lá Cọ La Maison Restaurant",
+            "review_text": "Pearl B\nGatlinburg, Tennessee2 contributions\n0\nTry it\nMar 2026 • Couples\nThe seafood was really good quality and very fresh. I can see why this place has been known as a good seafood restaurant in Quang Binh for so many years.\nService\nFood\nAtmosphere\nWritten September 6, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:29:00.574290",
+            "restaurant_id": "25346830",
+            "restaurant_name": "Lá Cọ La Maison Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "city": "21. Dong Hoi Restaurants\nSee all 130 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Dong Hoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 25
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 17.460203,
+                "longitude": 106.61243
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/f0/d3/20/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Seafood",
+                "European",
+                "Thai",
+                "Vietnamese",
+                "Healthy",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 487 99 89",
+            "review_id": "REV_25346830_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Lá Cọ La Maison Restaurant",
+            "review_text": "Nicholas W\nRio de Janeiro, RJ2 contributions\n0\nA nice place to stop for seafood around Nhat Le Viet Nam\nAug 2026 • Family\nWe didn't have to wait long at all - our dishes came out in roughly 15 minutes. The staff were friendly and worked quickly, which we really appreciated. The food was fresh and tasty, and overall it was a good meal without any unnecessary waiting. I’d come back if I'm the area again.\nValue\nService\nFood\nAtmosphere\nWritten September 6, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:29:00.805243",
+            "restaurant_id": "25346830",
+            "restaurant_name": "Lá Cọ La Maison Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "city": "21. Dong Hoi Restaurants\nSee all 130 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Dong Hoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 25
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 17.460203,
+                "longitude": 106.61243
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/f0/d3/20/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Seafood",
+                "European",
+                "Thai",
+                "Vietnamese",
+                "Healthy",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 487 99 89",
+            "review_id": "REV_25346830_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Lá Cọ La Maison Restaurant",
+            "review_text": "Daisy H\nHel Peninsula, Poland6 contributions\n0\nThe restaurant is right next to the beach, so the location is really nice\nMay 2026 • Couples\nThe restaurant has a great spot right by the beach, which made the whole meal more enjoyable. I’ve eaten at several restaurants around Nhat Le, Dong Hoi, and this was one of the places where I was most impressed by the service. The staff were polite, welcoming, and looked after us well. It felt like a relaxed and pleasant place to have a meal.\nValue\nService\nFood\nAtmosphere\nWritten September 2, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:29:00.975209",
+            "restaurant_id": "25346830",
+            "restaurant_name": "Lá Cọ La Maison Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "city": "21. Dong Hoi Restaurants\nSee all 130 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Dong Hoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 25
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 17.460203,
+                "longitude": 106.61243
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/f0/d3/20/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Seafood",
+                "European",
+                "Thai",
+                "Vietnamese",
+                "Healthy",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 487 99 89",
+            "review_id": "REV_25346830_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at Lá Cọ La Maison Restaurant",
+            "review_text": "Vincent R\nIstanbul, Türkiye21 contributions\n0\nIf you're not sure where to eat, this place is definitely worth checking out\nJul 2026 • Family\nHaving trouble deciding where to eat? Just come here! The seafood is fresh, and you can pick your own fish, shellfish, or other seafood straight from the tanks. It’s nice to know exactly where your food comes from, and there was no question about whether it had been frozen. Everything we tried was fresh and delicious.\nInsider tip:\nTake your time here. The peaceful atmosphere makes it a nice place to slow down, relax, and enjoy your meal.\nValue\nService\nFood\nAtmosphere\nWritten August 29, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:29:01.261759",
+            "restaurant_id": "25346830",
+            "restaurant_name": "Lá Cọ La Maison Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "city": "21. Dong Hoi Restaurants\nSee all 130 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Dong Hoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 25
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 17.460203,
+                "longitude": 106.61243
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/f0/d3/20/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Seafood",
+                "European",
+                "Thai",
+                "Vietnamese",
+                "Healthy",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 487 99 89",
+            "review_id": "REV_25346830_p1_6",
+            "reviewer_id": "User_p1_6",
+            "review_title": "Review at Lá Cọ La Maison Restaurant",
+            "review_text": "Ida J\nConnecticut10 contributions\n0\nMy friends and I all agreed that the food here was excellent\nAug 2026 • Friends\nWe had heard good things about this seafood restaurant in Dong Hoi, and it definitely lived up to the reputation. Every dish we ordered was fresh, well prepared, and full of flavor. The seasoning was just right, and everyone in our group enjoyed the meal. It’s definitely a place worth trying if you’re looking for good seafood in Quang Binh\nInsider tip:\nTry the local seafood and ask what’s fresh that day. It’s one of the best ways to enjoy the local flavors\nValue\nService\nFood\nAtmosphere\nWritten August 22, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:29:01.435394",
+            "restaurant_id": "25346830",
+            "restaurant_name": "Lá Cọ La Maison Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "city": "21. Dong Hoi Restaurants\nSee all 130 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Dong Hoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 25
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 17.460203,
+                "longitude": 106.61243
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/f0/d3/20/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Seafood",
+                "European",
+                "Thai",
+                "Vietnamese",
+                "Healthy",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 487 99 89",
+            "review_id": "REV_25346830_p1_7",
+            "reviewer_id": "User_p1_7",
+            "review_title": "Review at Lá Cọ La Maison Restaurant",
+            "review_text": "Shelley F\nUnited States2 contributions\n0\nSuch a beautiful space with a strong resort feel\nAug 2026 • Family\nThe whole place feels more like a beautiful resort than a regular hotel. The space is spacious, relaxing, and full of great spots for taking photos, so I ended up taking pictures everywhere. If you are visiting Dong Hoi and looking for a good place to eat, I would definitely recommend La Co Beach\nValue\nService\nFood\nAtmosphere\nWritten August 20, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:29:01.610538",
+            "restaurant_id": "25346830",
+            "restaurant_name": "Lá Cọ La Maison Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "city": "21. Dong Hoi Restaurants\nSee all 130 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Dong Hoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 25
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 17.460203,
+                "longitude": 106.61243
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/f0/d3/20/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Seafood",
+                "European",
+                "Thai",
+                "Vietnamese",
+                "Healthy",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 487 99 89",
+            "review_id": "REV_25346830_p1_8",
+            "reviewer_id": "User_p1_8",
+            "review_title": "Review at Lá Cọ La Maison Restaurant",
+            "review_text": "Tony M\nGhent, Belgium9 contributions\n0\nOne of the best parts of traveling is discovering a restaurant you can truly trust\nJul 2026 • Couples\nWe ordered the fresh squid on a recommendation, and it completely exceeded our expectations. The squid was thick, incredibly fresh, naturally sweet, and had a perect chewy texture. Every bite made us want another. It's the kind of local seafood experience you hope to find when traveling in Vietnam.\nInsider tip:\nVisit around sunset. The scenery is stunning, and the cooler evening breeze makes outdoor dining perfect.\nValue\nService\nFood\nAtmosphere\nWritten August 6, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:29:01.788835",
+            "restaurant_id": "25346830",
+            "restaurant_name": "Lá Cọ La Maison Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "city": "21. Dong Hoi Restaurants\nSee all 130 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Dong Hoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 25
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 17.460203,
+                "longitude": 106.61243
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/f0/d3/20/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Seafood",
+                "European",
+                "Thai",
+                "Vietnamese",
+                "Healthy",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 487 99 89",
+            "review_id": "REV_25346830_p1_9",
+            "reviewer_id": "User_p1_9",
+            "review_title": "Review at Lá Cọ La Maison Restaurant",
+            "review_text": "Virginia F\nYogyakarta Region, Indonesia10 contributions\n0\nIf you're walking past this restaurant, don't let its elegant appearance fool you\nMay 2026 • Family\nOut of all the seafood restaurants I visited during my travels, this one easily stands out as one of the best. The first impression is that it's a high-end restaurant because the building is modern, spacious, and beautifully designed. I was fully prepared for an expensive meal, but the reality was the complete opposite. The prices were surprisingly affordable and represented excellent value for the quality of the food. The seafood was exceptionally fresh, full of natural flavor, and cooked just right without unnecessary seasoning. I also appreciated how relaxed and comfortable the atmosphere was. There was no pressure, no hidden surprises on the bill, and no feeling that tourists were being treated differently. Experiences like this remind me that some of the best restaurants aren't necessarily the most expensive—they're the ones that offer genuine quality with honesty and consistency. I would return without hesitation.\nRead more\nInsider tip:\nThere are many seafood spots nearby, but we kept coming back here because the quality truly matched the price.\nValue\nService\nFood\nAtmosphere\nWritten June 22, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:29:01.944381",
+            "restaurant_id": "25346830",
+            "restaurant_name": "Lá Cọ La Maison Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "city": "21. Dong Hoi Restaurants\nSee all 130 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Dong Hoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 25
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 17.460203,
+                "longitude": 106.61243
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/f0/d3/20/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Seafood",
+                "European",
+                "Thai",
+                "Vietnamese",
+                "Healthy",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 487 99 89",
+            "review_id": "REV_25346830_p1_10",
+            "reviewer_id": "User_p1_10",
+            "review_title": "Review at Lá Cọ La Maison Restaurant",
+            "review_text": "Ashley H\nTrieste, Italy5 contributions\n0\nThis was one of my favorite dining experience in Dong Hoi\nJun 2026 • Solo\nI really liked that we could hand-pick our seafood from the tanks before it was cooked. Seeing everything alive and healthy gave me confidence that it would be fresh, and it absolutely was. The seafood was incredibly sweet, juicy, and full of natural flavor. The service was friendly, the cooking was excellent, and the whole experience felt very authentic. It wasn't just about the food—it was fun being able to choose exactly what we wanted. I'd happily come back here the next time I'm in Dong Hoi.\nRead more\nInsider tip:\nDon't miss the seafood here—it's incredibly fresh and absolutely delicious.\nValue\nService\nFood\nAtmosphere\nWritten June 15, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:29:02.032930",
+            "restaurant_id": "25346830",
+            "restaurant_name": "Lá Cọ La Maison Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "city": "21. Dong Hoi Restaurants\nSee all 130 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Dong Hoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 25
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 17.460203,
+                "longitude": 106.61243
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/f0/d3/20/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Seafood",
+                "European",
+                "Thai",
+                "Vietnamese",
+                "Healthy",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 487 99 89",
+            "review_id": "REV_25346830_p1_11",
+            "reviewer_id": "User_p1_11",
+            "review_title": "Review at Lá Cọ La Maison Restaurant",
+            "review_text": "Jack R\nLaos8 contributions\n0\nIf you're visiting Dong Hoi, this spot is definitely worth adding to your list.\nJun 2026 • Family\nOne evening during our trip to Quang Binh, we decided to try a seafood restaurant near Nhat Le Beach, and it turned out to be a great choice. The seafood was fresh, flavorful, and clearly sourced locally. Every dish arrived at the table beautifully presented and full of taste. The restaurant offered a lovely setting that made the experience even more enjoyable. We were also impressed by how affordable everything was compared to the quality provided. It's rare to find a place that balances fresh ingredients, fair prices, and a comfortable atmosphere so well. The whole dining experience felt relaxed and authentic. We left feeling satisfied and would definitely recommend it to other travelers visiting Dong Hoi\nRead more\nWritten June 12, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:29:02.189383",
+            "restaurant_id": "25346830",
+            "restaurant_name": "Lá Cọ La Maison Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "city": "21. Dong Hoi Restaurants\nSee all 130 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Dong Hoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 25
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 17.460203,
+                "longitude": 106.61243
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/f0/d3/20/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Seafood",
+                "European",
+                "Thai",
+                "Vietnamese",
+                "Healthy",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 487 99 89",
+            "review_id": "REV_25346830_p1_12",
+            "reviewer_id": "User_p1_12",
+            "review_title": "Review at Lá Cọ La Maison Restaurant",
+            "review_text": "James S\nIkryanoye, Russia7 contributions\n0\nA truly unforgettable dining experience\nFeb 2026 • Couples\nWe weren't expecting to be so impressed, but this place turned out to be one of the highlights of our trip. The sunset view is incredible. We spent nearly an hour just enjoying the scenery and watching the colors change across the sky. It's the kind of place where time seems to slow down. The food was equally enjoyable. Everything was beautifully presented, fresh, and delicious. The attention to detail in both presentation and service really stood out. The staff were wonderful throughout our visit. Friendly smiles, attentive service, and the charming local Quang Binh accent made the experience feel genuine and welcoming. It's always nice when a place makes you feel more like a guest than a customer. We would absolutely recommend this place to anyone looking for a memorable dining experience in Vietnam.\nRead more\nInsider tip:\nAn ideal dinner spot with delicious dishes and a cozy, romantic atmosphere.\nValue\nService\nFood\nAtmosphere\nWritten June 5, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:29:02.327309",
+            "restaurant_id": "25346830",
+            "restaurant_name": "Lá Cọ La Maison Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "city": "21. Dong Hoi Restaurants\nSee all 130 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Dong Hoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 25
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 17.460203,
+                "longitude": 106.61243
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/f0/d3/20/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Seafood",
+                "European",
+                "Thai",
+                "Vietnamese",
+                "Healthy",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 487 99 89",
+            "review_id": "REV_25346830_p1_13",
+            "reviewer_id": "User_p1_13",
+            "review_title": "Review at Lá Cọ La Maison Restaurant",
+            "review_text": "Scott B\nFribourg, Switzerland16 contributions\n0\nThis restaurant turned out to be one of my favorite dining experiences in Dong Hoi\nMay 2026 • Family\nDuring my stay in Quang Binh, I was lucky enough to discover this fantastic seafood restaurant. The seafood couldn't have been fresher, and the crab was especially impressive with its firm texture and rich taste. Every plate arrived beautifully prepared and full of flavor. The restaurant was clean, spacious, and very comfortable. I also appreciated that there wasn't any strong seafood smell inside, which is something you don't always find. The overall dining experience felt professional while still being warm and welcoming. It's easy to see why this place is popular with both locals and visitors. I would gladly recommend it to anyone looking for outstanding seafood in Dong Hoi.\nRead more\nWritten June 3, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:29:02.471401",
+            "restaurant_id": "25346830",
+            "restaurant_name": "Lá Cọ La Maison Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "city": "21. Dong Hoi Restaurants\nSee all 130 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g659924-d25346830-Reviews-La_C_La_Maison_Restaurant-Dong_Hoi_Quang_Binh_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Dong Hoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 25
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 17.460203,
+                "longitude": 106.61243
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/f0/d3/20/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:15:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Brew Pub",
+                "Seafood",
+                "European",
+                "Thai",
+                "Vietnamese",
+                "Healthy",
+                "Indigenous"
+            ],
+            "telephone": "+84 93 487 99 89",
+            "review_id": "REV_25346830_p1_14",
+            "reviewer_id": "User_p1_14",
+            "review_title": "Review at Lá Cọ La Maison Restaurant",
+            "review_text": "Amanda G\nLondon, United Kingdom11 contributions\n0\nAmazing restaurant\nJan 2026 • Couples\nI was on the hunt for some great seafood around Nhat Le Beach in Quang Binh and kept hearing about La Co from other travelers. So I stopped by to check it out, and I’m glad I did. The food was fresh, delicious, and well-prepared. You could really taste the quality. The staff were warm and enthusiastic, which added to the relaxed atmosphere. It’s one of those places that truly lives up to its reputation.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten May 4, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

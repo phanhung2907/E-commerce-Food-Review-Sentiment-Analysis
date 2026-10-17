@@ -1,0 +1,1387 @@
+{
+    "restaurant_id": "3954649",
+    "restaurant_name": "Punjabi Indian Restaurant",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "40/23 Bui Vien Street, Dist 1 Pham Ngu Lao Ward, District 1",
+            "addressLocality": "Ho Chi Minh City",
+            "postalCode": "00084"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.1,
+            "reviewCount": 84
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.767965,
+            "longitude": 106.6942
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e1/16/9d/punjabi-indian-restaurant.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Indian"
+        ],
+        "telephone": "+84 98 471 19 10"
+    },
+    "reviews_count": 15,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:53:59.354103",
+            "restaurant_id": "3954649",
+            "restaurant_name": "Punjabi Indian Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "40/23 Bui Vien Street, Dist 1 Pham Ngu Lao Ward, District 1",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "00084"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 84
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767965,
+                "longitude": 106.6942
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e1/16/9d/punjabi-indian-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian"
+            ],
+            "telephone": "+84 98 471 19 10",
+            "review_id": "REV_3954649_p1_0",
+            "reviewer_id": "User_3954649_1_0",
+            "review_title": "Review at Punjabi Indian Restaurant",
+            "review_text": "Shal21\nNew Delhi, India331 contributions\n0\nA nice restaurant offering Indian and punjabi food in Ho Chi Minh City district 1 offering veg, non veg, vegan dishes\nJun 2024 • Family\nA nice restaurant offering Indian and punjabi food in Ho Chi Minh City district 1. It’s barely a 5-7 minute walk from Vien Dong hotel where we stayed. The restaurant is inside a well lit up street and also very close to the Bui Vien walking street. It has some good Indian food. Dal makhani , poori chhole, paneer, Palak and lot more. Offers vegan options and non veg as well. The food is good. Quantity is average like serves max two. Rates of Indian food are higher here as compared to local food. Service is nice. Seating is decent. Menu is extensive. Run by an Indian who was nice to talk to. Helped us with a lot of information on the area, what to do, how and where to visit etc\nRead more\nWritten July 3, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:53:59.371005",
+            "restaurant_id": "3954649",
+            "restaurant_name": "Punjabi Indian Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "40/23 Bui Vien Street, Dist 1 Pham Ngu Lao Ward, District 1",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "00084"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 84
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767965,
+                "longitude": 106.6942
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e1/16/9d/punjabi-indian-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian"
+            ],
+            "telephone": "+84 98 471 19 10",
+            "review_id": "REV_3954649_p1_1",
+            "reviewer_id": "User_3954649_1_1",
+            "review_title": "Review at Punjabi Indian Restaurant",
+            "review_text": "Movarip\nPiravom, India1606 contributions\n0\nGreat Punjabi Foods\nNov 2023 • Family\nFood was very tasty and have real Punjabi Cousine taste. It was our second visit to Saigon and we have had food from this restaurant many times on both the occasions.\nValue\nService\nFood\nAtmosphere\nWritten June 23, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:53:59.387563",
+            "restaurant_id": "3954649",
+            "restaurant_name": "Punjabi Indian Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "40/23 Bui Vien Street, Dist 1 Pham Ngu Lao Ward, District 1",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "00084"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 84
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767965,
+                "longitude": 106.6942
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e1/16/9d/punjabi-indian-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian"
+            ],
+            "telephone": "+84 98 471 19 10",
+            "review_id": "REV_3954649_p1_2",
+            "reviewer_id": "User_3954649_1_2",
+            "review_title": "Review at Punjabi Indian Restaurant",
+            "review_text": "Zachary C\n1 contribution\n0\nDelicious & Great Portion Sizes\nMay 2024 • Solo\nAmazing food and great portion sizes. Spent 1 month backpacking India and when I ate here didn’t even feel like I left. Staff is 10/10\nValue\nService\nFood\nAtmosphere\nWritten May 22, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:53:59.402372",
+            "restaurant_id": "3954649",
+            "restaurant_name": "Punjabi Indian Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "40/23 Bui Vien Street, Dist 1 Pham Ngu Lao Ward, District 1",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "00084"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 84
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767965,
+                "longitude": 106.6942
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e1/16/9d/punjabi-indian-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian"
+            ],
+            "telephone": "+84 98 471 19 10",
+            "review_id": "REV_3954649_p1_3",
+            "reviewer_id": "User_3954649_1_3",
+            "review_title": "Review at Punjabi Indian Restaurant",
+            "review_text": "Soffy2014\nPenang Island, Malaysia167 contributions\n0\nFantastic Food 😋\nApr 2024 • Couples\n10 out 10 Food. Absolutely fantastic food. We cleaned up our dishes. We had a hard time determining which was the best we had Mutton samosa's, Paneer Pakora and Palak Paneer and two Roti's with Butter Chicken to die for. Service was excellent and whole experience was fabulous.\nWritten April 14, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:53:59.419965",
+            "restaurant_id": "3954649",
+            "restaurant_name": "Punjabi Indian Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "40/23 Bui Vien Street, Dist 1 Pham Ngu Lao Ward, District 1",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "00084"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 84
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767965,
+                "longitude": 106.6942
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e1/16/9d/punjabi-indian-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian"
+            ],
+            "telephone": "+84 98 471 19 10",
+            "review_id": "REV_3954649_p1_4",
+            "reviewer_id": "User_3954649_1_4",
+            "review_title": "Review at Punjabi Indian Restaurant",
+            "review_text": "Mark M\n15 contributions\n1\nQuality Indian cuisine\nNov 2023 • Family\nAfter 3 weeks of local cuisine Indian high quality food was a nice change and better than we are accustomed to in England.\nValue\nService\nFood\nAtmosphere\nWritten November 26, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:53:59.438294",
+            "restaurant_id": "3954649",
+            "restaurant_name": "Punjabi Indian Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "40/23 Bui Vien Street, Dist 1 Pham Ngu Lao Ward, District 1",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "00084"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 84
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767965,
+                "longitude": 106.6942
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e1/16/9d/punjabi-indian-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian"
+            ],
+            "telephone": "+84 98 471 19 10",
+            "review_id": "REV_3954649_p1_5",
+            "reviewer_id": "User_3954649_1_5",
+            "review_title": "Review at Punjabi Indian Restaurant",
+            "review_text": "Eric P\n2 contributions\n0\n\"Like at home\"\nNov 2023 • Couples\n\"Like at home\"\nAfter 5 trips to India we find here the tastes we knew\nIt's plentiful\nIt's cheap\nIt's good !\n5 stars !\nValue\nService\nFood\nAtmosphere\nShow original\nWritten November 12, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:53:59.442008",
+            "restaurant_id": "3954649",
+            "restaurant_name": "Punjabi Indian Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "40/23 Bui Vien Street, Dist 1 Pham Ngu Lao Ward, District 1",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "00084"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 84
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767965,
+                "longitude": 106.6942
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e1/16/9d/punjabi-indian-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian"
+            ],
+            "telephone": "+84 98 471 19 10",
+            "review_id": "REV_3954649_p1_6",
+            "reviewer_id": "User_3954649_1_6",
+            "review_title": "Review at Punjabi Indian Restaurant",
+            "review_text": "leah d\n6 contributions\n1\nTasty 🔥\nAug 2023 • Couples\nWent here for lunch, very good selection on the menu including a good variety of vegetarian dishes. Me and my partner had butter chicken and ginger chicken, nicest curry we've had in vietnam 😁 fast and friendly service, good price, thank you!\nWritten August 4, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:53:59.461578",
+            "restaurant_id": "3954649",
+            "restaurant_name": "Punjabi Indian Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "40/23 Bui Vien Street, Dist 1 Pham Ngu Lao Ward, District 1",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "00084"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 84
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767965,
+                "longitude": 106.6942
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e1/16/9d/punjabi-indian-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian"
+            ],
+            "telephone": "+84 98 471 19 10",
+            "review_id": "REV_3954649_p1_7",
+            "reviewer_id": "User_3954649_1_7",
+            "review_title": "Review at Punjabi Indian Restaurant",
+            "review_text": "Madeline\nLubeck, Germany2 contributions\n1\nIncredible food\nJun 2023 • Friends\nIncredible Food. One of the best indian Food I've ever had. Service ist very kind and friendly. I'll defenetly go there again. Big recomendation😊\nWritten June 12, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:53:59.467506",
+            "restaurant_id": "3954649",
+            "restaurant_name": "Punjabi Indian Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "40/23 Bui Vien Street, Dist 1 Pham Ngu Lao Ward, District 1",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "00084"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 84
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767965,
+                "longitude": 106.6942
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e1/16/9d/punjabi-indian-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian"
+            ],
+            "telephone": "+84 98 471 19 10",
+            "review_id": "REV_3954649_p1_8",
+            "reviewer_id": "User_3954649_1_8",
+            "review_title": "Review at Punjabi Indian Restaurant",
+            "review_text": "emmalovesgoodfood\nGoderich, Canada21 contributions\n1\nSO GOOD !!!\nDec 2022 • Couples\ndefinitely worth it!! seriously the best chana masala i’ve ever had, and i’ve been to india, and one of the cheaper options for indian food around. service was ok, but the food is most definitely worth it! i’ll definitely be back in my short trip in saigon!\nWritten December 24, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:53:59.483465",
+            "restaurant_id": "3954649",
+            "restaurant_name": "Punjabi Indian Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "40/23 Bui Vien Street, Dist 1 Pham Ngu Lao Ward, District 1",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "00084"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 84
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767965,
+                "longitude": 106.6942
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e1/16/9d/punjabi-indian-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian"
+            ],
+            "telephone": "+84 98 471 19 10",
+            "review_id": "REV_3954649_p1_9",
+            "reviewer_id": "User_3954649_1_9",
+            "review_title": "Review at Punjabi Indian Restaurant",
+            "review_text": "Companion673764\n1 contribution\n0\nWonderful curry\nNov 2022 • Friends\nThe curry was beautiful, he asked how spicy we wanted our curry which was good would definitely recommend going.\nReview collected in partnership with this restaurant \nWritten November 17, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:53:59.500041",
+            "restaurant_id": "3954649",
+            "restaurant_name": "Punjabi Indian Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "40/23 Bui Vien Street, Dist 1 Pham Ngu Lao Ward, District 1",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "00084"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 84
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767965,
+                "longitude": 106.6942
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e1/16/9d/punjabi-indian-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian"
+            ],
+            "telephone": "+84 98 471 19 10",
+            "review_id": "REV_3954649_p1_10",
+            "reviewer_id": "User_3954649_1_10",
+            "review_title": "Review at Punjabi Indian Restaurant",
+            "review_text": "Lisajs4\nRotherham, United Kingdom13 contributions\n0\nMiss Lisa\nNov 2022 • Friends\nAbsolute amazballs! A must visit, from stepping in, the service was top notch, the food plentiful and so delicious, I would highly recommend the fish curry.\nReview collected in partnership with this restaurant \nWritten November 17, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:53:59.515851",
+            "restaurant_id": "3954649",
+            "restaurant_name": "Punjabi Indian Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "40/23 Bui Vien Street, Dist 1 Pham Ngu Lao Ward, District 1",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "00084"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 84
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767965,
+                "longitude": 106.6942
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e1/16/9d/punjabi-indian-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian"
+            ],
+            "telephone": "+84 98 471 19 10",
+            "review_id": "REV_3954649_p1_11",
+            "reviewer_id": "User_3954649_1_11",
+            "review_title": "Review at Punjabi Indian Restaurant",
+            "review_text": "Kiera\nOundle, United Kingdom15 contributions\n0\nCouldn’t recommend more!\nNov 2022 • Couples\nReally tasty food, clean place and exceptional service, our waiter was so friendly and even advised us on what to choose to suit us, 10/10\nWritten November 14, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:53:59.535045",
+            "restaurant_id": "3954649",
+            "restaurant_name": "Punjabi Indian Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "40/23 Bui Vien Street, Dist 1 Pham Ngu Lao Ward, District 1",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "00084"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 84
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767965,
+                "longitude": 106.6942
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e1/16/9d/punjabi-indian-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian"
+            ],
+            "telephone": "+84 98 471 19 10",
+            "review_id": "REV_3954649_p1_12",
+            "reviewer_id": "User_3954649_1_12",
+            "review_title": "Review at Punjabi Indian Restaurant",
+            "review_text": "Wanderlust\nLondon, United Kingdom200 contributions\n1\nnot worthy\nOct 2022\nI went for dinner while my stay in Ho Chi Minh... \n\nStart with positive point- located in touristic area (Bui Vien) and that's all. \n\nRest there is nothing nice to write... menu is limited and pricey if compared with other Indian restaurants in the area. \n\nI had ordered some veg biryani which was not tasty and even I mentioned that don't make it spicy.... they made it too spicy :( \n\nlook for other restaurant in the area... not worth it\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten November 2, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:53:59.551189",
+            "restaurant_id": "3954649",
+            "restaurant_name": "Punjabi Indian Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "40/23 Bui Vien Street, Dist 1 Pham Ngu Lao Ward, District 1",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "00084"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 84
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767965,
+                "longitude": 106.6942
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e1/16/9d/punjabi-indian-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian"
+            ],
+            "telephone": "+84 98 471 19 10",
+            "review_id": "REV_3954649_p1_13",
+            "reviewer_id": "User_3954649_1_13",
+            "review_title": "Review at Punjabi Indian Restaurant",
+            "review_text": "ianmellows\nPoole, United Kingdom6 contributions\n0\nMy experience\nJun 2020\nHad meal here in June, probably the worst Indian I've ever had. Curry without any sauce, no pickles, Tikka dry with no yoghurt. No salad basically nothing .Tasted disgusting. Filthy dogs strolling around restaurant, staff on phones not interested in customers. Has sever belly trouble next day, no wonder with such a filthy place. Also very expensive, for worse food you will ever have.\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten August 16, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T04:53:59.570118",
+            "restaurant_id": "3954649",
+            "restaurant_name": "Punjabi Indian Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3954649-Reviews-Punjabi_Indian_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "40/23 Bui Vien Street, Dist 1 Pham Ngu Lao Ward, District 1",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "00084"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 84
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.767965,
+                "longitude": 106.6942
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e1/16/9d/punjabi-indian-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian"
+            ],
+            "telephone": "+84 98 471 19 10",
+            "review_id": "REV_3954649_p1_14",
+            "reviewer_id": "User_3954649_1_14",
+            "review_title": "Review at Punjabi Indian Restaurant",
+            "review_text": "Steve Goodman\nHo Chi Minh City, Vietnam1 contribution\n0\nGood Indian food at a reasonable price\nApr 2020\nI get meals delivered from this place frequently because the food is quite good and the prices are very reasonable. The food is tastes great, it is delivered quickly, and it is always hot when it arrives. The restaurant is less expensive than others in the immediate vicinity and I don't feel as though there is any compromise involved. Great food, great price, what's not to like?\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten April 28, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

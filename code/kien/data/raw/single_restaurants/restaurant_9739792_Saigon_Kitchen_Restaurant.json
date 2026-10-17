@@ -1,0 +1,2251 @@
+{
+    "restaurant_id": "9739792",
+    "restaurant_name": "Saigon Kitchen Restaurant",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.5,
+            "reviewCount": 119
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.782217,
+            "longitude": 106.6973
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "06:00:00",
+                "closes": "10:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "12:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "06:00:00",
+                "closes": "10:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "12:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "06:00:00",
+                "closes": "10:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "12:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "06:00:00",
+                "closes": "10:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "12:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "06:00:00",
+                "closes": "10:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "12:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "06:00:00",
+                "closes": "10:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "12:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "18:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "06:00:00",
+                "closes": "10:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "12:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "18:00:00",
+                "closes": "22:30:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "International",
+            "Asian",
+            "Vietnamese"
+        ],
+        "telephone": "+84 90 137 91 29"
+    },
+    "reviews_count": 15,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:18:10.233454",
+            "restaurant_id": "9739792",
+            "restaurant_name": "Saigon Kitchen Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 119
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.782217,
+                "longitude": 106.6973
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 137 91 29",
+            "review_id": "REV_9739792_p1_0",
+            "reviewer_id": "User_9739792_1_0",
+            "review_title": "Review at Saigon Kitchen Restaurant",
+            "review_text": "Simon A\n8 contributions\n0\nGreat pho!\nAug 2026 • Couples\nWonderful wagyu beef pho with bone marrow. Our last meal in Saigon. The Bao, Dang Phao and the other waiters were all very friendly and helpful.\nWritten August 29, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:18:10.244453",
+            "restaurant_id": "9739792",
+            "restaurant_name": "Saigon Kitchen Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 119
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.782217,
+                "longitude": 106.6973
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 137 91 29",
+            "review_id": "REV_9739792_p1_1",
+            "reviewer_id": "User_9739792_1_1",
+            "review_title": "Review at Saigon Kitchen Restaurant",
+            "review_text": "AdibPeb\nHo Chi Minh City, Vietnam586 contributions\n0\nGreat atmosphere, food choices and Value\nJun 2026 • Business\nGreat Good Buffet and even better value for money . Very well trained Staff , including Ms Nhu Lan\nWritten June 12, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:18:10.264995",
+            "restaurant_id": "9739792",
+            "restaurant_name": "Saigon Kitchen Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 119
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.782217,
+                "longitude": 106.6973
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 137 91 29",
+            "review_id": "REV_9739792_p1_2",
+            "reviewer_id": "User_9739792_1_2",
+            "review_title": "Review at Saigon Kitchen Restaurant",
+            "review_text": "Navigator32960998691\n4 contributions\n0\nThanks for lunch today\nJun 2026 • Friends\nToday, I went to lunch with friends at Saigon Kitchen restaurant, everything was great. There was an employee named Bao who introduced me to the vegetarian menu, and commented on the vegetarian noodles and Fresh spring rolls. I have experienced it and found it very delicious, delicious and fresh. Thank you staff Bao for introducing me to vegetarian dishes today.\nRead more\nInsider tip:\nYou should definitely try the lunch buffet here. The atmosphere is family-friendly, especially for those with children. The food is deliciou\nValue\nService\nFood\nAtmosphere\nWritten June 7, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:18:10.277060",
+            "restaurant_id": "9739792",
+            "restaurant_name": "Saigon Kitchen Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 119
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.782217,
+                "longitude": 106.6973
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 137 91 29",
+            "review_id": "REV_9739792_p1_3",
+            "reviewer_id": "User_9739792_1_3",
+            "review_title": "Review at Saigon Kitchen Restaurant",
+            "review_text": "Wanderer32908049803\n1 contribution\n0\nSaigon Kitchen Restaurant\nJun 2026 • Friends\nToday i have lunch at SGK restaurant , the food is well cooked and the server here is great . Mr Cuong , Mr Bao, Ms Khanh Linh, Ms Lan, Mr Tuan help us have a wonderful time here. I really enjoy my time spending here and thank you for everything\nWritten June 7, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:18:10.288540",
+            "restaurant_id": "9739792",
+            "restaurant_name": "Saigon Kitchen Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 119
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.782217,
+                "longitude": 106.6973
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 137 91 29",
+            "review_id": "REV_9739792_p1_4",
+            "reviewer_id": "User_9739792_1_4",
+            "review_title": "Review at Saigon Kitchen Restaurant",
+            "review_text": "AdibPeb\nHo Chi Minh City, Vietnam586 contributions\n0\nGreat variety Buffet and great Value\nMar 2026 • Business\nA very rich Buffet with Great Value a d Great service ( especially Cuong F&B supervisor)\nWritten March 21, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:18:10.301125",
+            "restaurant_id": "9739792",
+            "restaurant_name": "Saigon Kitchen Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 119
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.782217,
+                "longitude": 106.6973
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 137 91 29",
+            "review_id": "REV_9739792_p1_5",
+            "reviewer_id": "User_9739792_1_5",
+            "review_title": "Review at Saigon Kitchen Restaurant",
+            "review_text": "Samson1971\nDubai, United Arab Emirates1675 contributions\n0\nBreakfast buffet amongst the best 5 ⭐️ spread\nAug 2025 • Family\nA very high quality buffet breakfast using the best ingredients. You can feel it one every item used in this restaurant. The Chef has curated an amazing selection and the team offers an exclusive and personal experience hard to beat. The design of the restaurant and the live kitchens makes it an interactive breakfast experience. The bakery items, fresh fruit and juices, live cooking station offering a choice of eggs and Pho makes the whole experience truly exceptional - well done to the General Manager and the Chef who lead this exceptional hotel and team 🫶🏻👏👊\nRead more\nWritten August 16, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:18:10.306579",
+            "restaurant_id": "9739792",
+            "restaurant_name": "Saigon Kitchen Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 119
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.782217,
+                "longitude": 106.6973
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 137 91 29",
+            "review_id": "REV_9739792_p1_6",
+            "reviewer_id": "User_9739792_1_6",
+            "review_title": "Review at Saigon Kitchen Restaurant",
+            "review_text": "Nakara Kumpha\nThailand66 contributions\n0\nWonderful Dinner & Outstanding Service at Saigon Kitchen Restaurant, Hôtel des Arts Saigon\nJun 2025 • Family\nI had a lovely dinner at Saigon Kitchen Restaurant, Hôtel des Arts Saigon - MGallery Collection, and what made the experience even more memorable was the warm and attentive service from the staff—especially Ms. Mai Thùy, our F&B server for the evening.\n\nFrom the moment we arrived, Ms. Mai Thùy made sure we were well taken care of. She was friendly, professional, and went out of her way to ensure we had everything we needed. Her recommendations were spot-on, and her thoughtful service truly enhanced our dining experience.\n\nThe ambiance of the restaurant was elegant and relaxing, and the food was both beautifully presented and delicious. Every detail—from the appetizers to dessert—was clearly crafted with care.\n\nThank you to the entire team, and especially to Ms. Mai Thùy, for making our evening so special. Highly recommended for anyone looking to enjoy fine dining with exceptional service in Ho Chi Minh City!\nRead more\nWritten June 27, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:18:10.326571",
+            "restaurant_id": "9739792",
+            "restaurant_name": "Saigon Kitchen Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 119
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.782217,
+                "longitude": 106.6973
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 137 91 29",
+            "review_id": "REV_9739792_p1_7",
+            "reviewer_id": "User_9739792_1_7",
+            "review_title": "Review at Saigon Kitchen Restaurant",
+            "review_text": "Hưng\nHo Chi Minh City, Vietnam3 contributions\n0\nAmazing SaigonKitchen\nMay 2025 • Friends\nPerfect Dining Experience at Saigon Kitchen\n\nEverything at Saigon Kitchen was simply flawless. The ambiance was elegant and cozy, the staff were professional and welcoming, and the food was exceptional — both in flavor and presentation. A great spot for both casual dining and special occasions. Highly recommended!\nThanks \nCuong\nLan\nLy \nNam\nThuy \nNghia \nThy\nRead more\nWritten May 26, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:18:10.336946",
+            "restaurant_id": "9739792",
+            "restaurant_name": "Saigon Kitchen Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 119
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.782217,
+                "longitude": 106.6973
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 137 91 29",
+            "review_id": "REV_9739792_p1_8",
+            "reviewer_id": "User_9739792_1_8",
+            "review_title": "Review at Saigon Kitchen Restaurant",
+            "review_text": "Phương Lan N\n1 contribution\n0\nWonderful experience at Saigon Kitchen Restaurant\nMay 2025 • Friends\nThe food was delicious- flavourful, fresh and beautifully presented. The staff were fantastic, always smiling, helpful, and truly committed to excellent customer service. The hotel itself was cozy and welcoming, making our stay even more enjoyable. I’ll definitely be recommencing this place to my friends and colleagues!\nWritten May 20, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:18:10.355446",
+            "restaurant_id": "9739792",
+            "restaurant_name": "Saigon Kitchen Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 119
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.782217,
+                "longitude": 106.6973
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 137 91 29",
+            "review_id": "REV_9739792_p1_9",
+            "reviewer_id": "User_9739792_1_9",
+            "review_title": "Review at Saigon Kitchen Restaurant",
+            "review_text": "Nhan Lê\nHo Chi Minh City, Vietnam3 contributions\n0\nGood services\nOct 2024 • Business\nNice experience with food and service. The restaurant locate in good olacr, very convenience. especially sending thank you to Van Phuc\nValue\nService\nFood\nAtmosphere\nWritten October 8, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:18:10.366604",
+            "restaurant_id": "9739792",
+            "restaurant_name": "Saigon Kitchen Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 119
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.782217,
+                "longitude": 106.6973
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 137 91 29",
+            "review_id": "REV_9739792_p1_10",
+            "reviewer_id": "User_9739792_1_10",
+            "review_title": "Review at Saigon Kitchen Restaurant",
+            "review_text": "AdibPeb\nHo Chi Minh City, Vietnam586 contributions\n0\nGenerous Seafood and steak\nMay 2024 • Friends\nWhat an amazing very rich generous Seafood Buffet . Highly recommended for Big eaters and seafood lovers as well ad steak lovers too . Mr Nam and MD Tram were outstanding\nWritten May 17, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:18:10.382635",
+            "restaurant_id": "9739792",
+            "restaurant_name": "Saigon Kitchen Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 119
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.782217,
+                "longitude": 106.6973
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 137 91 29",
+            "review_id": "REV_9739792_p1_11",
+            "reviewer_id": "User_9739792_1_11",
+            "review_title": "Review at Saigon Kitchen Restaurant",
+            "review_text": "mochamocha925\nSetagaya, Japan481 contributions\n0\nBreakfast was great! I recommend calling a Grab on your way back.\nNov 2023 • Couples\nThe breakfast is very modern. The juice is gold pressed. You can choose a salad with grains, and the egg dishes are cooked to perfection. It's healthy, cozy, very delicious, and very satisfying. It's also perfect for lazing around in the morning.\n\nBut the taxi on the way back to the hotel was the worst. The hotel staff seemed to know me, but it was a rip-off. There was a familiar lettering like VANSAN written on the body, so I got in, but there was no meter. By the time I thought it was bad, the taxi was still running, so I just left it. The taxi on the way there was 20,000 VND, so I paid 25,000 VND, and suddenly the screen on my smartphone showed 36,000 VND.\nIt's not a big deal in terms of the amount, but it makes me feel bad, so I recommend that you visit the hotel with the intention of calling a Grab yourself on the way back.\n\nAnyway, the breakfast is great❗️\nRead more\nShow original\nWritten November 5, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:18:10.398673",
+            "restaurant_id": "9739792",
+            "restaurant_name": "Saigon Kitchen Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 119
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.782217,
+                "longitude": 106.6973
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 137 91 29",
+            "review_id": "REV_9739792_p1_12",
+            "reviewer_id": "User_9739792_1_12",
+            "review_title": "Review at Saigon Kitchen Restaurant",
+            "review_text": "Dan C\n1 contribution\n0\nTasty seafood buffet with friendly and professional staff\nOct 2023 • Family\nHad a wonderful seafood buffet. There were plenty of delicious food and as we luckily booked earlier on the same day, we were even given 2 bottles of complimentary wine!\n\nThe kind and professional team facilitated an exceptionally enjoyable evening, especially the attentiveness and friendliness of one of the staff members, Mr THÂNH NAM. He ensured that all our needs were met while his warm hospitality added an extra layer of enjoyment to our dining experience. His presence made us feel valued and well taken care of throughout the evening. We truly appreciate his exceptional dedication and professionalism.\nRead more\nWritten October 21, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:18:10.406731",
+            "restaurant_id": "9739792",
+            "restaurant_name": "Saigon Kitchen Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 119
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.782217,
+                "longitude": 106.6973
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 137 91 29",
+            "review_id": "REV_9739792_p1_13",
+            "reviewer_id": "User_9739792_1_13",
+            "review_title": "Review at Saigon Kitchen Restaurant",
+            "review_text": "Long Truong\nVietnam161 contributions\n0\nFresh seafoods & good services\nSep 2022 • Friends\nHad a buffer dinner at Saigon Kitchen of M-Gallery Hotel. Seafoods were fresh & service were very good. Staffs took care of customers.\n\nHope to return in the future.\nWritten September 17, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:18:10.425122",
+            "restaurant_id": "9739792",
+            "restaurant_name": "Saigon Kitchen Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9739792-Reviews-Saigon_Kitchen_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 119
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.782217,
+                "longitude": 106.6973
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "10:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 137 91 29",
+            "review_id": "REV_9739792_p1_14",
+            "reviewer_id": "User_9739792_1_14",
+            "review_title": "Review at Saigon Kitchen Restaurant",
+            "review_text": "Ly N\nPurmerend, The Netherlands20 contributions\n0\nGood food-Best service\nAug 2022 • Family\nIt was unforgettable day for us, that we celebrated at the beautiful restaurant Saigon Kitchen! We really enjoyed the food the service! \nSpecial thanks for Ms Trang and Mr\nThinh ( manager ) for the hospitality!\nWe will be back next time whenever we are in Vietnam again!\nWritten August 9, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

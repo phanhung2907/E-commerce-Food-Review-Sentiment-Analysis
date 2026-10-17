@@ -1,0 +1,625 @@
+{
+    "restaurant_id": "10189754",
+    "restaurant_name": "Bonjour Resto' Hai Ba Trung",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10189754-Reviews-Bonjour_Resto_Hai_Ba_Trung-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10189754-Reviews-Bonjour_Resto_Hai_Ba_Trung-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "193/1 Hai Ba Trung Street, Ward 6, District 3",
+            "addressLocality": "Ho Chi Minh City",
+            "postalCode": "700000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 2.7,
+            "reviewCount": 11
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.785947,
+            "longitude": 106.69396
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/1a/bb/d9/banner.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "French",
+            "Steakhouse",
+            "Diner",
+            "Soups"
+        ],
+        "telephone": "+84 28 3520 8158"
+    },
+    "reviews_count": 6,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T00:18:10.100757",
+            "restaurant_id": "10189754",
+            "restaurant_name": "Bonjour Resto' Hai Ba Trung",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10189754-Reviews-Bonjour_Resto_Hai_Ba_Trung-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10189754-Reviews-Bonjour_Resto_Hai_Ba_Trung-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "193/1 Hai Ba Trung Street, Ward 6, District 3",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 2.7,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.785947,
+                "longitude": 106.69396
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/1a/bb/d9/banner.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Steakhouse",
+                "Diner",
+                "Soups"
+            ],
+            "telephone": "+84 28 3520 8158",
+            "review_id": "REV_10189754_p1_0",
+            "reviewer_id": "User_10189754_1_0",
+            "review_title": "Review at Bonjour Resto' Hai Ba Trung",
+            "review_text": "gwlj\nFort Lauderdale, Florida55 contributions\n0\nCertainly better than other reviews here\nFeb 2020 • Couples\nHave searched for French restaurants in this former colony and disappointed in the lack there of. Have eaten here twice, nice rack of lamb, little over cooked for my taste, but typical of this culture. Wonderful French fries. Second visit, the duck was ok. Friend’s beef was good. Compared to the one star competitors (l’Etoile) across the main street, this place is Maxims. Staff is efficient and got the job done. english OK. Only beer is Heineken, which I don’t understand the French connection. Otherwise a good local beer is preferable to me. Busy place on ground level. Second floor empty. Toilet on the second floor was not a great inconvenience. 5000 dong for a napkin is a rip off, but I guess if they do it and locals let them get away with it, so be it. Life in the big city. Give it a try if small portions of a reasonable attempt at French at a fair price with salad or vegetable and potato included is your thing.\nRead more\nWritten February 16, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T00:18:10.116761",
+            "restaurant_id": "10189754",
+            "restaurant_name": "Bonjour Resto' Hai Ba Trung",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10189754-Reviews-Bonjour_Resto_Hai_Ba_Trung-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10189754-Reviews-Bonjour_Resto_Hai_Ba_Trung-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "193/1 Hai Ba Trung Street, Ward 6, District 3",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 2.7,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.785947,
+                "longitude": 106.69396
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/1a/bb/d9/banner.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Steakhouse",
+                "Diner",
+                "Soups"
+            ],
+            "telephone": "+84 28 3520 8158",
+            "review_id": "REV_10189754_p1_1",
+            "reviewer_id": "User_10189754_1_1",
+            "review_title": "Review at Bonjour Resto' Hai Ba Trung",
+            "review_text": "Wolverleyman\nKidderminster, United Kingdom120 contributions\n0\nMy regular lunchtime eatery\nDec 2019\nExcellent service, good value. \nSometimes very busy so service & quality suffers.\nThe ribs & steak are a good bet.\nValue\nService\nFood\nWritten December 15, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T00:18:10.134555",
+            "restaurant_id": "10189754",
+            "restaurant_name": "Bonjour Resto' Hai Ba Trung",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10189754-Reviews-Bonjour_Resto_Hai_Ba_Trung-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10189754-Reviews-Bonjour_Resto_Hai_Ba_Trung-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "193/1 Hai Ba Trung Street, Ward 6, District 3",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 2.7,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.785947,
+                "longitude": 106.69396
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/1a/bb/d9/banner.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Steakhouse",
+                "Diner",
+                "Soups"
+            ],
+            "telephone": "+84 28 3520 8158",
+            "review_id": "REV_10189754_p1_2",
+            "reviewer_id": "User_10189754_1_2",
+            "review_title": "Review at Bonjour Resto' Hai Ba Trung",
+            "review_text": "russydy\nSingapore, Singapore28 contributions\n0\nFood average, efficent staff, old place\nDec 2017 • Business\nVisited this restaurant yesterday for lunch with my local office team.\nWe sat on the second floor. The carpet on the staircase was very old. Need to do something about this urgently.\nI ordered the duck with mashed potato. Food quality was average. Portion just nice.\nCredit to the efficient staff who served us. He was very attentive.\nOn our way down after our meal, we can see some rats' dropping on the ceiling structure. Right there in front of our eyes! Very unsightly! They need to clean these up immediately. \nOtherwise this is quite a cozy little eating place located in an interesting old alley.\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten December 13, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T00:18:10.148556",
+            "restaurant_id": "10189754",
+            "restaurant_name": "Bonjour Resto' Hai Ba Trung",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10189754-Reviews-Bonjour_Resto_Hai_Ba_Trung-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10189754-Reviews-Bonjour_Resto_Hai_Ba_Trung-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "193/1 Hai Ba Trung Street, Ward 6, District 3",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 2.7,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.785947,
+                "longitude": 106.69396
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/1a/bb/d9/banner.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Steakhouse",
+                "Diner",
+                "Soups"
+            ],
+            "telephone": "+84 28 3520 8158",
+            "review_id": "REV_10189754_p1_3",
+            "reviewer_id": "User_10189754_1_3",
+            "review_title": "Review at Bonjour Resto' Hai Ba Trung",
+            "review_text": "Alex S\nHo Chi Minh City, Vietnam49 contributions\n0\nGood Chocolate Mousse\nApr 2017 • Couples\nI have been there for dinner on a Wednesday night,the restaurant is located on a small alley of the Hai Ba Trung.The decor is kind of simple,with a giant picture 1970's style of the Eiffel Tower on a wall.The service was fast and the waiter understood English.we enjoyed our main courses,but what we liked most was the chocolate mousse.I will go back because the prices are affordable.\nRead more\nReview collected in partnership with this restaurant \nWritten April 6, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T00:18:10.159561",
+            "restaurant_id": "10189754",
+            "restaurant_name": "Bonjour Resto' Hai Ba Trung",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10189754-Reviews-Bonjour_Resto_Hai_Ba_Trung-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10189754-Reviews-Bonjour_Resto_Hai_Ba_Trung-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "193/1 Hai Ba Trung Street, Ward 6, District 3",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 2.7,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.785947,
+                "longitude": 106.69396
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/1a/bb/d9/banner.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Steakhouse",
+                "Diner",
+                "Soups"
+            ],
+            "telephone": "+84 28 3520 8158",
+            "review_id": "REV_10189754_p1_4",
+            "reviewer_id": "User_10189754_1_4",
+            "review_title": "Review at Bonjour Resto' Hai Ba Trung",
+            "review_text": "frank v\nNha Trang, Vietnam29 contributions\n0\nWorst restaurant i ever have been\nJan 2017 • Solo\nVery bad restaurant where they dont know hof to cook. I asked lamb rack and first they gave me something else that look like a stew. After complaining that i asked for lam rack they brought me 2 lamb cités boiled in water and nog grilled or baked. That is really my worst experience in a restaurant. They should close the place.\nWritten January 15, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T00:18:10.178280",
+            "restaurant_id": "10189754",
+            "restaurant_name": "Bonjour Resto' Hai Ba Trung",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10189754-Reviews-Bonjour_Resto_Hai_Ba_Trung-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10189754-Reviews-Bonjour_Resto_Hai_Ba_Trung-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "193/1 Hai Ba Trung Street, Ward 6, District 3",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 2.7,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.785947,
+                "longitude": 106.69396
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/1a/bb/d9/banner.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "French",
+                "Steakhouse",
+                "Diner",
+                "Soups"
+            ],
+            "telephone": "+84 28 3520 8158",
+            "review_id": "REV_10189754_p1_5",
+            "reviewer_id": "User_10189754_1_5",
+            "review_title": "Review at Bonjour Resto' Hai Ba Trung",
+            "review_text": "bboykingtrack\nHo Chi Minh City, Vietnam47 contributions\n0\nAffordable french cuisine\nJun 2016 • Couples\nThe restaurant is on a small alley near Saigon Square. The decoration is very simple, don't expect too much. The staffs were fast but could be better. The price isn't considered as cheap in Vietnam but still cheaper than a lot of French restaurant in Saigon. Their beefsteak was good, however the quality may vary by time. I visit there 4 times and the taste changed between day and night, so I guess they have 2 cooks. My recommendation is you should visit at night based on my own experience.\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten June 29, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "restaurant_id": "10640848",
+    "restaurant_name": "Quoc Ky",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10640848-Reviews-Quoc_Ky-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10640848-Reviews-Quoc_Ky-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 4
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.76577,
+            "longitude": 106.69992
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/08/21/bd/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "$",
+        "servesCuisine": [
+            "Chinese",
+            "Vietnamese"
+        ],
+        "telephone": "+84 90 374 31 09"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:43:28.364889",
+            "restaurant_id": "10640848",
+            "restaurant_name": "Quoc Ky",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10640848-Reviews-Quoc_Ky-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d10640848-Reviews-Quoc_Ky-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 4
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.76577,
+                "longitude": 106.69992
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/08/21/bd/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Vietnamese"
+            ],
+            "telephone": "+84 90 374 31 09",
+            "review_id": "REV_10640848_p1_0",
+            "reviewer_id": "User_10640848_1_0",
+            "review_title": "Review at Quoc Ky",
+            "review_text": "cherijustyne\nSingapore, Singapore53 contributions\n0\nA different take on Pho - uniquely Saigon.\nMay 2017 • Couples\nI found out about Quoc Ky via Lucky Peach and the recommended dish - Pho Bo Sa Te (which is essentially yellow noodles or kuay teow in a peanut broth soup with thin beef slices) is amazing. I've never had anything like it - it was savoury and a little spicy, and the broth was so rich. \n\nWe chatted to the owner - a lovely old lady in mandarin, and she said this shop used to belong to her father. Now its hers and the recipe has been passed down in her family. \n\nCame back before we left Saigon - undoubtedly one of the best things we had! \n\nIt is a little pricier than the usual Pho (for Vietnam's standards) - we paid 196,000 VND for 2 bowls and 2 coffees.\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten May 30, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

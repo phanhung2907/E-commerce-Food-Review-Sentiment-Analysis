@@ -1,0 +1,535 @@
+{
+    "restaurant_id": "25371027",
+    "restaurant_name": "ELSOL Meat & Wine",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25371027-Reviews-ELSOL_Meat_Wine-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25371027-Reviews-ELSOL_Meat_Wine-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "5/9 Nguyễn Siêu Ben Nghe Ward, District 1",
+            "addressLocality": "Ho Chi Minh City",
+            "postalCode": "700000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.8,
+            "reviewCount": 8
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.77751,
+            "longitude": 106.70454
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/76/df/35/set-love-3.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "11:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "11:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "11:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "11:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "11:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "11:00:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "11:00:00",
+                "closes": "22:30:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Steakhouse",
+            "Deli",
+            "Eastern European",
+            "Armenian"
+        ],
+        "telephone": "+84 96 351 61 01"
+    },
+    "reviews_count": 5,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T22:06:44.435108",
+            "restaurant_id": "25371027",
+            "restaurant_name": "ELSOL Meat & Wine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25371027-Reviews-ELSOL_Meat_Wine-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25371027-Reviews-ELSOL_Meat_Wine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "5/9 Nguyễn Siêu Ben Nghe Ward, District 1",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77751,
+                "longitude": 106.70454
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/76/df/35/set-love-3.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Steakhouse",
+                "Deli",
+                "Eastern European",
+                "Armenian"
+            ],
+            "telephone": "+84 96 351 61 01",
+            "review_id": "REV_25371027_p1_0",
+            "reviewer_id": "User_25371027_1_0",
+            "review_title": "Review at ELSOL Meat & Wine",
+            "review_text": "David H\nAlexandria, Virginia6 contributions\n0\nMisleading advertising\nMay 2025 • Solo\nFood is fine. The important thing is that this restaurant advertises that it accepts Visa and Mastercard, but they ask customers to pay in cash and say that the card machine is broken. If you don't have cash, don't go to this restaurant!!!!\nInsider tip:\nNot recommend. Misleading advertising\nValue\nService\nFood\nAtmosphere\nWritten May 3, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T22:06:44.448670",
+            "restaurant_id": "25371027",
+            "restaurant_name": "ELSOL Meat & Wine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25371027-Reviews-ELSOL_Meat_Wine-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25371027-Reviews-ELSOL_Meat_Wine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "5/9 Nguyễn Siêu Ben Nghe Ward, District 1",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77751,
+                "longitude": 106.70454
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/76/df/35/set-love-3.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Steakhouse",
+                "Deli",
+                "Eastern European",
+                "Armenian"
+            ],
+            "telephone": "+84 96 351 61 01",
+            "review_id": "REV_25371027_p1_1",
+            "reviewer_id": "User_25371027_1_1",
+            "review_title": "Review at ELSOL Meat & Wine",
+            "review_text": "Inspire07177235886\n1 contribution\n0\nVery cool\nJul 2023 • Couples\nThe food and drinks are very delicious. I really like it and will come back next time. The service staff is very good and the space is great\nShow original\nWritten November 5, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T22:06:44.468009",
+            "restaurant_id": "25371027",
+            "restaurant_name": "ELSOL Meat & Wine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25371027-Reviews-ELSOL_Meat_Wine-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25371027-Reviews-ELSOL_Meat_Wine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "5/9 Nguyễn Siêu Ben Nghe Ward, District 1",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77751,
+                "longitude": 106.70454
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/76/df/35/set-love-3.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Steakhouse",
+                "Deli",
+                "Eastern European",
+                "Armenian"
+            ],
+            "telephone": "+84 96 351 61 01",
+            "review_id": "REV_25371027_p1_2",
+            "reviewer_id": "User_25371027_1_2",
+            "review_title": "Review at ELSOL Meat & Wine",
+            "review_text": "Noah\nHo Chi Minh City, Vietnam65 contributions\n0\nDinning at Elsol\nJul 2023 • Friends\nI'm so glad that we found this hidden little fantastic steak house. Everything is filled with romantic details. \nThe salad bar is fascinating. But in my opinons, the best here must be the Ribeye steak, it's super tender, very rich and juicy. The mocktails are truly bring up the tatse. \nGood prices, friendly service.\n\nHighly recommend for dating.\nI'll come again later.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten September 27, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T22:06:44.487742",
+            "restaurant_id": "25371027",
+            "restaurant_name": "ELSOL Meat & Wine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25371027-Reviews-ELSOL_Meat_Wine-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25371027-Reviews-ELSOL_Meat_Wine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "5/9 Nguyễn Siêu Ben Nghe Ward, District 1",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77751,
+                "longitude": 106.70454
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/76/df/35/set-love-3.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Steakhouse",
+                "Deli",
+                "Eastern European",
+                "Armenian"
+            ],
+            "telephone": "+84 96 351 61 01",
+            "review_id": "REV_25371027_p1_3",
+            "reviewer_id": "User_25371027_1_3",
+            "review_title": "Review at ELSOL Meat & Wine",
+            "review_text": "junebiswas\nBangkok, Thailand409 contributions\n1\nBest Steak Ever!\nJul 2023 • Couples\nBest tenderloin steak I've had in my life! Elsol does an excellent job at meats and wine and I love their cosy and romantic decor which makes it the perfect place for special occasions or dinner with loved ones. Their service is excellent as well.\nWritten July 28, 2023\nVi Nguyen\nThank you for your lovely feedback!\nWritten August 5, 2023\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T22:06:44.499367",
+            "restaurant_id": "25371027",
+            "restaurant_name": "ELSOL Meat & Wine",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25371027-Reviews-ELSOL_Meat_Wine-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25371027-Reviews-ELSOL_Meat_Wine-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "5/9 Nguyễn Siêu Ben Nghe Ward, District 1",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 8
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77751,
+                "longitude": 106.70454
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/76/df/35/set-love-3.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Steakhouse",
+                "Deli",
+                "Eastern European",
+                "Armenian"
+            ],
+            "telephone": "+84 96 351 61 01",
+            "review_id": "REV_25371027_p1_4",
+            "reviewer_id": "User_25371027_1_4",
+            "review_title": "Review at ELSOL Meat & Wine",
+            "review_text": "Michelle T\nTemplestowe, Australia75 contributions\n0\nFamily steak dinner\nJun 2023 • Family\nWonderful family dinner - generous salads bar and churros for the kids. Steaks were delicious!\nWould love to come back!\nWritten June 26, 2023\nVi Nguyen\nThank you for your lovely feedback!\nWritten August 5, 2023\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

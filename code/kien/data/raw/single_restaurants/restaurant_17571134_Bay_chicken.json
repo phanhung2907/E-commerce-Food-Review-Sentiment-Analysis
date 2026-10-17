@@ -1,0 +1,77 @@
+{
+    "restaurant_id": "17571134",
+    "restaurant_name": "Bay chicken",
+    "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d17571134-Reviews-Bay_chicken-Hanoi.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d17571134-Reviews-Bay_chicken-Hanoi.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "52B hang Bun",
+            "postalCode": "100000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.5,
+            "reviewCount": 2
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 21.04163,
+            "longitude": 105.84574
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/f0/db/2c/set-dui.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "$",
+        "servesCuisine": "N/A",
+        "telephone": "+84 96 372 80 36"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T09:07:10.897780",
+            "restaurant_id": "17571134",
+            "restaurant_name": "Bay chicken",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d17571134-Reviews-Bay_chicken-Hanoi.html#REVIEWS",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d17571134-Reviews-Bay_chicken-Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "52B hang Bun",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 2
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.04163,
+                "longitude": 105.84574
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/f0/db/2c/set-dui.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 96 372 80 36",
+            "review_id": "REV_17571134_p1_0",
+            "reviewer_id": "User_17571134_1_0",
+            "review_title": "Review at Bay chicken",
+            "review_text": "Nathalie L\nZurich, Switzerland48 contributions\n1\nNice place for battered chicken\nJun 2019 • Couples\nVery crispy battered chicken pieces. Good noodles and other korean food options. \nGreat place if someone wants to eat something else than vietnamese food.\nWritten June 13, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

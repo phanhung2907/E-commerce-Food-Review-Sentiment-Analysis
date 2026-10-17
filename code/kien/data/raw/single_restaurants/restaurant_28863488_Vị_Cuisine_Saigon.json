@@ -1,0 +1,153 @@
+{
+    "restaurant_id": "28863488",
+    "restaurant_name": "Vị Cuisine Saigon",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28863488-Reviews-V_Cuisine_Saigon-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28863488-Reviews-V_Cuisine_Saigon-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 3
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.771243,
+            "longitude": 106.70366
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:30:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:30:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:30:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:30:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:30:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:30:00",
+                "closes": "21:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Vietnamese"
+        ],
+        "telephone": "+84 96 748 53 48"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T03:55:17.685945",
+            "restaurant_id": "28863488",
+            "restaurant_name": "Vị Cuisine Saigon",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28863488-Reviews-V_Cuisine_Saigon-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28863488-Reviews-V_Cuisine_Saigon-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 3
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.771243,
+                "longitude": 106.70366
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 96 748 53 48",
+            "review_id": "REV_28863488_p1_0",
+            "reviewer_id": "User_28863488_1_0",
+            "review_title": "Review at Vị Cuisine Saigon",
+            "review_text": "An N\n13 contributions\n0\nMUST TRY IN HCMC\nDec 2024 • Family\nSuch a cozy place with super authentic Vietnamese cuisine; affordable and reasonable price. I have been here many times for lunch and dinner with family and friends. Never miss this place when you arrive in HCMC!!! MUST TRY!\nValue\nService\nFood\nAtmosphere\nWritten December 30, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

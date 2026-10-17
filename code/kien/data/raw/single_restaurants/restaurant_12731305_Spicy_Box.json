@@ -1,0 +1,81 @@
+{
+    "restaurant_id": "12731305",
+    "restaurant_name": "Spicy Box",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12731305-Reviews-Spicy_Box-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12731305-Reviews-Spicy_Box-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4,
+            "reviewCount": 3
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.80534,
+            "longitude": 106.73616
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/73/58/a1/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "$",
+        "servesCuisine": [
+            "Asian",
+            "Korean"
+        ],
+        "telephone": "+84 97 112 08 90"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T03:08:52.964389",
+            "restaurant_id": "12731305",
+            "restaurant_name": "Spicy Box",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12731305-Reviews-Spicy_Box-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12731305-Reviews-Spicy_Box-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 3
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.80534,
+                "longitude": 106.73616
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/73/58/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Korean"
+            ],
+            "telephone": "+84 97 112 08 90",
+            "review_id": "REV_12731305_p1_0",
+            "reviewer_id": "User_12731305_1_0",
+            "review_title": "Review at Spicy Box",
+            "review_text": "Lễ Đình\n1 contribution\n0\nThe services are good but...\nOct 2020 • Couples\nThe services are good, food and facilities are also extremely perfect but not the waitress’ attitude\nMe and my gf had a dinner at Spicy Box at Estella Place, everything was normal until the waitress named Thanh Nhi “investigate” us about the coupon we had, and we explained clearly so everything was fine. Later that, i ordered a “golden wing” which is a gift on our coupon but after 1 HOUR AND A HALF, we received it. I don’t know if the waitress forgot about it or not, but after the investigation we did mention to order it TWICE!\nAnother problem is at the time we were paying the check, we did not know that we couldnt use all the promotions we had on the coupon for once, the waitress forgot (again) to tell us about that. So instead of being free for the Golden wing, we did pay for it to make everything easy and not complicate everything 🤷‍♂️\nI hope Spicy Box could train the servers more carefully, especially about the attitude!\nRead more\nWritten October 11, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

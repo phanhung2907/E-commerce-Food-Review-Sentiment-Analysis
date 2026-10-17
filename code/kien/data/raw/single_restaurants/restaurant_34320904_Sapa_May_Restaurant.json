@@ -1,0 +1,565 @@
+{
+    "restaurant_id": "34320904",
+    "restaurant_name": "Sapa May Restaurant",
+    "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d34320904-Reviews-Sapa_May_Restaurant-Lao_Cai_Lao_Cai_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d34320904-Reviews-Sapa_May_Restaurant-Lao_Cai_Lao_Cai_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "36 Hoang Lien, Sapa",
+            "addressLocality": "Lao Cai",
+            "postalCode": "330000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 5
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 22.49903,
+            "longitude": 103.96644
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/f3/0a/89/pick-cher.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:15:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:15:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:15:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:15:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:15:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:15:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:15:00",
+                "closes": "23:45:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Italian",
+            "Indian",
+            "Filipino",
+            "European",
+            "Asian",
+            "Vietnamese",
+            "Indonesian",
+            "Central Asian",
+            "Indigenous"
+        ],
+        "telephone": "+84 92 690 97 97"
+    },
+    "reviews_count": 5,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:34:46.123855",
+            "restaurant_id": "34320904",
+            "restaurant_name": "Sapa May Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d34320904-Reviews-Sapa_May_Restaurant-Lao_Cai_Lao_Cai_Province.html#REVIEWS",
+            "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d34320904-Reviews-Sapa_May_Restaurant-Lao_Cai_Lao_Cai_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Hoang Lien, Sapa",
+                "addressLocality": "Lao Cai",
+                "postalCode": "330000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.49903,
+                "longitude": 103.96644
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/f3/0a/89/pick-cher.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Italian",
+                "Indian",
+                "Filipino",
+                "European",
+                "Asian",
+                "Vietnamese",
+                "Indonesian",
+                "Central Asian",
+                "Indigenous"
+            ],
+            "telephone": "+84 92 690 97 97",
+            "review_id": "REV_34320904_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Sapa May Restaurant",
+            "review_text": "wave travel v\n24 contributions\n0\nIf you want to try authentic Vietnamese and Sapa specialties, this is the place to go. The food is flavorful, portions a\nMay 2026 • Friends\nPerfect place to enjoy local cuisine in Sapa\nWritten May 1, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:34:46.143053",
+            "restaurant_id": "34320904",
+            "restaurant_name": "Sapa May Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d34320904-Reviews-Sapa_May_Restaurant-Lao_Cai_Lao_Cai_Province.html#REVIEWS",
+            "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d34320904-Reviews-Sapa_May_Restaurant-Lao_Cai_Lao_Cai_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Hoang Lien, Sapa",
+                "addressLocality": "Lao Cai",
+                "postalCode": "330000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.49903,
+                "longitude": 103.96644
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/f3/0a/89/pick-cher.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Italian",
+                "Indian",
+                "Filipino",
+                "European",
+                "Asian",
+                "Vietnamese",
+                "Indonesian",
+                "Central Asian",
+                "Indigenous"
+            ],
+            "telephone": "+84 92 690 97 97",
+            "review_id": "REV_34320904_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Sapa May Restaurant",
+            "review_text": "Mr.U.Li\nHo Chi Minh City, Vietnam7 contributions\n0\nNice time at the Sapa May, Personal was very helpful\nApr 2026 • Couples\nWe had a very pleasant stay at the Sapa May Restaurant and Hotel. I would especially like to commend the staff – everyone was consistently very friendly, attentive, and helpful. We immediately felt welcome, and any questions or concerns were addressed quickly and easily.\n\nThe atmosphere was cozy and relaxing, just right after a long day in Sapa. Overall, it offered excellent value for money.\n\nAll in all, a clear recommendation – we would definitely come back!\nRead more\nValue\nService\nFood\nAtmosphere\nWritten April 15, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:34:46.161576",
+            "restaurant_id": "34320904",
+            "restaurant_name": "Sapa May Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d34320904-Reviews-Sapa_May_Restaurant-Lao_Cai_Lao_Cai_Province.html#REVIEWS",
+            "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d34320904-Reviews-Sapa_May_Restaurant-Lao_Cai_Lao_Cai_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Hoang Lien, Sapa",
+                "addressLocality": "Lao Cai",
+                "postalCode": "330000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.49903,
+                "longitude": 103.96644
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/f3/0a/89/pick-cher.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Italian",
+                "Indian",
+                "Filipino",
+                "European",
+                "Asian",
+                "Vietnamese",
+                "Indonesian",
+                "Central Asian",
+                "Indigenous"
+            ],
+            "telephone": "+84 92 690 97 97",
+            "review_id": "REV_34320904_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Sapa May Restaurant",
+            "review_text": "Hùng D\n1 contribution\n0\nExperience a wonderful trip.\nApr 2026 • Couples\nThe restaurant is clean and the space is wide. Professional enthusiastic service staff. Delicious food is a variety of foods.\nValue\nService\nFood\nAtmosphere\nTranslated from Vietnamese\nShow original\nWritten April 15, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:34:46.179566",
+            "restaurant_id": "34320904",
+            "restaurant_name": "Sapa May Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d34320904-Reviews-Sapa_May_Restaurant-Lao_Cai_Lao_Cai_Province.html#REVIEWS",
+            "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d34320904-Reviews-Sapa_May_Restaurant-Lao_Cai_Lao_Cai_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Hoang Lien, Sapa",
+                "addressLocality": "Lao Cai",
+                "postalCode": "330000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.49903,
+                "longitude": 103.96644
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/f3/0a/89/pick-cher.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Italian",
+                "Indian",
+                "Filipino",
+                "European",
+                "Asian",
+                "Vietnamese",
+                "Indonesian",
+                "Central Asian",
+                "Indigenous"
+            ],
+            "telephone": "+84 92 690 97 97",
+            "review_id": "REV_34320904_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Sapa May Restaurant",
+            "review_text": "Safari48890992891\n1 contribution\n0\nExperience\nApr 2026 • Friends\nService, good. \nFriendly staff. \nThe Mountain View Room is great.\nValue\nService\nFood\nAtmosphere\nTranslated from Vietnamese\nShow original\nWritten April 15, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:34:46.199569",
+            "restaurant_id": "34320904",
+            "restaurant_name": "Sapa May Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g737052-d34320904-Reviews-Sapa_May_Restaurant-Lao_Cai_Lao_Cai_Province.html#REVIEWS",
+            "city": "30. Lao Cai Restaurants\nSee all 72 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g737052-d34320904-Reviews-Sapa_May_Restaurant-Lao_Cai_Lao_Cai_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "36 Hoang Lien, Sapa",
+                "addressLocality": "Lao Cai",
+                "postalCode": "330000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.49903,
+                "longitude": 103.96644
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/f3/0a/89/pick-cher.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:15:00",
+                    "closes": "23:45:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Italian",
+                "Indian",
+                "Filipino",
+                "European",
+                "Asian",
+                "Vietnamese",
+                "Indonesian",
+                "Central Asian",
+                "Indigenous"
+            ],
+            "telephone": "+84 92 690 97 97",
+            "review_id": "REV_34320904_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Sapa May Restaurant",
+            "review_text": "Vocto Nguyen p\n1 contribution\n0\nVery pleasant.\nApr 2026 • Family\nMy family booked at Sapa May Ecolodge and we booked at Sapa May Restaurant. The food is very tasty, the enthusiastic service staff and the restaurant view is very beautiful to see the mountain + the boat flowers run through\nValue\nService\nFood\nAtmosphere\nTranslated from Vietnamese\nShow original\nWritten April 15, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

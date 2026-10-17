@@ -1,0 +1,382 @@
+{
+    "restaurant_id": "26838795",
+    "restaurant_name": "Yen Sushi Sake Pub, District 1",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26838795-Reviews-Yen_Sushi_Sake_Pub_District_1-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26838795-Reviews-Yen_Sushi_Sake_Pub_District_1-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "Lê Duẩn, Bến Nghé, Quận 1 2B Đ. Lê Duẩn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+            "addressLocality": "Ho Chi Minh City",
+            "postalCode": "710228"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.5,
+            "reviewCount": 2
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.782414,
+            "longitude": 106.70049
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/d9/fc/2a/huong-v-mon-an-du-c-danh.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:30:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "17:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:30:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "17:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:30:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "17:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:30:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "17:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:30:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "17:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:30:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "17:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:30:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "17:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Japanese Fusion"
+        ],
+        "telephone": "+84 91 999 84 88"
+    },
+    "reviews_count": 2,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T00:21:49.410584",
+            "restaurant_id": "26838795",
+            "restaurant_name": "Yen Sushi Sake Pub, District 1",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26838795-Reviews-Yen_Sushi_Sake_Pub_District_1-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26838795-Reviews-Yen_Sushi_Sake_Pub_District_1-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Lê Duẩn, Bến Nghé, Quận 1 2B Đ. Lê Duẩn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "710228"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 2
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.782414,
+                "longitude": 106.70049
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/d9/fc/2a/huong-v-mon-an-du-c-danh.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Japanese Fusion"
+            ],
+            "telephone": "+84 91 999 84 88",
+            "review_id": "REV_26838795_p1_0",
+            "reviewer_id": "User_26838795_1_0",
+            "review_title": "Review at Yen Sushi Sake Pub, District 1",
+            "review_text": "hoanghac13\nSan Jose, California641 contributions\n0\nA solid 4 stars ⭐️\nMay 2025 • Family\nA reliable 4-star sushi spot in District 1, just a short walk from JW Marriott Saigon. We ordered the salmon sushi cake, which appeared large due to its rice and avocado topping, though the fish slices were thin. I opted for à la carte hamachi (known as orange fish in Vietnam), hotate, and marugai, requesting they be served over sushi rice like a donburi bowl. The kitchen accommodated this with an additional charge for the rice. I also asked for ponzu and tobiko to customize my sauce, which was provided. We added sea grapes, octopus salad, mixed vegetable and seafood tempura, and ginkgo nuts as an appetizer. My Ume cocktail was underwhelming, missing the mark despite my love for plum wine with sushi. Service was inattentive; we dined at 1 PM with hardly any other customers, yet we had to request wasabi, which arrived without pickled ginger. The table lacked spoons and napkins, and basic condiments like soy sauce, wasabi, and ginger weren’t automatically provided—surprising for a sushi restaurant.\nAny how they have the special promotion joining membership for 30% off thus which made my bill from 2.2mil vnđ to 1.5mil vnđ. Reasonable prices for the amount of food with the discount. I wouldn’t comeback without the 30%.\nP/S: we came beca we purchased Grab voucher 2mil for 1.5mil 😅😅 so I guess I’ll have to try another location. Stay tune!\nRead more\nWritten May 12, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T00:21:49.423027",
+            "restaurant_id": "26838795",
+            "restaurant_name": "Yen Sushi Sake Pub, District 1",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26838795-Reviews-Yen_Sushi_Sake_Pub_District_1-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d26838795-Reviews-Yen_Sushi_Sake_Pub_District_1-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Lê Duẩn, Bến Nghé, Quận 1 2B Đ. Lê Duẩn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "710228"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 2
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.782414,
+                "longitude": 106.70049
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/d9/fc/2a/huong-v-mon-an-du-c-danh.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Japanese Fusion"
+            ],
+            "telephone": "+84 91 999 84 88",
+            "review_id": "REV_26838795_p1_1",
+            "reviewer_id": "User_26838795_1_1",
+            "review_title": "Review at Yen Sushi Sake Pub, District 1",
+            "review_text": "Voyager48585691268\n1 contribution\n0\nGreat Experience!\nOct 2024 • Family\nYen Sushi offers some delicious courses and food which is quite reasonably priced for any foreign travelers. Staff is very friendly and welcoming!\nWritten October 24, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

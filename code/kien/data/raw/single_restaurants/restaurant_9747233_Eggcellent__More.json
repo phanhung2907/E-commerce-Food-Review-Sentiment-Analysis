@@ -1,0 +1,101 @@
+{
+    "restaurant_id": "9747233",
+    "restaurant_name": "Eggcellent & More",
+    "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d9747233-Reviews-Eggcellent_More-Hanoi.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d9747233-Reviews-Eggcellent_More-Hanoi.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Hanoi Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 21.029314,
+            "longitude": 105.84272
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/e2/9d/ce/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:00:00",
+                "closes": "22:30:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "American",
+            "Cafe",
+            "International",
+            "Asian",
+            "British"
+        ],
+        "telephone": "+84 90 163 63 19"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T05:45:32.617848",
+            "restaurant_id": "9747233",
+            "restaurant_name": "Eggcellent & More",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d9747233-Reviews-Eggcellent_More-Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d9747233-Reviews-Eggcellent_More-Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Hanoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.029314,
+                "longitude": 105.84272
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/e2/9d/ce/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Cafe",
+                "International",
+                "Asian",
+                "British"
+            ],
+            "telephone": "+84 90 163 63 19",
+            "review_id": "REV_9747233_p1_0",
+            "reviewer_id": "User_9747233_1_0",
+            "review_title": "Review at Eggcellent & More",
+            "review_text": "Trang N\n18 contributions\n0\nbest lava cake in town\nAug 2016\nsmall shop but lava cake and waffles are very delicious. They have fresh juice and many desserts for summer.smoothies is good as well\nWritten August 3, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

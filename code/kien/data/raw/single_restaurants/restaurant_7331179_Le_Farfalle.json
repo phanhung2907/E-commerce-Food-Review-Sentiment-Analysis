@@ -1,0 +1,1750 @@
+{
+    "restaurant_id": "7331179",
+    "restaurant_name": "Le Farfalle",
+    "city": "Phan Thiet",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "TN"
+            },
+            "streetAddress": "Rue du Lac Biwa",
+            "addressLocality": "Tunis",
+            "postalCode": "1059"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.4,
+            "reviewCount": 31
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 36.83574,
+            "longitude": 10.246286
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a5/7c/14/le-farfalle-les-berges.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "12:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "19:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "12:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "19:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "12:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "19:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "12:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "19:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "12:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "19:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "12:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "19:00:00",
+                "closes": "23:00:00"
+            }
+        ],
+        "priceRange": "$$$$",
+        "servesCuisine": [
+            "Italian"
+        ],
+        "telephone": "+216 20 977 024"
+    },
+    "reviews_count": 14,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:09:48.047377",
+            "restaurant_id": "7331179",
+            "restaurant_name": "Le Farfalle",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "TN"
+                },
+                "streetAddress": "Rue du Lac Biwa",
+                "addressLocality": "Tunis",
+                "postalCode": "1059"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 31
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.83574,
+                "longitude": 10.246286
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a5/7c/14/le-farfalle-les-berges.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Italian"
+            ],
+            "telephone": "+216 20 977 024",
+            "review_id": "REV_7331179_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Le Farfalle",
+            "review_text": "AFIF O\n4 contributions\n0\nYou are very good at what you do\nMay 2026 • Solo\nThe food is very good, just like in Italy ❤️\nTranslated from Italian\nShow original\nWritten May 14, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:09:48.068371",
+            "restaurant_id": "7331179",
+            "restaurant_name": "Le Farfalle",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "TN"
+                },
+                "streetAddress": "Rue du Lac Biwa",
+                "addressLocality": "Tunis",
+                "postalCode": "1059"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 31
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.83574,
+                "longitude": 10.246286
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a5/7c/14/le-farfalle-les-berges.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Italian"
+            ],
+            "telephone": "+216 20 977 024",
+            "review_id": "REV_7331179_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Le Farfalle",
+            "review_text": "Alessandro G\n2 contributions\n0\nVery very good\nApr 2026 • Business\nBest pasta in Tunisia, comfortable place\nValue\nService\nFood\nAtmosphere\nTranslated from Italian\nShow original\nWritten April 22, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:09:48.082368",
+            "restaurant_id": "7331179",
+            "restaurant_name": "Le Farfalle",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "TN"
+                },
+                "streetAddress": "Rue du Lac Biwa",
+                "addressLocality": "Tunis",
+                "postalCode": "1059"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 31
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.83574,
+                "longitude": 10.246286
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a5/7c/14/le-farfalle-les-berges.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Italian"
+            ],
+            "telephone": "+216 20 977 024",
+            "review_id": "REV_7331179_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Le Farfalle",
+            "review_text": "Ines B\n1 contribution\n0\nBest experience !\nAug 2024 • Family\nI just had the most amazing pasta—full of flavor and perfectly cooked! This place isn’t just a meal, it’s an experience you won’t want to miss. Highly recommended!\nWritten September 25, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:09:48.100368",
+            "restaurant_id": "7331179",
+            "restaurant_name": "Le Farfalle",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "TN"
+                },
+                "streetAddress": "Rue du Lac Biwa",
+                "addressLocality": "Tunis",
+                "postalCode": "1059"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 31
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.83574,
+                "longitude": 10.246286
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a5/7c/14/le-farfalle-les-berges.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Italian"
+            ],
+            "telephone": "+216 20 977 024",
+            "review_id": "REV_7331179_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Le Farfalle",
+            "review_text": "Loïc L\nParis, France87 contributions\n0\nExcellent pasta!\nJan 2024 • Family\nIt feels like we're in Italy. Very fast service. Homemade pasta. Truly excellent. We ate pasta in Italy this summer that was much worse than the ones at this restaurant.\nShow original\nWritten January 4, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:09:48.115397",
+            "restaurant_id": "7331179",
+            "restaurant_name": "Le Farfalle",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "TN"
+                },
+                "streetAddress": "Rue du Lac Biwa",
+                "addressLocality": "Tunis",
+                "postalCode": "1059"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 31
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.83574,
+                "longitude": 10.246286
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a5/7c/14/le-farfalle-les-berges.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Italian"
+            ],
+            "telephone": "+216 20 977 024",
+            "review_id": "REV_7331179_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Le Farfalle",
+            "review_text": "D K\nFlorida1618 contributions\n0\nGood Luncheon Place\nJul 2019 • Friends\nWe wanted to have a quick lunch near the Movenpick Hotel, and we found Farfalle. \nOur group of 3 all tried pasta,but not too thrilled at the 3 different types of pasta order. In fact, I had hard time finding good pasta from all Italian restaurants I tried. I am sure the local restaurants use poor quality wheat flour and al dente is very difficult to find and usually served spicy.\nRead more\nWritten July 7, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:09:48.132708",
+            "restaurant_id": "7331179",
+            "restaurant_name": "Le Farfalle",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "TN"
+                },
+                "streetAddress": "Rue du Lac Biwa",
+                "addressLocality": "Tunis",
+                "postalCode": "1059"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 31
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.83574,
+                "longitude": 10.246286
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a5/7c/14/le-farfalle-les-berges.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Italian"
+            ],
+            "telephone": "+216 20 977 024",
+            "review_id": "REV_7331179_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at Le Farfalle",
+            "review_text": "Arkadyl\nEl Salvador137 contributions\n0\nGood lunch spot\nNov 2018 • Friends\nGood lunch spot in Lac1. Not very big variety of pasta options but all of great quality. Service is fast.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten November 29, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:09:48.145691",
+            "restaurant_id": "7331179",
+            "restaurant_name": "Le Farfalle",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "TN"
+                },
+                "streetAddress": "Rue du Lac Biwa",
+                "addressLocality": "Tunis",
+                "postalCode": "1059"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 31
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.83574,
+                "longitude": 10.246286
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a5/7c/14/le-farfalle-les-berges.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Italian"
+            ],
+            "telephone": "+216 20 977 024",
+            "review_id": "REV_7331179_p1_6",
+            "reviewer_id": "User_p1_6",
+            "review_title": "Review at Le Farfalle",
+            "review_text": "AK\nIstanbul, Türkiye139 contributions\n0\nGluten-free pasta!\nNov 2017 • Friends\nThis place serves gluten-free pasta dishes for a few extra DTs. Probably the best pasta in town. But the service is VERY slow.\nReview collected in partnership with this restaurant \nWritten February 15, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:09:48.158286",
+            "restaurant_id": "7331179",
+            "restaurant_name": "Le Farfalle",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "TN"
+                },
+                "streetAddress": "Rue du Lac Biwa",
+                "addressLocality": "Tunis",
+                "postalCode": "1059"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 31
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.83574,
+                "longitude": 10.246286
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a5/7c/14/le-farfalle-les-berges.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Italian"
+            ],
+            "telephone": "+216 20 977 024",
+            "review_id": "REV_7331179_p1_7",
+            "reviewer_id": "User_p1_7",
+            "review_title": "Review at Le Farfalle",
+            "review_text": "Bryn J\n3 contributions\n0\nThe best pasta in Tunis\nAug 2017 • Couples\nMy wife and I go here often - we live very close. It is superb. The pasta is the best in Tunis, and that is saying something. Even the salads are incredibly tasty. Note: I think they are only open at lunchtime. Also I'm not sure the address is correct on this listing - by my reckoning it is on Rue du Lac de Come. But do try it.\nWritten August 10, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:09:48.170716",
+            "restaurant_id": "7331179",
+            "restaurant_name": "Le Farfalle",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "TN"
+                },
+                "streetAddress": "Rue du Lac Biwa",
+                "addressLocality": "Tunis",
+                "postalCode": "1059"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 31
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.83574,
+                "longitude": 10.246286
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a5/7c/14/le-farfalle-les-berges.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Italian"
+            ],
+            "telephone": "+216 20 977 024",
+            "review_id": "REV_7331179_p1_8",
+            "reviewer_id": "User_p1_8",
+            "review_title": "Review at Le Farfalle",
+            "review_text": "henristetter\nMauritius100 contributions\n0\nVery decent pasta lunch\nFeb 2017 • Business\nI am a regular visitor at Le Farfalle for lunch, with a few local colleagues.\nThey have a good selection of dishes, their service us promit and efficient and their espresso first class.\nWritten February 19, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:09:48.189717",
+            "restaurant_id": "7331179",
+            "restaurant_name": "Le Farfalle",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "TN"
+                },
+                "streetAddress": "Rue du Lac Biwa",
+                "addressLocality": "Tunis",
+                "postalCode": "1059"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 31
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.83574,
+                "longitude": 10.246286
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a5/7c/14/le-farfalle-les-berges.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Italian"
+            ],
+            "telephone": "+216 20 977 024",
+            "review_id": "REV_7331179_p1_9",
+            "reviewer_id": "User_p1_9",
+            "review_title": "Review at Le Farfalle",
+            "review_text": "Paul G\nTunis, Tunisia11 contributions\n0\nExcellent Italian cuisine\nMay 2016 • Couples\nThe menu is Italian. However there is definitely the chef's twist on things. Every time I have been, the meat has been cooked as I requested. The pasta is maybe cooked just a little bit over al dente, and the squid ink pasta is very tasty. Pappardelle and also fresh.\n \nService has been a bit hit and miss. Everybody is pleasant, but there has been a few times where we had to wait. A bit of improvement on that side and it will make the experience so much better.\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten August 8, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:09:48.206708",
+            "restaurant_id": "7331179",
+            "restaurant_name": "Le Farfalle",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "TN"
+                },
+                "streetAddress": "Rue du Lac Biwa",
+                "addressLocality": "Tunis",
+                "postalCode": "1059"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 31
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.83574,
+                "longitude": 10.246286
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a5/7c/14/le-farfalle-les-berges.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Italian"
+            ],
+            "telephone": "+216 20 977 024",
+            "review_id": "REV_7331179_p1_10",
+            "reviewer_id": "User_p1_10",
+            "review_title": "Review at Le Farfalle",
+            "review_text": "A. Helmy\nCairo, Egypt96 contributions\n0\nAwesome view, good food\nJun 2016 • Business\nVisited during Ramadan, we had their open buffet offering. The view is to die for, and the service is exceptional. The open buffet had a wide selection of choices to cater to plenty of tastes, and there was a good selection of both local and international cuisines.\n\nI'm not sure what their normal menu looks like, but my experience so far guarantees them a repeat visit the next time I'm in Tunisia.\nRead more\nValue\nService\nFood\nWritten July 31, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:09:48.220744",
+            "restaurant_id": "7331179",
+            "restaurant_name": "Le Farfalle",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "TN"
+                },
+                "streetAddress": "Rue du Lac Biwa",
+                "addressLocality": "Tunis",
+                "postalCode": "1059"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 31
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.83574,
+                "longitude": 10.246286
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a5/7c/14/le-farfalle-les-berges.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Italian"
+            ],
+            "telephone": "+216 20 977 024",
+            "review_id": "REV_7331179_p1_11",
+            "reviewer_id": "User_p1_11",
+            "review_title": "Review at Le Farfalle",
+            "review_text": "TunisianGoldenTraveller\nMontreal, Canada122 contributions\n0\nGood place to eat italian food\nNov 2015 • Friends\nThough a bit expensive for the quantity served, I think that Farfalle is a place where italian food is well done..I love the tagliatelle with the steak and Parmggione cheese...\nWritten June 6, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:09:48.236691",
+            "restaurant_id": "7331179",
+            "restaurant_name": "Le Farfalle",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "TN"
+                },
+                "streetAddress": "Rue du Lac Biwa",
+                "addressLocality": "Tunis",
+                "postalCode": "1059"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 31
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.83574,
+                "longitude": 10.246286
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a5/7c/14/le-farfalle-les-berges.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Italian"
+            ],
+            "telephone": "+216 20 977 024",
+            "review_id": "REV_7331179_p1_12",
+            "reviewer_id": "User_p1_12",
+            "review_title": "Review at Le Farfalle",
+            "review_text": "Linda B\nTunisia5 contributions\n0\nYou should go there one time.\nSep 2015\nBy sharing my experience of visiting this restaurent, I would love to tell you guys this is one of the best restauents that I have visited. It's not that perfect but you should try it.\nReview collected in partnership with this restaurant \nWritten March 19, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:09:48.253372",
+            "restaurant_id": "7331179",
+            "restaurant_name": "Le Farfalle",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d7331179-Reviews-Le_Farfalle-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "TN"
+                },
+                "streetAddress": "Rue du Lac Biwa",
+                "addressLocality": "Tunis",
+                "postalCode": "1059"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 31
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.83574,
+                "longitude": 10.246286
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a5/7c/14/le-farfalle-les-berges.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Italian"
+            ],
+            "telephone": "+216 20 977 024",
+            "review_id": "REV_7331179_p1_13",
+            "reviewer_id": "User_p1_13",
+            "review_title": "Review at Le Farfalle",
+            "review_text": "Katou A\nDubai, United Arab Emirates490 contributions\n0\nGreat spot for week lunches\nAug 2015 • Friends\nI often go there and I'm always glad of the quality and the taste. The menu is simple, neat and you find everything: red meat, poultry and fish. Their homemade lemonade is great! I receommend the pasta anykind of pasta and specially the meat papardelle.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten October 6, 2015",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "restaurant_id": "27382260",
+    "restaurant_name": "Crispy Pizza",
+    "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298085-d27382260-Reviews-Crispy_Pizza-Da_Nang.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g298085-d27382260-Reviews-Crispy_Pizza-Da_Nang.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Da Nang Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 16.056707,
+            "longitude": 108.24235
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/c9/0e/32/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": "N/A",
+        "telephone": "+84378252514"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T05:32:31.066310",
+            "restaurant_id": "27382260",
+            "restaurant_name": "Crispy Pizza",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298085-d27382260-Reviews-Crispy_Pizza-Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298085-d27382260-Reviews-Crispy_Pizza-Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Da Nang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.056707,
+                "longitude": 108.24235
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/c9/0e/32/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": "N/A",
+            "telephone": "+84378252514",
+            "review_id": "REV_27382260_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Crispy Pizza",
+            "review_text": "Luc D\nCat Ba, Vietnam47 contributions\n0\nGreat discovery\nFeb 2024 • Couples\nVery good pizza at a good price. The owner couple is charming with their young daughter. Excellent value for money. Try their fries!\nShow original\nWritten February 17, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

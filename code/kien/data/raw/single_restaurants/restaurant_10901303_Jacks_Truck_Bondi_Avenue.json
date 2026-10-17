@@ -1,0 +1,81 @@
+{
+    "restaurant_id": "10901303",
+    "restaurant_name": "Jack's Truck Bondi Avenue",
+    "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d10901303-Reviews-Jack_s_Truck_Bondi_Avenue-Hanoi.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d10901303-Reviews-Jack_s_Truck_Bondi_Avenue-Hanoi.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "18 Ta Hien",
+            "postalCode": "100000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 21.03479,
+            "longitude": 105.85211
+        },
+        "image": "N/A",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Diner"
+        ],
+        "telephone": "+84 98 499 99 31"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T11:01:34.966232",
+            "restaurant_id": "10901303",
+            "restaurant_name": "Jack's Truck Bondi Avenue",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d10901303-Reviews-Jack_s_Truck_Bondi_Avenue-Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d10901303-Reviews-Jack_s_Truck_Bondi_Avenue-Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "18 Ta Hien",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.03479,
+                "longitude": 105.85211
+            },
+            "image": "N/A",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Diner"
+            ],
+            "telephone": "+84 98 499 99 31",
+            "review_id": "REV_10901303_p1_0",
+            "reviewer_id": "User_10901303_1_0",
+            "review_title": "Review at Jack's Truck Bondi Avenue",
+            "review_text": "edenxo1212\nHanoi, Vietnam71 contributions\n0\nTa Hien Street\nSep 2019\nAfter having myself a cup of beer and enjoy the street for a while. I decided to go here for a meal. Quite good actually. Really enjoy it\nWritten November 8, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

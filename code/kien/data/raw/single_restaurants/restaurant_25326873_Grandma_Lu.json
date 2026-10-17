@@ -1,0 +1,941 @@
+{
+    "restaurant_id": "25326873",
+    "restaurant_name": "Grandma Lu",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25326873-Reviews-Grandma_Lu-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25326873-Reviews-Grandma_Lu-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 11
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.780079,
+            "longitude": 106.7039
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/6b/5b/a4/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "07:00:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "07:00:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "07:00:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "07:00:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "07:00:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "07:00:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "07:00:00",
+                "closes": "21:30:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Asian",
+            "Vietnamese"
+        ],
+        "telephone": "+84 865 243 246"
+    },
+    "reviews_count": 10,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:36:50.758043",
+            "restaurant_id": "25326873",
+            "restaurant_name": "Grandma Lu",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25326873-Reviews-Grandma_Lu-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25326873-Reviews-Grandma_Lu-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.780079,
+                "longitude": 106.7039
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/6b/5b/a4/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 865 243 246",
+            "review_id": "REV_25326873_p1_0",
+            "reviewer_id": "User_25326873_1_0",
+            "review_title": "Review at Grandma Lu",
+            "review_text": "WanderingCE124727\n25 contributions\n0\nA great bahn mi!\nDec 2025 • Couples\nCute little cafe in district 1, it was recommended by our hotel. We had grandma lu’s bahn mi which was really tasty. Really friendly staff who speak English. Would recommend\nWritten December 2, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:36:50.772389",
+            "restaurant_id": "25326873",
+            "restaurant_name": "Grandma Lu",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25326873-Reviews-Grandma_Lu-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25326873-Reviews-Grandma_Lu-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.780079,
+                "longitude": 106.7039
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/6b/5b/a4/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 865 243 246",
+            "review_id": "REV_25326873_p1_1",
+            "reviewer_id": "User_25326873_1_1",
+            "review_title": "Review at Grandma Lu",
+            "review_text": "Monica N\n2 contributions\n0\nBest Banh Mi\nJun 2025 • Family\nGrandma Lu makes the best banh mi in Vietnam! You have to try it when you visit HCMC. My whole family absolutely loved it!!!!!\nWritten June 27, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:36:50.784211",
+            "restaurant_id": "25326873",
+            "restaurant_name": "Grandma Lu",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25326873-Reviews-Grandma_Lu-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25326873-Reviews-Grandma_Lu-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.780079,
+                "longitude": 106.7039
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/6b/5b/a4/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 865 243 246",
+            "review_id": "REV_25326873_p1_2",
+            "reviewer_id": "User_25326873_1_2",
+            "review_title": "Review at Grandma Lu",
+            "review_text": "Michael O\nSunshine Coast, Australia401 contributions\n0\nThe best banh mi\nApr 2025 • Couples\nWe were staying in district one and the hotel we stayed at recommended Grandma Lu’s for a meal. It was a great recommendation, we ended up having breakfast there four times and tried a beef hot pot for dinner as well. The meals were all great value served with top quality coffee. The staff were friendly, with the lady speaking very good English that helped us, not only with ordering but also other tourist information.\nRead more\nWritten April 15, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:36:50.797729",
+            "restaurant_id": "25326873",
+            "restaurant_name": "Grandma Lu",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25326873-Reviews-Grandma_Lu-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25326873-Reviews-Grandma_Lu-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.780079,
+                "longitude": 106.7039
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/6b/5b/a4/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 865 243 246",
+            "review_id": "REV_25326873_p1_3",
+            "reviewer_id": "User_25326873_1_3",
+            "review_title": "Review at Grandma Lu",
+            "review_text": "Luthfil Hadi Ng\nSingapore, Singapore20 contributions\n0\nGrandma Lu for breakfast\nNov 2024 • Couples\nI ordered the famous Vietnamese egg coffee, Thai milk tea, beef stew and chicken banh mi. It was delicious. This is my second time coming to this simple and humble Vietnamese restaurant. The staff are polite and able to converse in English. All in all, I would recommend this place to those who are living in District 1. Give “Grandma Lu” a try for authentic Vietnamese cuisine. Thank you and see you soon Vietnam (HCM) !\nRead more\nWritten November 15, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:36:50.811238",
+            "restaurant_id": "25326873",
+            "restaurant_name": "Grandma Lu",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25326873-Reviews-Grandma_Lu-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25326873-Reviews-Grandma_Lu-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.780079,
+                "longitude": 106.7039
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/6b/5b/a4/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 865 243 246",
+            "review_id": "REV_25326873_p1_4",
+            "reviewer_id": "User_25326873_1_4",
+            "review_title": "Review at Grandma Lu",
+            "review_text": "Odyssey43265340643\n1 contribution\n0\nGrandma Lu - bread and coffee\nDec 2023 • Solo\nEveryone should come here to eat fresh bread, delicious, hot bread to blow and eat. Baked in a brick oven, very interesting and strange. Everyone who comes here should eat the shredded chicken sandwich, it's delicious. The staff are also cute and friendly. There are also lucky money envelopes and gifts made from recycled materials, which are very environmentally friendly. Should come hen\nRead more\nShow original\nWritten January 30, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:36:50.824044",
+            "restaurant_id": "25326873",
+            "restaurant_name": "Grandma Lu",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25326873-Reviews-Grandma_Lu-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25326873-Reviews-Grandma_Lu-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.780079,
+                "longitude": 106.7039
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/6b/5b/a4/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 865 243 246",
+            "review_id": "REV_25326873_p1_5",
+            "reviewer_id": "User_25326873_1_5",
+            "review_title": "Review at Grandma Lu",
+            "review_text": "Den S\n6 contributions\n0\nClean, Great Dishes, Friendly Staff\nJan 2024 • Business\nClean hotel, harmonious design, with a restaurant at the ground floor that serves the best Beef Stew with Banh Mi I've ever had. Not to mention, it's eco-friendly. Packs food in paper bags, and their fresh pomegranate juice served in glasses and paper straws. Oh and we can't forget that the staff are super friendly. I'm impressed.\nWritten January 7, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:36:50.836043",
+            "restaurant_id": "25326873",
+            "restaurant_name": "Grandma Lu",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25326873-Reviews-Grandma_Lu-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25326873-Reviews-Grandma_Lu-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.780079,
+                "longitude": 106.7039
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/6b/5b/a4/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 865 243 246",
+            "review_id": "REV_25326873_p1_6",
+            "reviewer_id": "User_25326873_1_6",
+            "review_title": "Review at Grandma Lu",
+            "review_text": "Melanie Mel\nSydney, Australia5 contributions\n0\nDelicious banh mi🙌🏻🙌🏻\nNov 2023 • Friends\nDelicious banh mi☺️☺️☺️ crunchy and fresh bread plus also vegetarian sausage ones xx cozy spot with friendly staff\nWritten November 18, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:36:50.848175",
+            "restaurant_id": "25326873",
+            "restaurant_name": "Grandma Lu",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25326873-Reviews-Grandma_Lu-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25326873-Reviews-Grandma_Lu-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.780079,
+                "longitude": 106.7039
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/6b/5b/a4/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 865 243 246",
+            "review_id": "REV_25326873_p1_7",
+            "reviewer_id": "User_25326873_1_7",
+            "review_title": "Review at Grandma Lu",
+            "review_text": "Charmaine L\n3 contributions\n0\nExcellent banh mi\nJun 2023 • Friends\nBanh Mi was excellent. Loved the crispiness of the bread loaves. Service was prompt and staff were very friendly. Highly recommend dining here.\nWritten June 19, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:36:50.862179",
+            "restaurant_id": "25326873",
+            "restaurant_name": "Grandma Lu",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25326873-Reviews-Grandma_Lu-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25326873-Reviews-Grandma_Lu-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.780079,
+                "longitude": 106.7039
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/6b/5b/a4/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 865 243 246",
+            "review_id": "REV_25326873_p1_8",
+            "reviewer_id": "User_25326873_1_8",
+            "review_title": "Review at Grandma Lu",
+            "review_text": "Víctor M\nLondon, United Kingdom57 contributions\n0\nSuper Tasty Banh Mì, Freshly baked on a brick oven. Also a well located and budget friendly home stay.\nApr 2023 • Solo\nThis Bakery & Hostel is located a few steps from Little Japan. It's quite well located nearby to the main attractions of the city.\n\nAmazing an super tasty freshly baked Banh Mì. Friendly staff, reasonable cost for laundry. The room is a bit small but quite enough for one person.\n\nShared bathroom (Japanese Style) on every floor and there is a balcony on the third floor.\n\nOn the ground floor, you can find a bakery with a wood oven, which makes the Banh Mì from this place always fresh and with a unique flavour.\nRead more\nWritten April 27, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T00:36:50.879504",
+            "restaurant_id": "25326873",
+            "restaurant_name": "Grandma Lu",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25326873-Reviews-Grandma_Lu-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25326873-Reviews-Grandma_Lu-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.780079,
+                "longitude": 106.7039
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/6b/5b/a4/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 865 243 246",
+            "review_id": "REV_25326873_p1_9",
+            "reviewer_id": "User_25326873_1_9",
+            "review_title": "Review at Grandma Lu",
+            "review_text": "Tim B\nSydney, Australia4 contributions\n0\nBest Banh Mi\nApr 2023\nBest Banh Mi in Saigon. Toasted but still fluffy. Get the Grandma Lu signature. Wonderful staff with great coffee.\nValue\nService\nFood\nWritten April 20, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

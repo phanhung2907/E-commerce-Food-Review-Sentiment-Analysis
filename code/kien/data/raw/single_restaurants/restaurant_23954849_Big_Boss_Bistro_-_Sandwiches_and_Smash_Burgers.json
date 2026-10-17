@@ -1,0 +1,440 @@
+{
+    "restaurant_id": "23954849",
+    "restaurant_name": "Big Boss Bistro - Sandwiches and Smash Burgers",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23954849-Reviews-Big_Boss_Bistro_Sandwiches_and_Smash_Burgers-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23954849-Reviews-Big_Boss_Bistro_Sandwiches_and_Smash_Burgers-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "45 Đ. Trần Hưng Đạo",
+            "addressLocality": "Ho Chi Minh City",
+            "postalCode": "700000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.8,
+            "reviewCount": 4
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.769671,
+            "longitude": 106.69713
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/99/2b/bf/italian-sub.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "09:00:00",
+                "closes": "21:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "09:00:00",
+                "closes": "21:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "09:00:00",
+                "closes": "21:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "09:00:00",
+                "closes": "21:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "09:00:00",
+                "closes": "21:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "09:00:00",
+                "closes": "21:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "09:00:00",
+                "closes": "21:45:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "American",
+            "Fast Food",
+            "Deli"
+        ],
+        "telephone": "+84 359659765"
+    },
+    "reviews_count": 4,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T23:43:23.879842",
+            "restaurant_id": "23954849",
+            "restaurant_name": "Big Boss Bistro - Sandwiches and Smash Burgers",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23954849-Reviews-Big_Boss_Bistro_Sandwiches_and_Smash_Burgers-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23954849-Reviews-Big_Boss_Bistro_Sandwiches_and_Smash_Burgers-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "45 Đ. Trần Hưng Đạo",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 4
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.769671,
+                "longitude": 106.69713
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/99/2b/bf/italian-sub.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Fast Food",
+                "Deli"
+            ],
+            "telephone": "+84 359659765",
+            "review_id": "REV_23954849_p1_0",
+            "reviewer_id": "User_23954849_1_0",
+            "review_title": "Review at Big Boss Bistro - Sandwiches and Smash Burgers",
+            "review_text": "Soffy2014\nPenang Island, Malaysia167 contributions\n0\nBest Sandwiches\nApr 2024 • Couples\nVery fresh and flavourful sandwiches. We enjoyed the Dr pepper but do check with them what they have available. Kim had a meat ball sandwich and I had Phil steak with jalapenos. Yummy yummy 😋\nWritten April 15, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T23:43:23.890177",
+            "restaurant_id": "23954849",
+            "restaurant_name": "Big Boss Bistro - Sandwiches and Smash Burgers",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23954849-Reviews-Big_Boss_Bistro_Sandwiches_and_Smash_Burgers-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23954849-Reviews-Big_Boss_Bistro_Sandwiches_and_Smash_Burgers-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "45 Đ. Trần Hưng Đạo",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 4
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.769671,
+                "longitude": 106.69713
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/99/2b/bf/italian-sub.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Fast Food",
+                "Deli"
+            ],
+            "telephone": "+84 359659765",
+            "review_id": "REV_23954849_p1_1",
+            "reviewer_id": "User_23954849_1_1",
+            "review_title": "Review at Big Boss Bistro - Sandwiches and Smash Burgers",
+            "review_text": "Andrea V\n6 contributions\n0\nCozy lunch spot you should check out\nMar 2024 • Solo\nA cozy place and super cute staff. It was a bit tricky to find as it was on the second floor of a building, but found it after a bit of searching. Very good food. Recommended\nShow original\nWritten March 8, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T23:43:23.913138",
+            "restaurant_id": "23954849",
+            "restaurant_name": "Big Boss Bistro - Sandwiches and Smash Burgers",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23954849-Reviews-Big_Boss_Bistro_Sandwiches_and_Smash_Burgers-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23954849-Reviews-Big_Boss_Bistro_Sandwiches_and_Smash_Burgers-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "45 Đ. Trần Hưng Đạo",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 4
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.769671,
+                "longitude": 106.69713
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/99/2b/bf/italian-sub.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Fast Food",
+                "Deli"
+            ],
+            "telephone": "+84 359659765",
+            "review_id": "REV_23954849_p1_2",
+            "reviewer_id": "User_23954849_1_2",
+            "review_title": "Review at Big Boss Bistro - Sandwiches and Smash Burgers",
+            "review_text": "Mizu\nHo Chi Minh City, Vietnam7 contributions\n0\nGreat food and friendly staff\nSep 2023 • Friends\nGreat spot. Restaurant is in 1st floor of an old bulding close to Ben Thanh market. Food was amazing, they also have Cherry Ale draft beer which is soooo good.\nValue\nService\nFood\nAtmosphere\nWritten October 23, 2023\nJames H\nOh, hey, thanks for the review! Yeah, that Cherry Ale is delicious. One of our favorites. Glad you had a good time. Maybe we'll see you again soon!\nRead more\nWritten November 6, 2023\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T23:43:23.928083",
+            "restaurant_id": "23954849",
+            "restaurant_name": "Big Boss Bistro - Sandwiches and Smash Burgers",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23954849-Reviews-Big_Boss_Bistro_Sandwiches_and_Smash_Burgers-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d23954849-Reviews-Big_Boss_Bistro_Sandwiches_and_Smash_Burgers-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "45 Đ. Trần Hưng Đạo",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 4
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.769671,
+                "longitude": 106.69713
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/99/2b/bf/italian-sub.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "21:45:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Fast Food",
+                "Deli"
+            ],
+            "telephone": "+84 359659765",
+            "review_id": "REV_23954849_p1_3",
+            "reviewer_id": "User_23954849_1_3",
+            "review_title": "Review at Big Boss Bistro - Sandwiches and Smash Burgers",
+            "review_text": "jason m\nSanta Rosa, California10 contributions\n0\nSandwiches in Saigon.\nAug 2023 • Friends\nAmazing sandwiches and service. By far the best place I've eating at in Vietnam. Amazing. My froends and I were very happy to have found this place.\nWritten October 21, 2023\nJames H\nThank you so much for the review! We're really glad you liked our spot, and had a good time! Thanks for coming in!\nWritten November 6, 2023\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

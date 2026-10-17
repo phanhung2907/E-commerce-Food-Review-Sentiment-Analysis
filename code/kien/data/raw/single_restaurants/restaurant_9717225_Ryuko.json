@@ -1,0 +1,800 @@
+{
+    "restaurant_id": "9717225",
+    "restaurant_name": "Ryuko",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9717225-Reviews-Ryuko-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9717225-Reviews-Ryuko-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "115 Le Thanh Ton,Dist 1 HCMC 115 Le Thanh Ton",
+            "addressLocality": "Ho Chi Minh City",
+            "postalCode": "70000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 3.6,
+            "reviewCount": 24
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.77484,
+            "longitude": 106.69991
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6c/cd/b5/ryuko.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "11:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "17:30:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "11:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "17:30:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "11:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "17:30:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "11:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "17:30:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "11:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "17:30:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "11:00:00",
+                "closes": "23:00:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": "N/A",
+        "telephone": "+84 28 3939 0999"
+    },
+    "reviews_count": 6,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T00:47:27.096263",
+            "restaurant_id": "9717225",
+            "restaurant_name": "Ryuko",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9717225-Reviews-Ryuko-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9717225-Reviews-Ryuko-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "115 Le Thanh Ton,Dist 1 HCMC 115 Le Thanh Ton",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "70000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.6,
+                "reviewCount": 24
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77484,
+                "longitude": 106.69991
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6c/cd/b5/ryuko.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 28 3939 0999",
+            "review_id": "REV_9717225_p1_0",
+            "reviewer_id": "User_9717225_1_0",
+            "review_title": "Review at Ryuko",
+            "review_text": "Evelynne G\nMelbourne, Australia807 contributions\n0\nSmall Japanese Restaraunt serving good food\nNov 2017 • Business\nOur business associate booked for the six of us for dinner. We had B B Q Japanese style. As we did not do the ordering we ate\nwhat was ordered. The steak was from Japan and USA. The Japanese steak was by far the best. We wrapped each piece in a lettuce leaf to eat it.We sat Japanese style so if you have trouble getting up and down you would need to ask to sit at a table with chairs\nRead more\nWritten November 17, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T00:47:27.112250",
+            "restaurant_id": "9717225",
+            "restaurant_name": "Ryuko",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9717225-Reviews-Ryuko-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9717225-Reviews-Ryuko-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "115 Le Thanh Ton,Dist 1 HCMC 115 Le Thanh Ton",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "70000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.6,
+                "reviewCount": 24
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77484,
+                "longitude": 106.69991
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6c/cd/b5/ryuko.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 28 3939 0999",
+            "review_id": "REV_9717225_p1_1",
+            "reviewer_id": "User_9717225_1_1",
+            "review_title": "Review at Ryuko",
+            "review_text": "mac d\n1 contribution\n0\nOhh dear ! No tampura here and no taste\nOct 2017 • Couples\nI Love Japanese food , but this place puts the cuisine to shame. We had beef croquettes, pork katsu and a fish pancake and all of it tasted old and awful. The staff did not care and we're not friendly or polite \nThere are many nice places to get your fill of tasty japanese, this place is not one of them.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten October 25, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T00:47:27.127241",
+            "restaurant_id": "9717225",
+            "restaurant_name": "Ryuko",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9717225-Reviews-Ryuko-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9717225-Reviews-Ryuko-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "115 Le Thanh Ton,Dist 1 HCMC 115 Le Thanh Ton",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "70000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.6,
+                "reviewCount": 24
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77484,
+                "longitude": 106.69991
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6c/cd/b5/ryuko.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 28 3939 0999",
+            "review_id": "REV_9717225_p1_2",
+            "reviewer_id": "User_9717225_1_2",
+            "review_title": "Review at Ryuko",
+            "review_text": "Biologywelch\nLeuchars, United Kingdom91 contributions\n0\nAssorted internal organs! Best part of cheek!\nJun 2017 • Couples\nThis was our first time visiting this type of Japanese BBQ restaurant and it was utterly delicious. \n\nWe ordered a selection of unusual cuts of meat - diaphragm, best part of tongue, cheek... Assorted internal organs! First stomach! The list goes on! You may be thinking, 'that's a gimmick for westerners' (if you're a Westerner), but you'd be WRONG! Each piece of meat was cut ultra thin, with immaculate precision, and presented beautifully with some garnish. The marinade on the meat was delicious and as the meat cooked on the BBQ you could see it crisp up and dripping it's delicious juices into the fire, the smell was delicious...\n\nIt's making me hungry just thinking about it! The sweet marinade of the melt in your mouth cuts of meat, cooked over BBQ was exquisite. I would thoroughly recommend this restaurant, particularly to other Brits if you are up for something a bit different and nevertheless mouth-wateringly tasty. Please set one up in Colchester, Essex!\nRead more\nReview collected in partnership with this restaurant \nWritten June 17, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T00:47:27.138939",
+            "restaurant_id": "9717225",
+            "restaurant_name": "Ryuko",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9717225-Reviews-Ryuko-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9717225-Reviews-Ryuko-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "115 Le Thanh Ton,Dist 1 HCMC 115 Le Thanh Ton",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "70000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.6,
+                "reviewCount": 24
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77484,
+                "longitude": 106.69991
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6c/cd/b5/ryuko.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 28 3939 0999",
+            "review_id": "REV_9717225_p1_3",
+            "reviewer_id": "User_9717225_1_3",
+            "review_title": "Review at Ryuko",
+            "review_text": "swagat2015\nSingapore125 contributions\n0\ngood Japanese fare\nJun 2016 • Solo\nthis is a nice place for some japanese food, the prices are very easy on the wallet and the ambiance is good\nReview collected in partnership with this restaurant \nWritten June 30, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T00:47:27.151610",
+            "restaurant_id": "9717225",
+            "restaurant_name": "Ryuko",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9717225-Reviews-Ryuko-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9717225-Reviews-Ryuko-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "115 Le Thanh Ton,Dist 1 HCMC 115 Le Thanh Ton",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "70000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.6,
+                "reviewCount": 24
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77484,
+                "longitude": 106.69991
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6c/cd/b5/ryuko.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 28 3939 0999",
+            "review_id": "REV_9717225_p1_4",
+            "reviewer_id": "User_9717225_1_4",
+            "review_title": "Review at Ryuko",
+            "review_text": "Rhonda R\nMelbourne, Australia46 contributions\n0\nBeautiful Japanese food\nJun 2016 • Couples\nWe stayed in Ho Chi Minh for 4 nights and ate here 3 times. Food was amazing, so fresh. Try the superb egg salad. We had sirloin barbecue beef twice and a stock pot one other time, the mushrooms were the best I have ever eaten. I usually don't like mushrooms. \n\nStaff have limited English, but are attentive and very efficient. Prices are also very reasonable.\n\nWould highly recommend.\nRead more\nWritten June 3, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T00:47:27.164610",
+            "restaurant_id": "9717225",
+            "restaurant_name": "Ryuko",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9717225-Reviews-Ryuko-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d9717225-Reviews-Ryuko-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "115 Le Thanh Ton,Dist 1 HCMC 115 Le Thanh Ton",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "70000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.6,
+                "reviewCount": 24
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.77484,
+                "longitude": 106.69991
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6c/cd/b5/ryuko.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 28 3939 0999",
+            "review_id": "REV_9717225_p1_5",
+            "reviewer_id": "User_9717225_1_5",
+            "review_title": "Review at Ryuko",
+            "review_text": "edt0\nSingapore, Singapore92 contributions\n0\nGood Japanese restaurant beside Norfolk Hotel\nMay 2016 • Business\nDecided to visit this restaurant for dinner since it is just beside the Norfolk Hotel where I stayed.\n\nFood is good here. We ordered the Gokujyou Shiokawa Tan, Gyubara, Jyou Harami, Tontoro etc.. My Japanese colleagues also agreed with my comments.\n\nFood is inexpensive, and the service is good. Nice place to chill out after work if you decide not to go far for food.\nRead more\nWritten May 12, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

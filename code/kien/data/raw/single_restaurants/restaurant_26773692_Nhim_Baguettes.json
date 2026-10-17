@@ -1,0 +1,167 @@
+{
+    "restaurant_id": "26773692",
+    "restaurant_name": "Nhim Baguettes",
+    "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d26773692-Reviews-Nhim_Baguettes-Hanoi.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d26773692-Reviews-Nhim_Baguettes-Hanoi.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "12a Đ. Tây Hồ, Quảng An, Tây Hồ"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 21.065714,
+            "longitude": 105.82545
+        },
+        "image": "N/A",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "08:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "08:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "08:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "08:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "08:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "08:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "08:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "American",
+            "British"
+        ],
+        "telephone": "+84 92 700 90 69"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T09:04:05.116976",
+            "restaurant_id": "26773692",
+            "restaurant_name": "Nhim Baguettes",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d26773692-Reviews-Nhim_Baguettes-Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d26773692-Reviews-Nhim_Baguettes-Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "12a Đ. Tây Hồ, Quảng An, Tây Hồ"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.065714,
+                "longitude": 105.82545
+            },
+            "image": "N/A",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "American",
+                "British"
+            ],
+            "telephone": "+84 92 700 90 69",
+            "review_id": "REV_26773692_p1_0",
+            "reviewer_id": "User_26773692_1_0",
+            "review_title": "Review at Nhim Baguettes",
+            "review_text": "r2thebizel\nPattaya, Thailand5418 contributions\n0\nNhim Baguettes: Beautiful Breakfast\nNov 2023 • Couples\nCute place with superb breakfast options and smoothies. Vegetarian can eat well here too with a lovely waitress and friendly owner.\nWritten December 10, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

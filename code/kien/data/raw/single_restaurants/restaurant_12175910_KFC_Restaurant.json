@@ -1,0 +1,77 @@
+{
+    "restaurant_id": "12175910",
+    "restaurant_name": "KFC Restaurant",
+    "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d12175910-Reviews-KFC_Restaurant-Hanoi.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d12175910-Reviews-KFC_Restaurant-Hanoi.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "292 Ba Trieu Street, Le Dai Hanh Ward, Hai Ba Trung District"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 21.01259,
+            "longitude": 105.8491
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/84/0d/26/photo5jpg.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "International"
+        ],
+        "telephone": "+84 8 3848 9828"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T08:45:56.722489",
+            "restaurant_id": "12175910",
+            "restaurant_name": "KFC Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d12175910-Reviews-KFC_Restaurant-Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d12175910-Reviews-KFC_Restaurant-Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "292 Ba Trieu Street, Le Dai Hanh Ward, Hai Ba Trung District"
+            },
+            "aggregateRating": {
+                "ratingValue": "N/A",
+                "reviewCount": "N/A"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.01259,
+                "longitude": 105.8491
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/84/0d/26/photo5jpg.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "International"
+            ],
+            "telephone": "+84 8 3848 9828",
+            "review_id": "REV_12175910_p1_0",
+            "reviewer_id": "User_12175910_1_0",
+            "review_title": "Review at KFC Restaurant",
+            "review_text": "eileent3821\nKuala Lumpur, Malaysia2474 contributions\n1\nWORST KFC EVER\nSep 2019 • Solo\nOrdered the Original and the chicken was tasteless without a hint of the original flavoring at all. The only thing good is that they give u gloves to use.\nWritten September 15, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

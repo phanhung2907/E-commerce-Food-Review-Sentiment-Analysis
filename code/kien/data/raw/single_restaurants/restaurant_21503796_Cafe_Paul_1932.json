@@ -1,0 +1,79 @@
+{
+    "restaurant_id": "21503796",
+    "restaurant_name": "Cafe Paul 1932",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d21503796-Reviews-Cafe_Paul_1932-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d21503796-Reviews-Cafe_Paul_1932-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 3
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.777484,
+            "longitude": 106.704544
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/5d/ba/ee/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "$",
+        "servesCuisine": [
+            "Cafe"
+        ],
+        "telephone": "+84 28 3620 3771"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T01:36:40.761436",
+            "restaurant_id": "21503796",
+            "restaurant_name": "Cafe Paul 1932",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d21503796-Reviews-Cafe_Paul_1932-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d21503796-Reviews-Cafe_Paul_1932-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 3
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.777484,
+                "longitude": 106.704544
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/5d/ba/ee/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe"
+            ],
+            "telephone": "+84 28 3620 3771",
+            "review_id": "REV_21503796_p1_0",
+            "reviewer_id": "User_21503796_1_0",
+            "review_title": "Review at Cafe Paul 1932",
+            "review_text": "andrzejsierpinski\nWarsaw, Poland17 contributions\n0\nCoffee haven\nJun 2025 • Couples\nOne of the must-see places in Saigon. Wonderful interior takes you back to years 30 of XX century. Coffee served there makes you so happy that nothing else is necessary.\nGo there and you'll be happy.\nWritten April 23, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

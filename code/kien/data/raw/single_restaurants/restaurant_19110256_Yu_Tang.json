@@ -1,0 +1,83 @@
+{
+    "restaurant_id": "19110256",
+    "restaurant_name": "Yu Tang",
+    "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d19110256-Reviews-Yu_Tang-Hanoi.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d19110256-Reviews-Yu_Tang-Hanoi.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "2C Thai Phien Hai Ba Trung",
+            "postalCode": "100000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 21.01061,
+            "longitude": 105.85116
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/7b/54/45/getlstd-property-photo.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "$",
+        "servesCuisine": [
+            "Asian",
+            "Taiwanese"
+        ],
+        "telephone": "+84 24 3200 8352"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T06:17:28.440681",
+            "restaurant_id": "19110256",
+            "restaurant_name": "Yu Tang",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d19110256-Reviews-Yu_Tang-Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d19110256-Reviews-Yu_Tang-Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "2C Thai Phien Hai Ba Trung",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.01061,
+                "longitude": 105.85116
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/7b/54/45/getlstd-property-photo.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Taiwanese"
+            ],
+            "telephone": "+84 24 3200 8352",
+            "review_id": "REV_19110256_p1_0",
+            "reviewer_id": "User_19110256_1_0",
+            "review_title": "Review at Yu Tang",
+            "review_text": "minh Nt\nHanoi, Vietnam156 contributions\n0\nnice dimsum\nDec 2019 • Friends\nthis franchise is near y office so i often visit it for a quick lunch with friends or colleagues.\n\nlimited menu of taiwanese styled dim sum, beef noodles and stew pork rices and of course taiwanese milkteas.\nPrices are not cheap but not too pricey. \nOne thing i realy don't like about this shop is that everytime i'm there, at least one disk in the menu we select is out of stock 😫.\n\nalso, can yu tang pls. put less MG in your foods\nRead more\nWritten December 11, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

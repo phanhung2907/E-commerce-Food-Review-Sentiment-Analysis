@@ -1,0 +1,535 @@
+{
+    "restaurant_id": "34068341",
+    "restaurant_name": "EM Restobar",
+    "city": "26. Ganh Dau Restaurants\nSee all 85 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d34068341-Reviews-EM_Restobar-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d34068341-Reviews-EM_Restobar-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "Grand World, Bãi Dài Grand World",
+            "addressLocality": "Ganh Dau"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 5
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.324395,
+            "longitude": 103.85344
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/e8/1d/8c/em-restobar-is-a-cozy.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:00:00",
+                "closes": "23:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Bar",
+            "International",
+            "Asian",
+            "Korean",
+            "Russian"
+        ],
+        "telephone": "+84 96 771 01 03"
+    },
+    "reviews_count": 5,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:06:28.900163",
+            "restaurant_id": "34068341",
+            "restaurant_name": "EM Restobar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d34068341-Reviews-EM_Restobar-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "26. Ganh Dau Restaurants\nSee all 85 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d34068341-Reviews-EM_Restobar-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Grand World, Bãi Dài Grand World",
+                "addressLocality": "Ganh Dau"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.324395,
+                "longitude": 103.85344
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/e8/1d/8c/em-restobar-is-a-cozy.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Bar",
+                "International",
+                "Asian",
+                "Korean",
+                "Russian"
+            ],
+            "telephone": "+84 96 771 01 03",
+            "review_id": "REV_34068341_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at EM Restobar",
+            "review_text": "Sơn Â\n2 contributions\n0\nPerfect\nApr 2026 • Friends\nNUMBER 1 , You can Try , I really love this here , Food very good and drink good too i think peple try\nWritten April 20, 2026\nАгдас Г\nCảm ơn bạn rất nhiều vì đánh giá tuyệt vời! Tôi rất vui khi bạn yêu thích món ăn và đồ uống tại EM Restobar. Chúng tôi luôn cố gắng mang đến đồ ăn ngon, cocktail hấp dẫn và dịch vụ tốt nhất. Nếu bạn đang tìm nhà hàng ngon ở Phú Quốc, quán ăn ngon tại Grand World hoặc nhà hàng Âu – Nga cho gia đình và bạn bè, EM Restobar luôn sẵn sàng chào đón bạn. Hẹn gặp lại bạn!\nRead more\nWritten July 19, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:06:28.918274",
+            "restaurant_id": "34068341",
+            "restaurant_name": "EM Restobar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d34068341-Reviews-EM_Restobar-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "26. Ganh Dau Restaurants\nSee all 85 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d34068341-Reviews-EM_Restobar-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Grand World, Bãi Dài Grand World",
+                "addressLocality": "Ganh Dau"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.324395,
+                "longitude": 103.85344
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/e8/1d/8c/em-restobar-is-a-cozy.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Bar",
+                "International",
+                "Asian",
+                "Korean",
+                "Russian"
+            ],
+            "telephone": "+84 96 771 01 03",
+            "review_id": "REV_34068341_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at EM Restobar",
+            "review_text": "Herlia\nBusan, South Korea6 contributions\n0\nHoney is fine.\nApr 2026 • Solo\nChairman recommended to go for dinner and it was perfectly fine here!\nThe interior feels simple and classic, but it's not my taste, it's very emotional and beautiful.\nI got a salad, but it tastes amazing, but it tastes silver. Drinks are good.\nThe staff is very friendly and completely satisfied with the service!\nIf you come to Fukuoka, it's a good place to take a shot once. 😆\nRead more\nTranslated from Korean\nShow original\nWritten April 19, 2026\nАгдас Г\n소중한 후기 감사합니다! 혼자 편하게 저녁 식사를 즐기시고, 샐러드와 음료, 분위기와 서비스까지 만족하셨다니 정말 기쁩니다. EM Restobar는 혼밥은 물론 가족, 친구, 연인과 함께 방문하기 좋은 푸꾸옥 맛집이자 그랜드월드 분위기 좋은 레스토랑입니다. 다음에도 맛있는 유럽 요리와 러시아 요리를 준비해 기다리겠습니다. 꼭 다시 방문해 주세요!\nRead more\nTranslate response\nWritten July 19, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:06:28.934274",
+            "restaurant_id": "34068341",
+            "restaurant_name": "EM Restobar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d34068341-Reviews-EM_Restobar-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "26. Ganh Dau Restaurants\nSee all 85 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d34068341-Reviews-EM_Restobar-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Grand World, Bãi Dài Grand World",
+                "addressLocality": "Ganh Dau"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.324395,
+                "longitude": 103.85344
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/e8/1d/8c/em-restobar-is-a-cozy.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Bar",
+                "International",
+                "Asian",
+                "Korean",
+                "Russian"
+            ],
+            "telephone": "+84 96 771 01 03",
+            "review_id": "REV_34068341_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at EM Restobar",
+            "review_text": "N Y\n2 contributions\n0\nvery interesting\nApr 2026 • Friends\nThe food was delicious and beautifully presented. My favorite was the lasagna.\nWritten April 19, 2026\nАгдас Г\nThank you for your review! I’m glad you enjoyed the food, beautiful presentation and especially our lasagna. We will be happy to welcome you back to EM Restobar, a European and Russian restaurant in Grand World, Phu Quoc. See you again!\nRead more\nWritten July 19, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:06:28.954278",
+            "restaurant_id": "34068341",
+            "restaurant_name": "EM Restobar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d34068341-Reviews-EM_Restobar-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "26. Ganh Dau Restaurants\nSee all 85 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d34068341-Reviews-EM_Restobar-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Grand World, Bãi Dài Grand World",
+                "addressLocality": "Ganh Dau"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.324395,
+                "longitude": 103.85344
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/e8/1d/8c/em-restobar-is-a-cozy.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Bar",
+                "International",
+                "Asian",
+                "Korean",
+                "Russian"
+            ],
+            "telephone": "+84 96 771 01 03",
+            "review_id": "REV_34068341_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at EM Restobar",
+            "review_text": "Tran\nPhu Quoc Island, Vietnam13 contributions\n0\nPasta (pasta) Steak (steak)\nApr 2026 • Family\nThe food was delicious and the atmosphere was really good!\nEm Restobar is stylish and comfortable, making it a great place to come with friends and family.\nEspecially the food was delicious. The materials are fresh and the plays are beautiful, so it was good for photographing.\nThe staff was friendly and the service was quick and attentive so we could eat well.\nIf you're looking for an atmospheric restaurant in Fuegook, I definitely recommend Em Restobar!\nWhere I want to visit again next time.\nRead more\nTranslated from Korean\nShow original\nWritten April 17, 2026\nАгдас Г\n소중한 후기 감사합니다! 파스타와 스테이크, 분위기와 서비스까지 만족하셨다니 정말 기쁩니다. EM Restobar는 가족이나 친구들과 편안하게 방문하기 좋은 푸꾸옥 맛집이자 그랜드월드 레스토랑입니다. 다음에도 맛있는 유럽 요리와 러시아 요리를 준비해 기다리겠습니다. 꼭 다시 방문해 주세요!\nRead more\nTranslate response\nWritten July 19, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:06:28.972469",
+            "restaurant_id": "34068341",
+            "restaurant_name": "EM Restobar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d34068341-Reviews-EM_Restobar-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "26. Ganh Dau Restaurants\nSee all 85 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d34068341-Reviews-EM_Restobar-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Grand World, Bãi Dài Grand World",
+                "addressLocality": "Ganh Dau"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.324395,
+                "longitude": 103.85344
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/e8/1d/8c/em-restobar-is-a-cozy.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Bar",
+                "International",
+                "Asian",
+                "Korean",
+                "Russian"
+            ],
+            "telephone": "+84 96 771 01 03",
+            "review_id": "REV_34068341_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at EM Restobar",
+            "review_text": "Пономарева А\n4 contributions\n0\nIncredible food in northern Fukuoka\nMar 2026 • Couples\nGreat food while we're having the best time on the island! European pitch, high standards, comfort and attention of service personnel! Highly recommended)\nTranslated from Russian\nShow original\nWritten March 25, 2026\nАгдас Г\nСпасибо большое за такой отзыв! Очень приятно, что вы так высоко оценили нашу кухню, подачу и работу персонала. Будем рады видеть вас в EM Restobar снова!\nRead more\nTranslate response\nWritten July 19, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

@@ -1,0 +1,420 @@
+{
+    "restaurant_id": "34281773",
+    "restaurant_name": "GU Bình Dân",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34281773-Reviews-GU_Binh_Dan-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34281773-Reviews-GU_Binh_Dan-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 4
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.8158,
+            "longitude": 106.62519
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/6d/05/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "16:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "16:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "16:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "16:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "16:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "16:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "16:00:00",
+                "closes": "02:00:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Vietnamese"
+        ],
+        "telephone": "+84 94 444 45 43"
+    },
+    "reviews_count": 4,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T07:06:00.228595",
+            "restaurant_id": "34281773",
+            "restaurant_name": "GU Bình Dân",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34281773-Reviews-GU_Binh_Dan-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34281773-Reviews-GU_Binh_Dan-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 4
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.8158,
+                "longitude": 106.62519
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/6d/05/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 94 444 45 43",
+            "review_id": "REV_34281773_p1_0",
+            "reviewer_id": "User_34281773_1_0",
+            "review_title": "Review at GU Bình Dân",
+            "review_text": "Vacation65894688971\n7 contributions\n0\nDrinking and chatting\nAug 2026 • Friends\nDelicious and affordable food. Okk\nTranslated from Vietnamese\nShow original\nWritten September 28, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T07:06:00.228595",
+            "restaurant_id": "34281773",
+            "restaurant_name": "GU Bình Dân",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34281773-Reviews-GU_Binh_Dan-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34281773-Reviews-GU_Binh_Dan-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 4
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.8158,
+                "longitude": 106.62519
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/6d/05/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 94 444 45 43",
+            "review_id": "REV_34281773_p1_1",
+            "reviewer_id": "User_34281773_1_1",
+            "review_title": "Review at GU Bình Dân",
+            "review_text": "Dreamer49035383614\n2 contributions\n0\ndelicious cheap food\nSep 2026 • Family\nDac Khu An Nhu is an ideal place to gather with friends after work.\nTranslated from Vietnamese\nShow original\nWritten September 27, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T07:06:00.260424",
+            "restaurant_id": "34281773",
+            "restaurant_name": "GU Bình Dân",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34281773-Reviews-GU_Binh_Dan-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34281773-Reviews-GU_Binh_Dan-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 4
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.8158,
+                "longitude": 106.62519
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/6d/05/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 94 444 45 43",
+            "review_id": "REV_34281773_p1_2",
+            "reviewer_id": "User_34281773_1_2",
+            "review_title": "Review at GU Bình Dân",
+            "review_text": "GrandTour34150898272\n2 contributions\n0\nGU Peace People where to experience culture drinking beer style street thick Saigon Vietnam\nApr 2026 • Friends\nGU Pain People is a Pain People's Beverage in 99 West Thanh, Xinfu District, TP. The cafeteria has a cool open space, a simple chair table is the right type of bar with a beverage, suitable for meeting friends after work. The menu of the restaurant a variety of familiar beverages such as chicken leaf, salt chicken, pepper, roasted ribs, shrimp, seafood and many hybrid dishes are very suitable to drink beer. The restaurant serves cold beer, standard prices, tasty dishes, suitable for friends, office people and guests in the West Thanh area to eat, meet and relax in the evening. If you are looking for a happy, cheap, spacious West Thung Beverage, GU Peace People is the right place. Address: 99 West Thung, Xinfu, TP.\nRead more\nValue\nService\nFood\nAtmosphere\nTranslated from Vietnamese\nShow original\nWritten April 17, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T07:06:00.273904",
+            "restaurant_id": "34281773",
+            "restaurant_name": "GU Bình Dân",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34281773-Reviews-GU_Binh_Dan-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d34281773-Reviews-GU_Binh_Dan-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 4
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.8158,
+                "longitude": 106.62519
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/6d/05/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "16:00:00",
+                    "closes": "02:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 94 444 45 43",
+            "review_id": "REV_34281773_p1_3",
+            "reviewer_id": "User_34281773_1_3",
+            "review_title": "Review at GU Bình Dân",
+            "review_text": "Companion17527933568\nHo Chi Minh City, Vietnam17 contributions\n0\nGreat local spot for drinks and food at a good price in Tay Thanh\nMar 2026 • Friends\nGU Bình Dân is a great local spot for drinks in the Tay Thanh area if you’re looking for somewhere tasty and budget-friendly. The place has a typical casual, local vibe—simple but clean and airy. It gets quite lively in the evening, which creates a really fun and authentic atmosphere.\n\nThe food is served quickly and is well-seasoned with bold flavors. The fried and stir-fried dishes pair especially well with beer. The fried tofu with scallion oil and peanuts is unique, rich, and definitely worth trying. Seafood and other dishes are also consistent in quality.\n\nThe staff are quick and attentive, and you don’t have to wait long after ordering. Prices are very reasonable, especially when sharing with a group of friends.\n\nOne big plus is that even when it’s busy, it’s not uncomfortably noisy—still a great place to hang out after work. If you come during peak hours, it’s better to arrive early to get a good seat.\n\nOverall ratings:\n\nFood: 4.5/5\nService: 4.5/5\nAtmosphere: 4/5\nValue: 5/5\nWait time: 4.5/5\n\nWill definitely come back again.\nRead more\nWritten March 24, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

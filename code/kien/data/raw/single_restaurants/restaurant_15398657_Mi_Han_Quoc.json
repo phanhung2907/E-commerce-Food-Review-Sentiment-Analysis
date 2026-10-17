@@ -1,0 +1,85 @@
+{
+    "restaurant_id": "15398657",
+    "restaurant_name": "Mi Han Quoc",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15398657-Reviews-Mi_Han_Quoc-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15398657-Reviews-Mi_Han_Quoc-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "96 Nguyen Van Troi Ward 8, Phu Nhuan",
+            "addressLocality": "Ho Chi Minh City",
+            "postalCode": "700000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.5,
+            "reviewCount": 2
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.79659,
+            "longitude": 106.674
+        },
+        "image": "N/A",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Asian",
+            "Korean"
+        ],
+        "telephone": "+84 28 3844 6797"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T18:27:38.227084",
+            "restaurant_id": "15398657",
+            "restaurant_name": "Mi Han Quoc",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15398657-Reviews-Mi_Han_Quoc-Ho_Chi_Minh_City.html",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d15398657-Reviews-Mi_Han_Quoc-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "96 Nguyen Van Troi Ward 8, Phu Nhuan",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 2
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.79659,
+                "longitude": 106.674
+            },
+            "image": "N/A",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Asian",
+                "Korean"
+            ],
+            "telephone": "+84 28 3844 6797",
+            "review_id": "REV_15398657_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Mi Han Quoc",
+            "review_text": "R. K. V.\nBogota, Colombia3397 contributions\n0\nExcellent\nMar 2023 • Family\nFantastic chicken- delicious and great tasting. Very well made and very reasonable value for the money overall considering quality\nWritten March 11, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

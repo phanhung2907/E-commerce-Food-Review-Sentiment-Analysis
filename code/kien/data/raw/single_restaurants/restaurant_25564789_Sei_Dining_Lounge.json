@@ -1,0 +1,745 @@
+{
+    "restaurant_id": "25564789",
+    "restaurant_name": "Sei Dining Lounge",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25564789-Reviews-Sei_Dining_Lounge-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25564789-Reviews-Sei_Dining_Lounge-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.3,
+            "reviewCount": 7
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.773193,
+            "longitude": 106.705986
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/a1/0b/1a/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "17:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "11:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "17:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "11:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "17:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "11:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "17:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "11:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "17:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "11:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "17:00:00",
+                "closes": "00:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "11:00:00",
+                "closes": "14:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "17:00:00",
+                "closes": "00:00:00"
+            }
+        ],
+        "priceRange": "$$$$",
+        "servesCuisine": [
+            "International",
+            "Asian",
+            "Fusion",
+            "Vietnamese",
+            "Wine Bar"
+        ],
+        "telephone": "+84 8 5587 3979"
+    },
+    "reviews_count": 5,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:02:09.785352",
+            "restaurant_id": "25564789",
+            "restaurant_name": "Sei Dining Lounge",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25564789-Reviews-Sei_Dining_Lounge-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25564789-Reviews-Sei_Dining_Lounge-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.3,
+                "reviewCount": 7
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.773193,
+                "longitude": 106.705986
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/a1/0b/1a/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Fusion",
+                "Vietnamese",
+                "Wine Bar"
+            ],
+            "telephone": "+84 8 5587 3979",
+            "review_id": "REV_25564789_p1_0",
+            "reviewer_id": "User_25564789_1_0",
+            "review_title": "Review at Sei Dining Lounge",
+            "review_text": "Dustin\nHo Chi Minh City, Vietnam6 contributions\n0\nGREAT FOOD\nJun 2023 • Business\nI have business dinner with my company for 15 people, service run well, delicious food with nice decoration and live music, impressed with the iberico jowl dish, very juicy.\nValue\nService\nFood\nAtmosphere\nWritten July 22, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:02:09.801227",
+            "restaurant_id": "25564789",
+            "restaurant_name": "Sei Dining Lounge",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25564789-Reviews-Sei_Dining_Lounge-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25564789-Reviews-Sei_Dining_Lounge-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.3,
+                "reviewCount": 7
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.773193,
+                "longitude": 106.705986
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/a1/0b/1a/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Fusion",
+                "Vietnamese",
+                "Wine Bar"
+            ],
+            "telephone": "+84 8 5587 3979",
+            "review_id": "REV_25564789_p1_1",
+            "reviewer_id": "User_25564789_1_1",
+            "review_title": "Review at Sei Dining Lounge",
+            "review_text": "tuong vy n\n1 contribution\n0\nwhat an amazing birthday.\nMay 2023 • Couples\nI had a perfect party in here with my boy friend. \nThis place is suitable for birthday and family parties.\n\nI will come back again.\nValue\nService\nFood\nWritten May 19, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:02:09.816664",
+            "restaurant_id": "25564789",
+            "restaurant_name": "Sei Dining Lounge",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25564789-Reviews-Sei_Dining_Lounge-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25564789-Reviews-Sei_Dining_Lounge-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.3,
+                "reviewCount": 7
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.773193,
+                "longitude": 106.705986
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/a1/0b/1a/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Fusion",
+                "Vietnamese",
+                "Wine Bar"
+            ],
+            "telephone": "+84 8 5587 3979",
+            "review_id": "REV_25564789_p1_2",
+            "reviewer_id": "User_25564789_1_2",
+            "review_title": "Review at Sei Dining Lounge",
+            "review_text": "Chi n\n1 contribution\n0\nWhat an amazing birthday!\nApr 2023\nWhat an amazing birthday with my family last night. Good service, delicious dishes and friendly staff. 100% come back with friends and colleagues next time.\nValue\nService\nFood\nWritten May 19, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:02:09.829292",
+            "restaurant_id": "25564789",
+            "restaurant_name": "Sei Dining Lounge",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25564789-Reviews-Sei_Dining_Lounge-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25564789-Reviews-Sei_Dining_Lounge-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.3,
+                "reviewCount": 7
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.773193,
+                "longitude": 106.705986
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/a1/0b/1a/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Fusion",
+                "Vietnamese",
+                "Wine Bar"
+            ],
+            "telephone": "+84 8 5587 3979",
+            "review_id": "REV_25564789_p1_3",
+            "reviewer_id": "User_25564789_1_3",
+            "review_title": "Review at Sei Dining Lounge",
+            "review_text": "Curious39095110935\nVung Tau, Vietnam1 contribution\n0\nLET'S GO TO SEI\nMay 2023 • Couples\nNice space, delicous meal, friendly staff. I will come back again with my co-workers and my all friends\nWritten May 19, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:02:09.844511",
+            "restaurant_id": "25564789",
+            "restaurant_name": "Sei Dining Lounge",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25564789-Reviews-Sei_Dining_Lounge-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25564789-Reviews-Sei_Dining_Lounge-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.3,
+                "reviewCount": 7
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.773193,
+                "longitude": 106.705986
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/a1/0b/1a/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "14:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "00:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "International",
+                "Asian",
+                "Fusion",
+                "Vietnamese",
+                "Wine Bar"
+            ],
+            "telephone": "+84 8 5587 3979",
+            "review_id": "REV_25564789_p1_4",
+            "reviewer_id": "User_25564789_1_4",
+            "review_title": "Review at Sei Dining Lounge",
+            "review_text": "Tran H\nHo Chi Minh City, Vietnam5 contributions\n0\nNew hub in HCM's centre\nApr 2023 • Friends\nCome and enjoy fusion food with my friend last Saturday. The experience is excellent with unlimited cocktails, fresh food, and nice Jazz music is all we ask for the weekend. The bill was a shock at a very reasonable price that we didn't expect at this location, the center of D1. Absolutely be my top list for hanging with friends or having a romantic date. Highly recommend!\nRead more\nValue\nService\nFood\nWritten May 19, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

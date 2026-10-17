@@ -1,0 +1,159 @@
+{
+    "restaurant_id": "32840550",
+    "restaurant_name": "Namo Modern Italian",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d32840550-Reviews-Namo_Modern_Italian-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d32840550-Reviews-Namo_Modern_Italian-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "34 Le Loi, District 1,",
+            "addressLocality": "Ho Chi Minh City",
+            "postalCode": "700000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.774195,
+            "longitude": 106.70059
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/91/e5/00/namo-modern-italian.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "17:30:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "17:30:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "17:30:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "17:30:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "17:30:00",
+                "closes": "22:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "17:30:00",
+                "closes": "22:30:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Italian",
+            "Mediterranean"
+        ],
+        "telephone": "+84342800222"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:55:15.687170",
+            "restaurant_id": "32840550",
+            "restaurant_name": "Namo Modern Italian",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d32840550-Reviews-Namo_Modern_Italian-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d32840550-Reviews-Namo_Modern_Italian-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "34 Le Loi, District 1,",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774195,
+                "longitude": 106.70059
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/91/e5/00/namo-modern-italian.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:30:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:30:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Italian",
+                "Mediterranean"
+            ],
+            "telephone": "+84342800222",
+            "review_id": "REV_32840550_p1_0",
+            "reviewer_id": "User_32840550_1_0",
+            "review_title": "Review at Namo Modern Italian",
+            "review_text": "Gil T\nQuebec City, Canada24 contributions\n0\nVery good !\nJan 2025 • Couples\nService and food was very good. The staff and owner were very helpful and the prices are reasonable. They are located in a good and safe area.\nWritten January 26, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

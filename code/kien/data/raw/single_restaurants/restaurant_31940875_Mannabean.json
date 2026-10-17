@@ -1,0 +1,81 @@
+{
+    "restaurant_id": "31940875",
+    "restaurant_name": "Mannabean",
+    "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d31940875-Reviews-Mannabean-Hanoi.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d31940875-Reviews-Mannabean-Hanoi.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "Keangnam Hanoi Landmark Tower, Keangnam Mễ Trì 2nd Floor"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 21.0245,
+            "longitude": 105.84117
+        },
+        "image": "N/A",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Asian",
+            "Korean"
+        ],
+        "telephone": "N/A"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T06:33:50.558382",
+            "restaurant_id": "31940875",
+            "restaurant_name": "Mannabean",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d31940875-Reviews-Mannabean-Hanoi.html#REVIEWS",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d31940875-Reviews-Mannabean-Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Keangnam Hanoi Landmark Tower, Keangnam Mễ Trì 2nd Floor"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.0245,
+                "longitude": 105.84117
+            },
+            "image": "N/A",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Asian",
+                "Korean"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_31940875_p1_0",
+            "reviewer_id": "User_31940875_1_0",
+            "review_title": "Review at Mannabean",
+            "review_text": "DaisyLove\nHanoi, Vietnam1 contribution\n0\nThe best Korean restaurant at Keangnam Tower\nNov 2024 • Family\nA staple Korean restaurant at Keangnam Tower. I had their Beef Rib Soup for lunch. The food and the service was amazing!!\nWritten November 25, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

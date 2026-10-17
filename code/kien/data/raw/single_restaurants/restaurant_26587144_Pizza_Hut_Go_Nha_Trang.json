@@ -1,0 +1,511 @@
+{
+    "restaurant_id": "26587144",
+    "restaurant_name": "Pizza Hut Go Nha Trang",
+    "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d26587144-Reviews-Pizza_Hut_Go_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d26587144-Reviews-Pizza_Hut_Go_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "Tầng Trệt, Siêu thị GO! Đường 19 tháng 5 Khu đô thị Vĩnh Điềm Trung, xã Vĩnh Hiệp",
+            "addressLocality": "Nha Trang"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 5
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.255299,
+            "longitude": 109.17058
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/af/88/b5/caption.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Pizza"
+        ],
+        "telephone": "+84 258 3895 005"
+    },
+    "reviews_count": 5,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T09:24:39.683814",
+            "restaurant_id": "26587144",
+            "restaurant_name": "Pizza Hut Go Nha Trang",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d26587144-Reviews-Pizza_Hut_Go_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d26587144-Reviews-Pizza_Hut_Go_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Tầng Trệt, Siêu thị GO! Đường 19 tháng 5 Khu đô thị Vĩnh Điềm Trung, xã Vĩnh Hiệp",
+                "addressLocality": "Nha Trang"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.255299,
+                "longitude": 109.17058
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/af/88/b5/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Pizza"
+            ],
+            "telephone": "+84 258 3895 005",
+            "review_id": "REV_26587144_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Pizza Hut Go Nha Trang",
+            "review_text": "Tuyên\nNha Trang, Vietnam9 contributions\n0\nThe experience at the restaurant was great\nOct 2023 • Friends\nThe staff is friendly and cheerful, the food comes out quickly, the food is delicious and delicious. Dedicated service, easy ordering process, many combos at preferential prices\nShow original\nWritten October 27, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T09:24:39.697035",
+            "restaurant_id": "26587144",
+            "restaurant_name": "Pizza Hut Go Nha Trang",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d26587144-Reviews-Pizza_Hut_Go_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d26587144-Reviews-Pizza_Hut_Go_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Tầng Trệt, Siêu thị GO! Đường 19 tháng 5 Khu đô thị Vĩnh Điềm Trung, xã Vĩnh Hiệp",
+                "addressLocality": "Nha Trang"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.255299,
+                "longitude": 109.17058
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/af/88/b5/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Pizza"
+            ],
+            "telephone": "+84 258 3895 005",
+            "review_id": "REV_26587144_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Pizza Hut Go Nha Trang",
+            "review_text": "Mai Thanh Bình\nNha Trang, Vietnam4 contributions\n0\nIn October I went to Nha Trang city to travel and my family went to pizza hut restaurant for lunch...\nOct 2023 • Couples\nThe food is hot, the staff serves quickly and enthusiastically. My favorites are the tuna salad and the grilled chicken dish, which is very rich and delicious.\nShow original\nWritten October 27, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T09:24:39.710769",
+            "restaurant_id": "26587144",
+            "restaurant_name": "Pizza Hut Go Nha Trang",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d26587144-Reviews-Pizza_Hut_Go_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d26587144-Reviews-Pizza_Hut_Go_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Tầng Trệt, Siêu thị GO! Đường 19 tháng 5 Khu đô thị Vĩnh Điềm Trung, xã Vĩnh Hiệp",
+                "addressLocality": "Nha Trang"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.255299,
+                "longitude": 109.17058
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/af/88/b5/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Pizza"
+            ],
+            "telephone": "+84 258 3895 005",
+            "review_id": "REV_26587144_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Pizza Hut Go Nha Trang",
+            "review_text": "Hoài Trâm\nNha Trang, Vietnam6 contributions\n0\nGreat\nOct 2023 • Couples\nQuick delivery, clean store, delicious food, lovely and dedicated staff. Pizza here is delicious. For couples or families, there are combos to choose from, with prices suitable for everyone\nShow original\nWritten October 27, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T09:24:39.728770",
+            "restaurant_id": "26587144",
+            "restaurant_name": "Pizza Hut Go Nha Trang",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d26587144-Reviews-Pizza_Hut_Go_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d26587144-Reviews-Pizza_Hut_Go_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Tầng Trệt, Siêu thị GO! Đường 19 tháng 5 Khu đô thị Vĩnh Điềm Trung, xã Vĩnh Hiệp",
+                "addressLocality": "Nha Trang"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.255299,
+                "longitude": 109.17058
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/af/88/b5/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Pizza"
+            ],
+            "telephone": "+84 258 3895 005",
+            "review_id": "REV_26587144_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Pizza Hut Go Nha Trang",
+            "review_text": "Hoạ Mây\nNha Trang, Vietnam13 contributions\n0\nGreat food\nOct 2023 • Family\nThe menu has many dishes and many combo packages suitable for families. Drinking water can be refilled too. Will come back next time to support my beloved shop ❤️❤️\nShow original\nWritten October 27, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T09:24:39.748769",
+            "restaurant_id": "26587144",
+            "restaurant_name": "Pizza Hut Go Nha Trang",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d26587144-Reviews-Pizza_Hut_Go_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d26587144-Reviews-Pizza_Hut_Go_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Tầng Trệt, Siêu thị GO! Đường 19 tháng 5 Khu đô thị Vĩnh Điềm Trung, xã Vĩnh Hiệp",
+                "addressLocality": "Nha Trang"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.255299,
+                "longitude": 109.17058
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/af/88/b5/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Pizza"
+            ],
+            "telephone": "+84 258 3895 005",
+            "review_id": "REV_26587144_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Pizza Hut Go Nha Trang",
+            "review_text": "Kiều Trinh\nNha Trang, Vietnam35 contributions\n0\nDelicious food, friendly wait staff\nOct 2023 • Friends\nThe food is very delicious, the menu has many dishes, the staff are friendly and gave me very enthusiastic advice. Quick dish. Spacious and comfortable space.\nShow original\nWritten October 18, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

@@ -1,0 +1,327 @@
+{
+    "restaurant_id": "33399068",
+    "restaurant_name": "Nestling Cafe",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33399068-Reviews-Nestling_Cafe-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33399068-Reviews-Nestling_Cafe-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 3
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.7693,
+            "longitude": 106.7122
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b1/ec/fa/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "07:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "07:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "07:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "07:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "07:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "07:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "07:00:00",
+                "closes": "15:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": "N/A",
+        "telephone": "+84 93 856 61 99"
+    },
+    "reviews_count": 3,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T22:21:16.538786",
+            "restaurant_id": "33399068",
+            "restaurant_name": "Nestling Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33399068-Reviews-Nestling_Cafe-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33399068-Reviews-Nestling_Cafe-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 3
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.7693,
+                "longitude": 106.7122
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b1/ec/fa/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": "N/A",
+            "telephone": "+84 93 856 61 99",
+            "review_id": "REV_33399068_p1_0",
+            "reviewer_id": "User_33399068_1_0",
+            "review_title": "Review at Nestling Cafe",
+            "review_text": "DayTrip18455014076\n1 contribution\n0\nGút chóp\nMay 2026 • Friends\nDep zai nhan vien to \nRat la suat sac\nTranslated from Dutch\nShow original\nWritten May 3, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T22:21:16.555340",
+            "restaurant_id": "33399068",
+            "restaurant_name": "Nestling Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33399068-Reviews-Nestling_Cafe-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33399068-Reviews-Nestling_Cafe-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 3
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.7693,
+                "longitude": 106.7122
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b1/ec/fa/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": "N/A",
+            "telephone": "+84 93 856 61 99",
+            "review_id": "REV_33399068_p1_1",
+            "reviewer_id": "User_33399068_1_1",
+            "review_title": "Review at Nestling Cafe",
+            "review_text": "Kat S\n3 contributions\n0\nChild-friendly family cafe at Empire City\nAug 2025 • Family\nMy family and I were looking for a cafe while visiting Empire City, and stumbled across this place. We had some delicious noodles for lunch and a good coffee and drinks. There was a shelf of kids toys and books that kept the children pre-occupied. Very child-friendly and chill cafe.\nInsider tip:\nChild-friendly and family friendly. A nice shelf of toys and books to keep the kids occupied.\nValue\nService\nFood\nAtmosphere\nWritten August 20, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-13T22:21:16.574298",
+            "restaurant_id": "33399068",
+            "restaurant_name": "Nestling Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33399068-Reviews-Nestling_Cafe-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d33399068-Reviews-Nestling_Cafe-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 3
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.7693,
+                "longitude": 106.7122
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b1/ec/fa/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "15:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": "N/A",
+            "telephone": "+84 93 856 61 99",
+            "review_id": "REV_33399068_p1_2",
+            "reviewer_id": "User_33399068_1_2",
+            "review_title": "Review at Nestling Cafe",
+            "review_text": "Kun J\nSingapore58 contributions\n0\nThe best cafe at Empire City\nAug 2025\nA wonderful new addition to the Empire City neighbourhood. Situated at Tilia Residences, opposite a green park, Nestling Cafe is everything a neighbourhood cafe should be. Great affordable menu that changes daily, excellent coffees, yummy smoothies and friendly staff. Also there is a toy shelf filled with books and high quality toys to keep the kids occupied. The outdoor area is great to just chill, covered and never windy or to sunny. It's quickly become my favourite cafe in Ho Chi Minh City\nRead more\nWritten August 15, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-13",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

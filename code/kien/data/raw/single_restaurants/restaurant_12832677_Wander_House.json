@@ -1,0 +1,81 @@
+{
+    "restaurant_id": "12832677",
+    "restaurant_name": "Wander House",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12832677-Reviews-Wander_House-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12832677-Reviews-Wander_House-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.79375,
+            "longitude": 106.68772
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/a2/4a/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "$",
+        "servesCuisine": [
+            "American",
+            "Vietnamese"
+        ],
+        "telephone": "+84 126 431 1668"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T11:53:24.143802",
+            "restaurant_id": "12832677",
+            "restaurant_name": "Wander House",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12832677-Reviews-Wander_House-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d12832677-Reviews-Wander_House-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.79375,
+                "longitude": 106.68772
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/a2/4a/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Vietnamese"
+            ],
+            "telephone": "+84 126 431 1668",
+            "review_id": "REV_12832677_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Wander House",
+            "review_text": "ALexbackpacker17\n16 contributions\n0\ncute vintage coffeshop\nNov 2017 • Solo\nsuper cute vintage coffeshop in the north of HCMC. relaxing atmosphere (was there at 11am) and tasteful decoration. staff is very kind.\nWritten November 22, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

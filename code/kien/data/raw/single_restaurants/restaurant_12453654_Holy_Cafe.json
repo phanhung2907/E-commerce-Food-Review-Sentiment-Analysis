@@ -1,0 +1,493 @@
+{
+    "restaurant_id": "12453654",
+    "restaurant_name": "Holy Cafe",
+    "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298085-d12453654-Reviews-Holy_Cafe-Da_Nang.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g298085-d12453654-Reviews-Holy_Cafe-Da_Nang.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "278 To Hien Thanh Street"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.6,
+            "reviewCount": 7
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 16.056076,
+            "longitude": 108.24436
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/44/5b/ee/getlstd-property-photo.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": "N/A",
+        "telephone": "+84 91 234 58 29"
+    },
+    "reviews_count": 5,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T06:09:06.895018",
+            "restaurant_id": "12453654",
+            "restaurant_name": "Holy Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298085-d12453654-Reviews-Holy_Cafe-Da_Nang.html",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298085-d12453654-Reviews-Holy_Cafe-Da_Nang.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "278 To Hien Thanh Street"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 7
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.056076,
+                "longitude": 108.24436
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/44/5b/ee/getlstd-property-photo.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 91 234 58 29",
+            "review_id": "REV_12453654_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Holy Cafe",
+            "review_text": "Stefan O\nMalmö, Sweden726 contributions\n0\nHoly Cafe\nFeb 2019 • Couples\nHoly Cafe serves a lot of different coffees! The Vietnames one is One of kind and well with trying!!\nReview collected in partnership with this restaurant \nWritten April 29, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T06:09:06.907023",
+            "restaurant_id": "12453654",
+            "restaurant_name": "Holy Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298085-d12453654-Reviews-Holy_Cafe-Da_Nang.html",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298085-d12453654-Reviews-Holy_Cafe-Da_Nang.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "278 To Hien Thanh Street"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 7
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.056076,
+                "longitude": 108.24436
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/44/5b/ee/getlstd-property-photo.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 91 234 58 29",
+            "review_id": "REV_12453654_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Holy Cafe",
+            "review_text": "brit\nKaramay, China14 contributions\n0\nStarting the day off right!\nJan 2019\nThe coffee here was very good and a very fair price , the espresso was a great way to kick start the day!\nWritten January 30, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T06:09:06.923214",
+            "restaurant_id": "12453654",
+            "restaurant_name": "Holy Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298085-d12453654-Reviews-Holy_Cafe-Da_Nang.html",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298085-d12453654-Reviews-Holy_Cafe-Da_Nang.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "278 To Hien Thanh Street"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 7
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.056076,
+                "longitude": 108.24436
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/44/5b/ee/getlstd-property-photo.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 91 234 58 29",
+            "review_id": "REV_12453654_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Holy Cafe",
+            "review_text": "kendallgood1\nHanoi, Vietnam5 contributions\n0\nGreat coffee, good music, amazing prices.\nAug 2018 • Couples\nCame here 3 times in the 2 days I was in Da Nang. the coffee is great and the price is ideal. Absolutely loved the coconut coffee in this chilled shop and the music makes it even better.\nValue\nService\nReview collected in partnership with this restaurant \nWritten August 31, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T06:09:06.935218",
+            "restaurant_id": "12453654",
+            "restaurant_name": "Holy Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298085-d12453654-Reviews-Holy_Cafe-Da_Nang.html",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298085-d12453654-Reviews-Holy_Cafe-Da_Nang.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "278 To Hien Thanh Street"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 7
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.056076,
+                "longitude": 108.24436
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/44/5b/ee/getlstd-property-photo.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 91 234 58 29",
+            "review_id": "REV_12453654_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Holy Cafe",
+            "review_text": "diegocamus\nSydney, Australia6 contributions\n0\nExcellent Spot!\nAug 2018 • Couples\nGood music and delicious coffee. Prices are perfect. Not busy place but location close to main avenue\nReview collected in partnership with this restaurant \nWritten August 16, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T06:09:06.947371",
+            "restaurant_id": "12453654",
+            "restaurant_name": "Holy Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298085-d12453654-Reviews-Holy_Cafe-Da_Nang.html",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298085-d12453654-Reviews-Holy_Cafe-Da_Nang.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "278 To Hien Thanh Street"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 7
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.056076,
+                "longitude": 108.24436
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/44/5b/ee/getlstd-property-photo.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 91 234 58 29",
+            "review_id": "REV_12453654_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Holy Cafe",
+            "review_text": "Thiện\nDa Nang, Vietnam3 contributions\n0\nGreat music\nSep 2017 • Solo\nThis place has really great music and sound system. Good drinks, especially Vietnamese coffee, will definitely come back.\nWritten September 17, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

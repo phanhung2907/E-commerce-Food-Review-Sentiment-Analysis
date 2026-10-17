@@ -1,0 +1,167 @@
+{
+    "restaurant_id": "34003721",
+    "restaurant_name": "Café Moryachok",
+    "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34003721-Reviews-Cafe_Moryachok-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34003721-Reviews-Cafe_Moryachok-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "100/1C Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000",
+            "addressLocality": "Nha Trang"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.22643,
+            "longitude": 109.200264
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/b8/a6/29/fisch-mit-reis.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "09:00:00",
+                "closes": "21:30:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Russian"
+        ],
+        "telephone": "+84 91 146 66 01"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T10:50:37.555875",
+            "restaurant_id": "34003721",
+            "restaurant_name": "Café Moryachok",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34003721-Reviews-Cafe_Moryachok-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34003721-Reviews-Cafe_Moryachok-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "100/1C Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000",
+                "addressLocality": "Nha Trang"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.22643,
+                "longitude": 109.200264
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/b8/a6/29/fisch-mit-reis.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Russian"
+            ],
+            "telephone": "+84 91 146 66 01",
+            "review_id": "REV_34003721_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Café Moryachok",
+            "review_text": "Jonny_H\n23 contributions\n0\nTop Russian restaurant\nNov 2025 • Couples\nWe're here almost every day. Value for money top. The food is delicious. Russian restaurant, mainly Russian guests.\nSee you tonight 😋\nTranslated from German\nShow original\nWritten November 11, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

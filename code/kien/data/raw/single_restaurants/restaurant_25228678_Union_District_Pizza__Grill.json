@@ -1,0 +1,83 @@
+{
+    "restaurant_id": "25228678",
+    "restaurant_name": "Union District Pizza & Grill",
+    "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d25228678-Reviews-Union_District_Pizza_Grill-Hanoi.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d25228678-Reviews-Union_District_Pizza_Grill-Hanoi.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "17t3, Hoang Dau Thuy",
+            "postalCode": "1000 "
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 21.033333,
+            "longitude": 105.84962
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/63/1c/95/caption.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "American",
+            "International"
+        ],
+        "telephone": "+84 1900 6622"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T06:59:35.185464",
+            "restaurant_id": "25228678",
+            "restaurant_name": "Union District Pizza & Grill",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d25228678-Reviews-Union_District_Pizza_Grill-Hanoi.html#REVIEWS",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d25228678-Reviews-Union_District_Pizza_Grill-Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "17t3, Hoang Dau Thuy",
+                "postalCode": "1000 "
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.033333,
+                "longitude": 105.84962
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/63/1c/95/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "American",
+                "International"
+            ],
+            "telephone": "+84 1900 6622",
+            "review_id": "REV_25228678_p1_0",
+            "reviewer_id": "User_25228678_1_0",
+            "review_title": "Review at Union District Pizza & Grill",
+            "review_text": "Alberto\nHanoi, Vietnam50 contributions\n0\nUnion District @ Aeon Long Bien\nMar 2023 • Couples\nGood food and good American food selection. Ordered the deep dish pizza. While it is not 100 percent Chicago style, it’s still delicious and with fairly decent ingredients. The roasted potatoes starter was also quite good for the price. Overall, not bad and good value for money.\nWritten March 5, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

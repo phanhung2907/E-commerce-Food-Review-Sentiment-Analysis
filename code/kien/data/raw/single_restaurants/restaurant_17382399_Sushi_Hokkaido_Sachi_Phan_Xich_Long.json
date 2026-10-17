@@ -1,0 +1,707 @@
+{
+    "restaurant_id": "17382399",
+    "restaurant_name": "Sushi Hokkaido Sachi (Phan Xich Long)",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17382399-Reviews-Sushi_Hokkaido_Sachi_Phan_Xich_Long-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17382399-Reviews-Sushi_Hokkaido_Sachi_Phan_Xich_Long-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "163 Phan Xich Long Phu Nhuan",
+            "addressLocality": "Ho Chi Minh City",
+            "postalCode": "700000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.1,
+            "reviewCount": 18
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.79824,
+            "longitude": 106.68879
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/48/2a/47/sushi-hokkaido-sachi.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "10:30:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:30:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:30:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:30:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:30:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:30:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "10:30:00",
+                "closes": "23:00:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Seafood",
+            "Sushi",
+            "Deli"
+        ],
+        "telephone": "+84 28 3636 7327"
+    },
+    "reviews_count": 7,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T01:43:44.433166",
+            "restaurant_id": "17382399",
+            "restaurant_name": "Sushi Hokkaido Sachi (Phan Xich Long)",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17382399-Reviews-Sushi_Hokkaido_Sachi_Phan_Xich_Long-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17382399-Reviews-Sushi_Hokkaido_Sachi_Phan_Xich_Long-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "163 Phan Xich Long Phu Nhuan",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 17
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.79824,
+                "longitude": 106.68879
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/48/2a/47/sushi-hokkaido-sachi.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Sushi",
+                "Deli"
+            ],
+            "telephone": "+84 28 3636 7327",
+            "review_id": "REV_17382399_p1_0",
+            "reviewer_id": "User_17382399_1_0",
+            "review_title": "Review at Sushi Hokkaido Sachi (Phan Xich Long)",
+            "review_text": "Dreamer43548019390\n1 contribution\n0\nShushi hokaido phan chain long\nJul 2026 • Family\nThe food was great, the staff enthusiastic, cute.\nTranslated from Vietnamese\nShow original\nWritten July 12, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T01:43:44.443380",
+            "restaurant_id": "17382399",
+            "restaurant_name": "Sushi Hokkaido Sachi (Phan Xich Long)",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17382399-Reviews-Sushi_Hokkaido_Sachi_Phan_Xich_Long-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17382399-Reviews-Sushi_Hokkaido_Sachi_Phan_Xich_Long-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "163 Phan Xich Long Phu Nhuan",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 17
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.79824,
+                "longitude": 106.68879
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/48/2a/47/sushi-hokkaido-sachi.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Sushi",
+                "Deli"
+            ],
+            "telephone": "+84 28 3636 7327",
+            "review_id": "REV_17382399_p1_1",
+            "reviewer_id": "User_17382399_1_1",
+            "review_title": "Review at Sushi Hokkaido Sachi (Phan Xich Long)",
+            "review_text": "Thu Nguyen\nHo Chi Minh City, Vietnam22 contributions\n0\nOur most favorite Japanese restaurant\nMay 2023 • Family\nMost visited japanese restaurant of my family, fresh sashimi (our fav are toro salmon, ebi prawn, yellow tail), wide range choices of sushi (tobiko ebi roll and grilled hotate cheese roll are must try), so tasty desserts (my kids always go for matcha float after main course).\nWritten May 10, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T01:43:44.460643",
+            "restaurant_id": "17382399",
+            "restaurant_name": "Sushi Hokkaido Sachi (Phan Xich Long)",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17382399-Reviews-Sushi_Hokkaido_Sachi_Phan_Xich_Long-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17382399-Reviews-Sushi_Hokkaido_Sachi_Phan_Xich_Long-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "163 Phan Xich Long Phu Nhuan",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 17
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.79824,
+                "longitude": 106.68879
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/48/2a/47/sushi-hokkaido-sachi.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Sushi",
+                "Deli"
+            ],
+            "telephone": "+84 28 3636 7327",
+            "review_id": "REV_17382399_p1_2",
+            "reviewer_id": "User_17382399_1_2",
+            "review_title": "Review at Sushi Hokkaido Sachi (Phan Xich Long)",
+            "review_text": "thesydneytram\nSydney, Australia1763 contributions\n0\nHokkaido Phan Xích Long\nDec 2022 • Family\nWhat I love about Hokkaido sushi are the great ambience and attentive service. The menu can overwhelm you with many options, but food, in general, tastes good.\n\nThe sashimi and sushi roll taste okay. I wish sashimi could be fresher. The staff was giving us options whenever we ordered sashimi. Do I want the salmon from New Zealand or Norway? I think Hokkaido should just choose the best and put it on the menu for customers.\n\nHokkaido Sushi still has rooms for improvement. They should focus on fresher produce, no-frills and straightforward menu.\nRead more\nWritten December 14, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T01:43:44.471461",
+            "restaurant_id": "17382399",
+            "restaurant_name": "Sushi Hokkaido Sachi (Phan Xich Long)",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17382399-Reviews-Sushi_Hokkaido_Sachi_Phan_Xich_Long-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17382399-Reviews-Sushi_Hokkaido_Sachi_Phan_Xich_Long-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "163 Phan Xich Long Phu Nhuan",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 17
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.79824,
+                "longitude": 106.68879
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/48/2a/47/sushi-hokkaido-sachi.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Sushi",
+                "Deli"
+            ],
+            "telephone": "+84 28 3636 7327",
+            "review_id": "REV_17382399_p1_3",
+            "reviewer_id": "User_17382399_1_3",
+            "review_title": "Review at Sushi Hokkaido Sachi (Phan Xich Long)",
+            "review_text": "Anne Pham\nHo Chi Minh City, Vietnam2 contributions\n0\nfresh food\nJun 2022\nthis is a good place to eat, fresh food, nice service, lets try and feel for those love Japanese style :)\nReview collected in partnership with this restaurant \nWritten October 26, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T01:43:44.484155",
+            "restaurant_id": "17382399",
+            "restaurant_name": "Sushi Hokkaido Sachi (Phan Xich Long)",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17382399-Reviews-Sushi_Hokkaido_Sachi_Phan_Xich_Long-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17382399-Reviews-Sushi_Hokkaido_Sachi_Phan_Xich_Long-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "163 Phan Xich Long Phu Nhuan",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 17
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.79824,
+                "longitude": 106.68879
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/48/2a/47/sushi-hokkaido-sachi.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Sushi",
+                "Deli"
+            ],
+            "telephone": "+84 28 3636 7327",
+            "review_id": "REV_17382399_p1_4",
+            "reviewer_id": "User_17382399_1_4",
+            "review_title": "Review at Sushi Hokkaido Sachi (Phan Xich Long)",
+            "review_text": "PaulSaigon\nHo Chi Minh City, Vietnam83 contributions\n0\nPlease come to enjoy bad smell....\nJul 2020\nIf you want to smell worse smell.... please come to this restaurant.... staffs and managers are not smelling anything anymore cause they are so used with the bad smell and even telling me that it is like this in Japanese Restaurant.... so insulting for our Japanese friends.\nWritten July 17, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T01:43:44.500317",
+            "restaurant_id": "17382399",
+            "restaurant_name": "Sushi Hokkaido Sachi (Phan Xich Long)",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17382399-Reviews-Sushi_Hokkaido_Sachi_Phan_Xich_Long-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17382399-Reviews-Sushi_Hokkaido_Sachi_Phan_Xich_Long-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "163 Phan Xich Long Phu Nhuan",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 17
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.79824,
+                "longitude": 106.68879
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/48/2a/47/sushi-hokkaido-sachi.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Sushi",
+                "Deli"
+            ],
+            "telephone": "+84 28 3636 7327",
+            "review_id": "REV_17382399_p1_5",
+            "reviewer_id": "User_17382399_1_5",
+            "review_title": "Review at Sushi Hokkaido Sachi (Phan Xich Long)",
+            "review_text": "CatherineWelly\nWellington, New Zealand71 contributions\n0\nDon’t be in any kind of rush\nAug 2019 • Solo\nFish was fresh and there were many things to choose from the menu. I didn’t enjoy the wasabi here thou, felt like they added grated radish and ginger into it.\nWhat I dislike was their speed. Waited for 5 minutes for a table while there were many empty seats as it was almost 9pm. Food came one by one even though I did asked for ‘all together’ while ordering. When I asked again for my other dishes, the response I got was “Please wait, there’re coming”. Well yes I know it’s coming but that was not the point. I came by myself and asked for all food to come at once because I had no one to talk with or I was in a rush or I didn’t want to wait for food or any other reasons on the planet. Why couldn’t someone in hospo understand this basic thing? \n4 stars for food, 2 for service!\nRead more\nReview collected in partnership with this restaurant \nWritten August 21, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T01:43:44.512782",
+            "restaurant_id": "17382399",
+            "restaurant_name": "Sushi Hokkaido Sachi (Phan Xich Long)",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17382399-Reviews-Sushi_Hokkaido_Sachi_Phan_Xich_Long-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d17382399-Reviews-Sushi_Hokkaido_Sachi_Phan_Xich_Long-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "163 Phan Xich Long Phu Nhuan",
+                "addressLocality": "Ho Chi Minh City",
+                "postalCode": "700000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 17
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.79824,
+                "longitude": 106.68879
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/48/2a/47/sushi-hokkaido-sachi.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:30:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Sushi",
+                "Deli"
+            ],
+            "telephone": "+84 28 3636 7327",
+            "review_id": "REV_17382399_p1_6",
+            "reviewer_id": "User_17382399_1_6",
+            "review_title": "Review at Sushi Hokkaido Sachi (Phan Xich Long)",
+            "review_text": "Miakieu\nHo Chi Minh City, Vietnam33 contributions\n0\nworst services\nJun 2019 • Family\nbad attitude for vip table of 8 people, forgot orders, scolded back at customers, I have to leave the place early, with this price and chain you can find better places\nWritten June 2, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

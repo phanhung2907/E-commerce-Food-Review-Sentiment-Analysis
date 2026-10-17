@@ -1,0 +1,618 @@
+{
+    "restaurant_id": "25170533",
+    "restaurant_name": "Nhà Hàng Chay An & Cafe - Phạm Thái Bường",
+    "city": "Vietnam_Subregion",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25170533-Reviews-Nha_Hang_Chay_An_Cafe_Ph_m_Thai_Bu_ng-Ho_Chi_Minh_City.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25170533-Reviews-Nha_Hang_Chay_An_Cafe_Ph_m_Thai_Bu_ng-Ho_Chi_Minh_City.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 12
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.727579,
+            "longitude": 106.71247
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/bf/f0/a1/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "07:00:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "07:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "07:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "07:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "07:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "07:00:00",
+                "closes": "21:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "07:00:00",
+                "closes": "21:30:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Cafe",
+            "European",
+            "Asian",
+            "Deli",
+            "Healthy"
+        ],
+        "telephone": "+84 8 6246 2179"
+    },
+    "reviews_count": 6,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:05:29.397485",
+            "restaurant_id": "25170533",
+            "restaurant_name": "Nhà Hàng Chay An & Cafe - Phạm Thái Bường",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25170533-Reviews-Nha_Hang_Chay_An_Cafe_Ph_m_Thai_Bu_ng-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25170533-Reviews-Nha_Hang_Chay_An_Cafe_Ph_m_Thai_Bu_ng-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 12
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.727579,
+                "longitude": 106.71247
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/bf/f0/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Cafe",
+                "European",
+                "Asian",
+                "Deli",
+                "Healthy"
+            ],
+            "telephone": "+84 8 6246 2179",
+            "review_id": "REV_25170533_p1_0",
+            "reviewer_id": "User_25170533_1_0",
+            "review_title": "Review at Nhà Hàng Chay An & Cafe - Phạm Thái Bường",
+            "review_text": "Joshua C\n1 contribution\n0\nJosh\nJul 2025 • Family\nThe food and service were both really excellent and the coffee is amazing. The restaurant also has a great atmosphere with lots of plants. Highly recommended!\nValue\nService\nFood\nAtmosphere\nWritten July 5, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:05:29.409564",
+            "restaurant_id": "25170533",
+            "restaurant_name": "Nhà Hàng Chay An & Cafe - Phạm Thái Bường",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25170533-Reviews-Nha_Hang_Chay_An_Cafe_Ph_m_Thai_Bu_ng-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25170533-Reviews-Nha_Hang_Chay_An_Cafe_Ph_m_Thai_Bu_ng-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 12
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.727579,
+                "longitude": 106.71247
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/bf/f0/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Cafe",
+                "European",
+                "Asian",
+                "Deli",
+                "Healthy"
+            ],
+            "telephone": "+84 8 6246 2179",
+            "review_id": "REV_25170533_p1_1",
+            "reviewer_id": "User_25170533_1_1",
+            "review_title": "Review at Nhà Hàng Chay An & Cafe - Phạm Thái Bường",
+            "review_text": "Trà My\n2 contributions\n0\nKhông gian, món ăn.\nMay 2025 • Friends\nThis vegetarian food was very clean and tasty.\nThe ingredients are fresh and not excessive, so they have a natural taste.\nEspecially the buffet dishes and herbs were really delicious and felt healthy.\nThe restaurant atmosphere was also quiet and comfortable so it was very good to eat.\nTranslated from Korean\nShow original\nWritten May 22, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:05:29.430851",
+            "restaurant_id": "25170533",
+            "restaurant_name": "Nhà Hàng Chay An & Cafe - Phạm Thái Bường",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25170533-Reviews-Nha_Hang_Chay_An_Cafe_Ph_m_Thai_Bu_ng-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25170533-Reviews-Nha_Hang_Chay_An_Cafe_Ph_m_Thai_Bu_ng-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 12
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.727579,
+                "longitude": 106.71247
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/bf/f0/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Cafe",
+                "European",
+                "Asian",
+                "Deli",
+                "Healthy"
+            ],
+            "telephone": "+84 8 6246 2179",
+            "review_id": "REV_25170533_p1_2",
+            "reviewer_id": "User_25170533_1_2",
+            "review_title": "Review at Nhà Hàng Chay An & Cafe - Phạm Thái Bường",
+            "review_text": "Vy N\n1 contribution\n0\nenvironment, music, dishes, service staff\nMay 2025 • Friends\nI. Environment\nThe restaurant environment is elegant and peaceful, making people feel very relaxed.\nThe decor is simple and generous, full of Zen.\nThe light is soft and the atmosphere is warm for a quiet meal.\nII. Music\nThe background music is soft and beautiful, adding a lot of elegance to the meal.\nThe music atmosphere is very relaxing and physically and mentally pleasing.\nIII. Dishes\nEach dish is stunningly coloured and scented.\nIngredients are fresh, seasoned naturally and eaten healthy and reassuringly.\nVegetarian food is so exquisitely made it is an artistic treat.\nService personnel\nThe staff are friendly and courteous.\nThe service was very good and made people feel at home.\nThe staff are very professional and the details are in place.\nRead more\nValue\nService\nFood\nAtmosphere\nTranslated from Chinese\nShow original\nWritten May 21, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:05:29.443046",
+            "restaurant_id": "25170533",
+            "restaurant_name": "Nhà Hàng Chay An & Cafe - Phạm Thái Bường",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25170533-Reviews-Nha_Hang_Chay_An_Cafe_Ph_m_Thai_Bu_ng-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25170533-Reviews-Nha_Hang_Chay_An_Cafe_Ph_m_Thai_Bu_ng-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 12
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.727579,
+                "longitude": 106.71247
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/bf/f0/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Cafe",
+                "European",
+                "Asian",
+                "Deli",
+                "Healthy"
+            ],
+            "telephone": "+84 8 6246 2179",
+            "review_id": "REV_25170533_p1_3",
+            "reviewer_id": "User_25170533_1_3",
+            "review_title": "Review at Nhà Hàng Chay An & Cafe - Phạm Thái Bường",
+            "review_text": "Trinh Trinh\nPhan Thiet, Vietnam4 contributions\n0\nEating vegtables is good for your health.\nMay 2025 • Family\nNice design, relaxed and calm ambiance. Vegetarian cuisine with fine settings. The price is not cheap but for what they offer I believe it make senses. The dessert is very delicious. I would come very often because the food itself is really good.\nWritten May 21, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:05:29.455783",
+            "restaurant_id": "25170533",
+            "restaurant_name": "Nhà Hàng Chay An & Cafe - Phạm Thái Bường",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25170533-Reviews-Nha_Hang_Chay_An_Cafe_Ph_m_Thai_Bu_ng-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25170533-Reviews-Nha_Hang_Chay_An_Cafe_Ph_m_Thai_Bu_ng-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 12
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.727579,
+                "longitude": 106.71247
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/bf/f0/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Cafe",
+                "European",
+                "Asian",
+                "Deli",
+                "Healthy"
+            ],
+            "telephone": "+84 8 6246 2179",
+            "review_id": "REV_25170533_p1_4",
+            "reviewer_id": "User_25170533_1_4",
+            "review_title": "Review at Nhà Hàng Chay An & Cafe - Phạm Thái Bường",
+            "review_text": "Li Chun Mandy H\n1 contribution\n1\nYummy vegetarian dishes and good service!\nMay 2025 • Couples\nit's a very nice quite relaxing place and food was great. The waitress, Tuyet was very helpful and provided wonderful service. It's a good restaurant. It would be nice to go back again!\nWritten May 16, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-14T06:05:29.474451",
+            "restaurant_id": "25170533",
+            "restaurant_name": "Nhà Hàng Chay An & Cafe - Phạm Thái Bường",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25170533-Reviews-Nha_Hang_Chay_An_Cafe_Ph_m_Thai_Bu_ng-Ho_Chi_Minh_City.html",
+            "city": "Vietnam_Subregion",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d25170533-Reviews-Nha_Hang_Chay_An_Cafe_Ph_m_Thai_Bu_ng-Ho_Chi_Minh_City.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 12
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.727579,
+                "longitude": 106.71247
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/bf/f0/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Cafe",
+                "European",
+                "Asian",
+                "Deli",
+                "Healthy"
+            ],
+            "telephone": "+84 8 6246 2179",
+            "review_id": "REV_25170533_p1_5",
+            "reviewer_id": "User_25170533_1_5",
+            "review_title": "Review at Nhà Hàng Chay An & Cafe - Phạm Thái Bường",
+            "review_text": "Cẩm Tú\nVietnam3 contributions\n1\nOne of the best vegetarian restaurants in District 7!\nMay 2025 • Friends\nThe space is peaceful and calming — perfect for relaxing or gathering with friends and family. The menu is diverse, beautifully presented, and full of rich flavors. I was especially impressed with the fermented tofu hotpot and the mushroom wrapped in betel leaves — both delicious and healthy. The staff are friendly, attentive, and very welcoming. Definitely a place worth coming back to again and again!\nRead more\nValue\nService\nFood\nAtmosphere\nWritten May 14, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-14",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

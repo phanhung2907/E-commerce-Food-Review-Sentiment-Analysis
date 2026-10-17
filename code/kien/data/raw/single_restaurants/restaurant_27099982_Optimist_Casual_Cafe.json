@@ -1,0 +1,952 @@
+{
+    "restaurant_id": "27099982",
+    "restaurant_name": "Optimist Casual Cafe",
+    "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d27099982-Reviews-Optimist_Casual_Cafe-Nha_Trang_Khanh_Hoa_Province.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d27099982-Reviews-Optimist_Casual_Cafe-Nha_Trang_Khanh_Hoa_Province.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "95/2 Bach Dang",
+            "addressLocality": "Nha Trang",
+            "postalCode": "650000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.6,
+            "reviewCount": 10
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.240101,
+            "longitude": 109.19279
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/48/cd/fb/cafe-image.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "08:00:00",
+                "closes": "20:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "08:00:00",
+                "closes": "20:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "08:00:00",
+                "closes": "20:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "08:00:00",
+                "closes": "20:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "08:00:00",
+                "closes": "20:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "08:00:00",
+                "closes": "20:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "08:00:00",
+                "closes": "20:00:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "European"
+        ],
+        "telephone": "+84 368 288 030"
+    },
+    "reviews_count": 10,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T10:02:15.777167",
+            "restaurant_id": "27099982",
+            "restaurant_name": "Optimist Casual Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d27099982-Reviews-Optimist_Casual_Cafe-Nha_Trang_Khanh_Hoa_Province.html",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d27099982-Reviews-Optimist_Casual_Cafe-Nha_Trang_Khanh_Hoa_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "95/2 Bach Dang",
+                "addressLocality": "Nha Trang",
+                "postalCode": "650000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.240101,
+                "longitude": 109.19279
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/48/cd/fb/cafe-image.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "European"
+            ],
+            "telephone": "+84 368 288 030",
+            "review_id": "REV_27099982_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Optimist Casual Cafe",
+            "review_text": "Ekaterina M\n10 contributions\n0\nExcellent interesting breakfasts\nAug 2024 • Family\nCafés with interesting and delicious cuisine, such in Nha Trang are few. The pitch is beyond praise. I recommend a visit! Expensive, but worth it!\nTranslated from Russian\nShow original\nWritten August 27, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T10:02:15.818169",
+            "restaurant_id": "27099982",
+            "restaurant_name": "Optimist Casual Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d27099982-Reviews-Optimist_Casual_Cafe-Nha_Trang_Khanh_Hoa_Province.html",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d27099982-Reviews-Optimist_Casual_Cafe-Nha_Trang_Khanh_Hoa_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "95/2 Bach Dang",
+                "addressLocality": "Nha Trang",
+                "postalCode": "650000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.240101,
+                "longitude": 109.19279
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/48/cd/fb/cafe-image.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "European"
+            ],
+            "telephone": "+84 368 288 030",
+            "review_id": "REV_27099982_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Optimist Casual Cafe",
+            "review_text": "Armin D\n22 contributions\n0\nItalian flair in Nha Trang ♥️\nMay 2024 • Family\nLooking for an alternative to our very expensive hotel breakfast, we ended up in the \"Optimist\". Highly recommended, especially the coffee, but also the food! We can recommend everything on the menu! The boss & his. Woman serve personally. The price performance is right as well as the ambience\nValue\nService\nFood\nAtmosphere\nWritten May 10, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T10:02:15.857692",
+            "restaurant_id": "27099982",
+            "restaurant_name": "Optimist Casual Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d27099982-Reviews-Optimist_Casual_Cafe-Nha_Trang_Khanh_Hoa_Province.html",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d27099982-Reviews-Optimist_Casual_Cafe-Nha_Trang_Khanh_Hoa_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "95/2 Bach Dang",
+                "addressLocality": "Nha Trang",
+                "postalCode": "650000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.240101,
+                "longitude": 109.19279
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/48/cd/fb/cafe-image.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "European"
+            ],
+            "telephone": "+84 368 288 030",
+            "review_id": "REV_27099982_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Optimist Casual Cafe",
+            "review_text": "kateslimsbabe\nVoronezh, Russia36 contributions\n0\nLiked!\nMay 2024 • Family\nOverall I liked everything! We ordered toast with red fish and guacamole, toast with broccoli! Everything is delicious! The only thing is that the fish is different from ours, but overall everything is ok! I recommend!\nShow original\nWritten May 2, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T10:02:15.910672",
+            "restaurant_id": "27099982",
+            "restaurant_name": "Optimist Casual Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d27099982-Reviews-Optimist_Casual_Cafe-Nha_Trang_Khanh_Hoa_Province.html",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d27099982-Reviews-Optimist_Casual_Cafe-Nha_Trang_Khanh_Hoa_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "95/2 Bach Dang",
+                "addressLocality": "Nha Trang",
+                "postalCode": "650000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.240101,
+                "longitude": 109.19279
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/48/cd/fb/cafe-image.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "European"
+            ],
+            "telephone": "+84 368 288 030",
+            "review_id": "REV_27099982_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Optimist Casual Cafe",
+            "review_text": "Евгений Г\nNha Trang, Vietnam1 contribution\n0\nDisgusting service.\nMar 2024 • Family\nIf you want to eat well, then choose another establishment. Here your order will definitely be forgotten. Hot dishes are prepared within 20-30 minutes. This is the third time that only salmon steak is available. Okay, my wife ordered a salad and a pastrami sandwich, I ordered a salmon steak. After 40 minutes, the steak was still not cooked, although when ordering, the waiter asked again 3 times and said that it would be necessary to wait a long time. Food 3, service 0 - I will never back to this cafe.\nRead more\nInsider tip:\nAsk about your order every 5 minutes.\nValue\nService\nFood\nAtmosphere\nWritten March 18, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T10:02:15.927823",
+            "restaurant_id": "27099982",
+            "restaurant_name": "Optimist Casual Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d27099982-Reviews-Optimist_Casual_Cafe-Nha_Trang_Khanh_Hoa_Province.html",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d27099982-Reviews-Optimist_Casual_Cafe-Nha_Trang_Khanh_Hoa_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "95/2 Bach Dang",
+                "addressLocality": "Nha Trang",
+                "postalCode": "650000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.240101,
+                "longitude": 109.19279
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/48/cd/fb/cafe-image.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "European"
+            ],
+            "telephone": "+84 368 288 030",
+            "review_id": "REV_27099982_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Optimist Casual Cafe",
+            "review_text": "мария\nNizhny Novgorod, Russia2 contributions\n0\nLovely cafe\nFeb 2024 • Family\nAn excellent family cafe, each of us found a dish to our liking.\nVery tasty cuisine, I definitely recommend visiting.\nShow original\nWritten February 20, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T10:02:15.944587",
+            "restaurant_id": "27099982",
+            "restaurant_name": "Optimist Casual Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d27099982-Reviews-Optimist_Casual_Cafe-Nha_Trang_Khanh_Hoa_Province.html",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d27099982-Reviews-Optimist_Casual_Cafe-Nha_Trang_Khanh_Hoa_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "95/2 Bach Dang",
+                "addressLocality": "Nha Trang",
+                "postalCode": "650000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.240101,
+                "longitude": 109.19279
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/48/cd/fb/cafe-image.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "European"
+            ],
+            "telephone": "+84 368 288 030",
+            "review_id": "REV_27099982_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at Optimist Casual Cafe",
+            "review_text": "Meander64523429760\n2 contributions\n0\nMy favorite place!\nFeb 2024 • Friends\nNice and cozy place. Great food. Friendly atmosphere. Helpful stuff. Perfect coffee. I love everything in Optimist. Just one the nicest places in Nha Trang. I strongly recommend!\nValue\nService\nFood\nAtmosphere\nWritten February 6, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T10:02:15.956591",
+            "restaurant_id": "27099982",
+            "restaurant_name": "Optimist Casual Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d27099982-Reviews-Optimist_Casual_Cafe-Nha_Trang_Khanh_Hoa_Province.html",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d27099982-Reviews-Optimist_Casual_Cafe-Nha_Trang_Khanh_Hoa_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "95/2 Bach Dang",
+                "addressLocality": "Nha Trang",
+                "postalCode": "650000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.240101,
+                "longitude": 109.19279
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/48/cd/fb/cafe-image.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "European"
+            ],
+            "telephone": "+84 368 288 030",
+            "review_id": "REV_27099982_p1_6",
+            "reviewer_id": "User_p1_6",
+            "review_title": "Review at Optimist Casual Cafe",
+            "review_text": "Иван Я\nNha Trang, Vietnam53 contributions\n1\nSuper!\nJan 2024 • Family\nGreat cafe! The tuna sandwich is beyond praise! Sinabon is probably the best in the country! A must visit place in Nha Trang!\nShow original\nWritten February 2, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T10:02:15.969591",
+            "restaurant_id": "27099982",
+            "restaurant_name": "Optimist Casual Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d27099982-Reviews-Optimist_Casual_Cafe-Nha_Trang_Khanh_Hoa_Province.html",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d27099982-Reviews-Optimist_Casual_Cafe-Nha_Trang_Khanh_Hoa_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "95/2 Bach Dang",
+                "addressLocality": "Nha Trang",
+                "postalCode": "650000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.240101,
+                "longitude": 109.19279
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/48/cd/fb/cafe-image.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "European"
+            ],
+            "telephone": "+84 368 288 030",
+            "review_id": "REV_27099982_p1_7",
+            "reviewer_id": "User_p1_7",
+            "review_title": "Review at Optimist Casual Cafe",
+            "review_text": "Valeri B.\nShanghai, China5 contributions\n0\nAmazing\nJan 2024 • Couples\nThis establishment is unequivocally the premier coffee shop we have visited in Nha Trang. The pricing is reasonable, and the level of service provided is truly exceptional.\n\nTheir bakery offerings are nothing short of splendid, and they even offer RAF coffee, a rarity outside of Russia. \nWe will most certainly make a return visit to this remarkable place!\nRead more\nWritten January 29, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T10:02:15.986597",
+            "restaurant_id": "27099982",
+            "restaurant_name": "Optimist Casual Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d27099982-Reviews-Optimist_Casual_Cafe-Nha_Trang_Khanh_Hoa_Province.html",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d27099982-Reviews-Optimist_Casual_Cafe-Nha_Trang_Khanh_Hoa_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "95/2 Bach Dang",
+                "addressLocality": "Nha Trang",
+                "postalCode": "650000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.240101,
+                "longitude": 109.19279
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/48/cd/fb/cafe-image.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "European"
+            ],
+            "telephone": "+84 368 288 030",
+            "review_id": "REV_27099982_p1_8",
+            "reviewer_id": "User_p1_8",
+            "review_title": "Review at Optimist Casual Cafe",
+            "review_text": "Natalia T\n2 contributions\n0\nHighly recommended to visit this lovely cafe\nJan 2024 • Friends\nI like this place with its delicious cuisine and nice people, it's lovely. Variety of yummy sandwiches, breakfast is great, and Cinnabon is awesome.\nValue\nService\nFood\nAtmosphere\nWritten January 24, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T10:02:16.000289",
+            "restaurant_id": "27099982",
+            "restaurant_name": "Optimist Casual Cafe",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d27099982-Reviews-Optimist_Casual_Cafe-Nha_Trang_Khanh_Hoa_Province.html",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d27099982-Reviews-Optimist_Casual_Cafe-Nha_Trang_Khanh_Hoa_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "95/2 Bach Dang",
+                "addressLocality": "Nha Trang",
+                "postalCode": "650000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.240101,
+                "longitude": 109.19279
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/48/cd/fb/cafe-image.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "European"
+            ],
+            "telephone": "+84 368 288 030",
+            "review_id": "REV_27099982_p1_9",
+            "reviewer_id": "User_p1_9",
+            "review_title": "Review at Optimist Casual Cafe",
+            "review_text": "Максим Т\n3 contributions\n2\nOptimist\nDec 2023 • Solo\nPossibly the best breakfast in town. Great guys and nice crowd. Sinabon is the bomb!!! Flat white and chicken sandwich are made for each other)\nShow original\nWritten December 26, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

@@ -55,13 +55,12 @@ services:
       - "${CLOUDBEAVER_PORT}:8978"
 
     environment:
-      CB_SERVER_NAME: ${CLOUDBEAVER_SERVER_NAME}
-      CB_SERVER_URL: http://localhost:${CLOUDBEAVER_PORT}
-
-      CB_ADMIN_NAME: ${CLOUDBEAVER_ADMIN_NAME}
-      CB_ADMIN_PASSWORD: ${CLOUDBEAVER_ADMIN_PASSWORD}
-
-      CLOUDBEAVER_APP_SUPPORTS_CUSTOM_CONNECTIONS: "true"
+     CB_SERVER_NAME: ${CB_SERVER_NAME}
+     CB_SERVER_URL: http://localhost:${CB_SERVER_PORT}
+     CB_ADMIN_NAME: ${CB_ADMIN_NAME}
+     CB_ADMIN_PASSWORD: ${CB_ADMIN_PASSWORD}
+     CB_INITIAL_ADMIN_NAME: admin
+     CLOUDBEAVER_APP_SUPPORTS_CUSTOM_CONNECTIONS: "true"
 
     volumes:
       - ./docker/cloudbeaver:/opt/cloudbeaver/workspace
