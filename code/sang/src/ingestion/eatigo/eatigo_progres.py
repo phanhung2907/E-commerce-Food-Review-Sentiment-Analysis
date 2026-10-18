@@ -19,7 +19,7 @@ def etl_eatigo_minio_to_postgres():
     bucket_name = "raw-data"
 
     # Cấu trúc mới
-    prefix = "eatigo/raw/ho-chi-minh/"
+    prefix = "eatigo/raw/"
 
     # =========================================================
     # 2. KẾT NỐI POSTGRESQL
