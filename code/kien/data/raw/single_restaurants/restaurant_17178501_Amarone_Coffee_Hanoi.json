@@ -1,0 +1,79 @@
+{
+    "restaurant_id": "17178501",
+    "restaurant_name": "Amarone Coffee Hanoi",
+    "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d17178501-Reviews-Amarone_Coffee_Hanoi-Hanoi.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d17178501-Reviews-Amarone_Coffee_Hanoi-Hanoi.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Hanoi Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 21.011501,
+            "longitude": 105.80417
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/f6/54/08/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "$",
+        "servesCuisine": [
+            "Cafe"
+        ],
+        "telephone": "+84 94 221 28 90"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T08:08:46.161646",
+            "restaurant_id": "17178501",
+            "restaurant_name": "Amarone Coffee Hanoi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d17178501-Reviews-Amarone_Coffee_Hanoi-Hanoi.html#REVIEWS",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d17178501-Reviews-Amarone_Coffee_Hanoi-Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Hanoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.011501,
+                "longitude": 105.80417
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/f6/54/08/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$",
+            "servesCuisine": [
+                "Cafe"
+            ],
+            "telephone": "+84 94 221 28 90",
+            "review_id": "REV_17178501_p1_0",
+            "reviewer_id": "User_17178501_1_0",
+            "review_title": "Review at Amarone Coffee Hanoi",
+            "review_text": "Đỗ Q\nHanoi, Vietnam10 contributions\n0\nLittle Seoul in the West of Hanoi\nApr 2019 • Friends\nGood and fresh coffee with the best mixed composition between Vietnamese and Italian coffee style ! Good ice blended drinking and fruits ! Romatic design !\nWritten April 10, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

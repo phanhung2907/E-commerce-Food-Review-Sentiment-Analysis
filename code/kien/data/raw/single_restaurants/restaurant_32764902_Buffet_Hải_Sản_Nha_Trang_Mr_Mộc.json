@@ -1,0 +1,597 @@
+{
+    "restaurant_id": "32764902",
+    "restaurant_name": "Buffet Hải Sản Nha Trang Mr Mộc",
+    "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d32764902-Reviews-Buffet_H_i_S_n_Nha_Trang_Mr_M_c-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d32764902-Reviews-Buffet_H_i_S_n_Nha_Trang_Mr_M_c-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Nha Trang Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 3,
+            "reviewCount": 7
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.236976,
+            "longitude": 109.19384
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/b2/01/73/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Seafood",
+            "Vietnamese"
+        ],
+        "telephone": "+84 93 112 35 40"
+    },
+    "reviews_count": 6,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T10:34:18.574692",
+            "restaurant_id": "32764902",
+            "restaurant_name": "Buffet Hải Sản Nha Trang Mr Mộc",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d32764902-Reviews-Buffet_H_i_S_n_Nha_Trang_Mr_M_c-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d32764902-Reviews-Buffet_H_i_S_n_Nha_Trang_Mr_M_c-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3,
+                "reviewCount": 7
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.236976,
+                "longitude": 109.19384
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/b2/01/73/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Seafood",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 112 35 40",
+            "review_id": "REV_32764902_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Buffet Hải Sản Nha Trang Mr Mộc",
+            "review_text": "Татьяна\nNha Trang, Vietnam6 contributions\n0\n👎🏼\nAug 2026 • Couples\nDecided to visit this buffet with my boyfriend, but we were not very satisfied. At the entrance, they didn't want to give us change, thinking they would keep it as a tip. I almost had to take it away. Then, when we went to the gym, all the spots were taken. The choice of dishes is certainly large if you don't care what to eat, as it seemed to us that the focus here is on Vietnamese and Korean guests.\nReady-made cold dishes, those that do not need to be salted. For its price, you can only get unlimited drinks here.\nRead more\nValue\nService\nFood\nAtmosphere\nTranslated from Russian\nShow original\nWritten September 27, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T10:34:18.589698",
+            "restaurant_id": "32764902",
+            "restaurant_name": "Buffet Hải Sản Nha Trang Mr Mộc",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d32764902-Reviews-Buffet_H_i_S_n_Nha_Trang_Mr_M_c-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d32764902-Reviews-Buffet_H_i_S_n_Nha_Trang_Mr_M_c-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3,
+                "reviewCount": 7
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.236976,
+                "longitude": 109.19384
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/b2/01/73/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Seafood",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 112 35 40",
+            "review_id": "REV_32764902_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Buffet Hải Sản Nha Trang Mr Mộc",
+            "review_text": "Валерий Б\nMoscow, Russia9 contributions\n0\nBest of the three Nha Trang buffets\nMay 2026 • Couples\nGreat for seafood lovers. You can grill and steal samovar. Seafood is freshest, constantly replenishing (the LOTTE shopping mall has empty plates in the buffet). Better bring the liquor with you. Beer is included in the price, but it's warm and not delicious. Repeat, seafood buffet. Everyone else (vegetarian and sympathizer) - MIMO!!!\nPRICE PER PERSON 365 VND. And yes, it's a bucket for self-cooked enthusiasts. Before paying, you can go and watch the whole buffet and decide to stay or not .\nRead more\nTranslated from Russian\nShow original\nWritten May 23, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T10:34:18.604213",
+            "restaurant_id": "32764902",
+            "restaurant_name": "Buffet Hải Sản Nha Trang Mr Mộc",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d32764902-Reviews-Buffet_H_i_S_n_Nha_Trang_Mr_M_c-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d32764902-Reviews-Buffet_H_i_S_n_Nha_Trang_Mr_M_c-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3,
+                "reviewCount": 7
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.236976,
+                "longitude": 109.19384
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/b2/01/73/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Seafood",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 112 35 40",
+            "review_id": "REV_32764902_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Buffet Hải Sản Nha Trang Mr Mộc",
+            "review_text": "rinimukherjee\nBangalore District, India183 contributions\n0\nUnlimited Buffet\nMay 2026 • Family\nTried Mr Môc Seafood Buffet in Da Nang and it’s definitely an experience.\nIf you’re a hardcore seafood lover, this place can feel like value for money. But if you’re vegetarian, this is not for you.\nIt’s a hands-on, slightly chaotic setup, you literally pick live seafood (crabs, prawns, etc.), bring it to your table, and cook it yourself in a hot pot or on the grill. Not for the faint-hearted… especially if you’re not used to your food “moving” before it’s cooked 😅\nThere are some meat options too, along with unlimited soft drinks and beer, which adds to the appeal.\nA quick tip: language can be a barrier, so keep a translator handy. Best way to navigate? Just observe what others are doing and follow along.\nOverall, less of a typical dining experience and more of a “dive in and figure it out” kind of place.\nRead more\nWritten May 7, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T10:34:18.615586",
+            "restaurant_id": "32764902",
+            "restaurant_name": "Buffet Hải Sản Nha Trang Mr Mộc",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d32764902-Reviews-Buffet_H_i_S_n_Nha_Trang_Mr_M_c-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d32764902-Reviews-Buffet_H_i_S_n_Nha_Trang_Mr_M_c-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3,
+                "reviewCount": 7
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.236976,
+                "longitude": 109.19384
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/b2/01/73/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Seafood",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 112 35 40",
+            "review_id": "REV_32764902_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Buffet Hải Sản Nha Trang Mr Mộc",
+            "review_text": "Vinh N\n3 contributions\n0\nStaffs ok, but ..\nNov 2025 • Family\nPros: \nServices: excellent, staffs were helpful and polite\nFood: varieties ok, compared to the price you paid\nCons:\nCleanliness: not quite satisfied, especially at the beverage station.\nFood: not so freshly, no tag on any of it, you have no ideas what you are taking, even the sauces\nEnvironment was noisy and stressful \nCons plus:\nStaff asked to rate 5star “in place”, they even asked for using your phone to do that themselves.\nSome of the food dishes were restricted for hotpot only, which means you shouldn’t take if not you have order one, to get it, either “check in” (meaning leaving a good rating in social media) for a free one, or pay extra for it. \nSummary: improvements needed\nRead more\nWritten November 2, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T10:34:18.628602",
+            "restaurant_id": "32764902",
+            "restaurant_name": "Buffet Hải Sản Nha Trang Mr Mộc",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d32764902-Reviews-Buffet_H_i_S_n_Nha_Trang_Mr_M_c-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d32764902-Reviews-Buffet_H_i_S_n_Nha_Trang_Mr_M_c-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3,
+                "reviewCount": 7
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.236976,
+                "longitude": 109.19384
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/b2/01/73/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Seafood",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 112 35 40",
+            "review_id": "REV_32764902_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Buffet Hải Sản Nha Trang Mr Mộc",
+            "review_text": "nikopoliss\nUssuriysk, Russia115 contributions\n0\nMore for Chinese or locals\nAug 2025 • Family\nLooks septic from the outside. But the range is only for marine lovers, there's a lot of that, but there's almost no meat. Chicken, for example, is represented only by the legs😁Ready-to-eat food is almost non-existent, there are no desserts for European taste (there are jellies that the Chinese like), fruit is scarce. Fries are normal and baguette. Beer is disgusting, so is soda.\nRead more\nTranslated from Russian\nShow original\nWritten August 15, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T10:34:18.640592",
+            "restaurant_id": "32764902",
+            "restaurant_name": "Buffet Hải Sản Nha Trang Mr Mộc",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d32764902-Reviews-Buffet_H_i_S_n_Nha_Trang_Mr_M_c-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d32764902-Reviews-Buffet_H_i_S_n_Nha_Trang_Mr_M_c-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3,
+                "reviewCount": 7
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.236976,
+                "longitude": 109.19384
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/b2/01/73/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Seafood",
+                "Vietnamese"
+            ],
+            "telephone": "+84 93 112 35 40",
+            "review_id": "REV_32764902_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at Buffet Hải Sản Nha Trang Mr Mộc",
+            "review_text": "eric s\n7 contributions\n0\na great seafood/hotpot buffet at a very fair price in Nha Trang\nDec 2024 • Solo\nLooking for an all you can eat seafood buffet at a very reasonable price? including free drinks, desserts, salads and more? Mr Moc has all of that and it is really good 👍🏻❤️😊\n\nThere are plenty of different options/items to choose from. Some live seashells and crabs even. Fish, meat and a few veggies (though I wish there would be more). Plenty of seashells. I mainly go there for oysters, big prawns and fresh seashells. At times they also have urchins.\n\nAs part of the dessert options very tasty (sweeeet) panna cotta. Some ice creams (vietnamese ;-).\n\nService is very \"enthusiastic\" as I see the words locals are using. Not highly professional but very kind and a great help the first time you are there. Not much English spoken but staff attending the tables (they will cook, grill for you if you are a \"beginner\" ;-). Staff at the reception have a good command of English. Price is just below 300K Dongs for adults. More than fair. No time pressure.\n\nBest is to avoid rush times after 6PM. 4 to 6 PM is usually super quiet and enjoyable.\n\nConvenient location and definitely a great option in my view. Food quality is good. At times better... at times a bit less but plenty of options to choose from. Bottom line: I really like that buffet and the great (very young) staff. Only negative: at times some of the staff (very few) interact with each another loudly and ... well...how to put that🤔... a bit in a childish way I would not expect in a restaurant... from the staff 😉 \nAlso some guests can be very loud. Especially big parties. Hence I tend to go from 3 to 6 PM as it is quiet 👍🏻😊\nRead more\nWritten December 20, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

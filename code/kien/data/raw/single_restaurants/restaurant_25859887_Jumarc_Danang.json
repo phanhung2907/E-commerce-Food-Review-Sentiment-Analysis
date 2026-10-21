@@ -1,0 +1,529 @@
+{
+    "restaurant_id": "25859887",
+    "restaurant_name": "Jumarc Danang",
+    "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g19779171-d25859887-Reviews-Jumarc_Danang-Phuoc_My_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g19779171-d25859887-Reviews-Jumarc_Danang-Phuoc_My_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "29 Đỗ Thế Chấp B1 B1",
+            "addressLocality": "Phuoc My",
+            "postalCode": "550000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.6,
+            "reviewCount": 5
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 16.078129,
+            "longitude": 108.24438
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/ac/98/4a/under-the-sea-bar-and.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "17:00:00",
+                "closes": "01:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "17:00:00",
+                "closes": "01:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "17:00:00",
+                "closes": "01:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "17:00:00",
+                "closes": "01:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "17:00:00",
+                "closes": "01:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "17:00:00",
+                "closes": "01:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "17:00:00",
+                "closes": "01:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Asian",
+            "Korean",
+            "Fusion"
+        ],
+        "telephone": "+84 353589645"
+    },
+    "reviews_count": 5,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T20:57:46.564927",
+            "restaurant_id": "25859887",
+            "restaurant_name": "Jumarc Danang",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g19779171-d25859887-Reviews-Jumarc_Danang-Phuoc_My_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g19779171-d25859887-Reviews-Jumarc_Danang-Phuoc_My_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "29 Đỗ Thế Chấp B1 B1",
+                "addressLocality": "Phuoc My",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.078129,
+                "longitude": 108.24438
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/ac/98/4a/under-the-sea-bar-and.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Asian",
+                "Korean",
+                "Fusion"
+            ],
+            "telephone": "+84 353589645",
+            "review_id": "REV_25859887_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Jumarc Danang",
+            "review_text": "Ubayasekara\n63 contributions\n0\nLovely!\nJun 2024 • Solo\nA wonderful experience both times I was there. Wonderful staff, great bar food and amazing cocktails. Atmosphere is great and ambiance and vibe welcoming.\nWritten June 13, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T20:57:46.581539",
+            "restaurant_id": "25859887",
+            "restaurant_name": "Jumarc Danang",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g19779171-d25859887-Reviews-Jumarc_Danang-Phuoc_My_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g19779171-d25859887-Reviews-Jumarc_Danang-Phuoc_My_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "29 Đỗ Thế Chấp B1 B1",
+                "addressLocality": "Phuoc My",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.078129,
+                "longitude": 108.24438
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/ac/98/4a/under-the-sea-bar-and.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Asian",
+                "Korean",
+                "Fusion"
+            ],
+            "telephone": "+84 353589645",
+            "review_id": "REV_25859887_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Jumarc Danang",
+            "review_text": "Finnegan D\n32 contributions\n0\nUnique and amazing spot\nApr 2024 • Couples\nIf you are looking for a unique dining spot in Da Nang, this is the place to be. An amazing interior design, great food, music and very nice staff. \nHaving a view on the fishtanks above makes for a great experience!\n\nSpecial thanks to Annie for going the extra mile in serving us the whole night.\n\n100% recommendation!\nWritten April 4, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T20:57:46.614851",
+            "restaurant_id": "25859887",
+            "restaurant_name": "Jumarc Danang",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g19779171-d25859887-Reviews-Jumarc_Danang-Phuoc_My_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g19779171-d25859887-Reviews-Jumarc_Danang-Phuoc_My_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "29 Đỗ Thế Chấp B1 B1",
+                "addressLocality": "Phuoc My",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.078129,
+                "longitude": 108.24438
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/ac/98/4a/under-the-sea-bar-and.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Asian",
+                "Korean",
+                "Fusion"
+            ],
+            "telephone": "+84 353589645",
+            "review_id": "REV_25859887_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Jumarc Danang",
+            "review_text": "fdeluen\nMontreal, Canada16 contributions\n0\nExcellent food, bar atmosphere\nAug 2023 • Family\nThe food is excellent however it is much more of a bar than a restaurant.\nI don't understand the identity of this bar-restaurant, the drinks menu only consists of wine sold by the bottle. The choice of wine by the glass is only red or white, no grape variety (and no quantity on the menu either). So it's not what I call a bar.\nFor the restaurant part, the music is very loud, it's complicated to get a table and not eat at the bar even if our group (of 3) represented 50% of the customers.\nAs the music is very loud the waitress did not understand my order.\nValue\nService\nFood\nAtmosphere\nShow original\nWritten August 14, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T20:57:46.640720",
+            "restaurant_id": "25859887",
+            "restaurant_name": "Jumarc Danang",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g19779171-d25859887-Reviews-Jumarc_Danang-Phuoc_My_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g19779171-d25859887-Reviews-Jumarc_Danang-Phuoc_My_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "29 Đỗ Thế Chấp B1 B1",
+                "addressLocality": "Phuoc My",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.078129,
+                "longitude": 108.24438
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/ac/98/4a/under-the-sea-bar-and.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Asian",
+                "Korean",
+                "Fusion"
+            ],
+            "telephone": "+84 353589645",
+            "review_id": "REV_25859887_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Jumarc Danang",
+            "review_text": "GreatTaste L\nSingapore, Singapore87 contributions\n1\nHidden GEM\nJun 2023 • Friends\nFab place to visit if you are in Danang. Interior is awesome, dishes are crazily delicious. Better than many of my fav restaurants in other south east asia cities. Service is friendly.\nValue\nService\nFood\nWritten July 2, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T20:57:46.689090",
+            "restaurant_id": "25859887",
+            "restaurant_name": "Jumarc Danang",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g19779171-d25859887-Reviews-Jumarc_Danang-Phuoc_My_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g19779171-d25859887-Reviews-Jumarc_Danang-Phuoc_My_Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "29 Đỗ Thế Chấp B1 B1",
+                "addressLocality": "Phuoc My",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.078129,
+                "longitude": 108.24438
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/ac/98/4a/under-the-sea-bar-and.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "17:00:00",
+                    "closes": "01:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Asian",
+                "Korean",
+                "Fusion"
+            ],
+            "telephone": "+84 353589645",
+            "review_id": "REV_25859887_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Jumarc Danang",
+            "review_text": "Mike S\nKo Samui, Thailand12 contributions\n1\nCoolest bar in Da Nang!!\nJun 2023 • Friends\nSitting below Koi pond, this bar had really cool interior that blows you away!! Probably the best wine selection, really authentic pasta, and awesome service from very friendly staff.\nWe really had fantastic time!!\nWritten June 28, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

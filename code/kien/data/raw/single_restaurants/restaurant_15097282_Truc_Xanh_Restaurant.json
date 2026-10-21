@@ -1,0 +1,79 @@
+{
+    "restaurant_id": "15097282",
+    "restaurant_name": "Truc Xanh Restaurant",
+    "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298085-d15097282-Reviews-Truc_Xanh_Restaurant-Da_Nang.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g298085-d15097282-Reviews-Truc_Xanh_Restaurant-Da_Nang.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Da Nang Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 16.02713,
+            "longitude": 108.25583
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ea/1e/93/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Vietnamese"
+        ],
+        "telephone": "+84 511 3918888"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T01:47:42.137588",
+            "restaurant_id": "15097282",
+            "restaurant_name": "Truc Xanh Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298085-d15097282-Reviews-Truc_Xanh_Restaurant-Da_Nang.html",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298085-d15097282-Reviews-Truc_Xanh_Restaurant-Da_Nang.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Da Nang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.02713,
+                "longitude": 108.25583
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ea/1e/93/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 511 3918888",
+            "review_id": "REV_15097282_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Truc Xanh Restaurant",
+            "review_text": "806stuartd\nRichmond, United Kingdom68 contributions\n0\nQuiet Oasis\nAug 2018 • Couples\nThis restaurant is situated in the grounds of the Crowne Plaza hotel and serves wonderful Vietnamese cuisine. It became our go to destination away from the majority of the hotel guests who seemed to prefer the hotel buffet.\nThe service was excellent and the food was fabulous, so much so that we ate here nearly every night of our stay.\nIf you are staying at the Crowne Plaza I highly recommend that you have a stroll down towards the pool & beach and enjoy this quiet oasis\nRead more\nWritten September 28, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

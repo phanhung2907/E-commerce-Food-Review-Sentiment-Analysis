@@ -1,0 +1,985 @@
+{
+    "restaurant_id": "12512170",
+    "restaurant_name": "Café Blue Lagoon Restaurant",
+    "city": "9. Phan Thiet Restaurants\nSee all 464 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d12512170-Reviews-Cafe_Blue_Lagoon_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d12512170-Reviews-Cafe_Blue_Lagoon_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Mui Ne, Phan Thiet Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.5,
+            "reviewCount": 29
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.945317,
+            "longitude": 108.29781
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/16/a8/3b/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Seafood",
+            "Barbecue",
+            "European",
+            "Vietnamese",
+            "Diner",
+            "Healthy"
+        ],
+        "telephone": "+84 252 3849 849"
+    },
+    "reviews_count": 10,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T16:20:02.070433",
+            "restaurant_id": "12512170",
+            "restaurant_name": "Café Blue Lagoon Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d12512170-Reviews-Cafe_Blue_Lagoon_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 464 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d12512170-Reviews-Cafe_Blue_Lagoon_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Mui Ne, Phan Thiet Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.945317,
+                "longitude": 108.29781
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/16/a8/3b/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
+                "Vietnamese",
+                "Diner",
+                "Healthy"
+            ],
+            "telephone": "+84 252 3849 849",
+            "review_id": "REV_12512170_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Café Blue Lagoon Restaurant",
+            "review_text": "july\nAustria91 contributions\n0\nIf you are not a hotel guest you can not go there to eat!!!\nFeb 2026 • Couples\nIf you only come in as a hotel guest!!! But it's nowhere. Very unfriendly welcome! They don't want outsiders! All right, but then let them communicate it in advance\nTranslated from German\nShow original\nWritten February 4, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T16:20:02.115625",
+            "restaurant_id": "12512170",
+            "restaurant_name": "Café Blue Lagoon Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d12512170-Reviews-Cafe_Blue_Lagoon_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 464 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d12512170-Reviews-Cafe_Blue_Lagoon_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Mui Ne, Phan Thiet Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.945317,
+                "longitude": 108.29781
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/16/a8/3b/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
+                "Vietnamese",
+                "Diner",
+                "Healthy"
+            ],
+            "telephone": "+84 252 3849 849",
+            "review_id": "REV_12512170_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Café Blue Lagoon Restaurant",
+            "review_text": "LeckaMittachessen\nUnna, Germany654 contributions\n0\nVery satisfied\nFeb 2026 • Couples\nExcellent and varied breakfast that leaves nothing to be desired. A la carte as a restaurant better than with menus or promotions. Friendly service\nTranslated from German\nShow original\nWritten February 2, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T16:20:02.190627",
+            "restaurant_id": "12512170",
+            "restaurant_name": "Café Blue Lagoon Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d12512170-Reviews-Cafe_Blue_Lagoon_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 464 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d12512170-Reviews-Cafe_Blue_Lagoon_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Mui Ne, Phan Thiet Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.945317,
+                "longitude": 108.29781
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/16/a8/3b/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
+                "Vietnamese",
+                "Diner",
+                "Healthy"
+            ],
+            "telephone": "+84 252 3849 849",
+            "review_id": "REV_12512170_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Café Blue Lagoon Restaurant",
+            "review_text": "CanisHan\nSeoul, South Korea31300 contributions\n1\nrestaurant that serves breakfast in the Pandanus Resort\nSep 2025 • Friends\nC ( 25.09.29 )\nMy friend and I had breakfast here while staying at the Pandanus Resort. As a restaurant in the resort, the atmosphere is good and the food is diverse. The service is good, and it provides excellent breakfast. It is a delicious, diverse, and excellent restaurant for breakfast.\nValue\nService\nFood\nAtmosphere\nWritten October 3, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T16:20:02.267142",
+            "restaurant_id": "12512170",
+            "restaurant_name": "Café Blue Lagoon Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d12512170-Reviews-Cafe_Blue_Lagoon_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 464 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d12512170-Reviews-Cafe_Blue_Lagoon_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Mui Ne, Phan Thiet Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.945317,
+                "longitude": 108.29781
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/16/a8/3b/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
+                "Vietnamese",
+                "Diner",
+                "Healthy"
+            ],
+            "telephone": "+84 252 3849 849",
+            "review_id": "REV_12512170_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Café Blue Lagoon Restaurant",
+            "review_text": "Michael M\n9 contributions\n0\nSuperb restaurant up to what you might expect\nJul 2025 • Family\nA real pleasure to have our meals in this excellent restaurant at Resort Pandanus. \nStaff with little care, quality dishes with a very nice presentation. Very reasonable rates compared to other hotels in Vietnam.\nIt is a faultless one.\nTranslated from French\nShow original\nWritten July 31, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T16:20:02.350270",
+            "restaurant_id": "12512170",
+            "restaurant_name": "Café Blue Lagoon Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d12512170-Reviews-Cafe_Blue_Lagoon_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 464 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d12512170-Reviews-Cafe_Blue_Lagoon_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Mui Ne, Phan Thiet Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.945317,
+                "longitude": 108.29781
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/16/a8/3b/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
+                "Vietnamese",
+                "Diner",
+                "Healthy"
+            ],
+            "telephone": "+84 252 3849 849",
+            "review_id": "REV_12512170_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Café Blue Lagoon Restaurant",
+            "review_text": "Michael H\nMississauga, Canada24 contributions\n0\nGood Buffet breakfast\nMay 2019 • Couples\nGood buffet breakfast, good varieties, dinner was ok, food is nothing special and pricey. No aircon,\nReview collected in partnership with this restaurant \nWritten June 5, 2019\nPandanusResort\nThank you for staying at the Pandanus Resort and for dining in our Cafe Blue Lagoon restaurant. \n\nWe are disappointed that you felt our food was \"nothing special\", as we constantly make an effort to improve our dishes and the variety of items that we offer on the ala-carte menu. We have recently hired a local chef who was the head chef at a restaurant that had been listed as number one on TripAdvisor for a long period of time. The western items that he creates are not only delicious, but the presentation is nothing short of artistic.\n\nAs for the price of items in our restaurant, I challenge you to find comparable dishes that are less expensive in any luxury resort or hotel in your country. If you compare the items to street food or street-side restaurants in Vietnam that do not have our overhead, of course our prices will be higher.\n\nAs for your comment about air-conditioning; guests do not come here from countries around the world to dine in an enclosed air-conditioned setting. A few years ago, I built and opened a restaurant here in Mui Ne with one area that was open-air and another that was air-conditioned. The only time that diners ever wanted to sit in the air-conditioned area was once during a major storm.\nRead more\nWritten June 15, 2019\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T16:20:02.426671",
+            "restaurant_id": "12512170",
+            "restaurant_name": "Café Blue Lagoon Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d12512170-Reviews-Cafe_Blue_Lagoon_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 464 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d12512170-Reviews-Cafe_Blue_Lagoon_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Mui Ne, Phan Thiet Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.945317,
+                "longitude": 108.29781
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/16/a8/3b/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
+                "Vietnamese",
+                "Diner",
+                "Healthy"
+            ],
+            "telephone": "+84 252 3849 849",
+            "review_id": "REV_12512170_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at Café Blue Lagoon Restaurant",
+            "review_text": "Roger N\nBedlington, United Kingdom634 contributions\n0\nStaying at resort ate here a couple of times\nFeb 2019 • Couples\nSignificantly more pricey than places outside, understandable given their overheads and staffing. Menu is in a glossy book so no changes at all day after day. As a vegetarian I found it very limited and really they need to up their game - if you don’t like Tofu you have almost nothing you can eat. Staff are nice and in the main understand the many languages they are faced with. I guess it benefits from the inherent unwillingness of guests to step outside the resort.\nRead more\nWritten February 28, 2019\nPandanusResort\nThank you again for choosing the Pandanus Resort for your first ever stay in a resort.\n\nAs for your comments regarding the Cafe Blue Lagoon Restaurant, of course the prices inside a luxury resort are going to be higher than those at the street-side restaurants outside of the resort. This would be true anywhere in the world. For one thing, the outside restaurants do not have the overhead that we do, nor do they offer the ambiance.\n\nAlthough our menu is a \"glossy book\", as you described it, there are 131 items on the menu, plus we offer daily specials. Therefore, it is not 'limited' by anyone's definition. Also, we have 10 items on our Vietnamese vegetarian page and 20 vegetarian items on our western portion of the menu. Only a few of them have tofu as an ingredient. Besides these 30 items from which to choose, many of the other items can be served without meat or fish if requested.\nRead more\nWritten June 15, 2019\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T16:20:02.489764",
+            "restaurant_id": "12512170",
+            "restaurant_name": "Café Blue Lagoon Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d12512170-Reviews-Cafe_Blue_Lagoon_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 464 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d12512170-Reviews-Cafe_Blue_Lagoon_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Mui Ne, Phan Thiet Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.945317,
+                "longitude": 108.29781
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/16/a8/3b/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
+                "Vietnamese",
+                "Diner",
+                "Healthy"
+            ],
+            "telephone": "+84 252 3849 849",
+            "review_id": "REV_12512170_p1_6",
+            "reviewer_id": "User_p1_6",
+            "review_title": "Review at Café Blue Lagoon Restaurant",
+            "review_text": "CristsinaE\nGeneva, Switzerland12 contributions\n1\nWorthlessly pretentious\nJan 2019 • Couples\nThis restaurant is part of a resort. The food is really not worth the exaggerated prices, besides the fact that it’s a superficially fancy venue located in a poor and polluted area.\nWritten January 18, 2019\nPandanusResort\nDear CristsinaE,\n\nWe believe that you wrote this review about some other restaurant and mistakenly posted it to the Cafe Blue Lagoon page. \n\nThe Cafe Blue Lagoon has a very casual ambiance and it is located inside the most beautiful garden in all of Phan Thiet. The garden is extremely clean and unpolluted, and all the tropical plants and flowers are immaculately manicured. Another reason that we believe this review is not about the Cafe Blue Lagoon is that we are currently offering discounted prices at the restaurant for all guests in the resort because of the construction project going on adjacent to the property, so the prices are currently more reasonable than at any other four star hotel in the area.\nRead more\nWritten May 29, 2019\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T16:20:02.548950",
+            "restaurant_id": "12512170",
+            "restaurant_name": "Café Blue Lagoon Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d12512170-Reviews-Cafe_Blue_Lagoon_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 464 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d12512170-Reviews-Cafe_Blue_Lagoon_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Mui Ne, Phan Thiet Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.945317,
+                "longitude": 108.29781
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/16/a8/3b/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
+                "Vietnamese",
+                "Diner",
+                "Healthy"
+            ],
+            "telephone": "+84 252 3849 849",
+            "review_id": "REV_12512170_p1_7",
+            "reviewer_id": "User_p1_7",
+            "review_title": "Review at Café Blue Lagoon Restaurant",
+            "review_text": "Jay B\nSanta Rosa, California12 contributions\n0\nGood food, not amazed\nOct 2018 • Solo\nFood was tasty but not exceptional. Service was polite but a bit inattentive, there were times I'm pretty sure they forgot about me. There weren't many people there so maybe different at busy times but was a bit annoying.\nWritten October 28, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T16:20:02.615084",
+            "restaurant_id": "12512170",
+            "restaurant_name": "Café Blue Lagoon Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d12512170-Reviews-Cafe_Blue_Lagoon_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 464 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d12512170-Reviews-Cafe_Blue_Lagoon_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Mui Ne, Phan Thiet Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.945317,
+                "longitude": 108.29781
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/16/a8/3b/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
+                "Vietnamese",
+                "Diner",
+                "Healthy"
+            ],
+            "telephone": "+84 252 3849 849",
+            "review_id": "REV_12512170_p1_8",
+            "reviewer_id": "User_p1_8",
+            "review_title": "Review at Café Blue Lagoon Restaurant",
+            "review_text": "GuangChao L\nBeijing, China3 contributions\n0\nGorgeous view\nMay 2018 • Couples\nThe restaurant is actually in the Pandanus resort, but you don't have to live here. The restaurant is open to the public. You can just go to the reception and there will be a stuff guiding you to the restaurant.The view around is gorgeous. The food we had was delicious with large portion and the price was amazingly good for what we got. Plus, very good service.\nRead more\nWritten May 23, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T16:20:02.670738",
+            "restaurant_id": "12512170",
+            "restaurant_name": "Café Blue Lagoon Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d12512170-Reviews-Cafe_Blue_Lagoon_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 464 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d12512170-Reviews-Cafe_Blue_Lagoon_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Mui Ne, Phan Thiet Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "reviewCount": 29
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.945317,
+                "longitude": 108.29781
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/16/a8/3b/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Barbecue",
+                "European",
+                "Vietnamese",
+                "Diner",
+                "Healthy"
+            ],
+            "telephone": "+84 252 3849 849",
+            "review_id": "REV_12512170_p1_9",
+            "reviewer_id": "User_p1_9",
+            "review_title": "Review at Café Blue Lagoon Restaurant",
+            "review_text": "robviafore\nBurien, Washington148 contributions\n0\nRob\nDec 2017\nBreakfast buffet here is so large that will take me three days just to get everything on the buffet and good no great\nWritten December 30, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "restaurant_id": "1181928",
+    "restaurant_name": "Juicy Chew's",
+    "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298085-d1181928-Reviews-Juicy_Chew_s-Da_Nang.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g298085-d1181928-Reviews-Juicy_Chew_s-Da_Nang.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "Vinh Trung Plaza 255 Hung Vuong St",
+            "postalCode": "0000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 3.5,
+            "reviewCount": 2
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 16.06725,
+            "longitude": 108.21345
+        },
+        "image": "N/A",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "$",
+        "servesCuisine": "N/A",
+        "telephone": "+84 511 3666 366"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T20:51:14.400959",
+            "restaurant_id": "1181928",
+            "restaurant_name": "Juicy Chew's",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g298085-d1181928-Reviews-Juicy_Chew_s-Da_Nang.html",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g298085-d1181928-Reviews-Juicy_Chew_s-Da_Nang.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Vinh Trung Plaza 255 Hung Vuong St",
+                "postalCode": "0000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.5,
+                "reviewCount": 2
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.06725,
+                "longitude": 108.21345
+            },
+            "image": "N/A",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 511 3666 366",
+            "review_id": "REV_1181928_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Juicy Chew's",
+            "review_text": "Juicyspice\nVung Tau, Vietnam1 contribution\n0\njuicy\nFeb 2012 • Couples\ninteresting ,went on recommendation of friends , the service was overattentive and over priced for what we got - dont regret but a once of .\nValue\nService\nFood\nAtmosphere\nReview collected in partnership with this restaurant \nWritten January 23, 2013",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

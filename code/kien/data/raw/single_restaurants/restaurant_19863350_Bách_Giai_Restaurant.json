@@ -1,0 +1,590 @@
+{
+    "restaurant_id": "19863350",
+    "restaurant_name": "Bách Giai Restaurant",
+    "city": "26. Ganh Dau Restaurants\nSee all 85 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d19863350-Reviews-Bach_Giai_Restaurant-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d19863350-Reviews-Bach_Giai_Restaurant-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "Khu Bãi Dài, xã Gành Dầu, Phú Quốc Corona Food Center",
+            "addressLocality": "Ganh Dau",
+            "postalCode": "92500"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.9,
+            "reviewCount": 11
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.338056,
+            "longitude": 103.84862
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/91/08/44/bach-giai.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "12:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "12:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "12:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "12:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "12:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "12:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "12:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": "N/A",
+        "telephone": "+84 91 195 01 01"
+    },
+    "reviews_count": 6,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:07:45.530807",
+            "restaurant_id": "19863350",
+            "restaurant_name": "Bách Giai Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d19863350-Reviews-Bach_Giai_Restaurant-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "26. Ganh Dau Restaurants\nSee all 85 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d19863350-Reviews-Bach_Giai_Restaurant-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Khu Bãi Dài, xã Gành Dầu, Phú Quốc Corona Food Center",
+                "addressLocality": "Ganh Dau",
+                "postalCode": "92500"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.338056,
+                "longitude": 103.84862
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/91/08/44/bach-giai.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 91 195 01 01",
+            "review_id": "REV_19863350_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Bách Giai Restaurant",
+            "review_text": "Yaroslava G\n7 contributions\n0\nDelicious dinner\nApr 2025 • Family\nNice Chinese restaurant. The food is delicious, the prices are nice. It feels Chinese, thanks to the interior. The staff is also pleased - they speak good English (which is amazing) and are attentive to the guests. Especially the hardworking and diligent waitress Thao can be singled out.\nValue\nService\nFood\nAtmosphere\nTranslated from Russian\nShow original\nWritten April 19, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:07:45.543805",
+            "restaurant_id": "19863350",
+            "restaurant_name": "Bách Giai Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d19863350-Reviews-Bach_Giai_Restaurant-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "26. Ganh Dau Restaurants\nSee all 85 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d19863350-Reviews-Bach_Giai_Restaurant-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Khu Bãi Dài, xã Gành Dầu, Phú Quốc Corona Food Center",
+                "addressLocality": "Ganh Dau",
+                "postalCode": "92500"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.338056,
+                "longitude": 103.84862
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/91/08/44/bach-giai.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 91 195 01 01",
+            "review_id": "REV_19863350_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Bách Giai Restaurant",
+            "review_text": "Traveller777_12\nPerm, Russia5 contributions\n0\nGood Chinese restaraunt\nNov 2024 • Family\nVisited in October November several times. Excellent Chinese dumplings, pork and chicken in a sweet sour sauce. Desserts. Great, Hong Kong duck. Also seafood soup. Hoa's great, waiter. I like it all. I recommend it.\nTranslated from Russian\nShow original\nWritten November 5, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:07:45.638578",
+            "restaurant_id": "19863350",
+            "restaurant_name": "Bách Giai Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d19863350-Reviews-Bach_Giai_Restaurant-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "26. Ganh Dau Restaurants\nSee all 85 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d19863350-Reviews-Bach_Giai_Restaurant-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Khu Bãi Dài, xã Gành Dầu, Phú Quốc Corona Food Center",
+                "addressLocality": "Ganh Dau",
+                "postalCode": "92500"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.338056,
+                "longitude": 103.84862
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/91/08/44/bach-giai.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 91 195 01 01",
+            "review_id": "REV_19863350_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Bách Giai Restaurant",
+            "review_text": "Gulmira\nAtyrau, Kazakhstan41 contributions\n0\nBest restaurant in Phu Quok!!!\nDec 2023 • Family\nWe stayed at the Radisson blu Phu Quok hotel. We took the hotel with breakfast. Accordingly, we had dinner outside the hotel. The hotel provides a free buggy, we asked to take us to the nearest restaurant. We were taken to this Chinese restaurant, Bach Giai restaurant. The food was very very tasty, we ordered Peking duck, bao ban, which is similar to fried bauyrsaks or donuts, very tasty, mixed salads, several types of shrimp with different sauces, coconut ice cream and much more. There were 9 of us. The bill came out to 4 million dong. On the second day we went to a Vietnamese restaurant, next to Bach Giai. I liked it better in Bach Giai. Unrealistically delicious. There is something to compare with. On the 3rd day of our trip, we went to the night market, it’s half an hour’s drive from the hotel, we decided to have dinner there in a large seafood cafe, I can assure you, we have never eaten like we were sumptuously fed in Bach Giai. I don’t recommend eating in a cafe at the night market, the bill came out to the same 4 million for 9 people, but the food was disgusting, we were hungry and ordered a bunch of food, and we really couldn’t eat anything, because it was cooked terribly and tasteless, just wow . And I forgot to say that in the cafe on the market, of course, the dishes are all made of plastic, the forks and knives are made of aluminum, the tables are broken without a tablecloth, in short, complete horror. And in this stunning Bach Giai restaurant, everything is at the highest level, both the dishes and the service. After that we only ate at this Chinese restaurant Bach Giai.\nRead more\nValue\nService\nFood\nAtmosphere\nShow original\nWritten December 10, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:07:45.664579",
+            "restaurant_id": "19863350",
+            "restaurant_name": "Bách Giai Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d19863350-Reviews-Bach_Giai_Restaurant-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "26. Ganh Dau Restaurants\nSee all 85 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d19863350-Reviews-Bach_Giai_Restaurant-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Khu Bãi Dài, xã Gành Dầu, Phú Quốc Corona Food Center",
+                "addressLocality": "Ganh Dau",
+                "postalCode": "92500"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.338056,
+                "longitude": 103.84862
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/91/08/44/bach-giai.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 91 195 01 01",
+            "review_id": "REV_19863350_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Bách Giai Restaurant",
+            "review_text": "Anh L\n8 contributions\n1\nFantastic Dinner\nJul 2023 • Family\nI had the pleasure of visiting Bach Giai restaurant for the first time, and I must say I was absolutely impressed by both the stunning view and the tasty cuisine. My family and I did enjoy dining experience during our dinner. Staff were kind and helpful. I will definitely comeback here again.\nValue\nService\nFood\nAtmosphere\nWritten August 24, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:07:45.680579",
+            "restaurant_id": "19863350",
+            "restaurant_name": "Bách Giai Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d19863350-Reviews-Bach_Giai_Restaurant-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "26. Ganh Dau Restaurants\nSee all 85 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d19863350-Reviews-Bach_Giai_Restaurant-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Khu Bãi Dài, xã Gành Dầu, Phú Quốc Corona Food Center",
+                "addressLocality": "Ganh Dau",
+                "postalCode": "92500"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.338056,
+                "longitude": 103.84862
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/91/08/44/bach-giai.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 91 195 01 01",
+            "review_id": "REV_19863350_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Bách Giai Restaurant",
+            "review_text": "Top Destination\n8 contributions\n0\nNice Restaurant, good scenery\nJul 2023 • Couples\nVery nice looking restaurant. The scenery was great. The staff were great. The food was decent, but we thought was expensive for what you get.\nValue\nService\nFood\nWritten July 17, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:07:45.692582",
+            "restaurant_id": "19863350",
+            "restaurant_name": "Bách Giai Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d19863350-Reviews-Bach_Giai_Restaurant-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "city": "26. Ganh Dau Restaurants\nSee all 85 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g12666019-d19863350-Reviews-Bach_Giai_Restaurant-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Khu Bãi Dài, xã Gành Dầu, Phú Quốc Corona Food Center",
+                "addressLocality": "Ganh Dau",
+                "postalCode": "92500"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 11
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.338056,
+                "longitude": 103.84862
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/91/08/44/bach-giai.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 91 195 01 01",
+            "review_id": "REV_19863350_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at Bách Giai Restaurant",
+            "review_text": "sidharth b\n4 contributions\n0\nVery good food.\nAug 2022 • Family\nThe b**f in pepper sauce was amazing. We dined here twice and were fully satisfied . Amazed why there was no reviews before me. They are bang opposite Corona Hotel Casino and usually open till late. We stayed at a nearby resort for 5 days and found their food taste Better than nearby 5 star hotels. We were guided there by our hotel staff when we asked for nearby Chinese resturant. \n\nIn one cashew chicken we found the cashews quality not good but they changed the dish promptly with another item from menu.\n\nWould surly like to dine here again when we visit next time in a few years mayb.\nRead more\nWritten August 14, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

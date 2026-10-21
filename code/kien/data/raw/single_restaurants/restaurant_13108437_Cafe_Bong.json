@@ -1,0 +1,75 @@
+{
+    "restaurant_id": "13108437",
+    "restaurant_name": "Cafe Bong",
+    "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d13108437-Reviews-Cafe_Bong-Hanoi.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d13108437-Reviews-Cafe_Bong-Hanoi.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Hanoi Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 21.0315,
+            "longitude": 105.85465
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/6b/d4/b3/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "$",
+        "servesCuisine": "N/A",
+        "telephone": "+84 91 304 55 57"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-15T06:43:21.615579",
+            "restaurant_id": "13108437",
+            "restaurant_name": "Cafe Bong",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293924-d13108437-Reviews-Cafe_Bong-Hanoi.html",
+            "city": "2. Hanoi Restaurants\nSee all 6,644 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293924-d13108437-Reviews-Cafe_Bong-Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Hanoi Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.0315,
+                "longitude": 105.85465
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/6b/d4/b3/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$",
+            "servesCuisine": "N/A",
+            "telephone": "+84 91 304 55 57",
+            "review_id": "REV_13108437_p1_0",
+            "reviewer_id": "User_13108437_1_0",
+            "review_title": "Review at Cafe Bong",
+            "review_text": "elenareyes982\nParis, France5 contributions\n0\nGood coffee\nDec 2017 • Friends\nIt is a small coffee shop right T- junk but very busy . I chose a cup of black coffee with milk . Coffee is really tasty but there is no A/c so it is very hot\nValue\nService\nFood\nWritten May 18, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-15",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

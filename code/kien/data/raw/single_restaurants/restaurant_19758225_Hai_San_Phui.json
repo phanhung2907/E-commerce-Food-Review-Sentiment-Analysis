@@ -1,0 +1,83 @@
+{
+    "restaurant_id": "19758225",
+    "restaurant_name": "Hai San Phui",
+    "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g17786366-d19758225-Reviews-Hai_San_Phui-Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g17786366-d19758225-Reviews-Hai_San_Phui-Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "109 Ho Nghinh",
+            "postalCode": "550000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 16.074627,
+            "longitude": 108.24309
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/a6/71/c6/caption.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "$",
+        "servesCuisine": [
+            "Seafood",
+            "Catalan"
+        ],
+        "telephone": "+84 93 503 45 66"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-04T02:07:29.400203",
+            "restaurant_id": "19758225",
+            "restaurant_name": "Hai San Phui",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g17786366-d19758225-Reviews-Hai_San_Phui-Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "city": "3. Da Nang Restaurants\nSee all 2,699 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g17786366-d19758225-Reviews-Hai_San_Phui-Son_Tra_Peninsula_Da_Nang.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "109 Ho Nghinh",
+                "postalCode": "550000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.074627,
+                "longitude": 108.24309
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/a6/71/c6/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$",
+            "servesCuisine": [
+                "Seafood",
+                "Catalan"
+            ],
+            "telephone": "+84 93 503 45 66",
+            "review_id": "REV_19758225_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Hai San Phui",
+            "review_text": "Darat S\n14 contributions\n0\nDanang, a must-have shop for Thai people\nMar 2024 • Friends\nFresh seafood, cheap price, tastes very good for Thai people. Good service staff Give advice about food Introducing the employee named nguyen khanh\nShow original\nWritten March 17, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-04",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

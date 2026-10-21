@@ -1,0 +1,435 @@
+{
+    "restaurant_id": "28006975",
+    "restaurant_name": "Minus 1 Bar",
+    "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28006975-Reviews-Minus_1_Bar-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28006975-Reviews-Minus_1_Bar-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "65/3 Nguyễn Thiện Thuật, Lộc Thọ, Nha Trang, Khánh Hòa 650000",
+            "addressLocality": "Nha Trang",
+            "postalCode": "650000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 5
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.239193,
+            "longitude": 109.19357
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/d3/c8/53/good-music-delicious.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "18:00:00",
+                "closes": "01:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "18:00:00",
+                "closes": "01:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "18:00:00",
+                "closes": "01:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "18:00:00",
+                "closes": "01:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "18:00:00",
+                "closes": "01:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "18:00:00",
+                "closes": "02:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "18:00:00",
+                "closes": "02:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Bar",
+            "Pub"
+        ],
+        "telephone": "N/A"
+    },
+    "reviews_count": 4,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T09:54:14.858718",
+            "restaurant_id": "28006975",
+            "restaurant_name": "Minus 1 Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28006975-Reviews-Minus_1_Bar-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28006975-Reviews-Minus_1_Bar-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "65/3 Nguyễn Thiện Thuật, Lộc Thọ, Nha Trang, Khánh Hòa 650000",
+                "addressLocality": "Nha Trang",
+                "postalCode": "650000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.239193,
+                "longitude": 109.19357
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/d3/c8/53/good-music-delicious.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "18:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "18:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "18:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "18:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "02:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Bar",
+                "Pub"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_28006975_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Minus 1 Bar",
+            "review_text": "Александра С\n10 contributions\n0\nBest bar in Nha Trang\nAug 2025 • Friends\nIf you lived in Nha Trang and didn't visit that bar, that's a huge omission. \nThe soul of this bar is really Gregory's best bartender, who, in his first words, picks out the perfect cocktail for you without a second thought, and hits the spot. He's a walking encyclopedia about bar life, drink formulations, the subtleties of combinations, and he can share it all in a pleasant conversation. \nIt's the aesthetic of preparing, serving, approaching every customer. The bar is definitely for those who are true taste lovers. We certainly recommend a visit.\nRead more\nTranslated from Russian\nShow original\nWritten August 26, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T09:54:14.876330",
+            "restaurant_id": "28006975",
+            "restaurant_name": "Minus 1 Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28006975-Reviews-Minus_1_Bar-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28006975-Reviews-Minus_1_Bar-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "65/3 Nguyễn Thiện Thuật, Lộc Thọ, Nha Trang, Khánh Hòa 650000",
+                "addressLocality": "Nha Trang",
+                "postalCode": "650000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.239193,
+                "longitude": 109.19357
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/d3/c8/53/good-music-delicious.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "18:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "18:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "18:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "18:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "02:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Bar",
+                "Pub"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_28006975_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Minus 1 Bar",
+            "review_text": "Getaway42778769854\n1 contribution\n0\nNumber 1 cocktail bar in Nha Trang\nSep 2024 • Couples\nMinus 1 is leading the cocktail culture of Nha Trang. Grisha is a highly experienced bartender that has created a top quality cocktail menu. All of the cocktails are innovative, well crafted creations. The staff are very friendly and the atmosphere is comfortably chill. This bar is a must do when you are in Nha Trang.\nInsider tip:\nJust relax and enjoy\nValue\nService\nFood\nAtmosphere\nWritten September 22, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T09:54:14.892330",
+            "restaurant_id": "28006975",
+            "restaurant_name": "Minus 1 Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28006975-Reviews-Minus_1_Bar-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28006975-Reviews-Minus_1_Bar-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "65/3 Nguyễn Thiện Thuật, Lộc Thọ, Nha Trang, Khánh Hòa 650000",
+                "addressLocality": "Nha Trang",
+                "postalCode": "650000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.239193,
+                "longitude": 109.19357
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/d3/c8/53/good-music-delicious.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "18:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "18:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "18:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "18:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "02:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Bar",
+                "Pub"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_28006975_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Minus 1 Bar",
+            "review_text": "Константин Г\n1 contribution\n0\nBest cocktail bar in the city\nJul 2024 • Friends\nnice interior! deep music! cool atmosphere!\ngreat cocktails!\nif you like cocktails, then you should definitely visit this place\nValue\nService\nAtmosphere\nWritten August 4, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T09:54:14.904335",
+            "restaurant_id": "28006975",
+            "restaurant_name": "Minus 1 Bar",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28006975-Reviews-Minus_1_Bar-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28006975-Reviews-Minus_1_Bar-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "65/3 Nguyễn Thiện Thuật, Lộc Thọ, Nha Trang, Khánh Hòa 650000",
+                "addressLocality": "Nha Trang",
+                "postalCode": "650000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.239193,
+                "longitude": 109.19357
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/d3/c8/53/good-music-delicious.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "18:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "18:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "18:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "18:00:00",
+                    "closes": "01:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "02:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "02:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Bar",
+                "Pub"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_28006975_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Minus 1 Bar",
+            "review_text": "Olga B\n1 contribution\n0\nExcellent establishment\nJul 2024 • Couples\nCrazy delicious cocktails, quality expensive alcohol and every drink has its own author reading. Classic gin tonics, for example, add liqueur from the blueberry. Had three different drinks each, had a great time together. Service and atmosphere are high.\nTranslated from Russian\nShow original\nWritten July 19, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

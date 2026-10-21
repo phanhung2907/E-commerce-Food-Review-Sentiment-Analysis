@@ -1,0 +1,1451 @@
+{
+    "restaurant_id": "25562828",
+    "restaurant_name": "Mr. Ben's Coffee & Restaurant",
+    "city": "9. Phan Thiet Restaurants\nSee all 465 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "28C Huỳnh Thúc Kháng",
+            "addressLocality": "Mui Ne",
+            "postalCode": "77116"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 22
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.951997,
+            "longitude": 108.25464
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/96/63/61/caption.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "07:00:00",
+                "closes": "20:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "07:00:00",
+                "closes": "20:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "07:00:00",
+                "closes": "20:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "07:00:00",
+                "closes": "20:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "07:00:00",
+                "closes": "20:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "07:00:00",
+                "closes": "20:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "07:00:00",
+                "closes": "20:00:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "American",
+            "Cafe",
+            "Asian",
+            "Vietnamese",
+            "Healthy"
+        ],
+        "telephone": "+84 94 965 30 04"
+    },
+    "reviews_count": 15,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:18:07.140408",
+            "restaurant_id": "25562828",
+            "restaurant_name": "Mr. Ben's Coffee & Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 465 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "28C Huỳnh Thúc Kháng",
+                "addressLocality": "Mui Ne",
+                "postalCode": "77116"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 22
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.951997,
+                "longitude": 108.25464
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/96/63/61/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Cafe",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 94 965 30 04",
+            "review_id": "REV_25562828_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Mr. Ben's Coffee & Restaurant",
+            "review_text": "abc_123456710\n42 contributions\n0\nVery friendly and kind. Mr. Ben and hus wife speak english fluently. Had such a great time\nApr 2026 • Couples\nSuuuper delicious, spicy vegetarian soup and best Bowl with fruits ever ever. Love it! Best food in hole vietnam\nWritten April 2, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:18:07.143440",
+            "restaurant_id": "25562828",
+            "restaurant_name": "Mr. Ben's Coffee & Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 465 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "28C Huỳnh Thúc Kháng",
+                "addressLocality": "Mui Ne",
+                "postalCode": "77116"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 22
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.951997,
+                "longitude": 108.25464
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/96/63/61/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Cafe",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 94 965 30 04",
+            "review_id": "REV_25562828_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Mr. Ben's Coffee & Restaurant",
+            "review_text": "Kerstin S\nWietmarschen, Germany7 contributions\n0\nBest breakfast ever ❤️👍❤️\nApr 2026 • Couples\nThe best breakfast since we arrived in Mui Ne. We had a vegetarian soup with chicken and a smoothie bowl with mango and granola. Thank you, Mr. Ben and wife for this wonderful place with delicious food and lovely people ❤️\nTranslated from German\nShow original\nWritten April 2, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:18:07.165459",
+            "restaurant_id": "25562828",
+            "restaurant_name": "Mr. Ben's Coffee & Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 465 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "28C Huỳnh Thúc Kháng",
+                "addressLocality": "Mui Ne",
+                "postalCode": "77116"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 22
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.951997,
+                "longitude": 108.25464
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/96/63/61/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Cafe",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 94 965 30 04",
+            "review_id": "REV_25562828_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Mr. Ben's Coffee & Restaurant",
+            "review_text": "mehvonk\nRotterdam, The Netherlands18 contributions\n0\nGreat place to go\nNov 2025 • Couples\nGreat place with great people. We loved the food and drinks! Especially the egg coffee.Go and find out yourself. Also Mr. Lee has a lot to tell. He is the kitesurf tea her\nWritten November 3, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:18:07.181381",
+            "restaurant_id": "25562828",
+            "restaurant_name": "Mr. Ben's Coffee & Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 465 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "28C Huỳnh Thúc Kháng",
+                "addressLocality": "Mui Ne",
+                "postalCode": "77116"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 22
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.951997,
+                "longitude": 108.25464
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/96/63/61/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Cafe",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 94 965 30 04",
+            "review_id": "REV_25562828_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Mr. Ben's Coffee & Restaurant",
+            "review_text": "Mcrugar\n2 contributions\n0\nExcellent\nJan 2025 • Family\nReally lovely spot with excellent food!! Staff are very accommodated and helpful. We had a week in Mu ine and we ate here almost every day.\nValue\nService\nFood\nAtmosphere\nWritten January 31, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:18:07.198246",
+            "restaurant_id": "25562828",
+            "restaurant_name": "Mr. Ben's Coffee & Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 465 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "28C Huỳnh Thúc Kháng",
+                "addressLocality": "Mui Ne",
+                "postalCode": "77116"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 22
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.951997,
+                "longitude": 108.25464
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/96/63/61/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Cafe",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 94 965 30 04",
+            "review_id": "REV_25562828_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Mr. Ben's Coffee & Restaurant",
+            "review_text": "Aleksi\nHo Chi Minh City, Vietnam5 contributions\n0\nExcelent quesadillas\nDec 2024 • Couples\nWe went two times for dinner to this restaurant. Both times were excelent. Quesadillas and avocado toast were our favourite foods. Staff were friendly and special thanks for cute little waiter.\nWritten December 26, 2024\nMrlee muine\nThank you so much for taking your precious time in giving us this review. We are glad to know you had enjoyed our service. We hope you had a great holiday and we look forward to welcoming you back again in the near future at Mr.Ben's Coffee & Restaurant.\nRead more\nWritten January 10, 2025\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:18:07.214351",
+            "restaurant_id": "25562828",
+            "restaurant_name": "Mr. Ben's Coffee & Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 465 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "28C Huỳnh Thúc Kháng",
+                "addressLocality": "Mui Ne",
+                "postalCode": "77116"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 22
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.951997,
+                "longitude": 108.25464
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/96/63/61/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Cafe",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 94 965 30 04",
+            "review_id": "REV_25562828_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at Mr. Ben's Coffee & Restaurant",
+            "review_text": "Terrie S\nPerth, Australia7 contributions\n0\nGreat place with friendly staff\nNov 2024 • Couples\nWe had a lovely lunch. The place is very clean and the food was excellent. The staff all speak good English and made us very welcome.\nWritten November 10, 2024\nMrlee muine\nThank you so much for taking your precious time in giving us this review. We are glad to know you had enjoyed our service. We hope you had a great holiday and we look forward to welcoming you back again in the near future at Mr.Ben's Coffee & Restaurant.\nRead more\nWritten November 25, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:18:07.232610",
+            "restaurant_id": "25562828",
+            "restaurant_name": "Mr. Ben's Coffee & Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 465 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "28C Huỳnh Thúc Kháng",
+                "addressLocality": "Mui Ne",
+                "postalCode": "77116"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 22
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.951997,
+                "longitude": 108.25464
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/96/63/61/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Cafe",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 94 965 30 04",
+            "review_id": "REV_25562828_p1_6",
+            "reviewer_id": "User_p1_6",
+            "review_title": "Review at Mr. Ben's Coffee & Restaurant",
+            "review_text": "FM\n21 contributions\n0\nThe kindest people in whole of Mui Ne with delicious food to serve and great surfing lessons!\nSep 2024 • Solo\nI highly recommend this place to anyone in Mui Ne! I stayed in Mui Ne for 2 days and both days I went to this lovely restaurant. Mr. Lee and his wife are the sweetest people I’ve met in Vietnam so far. So helpful, gentle and welcoming! The food was also very delicious! Especially the quesadilla and the mango sticky rice! \n\nI also went surfing with Mr. Lee and it were the best two hours of my trip to Mui Ne. Mr. Lee explains everything very well and he gave me a lot of useful tips that I will never forget. He is so easy to talk to and give me a lot of (surf)advice :) My surfing skills are very much improved! Thank you so much for everything! I hope to come back someday :)\nRead more\nWritten September 17, 2024\nMrlee muine\nThank you so much for taking the time to share your experience at Mr.Ben's Coffee & Restaurant. We are delighted to know that you had a fantastic enjoyed with us. We appreciate your feedback as it helps to improve upon our service. We look forward to welcoming you back again in the near future. Nice to meet you and hope you had a happy holiday.\nRead more\nWritten September 21, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:18:07.245464",
+            "restaurant_id": "25562828",
+            "restaurant_name": "Mr. Ben's Coffee & Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 465 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "28C Huỳnh Thúc Kháng",
+                "addressLocality": "Mui Ne",
+                "postalCode": "77116"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 22
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.951997,
+                "longitude": 108.25464
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/96/63/61/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Cafe",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 94 965 30 04",
+            "review_id": "REV_25562828_p1_7",
+            "reviewer_id": "User_p1_7",
+            "review_title": "Review at Mr. Ben's Coffee & Restaurant",
+            "review_text": "Bernard G\n6 contributions\n0\nA local family business with local and international menu.\nJun 2024 • Couples\nWonderful Snacks, Menu's and drinks. Family business with heart! A bit close to the main road and noisy as other Restaurants as well. But it's worth trying their delicious food!\nWritten June 17, 2024\nMrlee muine\nThank you so much for taking the time to share your experience at Mr.Ben's Coffee & Restaurant. We are delighted to know that you had a fantastic enjoyed with us. We appreciate your feedback as it helps to improve upon our service. We look forward to welcoming you back again in the near future. Nice to meet you and hope you had a happy holiday.\nRead more\nWritten June 21, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:18:07.271324",
+            "restaurant_id": "25562828",
+            "restaurant_name": "Mr. Ben's Coffee & Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 465 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "28C Huỳnh Thúc Kháng",
+                "addressLocality": "Mui Ne",
+                "postalCode": "77116"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 22
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.951997,
+                "longitude": 108.25464
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/96/63/61/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Cafe",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 94 965 30 04",
+            "review_id": "REV_25562828_p1_8",
+            "reviewer_id": "User_p1_8",
+            "review_title": "Review at Mr. Ben's Coffee & Restaurant",
+            "review_text": "Ann V\nFife, United Kingdom26 contributions\n0\nLove this beautiful place\nJun 2024 • Couples\nI absolutely love this place and the family who run it, especially the wee fella with his apron on serving with a wee cheeky smile on his face. We have been travelling for nearly 10 months between Asia and Australia, as we were in Mui Ne for 1 month in March, the first place we came back to in June was here for the vegetable noodle soup, which is delicious. \n\nDelicious food and inexpensive for the quality, as made fresh every time.\n\nIf I could give 10 stars I would as it is so delicious and heartwarming being here.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten June 9, 2024\nMrlee muine\nThank you so much for taking the time to share your experience at Mr.Ben's Coffee & Restaurant. We are delighted to know that you had a fantastic enjoyed with us. We appreciate your feedback as it helps to improve upon our service. We look forward to welcoming you back again in the near future. Nice to meet you and hope you had a happy holiday.\nRead more\nWritten June 14, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:18:07.293279",
+            "restaurant_id": "25562828",
+            "restaurant_name": "Mr. Ben's Coffee & Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 465 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "28C Huỳnh Thúc Kháng",
+                "addressLocality": "Mui Ne",
+                "postalCode": "77116"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 22
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.951997,
+                "longitude": 108.25464
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/96/63/61/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Cafe",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 94 965 30 04",
+            "review_id": "REV_25562828_p1_9",
+            "reviewer_id": "User_p1_9",
+            "review_title": "Review at Mr. Ben's Coffee & Restaurant",
+            "review_text": "Alice B\n5 contributions\n0\nWonderful breakfast spot\nMay 2024 • Solo\nI came here both mornings I was in Mui Ne. The food was delicious, I had avocado toast one day and the fruit, musli and yoghurt bowl the next. The food was so fresh and the portion sizes were incredibly generous. The people serving the food make this place extra special. It’s a family run place and I enjoyed talking to them while I was here, they were all very kind and attentive and had great conversations. Would highly recommend to anyone staying in Mui Ne. Also the coconut and yoghurt coffees are amazing!\nRead more\nValue\nService\nFood\nAtmosphere\nWritten May 23, 2024\nMrlee muine\nThank you so much for your feedback. We are glad you enjoyed your visit and our food. Thanks for coming by and taking time to review us, it's very valuable to us. Hope to see you again at Mr.Ben's Coffee & Restaurant.\nRead more\nWritten May 28, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:18:07.341145",
+            "restaurant_id": "25562828",
+            "restaurant_name": "Mr. Ben's Coffee & Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 465 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "28C Huỳnh Thúc Kháng",
+                "addressLocality": "Mui Ne",
+                "postalCode": "77116"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 22
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.951997,
+                "longitude": 108.25464
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/96/63/61/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Cafe",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 94 965 30 04",
+            "review_id": "REV_25562828_p1_10",
+            "reviewer_id": "User_p1_10",
+            "review_title": "Review at Mr. Ben's Coffee & Restaurant",
+            "review_text": "Chloe N\nManchester, United Kingdom14 contributions\n0\nHighly recommend\nMar 2024 • Family\nIced coffee was lovely! Had the best pancakes in Vietnam. The staff was the best including the cutest kid ever! Make sure you visit\nWritten March 8, 2024\nMrlee muine\nThank you so much for taking your precious time in giving us this review. We are glad to know you had enjoyed our service. We hope you had a great holiday with your friends and we look forward to welcoming you back again in the near future at Mr.Ben's Coffee & Restaurant\nRead more\nWritten April 17, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:18:07.366757",
+            "restaurant_id": "25562828",
+            "restaurant_name": "Mr. Ben's Coffee & Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 465 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "28C Huỳnh Thúc Kháng",
+                "addressLocality": "Mui Ne",
+                "postalCode": "77116"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 22
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.951997,
+                "longitude": 108.25464
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/96/63/61/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Cafe",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 94 965 30 04",
+            "review_id": "REV_25562828_p1_11",
+            "reviewer_id": "User_p1_11",
+            "review_title": "Review at Mr. Ben's Coffee & Restaurant",
+            "review_text": "Nienke S\n1 contribution\n0\nExcellent food and service!\nFeb 2024 • Friends\nWe've been here twice during our stay in Vietnam, really welcoming family restaurant. Everything was fresh and homemade and the little boy who was happy to help out serving the foods and drinks makes the experience extra fun!\nWritten February 9, 2024\nMrlee muine\nThank you so much for taking the time to share your experience at Mr.Ben's Coffee & Restaurant. We are delighted to know that you had a fantastic enjoyed with us. We appreciate your feedback as it helps to improve upon our service. We look forward to welcoming you back again in the near future. Nice to meet you and hope you had a happy holiday.\nRead more\nWritten April 17, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:18:07.387390",
+            "restaurant_id": "25562828",
+            "restaurant_name": "Mr. Ben's Coffee & Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 465 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "28C Huỳnh Thúc Kháng",
+                "addressLocality": "Mui Ne",
+                "postalCode": "77116"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 22
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.951997,
+                "longitude": 108.25464
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/96/63/61/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Cafe",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 94 965 30 04",
+            "review_id": "REV_25562828_p1_12",
+            "reviewer_id": "User_p1_12",
+            "review_title": "Review at Mr. Ben's Coffee & Restaurant",
+            "review_text": "Joëlle R\n11 contributions\n0\nMust go!\nFeb 2024 • Friends\nThe food was delicious!! And we had the best service🤩. The food was very fresh & literally home made. We really enjoyed our visit here.\nWritten February 4, 2024\nMrlee muine\nDear Joller !\n\nI wanted to express my sincere gratitude for taking the time to write such a thoughtful review. Your insights and feedback are truly valuable to us. We appreciate your support and are thrilled to hear that you had a positive experience with service\n\nThank you once again for your kind words. We look forward to serving you again in the future.\n\nBest regards,\nMr.Ben's Coffee & Restaurant\nRead more\nWritten February 5, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:18:07.403503",
+            "restaurant_id": "25562828",
+            "restaurant_name": "Mr. Ben's Coffee & Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 465 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "28C Huỳnh Thúc Kháng",
+                "addressLocality": "Mui Ne",
+                "postalCode": "77116"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 22
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.951997,
+                "longitude": 108.25464
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/96/63/61/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Cafe",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 94 965 30 04",
+            "review_id": "REV_25562828_p1_13",
+            "reviewer_id": "User_p1_13",
+            "review_title": "Review at Mr. Ben's Coffee & Restaurant",
+            "review_text": "Oliver K\n1 contribution\n0\nLovely restaurant!\nJan 2024 • Friends\nA lovely family run restaurant, I had breakfast here twice whilst in Mui Ne. The food and drink was absolutely delicious and all served by one of the friendliest family’s I’ve met. Would highly recommend!\nWritten February 3, 2024\nMrlee muine\nDear Oliver !\n\nI wanted to express my sincere gratitude for taking the time to write such a thoughtful review. Your insights and feedback are truly valuable to us. We appreciate your support and are thrilled to hear that you had a positive experience with service\n\nThank you once again for your kind words. We look forward to serving you again in the future.\n\nBest regards,\nMr.Ben's Coffee & Restaurant\nRead more\nWritten February 5, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-03T18:18:07.423905",
+            "restaurant_id": "25562828",
+            "restaurant_name": "Mr. Ben's Coffee & Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "city": "9. Phan Thiet Restaurants\nSee all 465 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1009804-d25562828-Reviews-Mr_Ben_s_Coffee_Restaurant-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "28C Huỳnh Thúc Kháng",
+                "addressLocality": "Mui Ne",
+                "postalCode": "77116"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 22
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.951997,
+                "longitude": 108.25464
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/96/63/61/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "20:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "American",
+                "Cafe",
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 94 965 30 04",
+            "review_id": "REV_25562828_p1_14",
+            "reviewer_id": "User_p1_14",
+            "review_title": "Review at Mr. Ben's Coffee & Restaurant",
+            "review_text": "YARDEN M\n1 contribution\n0\nAmazing restaurant highly recommended!!!\nJan 2024 • Friends\nRestaurant inside!! Every dish is colorful, I came back every day because the service was perfect, the food was real Vietnamese, everything was clean, in short an experience.\nShow original\nWritten January 24, 2024\nMrlee muine\nDear Yarden !\n\nI wanted to express my sincere gratitude for taking the time to write such a thoughtful review. Your insights and feedback are truly valuable to us. We appreciate your support and are thrilled to hear that you had a positive experience with service\n\nThank you once again for your kind words. We look forward to serving you again in the future.\n\nBest regards,\nMr.ben's Coffee & Restaurant\nRead more\nWritten February 5, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-03",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

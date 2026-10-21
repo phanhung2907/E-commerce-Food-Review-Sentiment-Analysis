@@ -1,0 +1,823 @@
+{
+    "restaurant_id": "25386585",
+    "restaurant_name": "Blue Sky Restaurant Foods Smoothie",
+    "city": "28. Ha Giang Restaurants\nSee all 80 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d25386585-Reviews-Blue_Sky_Restaurant_Foods_Smoothie-Ha_Giang_Ha_Giang_Province.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d25386585-Reviews-Blue_Sky_Restaurant_Foods_Smoothie-Ha_Giang_Ha_Giang_Province.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "98 Lý Tự Trọng",
+            "addressLocality": "Ha Giang",
+            "postalCode": "123"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.9,
+            "reviewCount": 10
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 22.816061,
+            "longitude": 104.97974
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9f/0a/a7/the-outside-of-the-restaurant.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "00:00:00",
+                "closes": "23:59:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Cafe",
+            "Mediterranean",
+            "Asian",
+            "British",
+            "Deli",
+            "Egyptian"
+        ],
+        "telephone": "N/A"
+    },
+    "reviews_count": 8,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:24:02.721282",
+            "restaurant_id": "25386585",
+            "restaurant_name": "Blue Sky Restaurant Foods Smoothie",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d25386585-Reviews-Blue_Sky_Restaurant_Foods_Smoothie-Ha_Giang_Ha_Giang_Province.html",
+            "city": "28. Ha Giang Restaurants\nSee all 80 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d25386585-Reviews-Blue_Sky_Restaurant_Foods_Smoothie-Ha_Giang_Ha_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "98 Lý Tự Trọng",
+                "addressLocality": "Ha Giang",
+                "postalCode": "123"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.816061,
+                "longitude": 104.97974
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9f/0a/a7/the-outside-of-the-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Cafe",
+                "Mediterranean",
+                "Asian",
+                "British",
+                "Deli",
+                "Egyptian"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_25386585_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Blue Sky Restaurant Foods Smoothie",
+            "review_text": "Francesco B\n1 contribution\n0\nExcellent and fast\nAug 2024 • Couples\nGreat food and service \nVery helpful manager and authentic fast food \nWe stopped under Recommendation and would gladly return\nTranslated from Italian\nShow original\nWritten August 21, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:24:02.734281",
+            "restaurant_id": "25386585",
+            "restaurant_name": "Blue Sky Restaurant Foods Smoothie",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d25386585-Reviews-Blue_Sky_Restaurant_Foods_Smoothie-Ha_Giang_Ha_Giang_Province.html",
+            "city": "28. Ha Giang Restaurants\nSee all 80 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d25386585-Reviews-Blue_Sky_Restaurant_Foods_Smoothie-Ha_Giang_Ha_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "98 Lý Tự Trọng",
+                "addressLocality": "Ha Giang",
+                "postalCode": "123"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.816061,
+                "longitude": 104.97974
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9f/0a/a7/the-outside-of-the-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Cafe",
+                "Mediterranean",
+                "Asian",
+                "British",
+                "Deli",
+                "Egyptian"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_25386585_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Blue Sky Restaurant Foods Smoothie",
+            "review_text": "Thắng H\n1 contribution\n0\nVery good\nMay 2024 • Solo\nVery good and the food is delicious\nThere are many choices for vegetarians\nA great little restaurant for you to visit when you're nearby\nAiry and clean, a quiet and noiseless place to enjoy delicious food\nShow original\nWritten May 8, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:24:02.746308",
+            "restaurant_id": "25386585",
+            "restaurant_name": "Blue Sky Restaurant Foods Smoothie",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d25386585-Reviews-Blue_Sky_Restaurant_Foods_Smoothie-Ha_Giang_Ha_Giang_Province.html",
+            "city": "28. Ha Giang Restaurants\nSee all 80 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d25386585-Reviews-Blue_Sky_Restaurant_Foods_Smoothie-Ha_Giang_Ha_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "98 Lý Tự Trọng",
+                "addressLocality": "Ha Giang",
+                "postalCode": "123"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.816061,
+                "longitude": 104.97974
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9f/0a/a7/the-outside-of-the-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Cafe",
+                "Mediterranean",
+                "Asian",
+                "British",
+                "Deli",
+                "Egyptian"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_25386585_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Blue Sky Restaurant Foods Smoothie",
+            "review_text": "Raffael\nBern, Switzerland8 contributions\n0\nMust Visit in Ha Giang\nApr 2024 • Couples\nThe owner works alone and prepares all dishes fresh and extremely tasty. \n100% recommendation!!!!\nShow original\nWritten April 8, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:24:02.767308",
+            "restaurant_id": "25386585",
+            "restaurant_name": "Blue Sky Restaurant Foods Smoothie",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d25386585-Reviews-Blue_Sky_Restaurant_Foods_Smoothie-Ha_Giang_Ha_Giang_Province.html",
+            "city": "28. Ha Giang Restaurants\nSee all 80 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d25386585-Reviews-Blue_Sky_Restaurant_Foods_Smoothie-Ha_Giang_Ha_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "98 Lý Tự Trọng",
+                "addressLocality": "Ha Giang",
+                "postalCode": "123"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.816061,
+                "longitude": 104.97974
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9f/0a/a7/the-outside-of-the-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Cafe",
+                "Mediterranean",
+                "Asian",
+                "British",
+                "Deli",
+                "Egyptian"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_25386585_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Blue Sky Restaurant Foods Smoothie",
+            "review_text": "annaandfamily2016\nAlbury, Australia5 contributions\n0\nBest mango smoothies\nDec 2023 • Family\nThe best mango smoothies we've had this trip so far. So good we went for afternoon tea, dinner and then dinner once we returned from the loop tour!\nAte dinnerx2 here. Food was good, esp the spring rolls. It was a bit slow as there was only one person working in the cafe, he makes it freshly/one dish at a time and we ordered after a big group. But worth the wait, especially with a mango smoothie in hand!\nRead more\nValue\nService\nFood\nAtmosphere\nWritten December 27, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:24:02.781318",
+            "restaurant_id": "25386585",
+            "restaurant_name": "Blue Sky Restaurant Foods Smoothie",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d25386585-Reviews-Blue_Sky_Restaurant_Foods_Smoothie-Ha_Giang_Ha_Giang_Province.html",
+            "city": "28. Ha Giang Restaurants\nSee all 80 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d25386585-Reviews-Blue_Sky_Restaurant_Foods_Smoothie-Ha_Giang_Ha_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "98 Lý Tự Trọng",
+                "addressLocality": "Ha Giang",
+                "postalCode": "123"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.816061,
+                "longitude": 104.97974
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9f/0a/a7/the-outside-of-the-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Cafe",
+                "Mediterranean",
+                "Asian",
+                "British",
+                "Deli",
+                "Egyptian"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_25386585_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Blue Sky Restaurant Foods Smoothie",
+            "review_text": "Francesca O\nTorino13 contributions\n0\nAmazing food and super nice atmosphere!!\nAug 2023 • Couples\nAmazing dinner in Ha Giang, great food (must try noodle souther beef and the tamarind beef/chicken) and delicious smoothies (we loved the mango&banana one)! We actually came back at the end of our tour in Ha Giang since it was so good! Super friendly and nice owner / chef! It totally deserves five stars!!\nWritten August 5, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:24:02.800331",
+            "restaurant_id": "25386585",
+            "restaurant_name": "Blue Sky Restaurant Foods Smoothie",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d25386585-Reviews-Blue_Sky_Restaurant_Foods_Smoothie-Ha_Giang_Ha_Giang_Province.html",
+            "city": "28. Ha Giang Restaurants\nSee all 80 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d25386585-Reviews-Blue_Sky_Restaurant_Foods_Smoothie-Ha_Giang_Ha_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "98 Lý Tự Trọng",
+                "addressLocality": "Ha Giang",
+                "postalCode": "123"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.816061,
+                "longitude": 104.97974
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9f/0a/a7/the-outside-of-the-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Cafe",
+                "Mediterranean",
+                "Asian",
+                "British",
+                "Deli",
+                "Egyptian"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_25386585_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at Blue Sky Restaurant Foods Smoothie",
+            "review_text": "Gordon W\nQuy Nhon, Vietnam310 contributions\n0\nSuper fresh food and drinks.\nJul 2023 • Couples\nWe read the many 5 star reviews elsewhere and decided to try. We enjoyed the freshest orange juice, ginger and lemon tea, mango smoothie, vegetarian dishes and beef too. My wife and I loved the food, which was super fresh and well presented. The great reviews are well deserved. Does not look much from the street but don't let that fool you.\nValue\nService\nFood\nAtmosphere\nWritten July 27, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:24:02.811859",
+            "restaurant_id": "25386585",
+            "restaurant_name": "Blue Sky Restaurant Foods Smoothie",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d25386585-Reviews-Blue_Sky_Restaurant_Foods_Smoothie-Ha_Giang_Ha_Giang_Province.html",
+            "city": "28. Ha Giang Restaurants\nSee all 80 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d25386585-Reviews-Blue_Sky_Restaurant_Foods_Smoothie-Ha_Giang_Ha_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "98 Lý Tự Trọng",
+                "addressLocality": "Ha Giang",
+                "postalCode": "123"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.816061,
+                "longitude": 104.97974
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9f/0a/a7/the-outside-of-the-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Cafe",
+                "Mediterranean",
+                "Asian",
+                "British",
+                "Deli",
+                "Egyptian"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_25386585_p1_6",
+            "reviewer_id": "User_p1_6",
+            "review_title": "Review at Blue Sky Restaurant Foods Smoothie",
+            "review_text": "Christine C\n1 contribution\n0\nMust eat here! Amazing\nApr 2023 • Friends\nI felt so safe eating here as someone who eats strictly plant based. I am also super picky ! Food was delicious and the owner I believe (male) was super kind and generous. Friendly and amazing service. Support these small businesses they deserve it! He made sure we were comfortable and well taken care of!\nWritten April 4, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T19:24:02.823842",
+            "restaurant_id": "25386585",
+            "restaurant_name": "Blue Sky Restaurant Foods Smoothie",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d25386585-Reviews-Blue_Sky_Restaurant_Foods_Smoothie-Ha_Giang_Ha_Giang_Province.html",
+            "city": "28. Ha Giang Restaurants\nSee all 80 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g1544599-d25386585-Reviews-Blue_Sky_Restaurant_Foods_Smoothie-Ha_Giang_Ha_Giang_Province.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "98 Lý Tự Trọng",
+                "addressLocality": "Ha Giang",
+                "postalCode": "123"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 22.816061,
+                "longitude": 104.97974
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9f/0a/a7/the-outside-of-the-restaurant.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "00:00:00",
+                    "closes": "23:59:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Cafe",
+                "Mediterranean",
+                "Asian",
+                "British",
+                "Deli",
+                "Egyptian"
+            ],
+            "telephone": "N/A",
+            "review_id": "REV_25386585_p1_7",
+            "reviewer_id": "User_p1_7",
+            "review_title": "Review at Blue Sky Restaurant Foods Smoothie",
+            "review_text": "Sofie C\n9 contributions\n0\nNice Place\nMar 2023 • Couples\nVery nice place. The server makes the food and he is incredibly nice. We got beef pho and fried rice and it tasted very good.\nWritten March 25, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

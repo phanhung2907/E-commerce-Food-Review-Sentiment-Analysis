@@ -1,0 +1,1435 @@
+{
+    "restaurant_id": "13236633",
+    "restaurant_name": "The Hive Lounge",
+    "city": "22. Tu Liem Restaurants\nSee all 129 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "Cau Giay New Urban Area , Yen Hoa Ward Intercontinental Hanoi Landmark72",
+            "addressLocality": "Nam Từ Liêm",
+            "postalCode": "100000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 254
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 21.01701,
+            "longitude": 105.78415
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/24/4f/a7/caption.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "07:30:00",
+                "closes": "23:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "07:30:00",
+                "closes": "23:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "07:30:00",
+                "closes": "23:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "07:30:00",
+                "closes": "23:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "07:30:00",
+                "closes": "23:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "07:30:00",
+                "closes": "23:30:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "07:30:00",
+                "closes": "23:30:00"
+            }
+        ],
+        "priceRange": "$$$$",
+        "servesCuisine": [
+            "Cafe",
+            "International",
+            "European",
+            "Deli"
+        ],
+        "telephone": "+84 24 3698 8888"
+    },
+    "reviews_count": 15,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:36:05.762070",
+            "restaurant_id": "13236633",
+            "restaurant_name": "The Hive Lounge",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "city": "22. Tu Liem Restaurants\nSee all 129 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Cau Giay New Urban Area , Yen Hoa Ward Intercontinental Hanoi Landmark72",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 254
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.01701,
+                "longitude": 105.78415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/24/4f/a7/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Cafe",
+                "International",
+                "European",
+                "Deli"
+            ],
+            "telephone": "+84 24 3698 8888",
+            "review_id": "REV_13236633_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at The Hive Lounge",
+            "review_text": "tigertw\nHong Kong, China618 contributions\n0\nA delightful experience !\nJan 2026 • Family\nThe Hive is exactly what you would expect a 5 star establishment to be. The place is very well appointed and spacious. \nThe staff were all very warm and accommodating. There was a Thai buffet on offer but we opted for the à la carte menu which is varied and extensive.\nWe enjoyed ourselves thoroughly. Our experience could have been better if the day wasn’t so smog filled. The pollution outside spoiled our appreciation of the city from 62 floors up.\nRead more\nWritten January 26, 2026\nICLM72 Management Team\nDear Tuck Weng L,\n\nThank you for taking the time to share your detailed feedback regarding your recent experience at The Hive, InterContinental Hanoi Landmark72. We are pleased to learn that you found the venue to be spacious, elegantly appointed, and reflective of the standards of a five-star establishment.\n\nWe sincerely appreciate your kind remarks about the professionalism, warmth, and attentiveness of our associates, as well as your positive comments on the quality and variety of our à la carte menu. It is gratifying to know that these elements contributed to an enjoyable dining experience.\n\nWe regret that the external air quality conditions on the day affected your enjoyment of the city views from the 62nd floor. While this matter is beyond the hotel’s control, we truly value your understanding and hope to have the opportunity to welcome you back under more favorable conditions.\n\nWe look forward to welcoming you back soon.\n\nWarm regards,\nThao Do\nQuality & Continuous Improvement Manager.\nRead more\nWritten January 27, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:36:05.779097",
+            "restaurant_id": "13236633",
+            "restaurant_name": "The Hive Lounge",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "city": "22. Tu Liem Restaurants\nSee all 129 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Cau Giay New Urban Area , Yen Hoa Ward Intercontinental Hanoi Landmark72",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 254
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.01701,
+                "longitude": 105.78415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/24/4f/a7/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Cafe",
+                "International",
+                "European",
+                "Deli"
+            ],
+            "telephone": "+84 24 3698 8888",
+            "review_id": "REV_13236633_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at The Hive Lounge",
+            "review_text": "Diego\nHanoi, Vietnam13 contributions\n0\nTop-Notch Service at The Hive Lounge\nMay 2025 • Business\nThe Hive Lounge at InterContinental Hanoi Landmark72 is a hidden gem. The atmosphere is elegant and relaxing, perfect for both casual meetings and unwinding after a long day. The drinks are top-notch, and the service is consistently outstanding.\n\nA special thank you to Linh, Việt, and Khánh Vi for their warm hospitality and professionalism — they truly made the experience memorable. Highly recommend for anyone visiting Hanoi!\nRead more\nWritten May 28, 2025\nICLM72 Management Team\nDear Diego,\n\nThank you for your generous feedback and for taking the time to share your experience at The Hive Lounge.\n\nWe are truly delighted to hear that you found the ambiance both refined and relaxing, and that our beverage offerings and service standards met your expectations. Your kind recognition of Ms. Linh, Mr. Việt, and Ms. Khánh Vi is sincerely appreciated. We are proud to have such dedicated team members who consistently deliver warm and professional hospitality. Your compliments will be shared with them as a source of encouragement.\n\nIt was a pleasure to have you with us, and we look forward to welcoming you back to The Hive Lounge on your next visit to Hanoi.\n\nWarm regards, \nThao Do\nQuality & Continuous Improvement Manager\nRead more\nWritten July 23, 2025\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:36:05.796539",
+            "restaurant_id": "13236633",
+            "restaurant_name": "The Hive Lounge",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "city": "22. Tu Liem Restaurants\nSee all 129 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Cau Giay New Urban Area , Yen Hoa Ward Intercontinental Hanoi Landmark72",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 254
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.01701,
+                "longitude": 105.78415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/24/4f/a7/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Cafe",
+                "International",
+                "European",
+                "Deli"
+            ],
+            "telephone": "+84 24 3698 8888",
+            "review_id": "REV_13236633_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at The Hive Lounge",
+            "review_text": "Tedliu\nTakeo, Cambodia6 contributions\n0\nGood experience\nSep 2024 • Couples\nGood service and nice environment here. I recommend you can visit here to spend your free time. Enjoying a luxury afternoon tea with dedicated food and peaceful space in 62 floors high. \nEspecially thanks for your staff Ms Phuong’s enthusiastic help and service to let me have an unforgettable leisure time. \n\n這裡的服務很好，環境也很好。我建議你可以來這裡度過你的空閒時間。在 62 層樓高的寧靜空間中，享受奢華下午茶和專屬美食。 \n特別感謝工作人員Ms Phuong的熱情幫助和服務，讓我度過了一段難忘的休閒時光。\nRead more\nWritten September 2, 2024\nThe Hive Lounge\nDear M.Tedliu723, \n\nThank you for visiting Hive Lounge and taking the time to share your feedback with us following your recent experience at our Hive Lounge. Hive Lounge team was very pleased to know that our afternoon tea set perfectly suited your culinary taste and that staff Phuong made a good impression of her friendliness in service. Your praise will be shared with Phuong and all members of Hive Lounge restaurant. Hopefully Hive Lounge will welcome you back soon. \n\nRegards, \nThanh Nguyen (Ms.)\nHive Lounge Manager\nRead more\nWritten September 10, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:36:05.818556",
+            "restaurant_id": "13236633",
+            "restaurant_name": "The Hive Lounge",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "city": "22. Tu Liem Restaurants\nSee all 129 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Cau Giay New Urban Area , Yen Hoa Ward Intercontinental Hanoi Landmark72",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 254
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.01701,
+                "longitude": 105.78415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/24/4f/a7/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Cafe",
+                "International",
+                "European",
+                "Deli"
+            ],
+            "telephone": "+84 24 3698 8888",
+            "review_id": "REV_13236633_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at The Hive Lounge",
+            "review_text": "Rebecca P\nMelbourne, Australia6 contributions\n0\nAfternoon tea\nJun 2024 • Family\nWe had the afternoon tea set at the Hive Lounge. We have experienced high tea at many other restaurants and were told the Intercontinental was very good. The service and view were excellent ( thanks Ling, Oanh and Phuong). The afternoon tea set at the Hive was disappointing though for the price and I wouldn't recommend it. Most of the savouries had little flavour or fillings and too much bread or pastry. The sweet desserts also were pretty bland . Some food didn't taste that fresh. The sparkling wine taster and the rose tea was very nice. I'd recommend using stronger flavours and more filling to create a good High Tea and better quality bread.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten July 11, 2024\nICLM72 Management Team\nDear Rebecca P, \n\nWe truly appreciate you took your time to share your experience during your recent visit to Hive Lounge. \nYour compliments about the view and excellent service rendered by our colleagues are heartwarming. Your kind words shall be shared with Linh, Oanh, Phuong to recognize their daily effort. \nOur hotel's afternoon tea has long been well-known for the quality as well as quantity. It is most regrettable that your sentiment of our afternoon set in your recent visit has not been a pleasant one. Rest assured that your feedback has been addressed with our Executive Chef for his review and quality improvement process. \nWe hope youl give us another opportunity to provide you with the quality experience we pride ourselves in providing. Thank you again for taking the time to share your feedback.\n\nRegards, \nThao Do\nQuality & Continuous Improvement Manager\nRead more\nWritten July 12, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:36:05.855060",
+            "restaurant_id": "13236633",
+            "restaurant_name": "The Hive Lounge",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "city": "22. Tu Liem Restaurants\nSee all 129 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Cau Giay New Urban Area , Yen Hoa Ward Intercontinental Hanoi Landmark72",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 254
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.01701,
+                "longitude": 105.78415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/24/4f/a7/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Cafe",
+                "International",
+                "European",
+                "Deli"
+            ],
+            "telephone": "+84 24 3698 8888",
+            "review_id": "REV_13236633_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at The Hive Lounge",
+            "review_text": "Sherpa11585469407\n2 contributions\n0\nAfternoon tea was great, beautiful view\nMay 2024 • Couples\nAfternoon tea is very delicious. 1 set for two people includes tea. But with our eating capacity, I think we can feed 3 people. The cakes are beautifully shaped and delicious to eat. Especially at the end of the meal, the staff also served Canele cake, but because I was too full, I took it home. The staff are very cute, enthusiastic service. I will definitely come back with my family to enjoy this afternoon tea set again.\nRead more\nValue\nService\nFood\nAtmosphere\nShow original\nWritten May 7, 2024\nThe Hive Lounge\nDear M. Sherpa11585469407,\n\nCảm ơn bạn rất nhiều khi đã dành thời gian nhận xét về Hive Lounge trên cộng đồng Trip Advisor.\n\nHive Lounge rất vui khi bạn đã có những trải nghiệm đẹp tại nơi đây với sự hài lòng về đồ ăn và chất lượng dịch vụ của chúng tôi. Đội ngũ nhân viên nhà hàng Hive Lounge luôn mong muốn mang đến cho quý khách những dịch vụ và sản phẩm tốt nhất.\n\nChúng tôi rất hân hạnh được đón tiếp bạn tại Hive Lounge trong tương lai gần nhất.\n\nTrân trọng,\nThanh Nguyen (Ms.)\nQuản lý Hive Lounge\nRead more\nWritten June 5, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:36:05.893999",
+            "restaurant_id": "13236633",
+            "restaurant_name": "The Hive Lounge",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "city": "22. Tu Liem Restaurants\nSee all 129 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Cau Giay New Urban Area , Yen Hoa Ward Intercontinental Hanoi Landmark72",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 254
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.01701,
+                "longitude": 105.78415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/24/4f/a7/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Cafe",
+                "International",
+                "European",
+                "Deli"
+            ],
+            "telephone": "+84 24 3698 8888",
+            "review_id": "REV_13236633_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at The Hive Lounge",
+            "review_text": "Go23706681972\n3 contributions\n0\nDelicious Bingsu and friendly staff\nApr 2024 • Friends\nThe mango bingsu here is very delicious. Although the price is quite high compared to other places, the portion is very large, our group of 4 people can eat it all. Large space, beautiful view. Ngoc and Vi staff serve attentively and enthusiastically. I will come here a few more times to try all the bingsu flavors here.\nShow original\nWritten April 28, 2024\nThe Hive Lounge\nDear M. Go23706681972,\n\nCảm ơn bạn rất nhiều khi đã dành thời gian nhận xét về Hive Lounge trên cộng đồng Trip Advisor.\n\nHive Lounge rất vui khi bạn đã có những trải nghiệm đẹp tại nơi đây với sự hài lòng về đồ ăn và chất lượng dịch vụ mà bạn Ngọc và Vi đã mang lại. Đội ngũ nhân viên nhà hàng Hive Lounge luôn mong muốn mang đến cho quý khách những dịch vụ tốt nhất.\n\nChúng tôi rất hân hạnh được đón tiếp bạn tại Hive Lounge trong tương lai gần nhất.\n\nTrân trọng,\nThanh Nguyen (Ms.)\nQuản lý Hive Lounge\nRead more\nWritten June 5, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:36:05.919269",
+            "restaurant_id": "13236633",
+            "restaurant_name": "The Hive Lounge",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "city": "22. Tu Liem Restaurants\nSee all 129 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Cau Giay New Urban Area , Yen Hoa Ward Intercontinental Hanoi Landmark72",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 254
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.01701,
+                "longitude": 105.78415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/24/4f/a7/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Cafe",
+                "International",
+                "European",
+                "Deli"
+            ],
+            "telephone": "+84 24 3698 8888",
+            "review_id": "REV_13236633_p1_6",
+            "reviewer_id": "User_p1_6",
+            "review_title": "Review at The Hive Lounge",
+            "review_text": "NorthStar12867330423\n2 contributions\n0\nAwesome drinks and cakes\nApr 2024 • Solo\nCoconut matcha is very delicious and creamy. The cakes are very delicious and not too sweet. Weekend afternoons here include live piano music. Beautiful large space. Chill chill on the weekend is very suitable.\nShow original\nWritten April 27, 2024\nThe Hive Lounge\nDear M. NorthStar12867330423,\n\nCảm ơn bạn rất nhiều khi đã dành thời gian nhận xét về Hive Lounge trên cộng đồng Trip Advisor.\n\nHive Lounge rất vui khi bạn đã có những trải nghiệm đẹp tại nơi đây với sự hài lòng về đồ ăn và chất lượng dịch vụ của chúng tôi. Đội ngũ nhân viên khách sạn luôn mong muốn mang đến cho quý khách những dịch vụ tốt nhất.\n\nChúng tôi rất hân hạnh được đón tiếp bạn tại Hive Lounge trong tương lai gần nhất.\n\nTrân trọng,\nThanh Nguyen (Ms.)\nQuản lý Hive Lounge\nRead more\nWritten April 27, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:36:05.942981",
+            "restaurant_id": "13236633",
+            "restaurant_name": "The Hive Lounge",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "city": "22. Tu Liem Restaurants\nSee all 129 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Cau Giay New Urban Area , Yen Hoa Ward Intercontinental Hanoi Landmark72",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 254
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.01701,
+                "longitude": 105.78415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/24/4f/a7/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Cafe",
+                "International",
+                "European",
+                "Deli"
+            ],
+            "telephone": "+84 24 3698 8888",
+            "review_id": "REV_13236633_p1_7",
+            "reviewer_id": "User_p1_7",
+            "review_title": "Review at The Hive Lounge",
+            "review_text": "heldersom\nHanoi, Vietnam53 contributions\n0\nHive Afternoon Tea\nFeb 2024 • Solo\nCame here during the Tet holiday to try the Special Tet Afternoon Tea. The offering was quite abundant, and most certainly did not disappoint. The sandwiches and quiche were lovely, but the pastries were exceptional (especially the Orange Cheese Fruit!!)\nService was great from Khanh and Manh!!\nValue\nService\nFood\nAtmosphere\nWritten February 12, 2024\nThe Hive Lounge\nDear M.Heldersom,\n\nThank you for visiting Hive Lounge and taking the time to share your feedback with us following your recent experience at our Hive Lounge. \n\nHive Lounge team was very pleased to know that our tea and cake set perfectly suited your culinary taste and that the restaurant staff made a good impression of their friendliness in service. Your praise will be shared with Khanh & Manh and all members of Hive Lounge restaurant.\n\nHopefully Hive Lounge will welcome you back soon.\n\nRegards, \nHive Lounge Manager\nRead more\nWritten February 15, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:36:05.967670",
+            "restaurant_id": "13236633",
+            "restaurant_name": "The Hive Lounge",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "city": "22. Tu Liem Restaurants\nSee all 129 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Cau Giay New Urban Area , Yen Hoa Ward Intercontinental Hanoi Landmark72",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 254
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.01701,
+                "longitude": 105.78415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/24/4f/a7/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Cafe",
+                "International",
+                "European",
+                "Deli"
+            ],
+            "telephone": "+84 24 3698 8888",
+            "review_id": "REV_13236633_p1_8",
+            "reviewer_id": "User_p1_8",
+            "review_title": "Review at The Hive Lounge",
+            "review_text": "Mari22Ssj\nHanoi, Vietnam23 contributions\n0\nTry Cherry Bingsu!!\nAug 2023 • Family\nThe new cherry shaved ice is the best event.\nI often ate mango shaved ice and strawberry shaved ice, but cherry shaved ice.\nIt's different from the moment it appears, but the price is on the expensive side.\nWe got a membership discount and the cake and fruit tea were nice. We visited with family, but I recommend it to those on a date.\nRead more\nValue\nService\nFood\nAtmosphere\nShow original\nWritten August 24, 2023\nICLM72 Management Team\nDear Mari22Ssj,\n\nThank you for your fabulous review and recommendation for Hive Lounge.\n\nWe are delighted to learn how much you and your family love the Cherry Bingsu - a limited edition in Hive Lounge's bespoke Bingsu collection. Your kind words shall be shared with our team and we do look forward to welcoming you back soon.\n\nRegards, \nThao Do\nQuality & Continuous Improvement Manager\nRead more\nWritten August 25, 2023\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:36:05.982818",
+            "restaurant_id": "13236633",
+            "restaurant_name": "The Hive Lounge",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "city": "22. Tu Liem Restaurants\nSee all 129 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Cau Giay New Urban Area , Yen Hoa Ward Intercontinental Hanoi Landmark72",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 254
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.01701,
+                "longitude": 105.78415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/24/4f/a7/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Cafe",
+                "International",
+                "European",
+                "Deli"
+            ],
+            "telephone": "+84 24 3698 8888",
+            "review_id": "REV_13236633_p1_9",
+            "reviewer_id": "User_p1_9",
+            "review_title": "Review at The Hive Lounge",
+            "review_text": "Jamie W\nBrisbane, Australia31 contributions\n0\nFantastic view, opulence at its best!\nJun 2023 • Couples\nSeen lots a great reviews for this location in Trip Advisor and we where not disappointed with this location. 62 floors up, great view of the city and we got there late in the afternoon and by the time we left, it was night time! We ended up having a share board with cheese, meat and other nibbles. It was a bit igh on price but conditions where amazing.\nWritten June 24, 2023\nICLM72 Management Team\nDear 389jamiew,\n\nThank you for taking the time to share your feedback with us following your recent dinner at our Hive Lounge restaurant. \n\nWe are delighted to learn that you had wonderful afternoon at Hive Lounge and truly enjoyed Hive Lounge's ambience with beautiful view over the city. \n\nWe look forward to welcoming you back soon.\n\nRegards, \nThao Do\nHotel Experience Champion\nRead more\nWritten June 26, 2023\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:36:06.000832",
+            "restaurant_id": "13236633",
+            "restaurant_name": "The Hive Lounge",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "city": "22. Tu Liem Restaurants\nSee all 129 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Cau Giay New Urban Area , Yen Hoa Ward Intercontinental Hanoi Landmark72",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 254
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.01701,
+                "longitude": 105.78415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/24/4f/a7/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Cafe",
+                "International",
+                "European",
+                "Deli"
+            ],
+            "telephone": "+84 24 3698 8888",
+            "review_id": "REV_13236633_p1_10",
+            "reviewer_id": "User_p1_10",
+            "review_title": "Review at The Hive Lounge",
+            "review_text": "jennifer R\nAnnapolis, Maryland32 contributions\n0\nTea in the Clouds\nApr 2023 • Friends\nNot only was I greeted with welcoming smiles, but an array of beautiful little sandwiches and tastefully designed pastries. The tea was magnificent, a Lotus at best. The view soared the Hanoi skyline with clouds of pleasantries. A+\nValue\nService\nFood\nWritten April 27, 2023\nICLM72 Management Team\nDear jennifer g,\n\nThank you for using the service at the Hive Lounge and sharing with us the good feedback. We are very glad to know that you had a wonderful time and our bespoke Afternoon tea set as well as lotus tea made your experience truly memorable.\nWe hope to see you again soon at the Hive Lounge.\n\nBest Regards,\n\nThao Do\nHotel Experience Champion\nRead more\nWritten April 28, 2023\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:36:06.021823",
+            "restaurant_id": "13236633",
+            "restaurant_name": "The Hive Lounge",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "city": "22. Tu Liem Restaurants\nSee all 129 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Cau Giay New Urban Area , Yen Hoa Ward Intercontinental Hanoi Landmark72",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 254
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.01701,
+                "longitude": 105.78415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/24/4f/a7/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Cafe",
+                "International",
+                "European",
+                "Deli"
+            ],
+            "telephone": "+84 24 3698 8888",
+            "review_id": "REV_13236633_p1_11",
+            "reviewer_id": "User_p1_11",
+            "review_title": "Review at The Hive Lounge",
+            "review_text": "OanhOanh1997\n9 contributions\n0\nHeavenly cocktails, nice staff!\nMar 2023\nNow it's free for me to write a good review for this lovely Lounge! I have a chilling light night with my two beautiful friends. I did enjoyed a glass of Raspberry Mojito recommended by Bartender Huy. My friends enjoyed Tropical Dream and Matcha Latte; they was enticing! What we were impressed was the enthusiastic caring of Staff Dung and Kim Phuong, which made us feel comfortable and cared for. My friend visited here the first time, but she said it was worth being again more more times!!! Thank you!\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten March 11, 2023\nICLM72 Management Team\nDear Oanhoanh1997, \n\nIt was a pleasure to welcome you to InterContinental Hanoi Landmark72, and we deeply appreciate your comments regarding your recent visit. \n\nWe are excited to read you and your friend had wonderful night at Hive Louge and all drinks catered were up to your favor. It warm our heart to learn that our attentive team members contribute to the overall experience. \n\nYour lovely comments are highly appreciated, and we are looking forward to create another wonderful experience with you soon. \n\nRegards, \nThao Do\nHotel Experience Champion\nRead more\nWritten May 19, 2023\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:36:06.034824",
+            "restaurant_id": "13236633",
+            "restaurant_name": "The Hive Lounge",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "city": "22. Tu Liem Restaurants\nSee all 129 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Cau Giay New Urban Area , Yen Hoa Ward Intercontinental Hanoi Landmark72",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 254
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.01701,
+                "longitude": 105.78415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/24/4f/a7/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Cafe",
+                "International",
+                "European",
+                "Deli"
+            ],
+            "telephone": "+84 24 3698 8888",
+            "review_id": "REV_13236633_p1_12",
+            "reviewer_id": "User_p1_12",
+            "review_title": "Review at The Hive Lounge",
+            "review_text": "Lng\nSingapore, Singapore15 contributions\n0\nGreat experience at Hive lounge\nSep 2022 • Friends\nI am a walk in guest to the Hive Lounge, does not expect at first but surprisingly they gave me the best service ever. \n\nI ordered a hive cooler mocktail & their signature cake. Ms Mai & Mr Duc - the bartendar took care of my table. \n\nThe drink was really good, the bartendar gave me so many nice stories abt this drink. Also service was excellent. Mai had a good attitude and she brought me the warm feeling. \n\nMust try at the Hive lounge\nRead more\nWritten September 13, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:36:06.046346",
+            "restaurant_id": "13236633",
+            "restaurant_name": "The Hive Lounge",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "city": "22. Tu Liem Restaurants\nSee all 129 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Cau Giay New Urban Area , Yen Hoa Ward Intercontinental Hanoi Landmark72",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 254
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.01701,
+                "longitude": 105.78415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/24/4f/a7/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Cafe",
+                "International",
+                "European",
+                "Deli"
+            ],
+            "telephone": "+84 24 3698 8888",
+            "review_id": "REV_13236633_p1_13",
+            "reviewer_id": "User_p1_13",
+            "review_title": "Review at The Hive Lounge",
+            "review_text": "Quynh Anh Vo\nDa Nang, Vietnam58 contributions\n0\nGood foods and Great service\nJul 2022 • Business\nI had lunch at the Hive Lounge in ITC Landmark 72, and the restaurant is modern and beautiful. They have a very interesting menu. The foods and drinks were delicious, and staffs were very helpful and lovely! Will definitely come back to try the other restaurants here!\nWritten July 30, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:36:06.063484",
+            "restaurant_id": "13236633",
+            "restaurant_name": "The Hive Lounge",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "city": "22. Tu Liem Restaurants\nSee all 129 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13236633-Reviews-The_Hive_Lounge-Nam_T_Liem_Tu_Liem_Hanoi.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Cau Giay New Urban Area , Yen Hoa Ward Intercontinental Hanoi Landmark72",
+                "addressLocality": "Nam Từ Liêm",
+                "postalCode": "100000"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 254
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.01701,
+                "longitude": 105.78415
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/24/4f/a7/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:30:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Cafe",
+                "International",
+                "European",
+                "Deli"
+            ],
+            "telephone": "+84 24 3698 8888",
+            "review_id": "REV_13236633_p1_14",
+            "reviewer_id": "User_p1_14",
+            "review_title": "Review at The Hive Lounge",
+            "review_text": "AnnieJ_072\nHanoi, Vietnam81 contributions\n0\nThe best high tea in Hanoi\nMar 2021 • Friends\nAfter the first time going to Hive Lounge and having a great impression, this time I come back to try the high tea in here and it didn't make me disappointed. Delicious tea and cake with great ambiance - everything made me feel really relaxed after a busy work week.\nFurthermore, the staff is extremely professional and attentive. Special thanks to Ms. Nguyet for being thoughtful, dedicated and friendly.\nHighly recommend for high tea in Intercontinental Hanoi Landmark72!!!\nRead more\nWritten March 3, 2021\nICLM72HotelManagement\nDear AnnieJ_072,\n\nWe are excited to read your positive feedback following your visit to InterContinental Hanoi Landmark72.\n\nIt is a great pleasure to receive an ecstatic review on your exquisite dining experience in a contemporary atmosphere. Thank you for your kind compliment to Ms. Nguyet, we will pass on your wonderful comment to her, it definitely encourage her to deliver a great hospitality for future service.\n\nOnce again, thank you for sharing your comprehensive description related to your dining experience. We look forward to welcoming you back to Hive Lounge in the not so distant future.\n\nWarm regards,\n\nLy Le (Ms.)\nThe HIVE Lounge Manager\nRead more\nWritten March 4, 2021\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "restaurant_id": "21311449",
+    "restaurant_name": "Olé - Spanish Restaurant",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d21311449-Reviews-Ole_Spanish_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d21311449-Reviews-Ole_Spanish_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "92 Đường Quốc Hương, Thảo Điền, Quận 2",
+            "addressLocality": "Ho Chi Minh City"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 2
+        },
+        "geo": {
+            "latitude": "N/A",
+            "longitude": "N/A"
+        },
+        "image": "N/A",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Mediterranean",
+            "Spanish"
+        ],
+        "telephone": "+84 28 3824 4184"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T09:34:07.738774",
+            "restaurant_id": "21311449",
+            "restaurant_name": "Olé - Spanish Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d21311449-Reviews-Ole_Spanish_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d21311449-Reviews-Ole_Spanish_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "92 Đường Quốc Hương, Thảo Điền, Quận 2",
+                "addressLocality": "Ho Chi Minh City"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 2
+            },
+            "geo": {
+                "latitude": "N/A",
+                "longitude": "N/A"
+            },
+            "image": "N/A",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Mediterranean",
+                "Spanish"
+            ],
+            "telephone": "+84 28 3824 4184",
+            "review_id": "REV_21311449_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Olé - Spanish Restaurant",
+            "review_text": "Carel Richter\nHo Chi Minh City, Vietnam46 contributions\n0\nOle is in D2 now and it is good!\nOct 2020\nOle just moved from D1 and the place is great. It’s like eating at the home of a Spanish culinary family. The food is authentic and really well balanced. Very impressed with the quality. The wine list is good but some of the drinks and food might be out of stock due to problems with importing from Spain in this period. Just ask them what they have before getting all excited.\nRead more\nWritten October 25, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

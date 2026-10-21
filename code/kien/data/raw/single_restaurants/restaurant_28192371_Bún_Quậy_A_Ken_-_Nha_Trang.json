@@ -1,0 +1,895 @@
+{
+    "restaurant_id": "28192371",
+    "restaurant_name": "Bún Quậy A Ken - Nha Trang",
+    "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28192371-Reviews-Bun_Qu_y_A_Ken_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28192371-Reviews-Bun_Qu_y_A_Ken_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Nha Trang Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 28
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.242196,
+            "longitude": 109.18625
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/80/2f/8d/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "06:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "$",
+        "servesCuisine": [
+            "Chinese",
+            "Seafood",
+            "Asian",
+            "Vietnamese",
+            "Healthy",
+            "Soups"
+        ],
+        "telephone": "+84 896414364"
+    },
+    "reviews_count": 9,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T11:17:48.147097",
+            "restaurant_id": "28192371",
+            "restaurant_name": "Bún Quậy A Ken - Nha Trang",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28192371-Reviews-Bun_Qu_y_A_Ken_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28192371-Reviews-Bun_Qu_y_A_Ken_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 28
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.242196,
+                "longitude": 109.18625
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/80/2f/8d/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Seafood",
+                "Asian",
+                "Vietnamese",
+                "Healthy",
+                "Soups"
+            ],
+            "telephone": "+84 896414364",
+            "review_id": "REV_28192371_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Bún Quậy A Ken - Nha Trang",
+            "review_text": "TaraRabas\nLegazpi, Philippines2 contributions\n1\nAwesome experience!\nSep 2024 • Friends\nIt's our first time in Vietnam and we are looking for an authentic vietnamese cuisine while searching, bun quay was the first and top choice. The combination of fresh ingredients and rich broth made for an unforgettable meal. Authentic Bun Quay!! Can’t wait to visit again!\nValue\nService\nFood\nAtmosphere\nWritten October 30, 2024\nBun Quay A Ken\nThank you so much for choosing us as your first authentic Vietnamese dining experience in Vietnam! 😊 We're thrilled that you enjoyed the fresh ingredients and rich broth in our Bun Quay. It’s wonderful to hear that it made a memorable impression, and we can’t wait to welcome you back on your next visit!\nRead more\nWritten November 5, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T11:17:48.177141",
+            "restaurant_id": "28192371",
+            "restaurant_name": "Bún Quậy A Ken - Nha Trang",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28192371-Reviews-Bun_Qu_y_A_Ken_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28192371-Reviews-Bun_Qu_y_A_Ken_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 28
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.242196,
+                "longitude": 109.18625
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/80/2f/8d/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Seafood",
+                "Asian",
+                "Vietnamese",
+                "Healthy",
+                "Soups"
+            ],
+            "telephone": "+84 896414364",
+            "review_id": "REV_28192371_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Bún Quậy A Ken - Nha Trang",
+            "review_text": "Kim Chi\nPhilippines12 contributions\n1\nA Must-Try Local Experience in Nha Trang – Bun Quay A Ken!\nOct 2024 • Friends\nAs a tourist, I was eager to try some authentic local food in Nha Trang, and Bun Quay A Ken delivered an excellent experience. Their Bun Quay vermicelli is something special, with fresh vermicelli and seafood cooked to perfection. The squid and prawn patty stood out with their great flavor, and the homemade condiments added an extra layer of taste.\n\nThe restaurant has a cozy, simple atmosphere, and the staff were welcoming and helpful, guiding me through the menu. I recommend trying their sugarcane juice or kumquat tea—both were refreshing, especially on a hot day.\n\nIf you’re in Nha Trang and want to experience local flavors, Bun Quay A Ken is definitely a place you should visit. It’s all about great food and friendly service here—well worth a try!\nRead more\nValue\nService\nFood\nAtmosphere\nWritten October 24, 2024\nBun Quay A Ken\nThank you so much for the wonderful review and for choosing Bun Quay A Ken to experience authentic local flavors in Nha Trang! 😊 We're delighted to hear that you enjoyed the fresh vermicelli and seafood, especially the squid and prawn patty. It’s fantastic to know our homemade condiments added to the experience!\n\nWe’re glad you appreciated the cozy atmosphere and our team's guidance. Great choice on the sugarcane juice and kumquat tea—perfect for a hot day! We hope to see you again soon, and thank you for recommending us. Safe travels and enjoy the rest of your time in Vietnam! 🌟\nRead more\nWritten November 5, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T11:17:48.201319",
+            "restaurant_id": "28192371",
+            "restaurant_name": "Bún Quậy A Ken - Nha Trang",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28192371-Reviews-Bun_Qu_y_A_Ken_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28192371-Reviews-Bun_Qu_y_A_Ken_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 28
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.242196,
+                "longitude": 109.18625
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/80/2f/8d/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Seafood",
+                "Asian",
+                "Vietnamese",
+                "Healthy",
+                "Soups"
+            ],
+            "telephone": "+84 896414364",
+            "review_id": "REV_28192371_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Bún Quậy A Ken - Nha Trang",
+            "review_text": "Jayden Lim\n6 contributions\n1\nThe hidden treasures of Nha Trang - a must-try powdered noodles experience!\nSep 2024 • Family\nI recently went to Bun Quay A Ken and it was a great experience! This shop brings the powdered rice flour of Phu Quoc Island to Nha Trang and is definitely a hidden treasure worth discovering. Rice flour is made-to-date and I love watching them mix rice flour with ingredients in front of you. The soup is light and refreshing, and very tasty with fish and shrimp cakes.\n\nThe service was also excellent - the staff were friendly and welcoming. I highly Recommendation trying their signature squid pasta and don't forget to go with a fresh cup of golden orange tea.\n\nOpen daily from 6am to 10pm, the restaurant is a great place to enjoy breakfast, lunch or dinner. If you're in Nha Trang and want to experience unique local cuisine, Bun Quay A Ken is definitely worth a try!\nRead more\nValue\nService\nFood\nAtmosphere\nTranslated from Chinese\nShow original\nWritten October 21, 2024\nBun Quay A Ken\n非常感谢您的精彩评价！😊 很高兴您在Bun Quay A Ken有一次愉快的体验，并且喜欢我们的搅粉米粉！能够将富国岛的特色带到芽庄，得到您的认可，我们倍感荣幸。我们特别开心您喜欢现场制作的米粉和清爽的汤底，也对鱿鱼和虾饼的美味满意。\n\n感谢您推荐我们的金桔茶，的确是享用美食时的好搭配！我们从早上6点营业到晚上10点，非常期待下次能够再次为您服务。希望您在芽庄的旅行愉快，再次感谢您的推荐！🌟\nRead more\nTranslate response\nWritten November 5, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T11:17:48.223319",
+            "restaurant_id": "28192371",
+            "restaurant_name": "Bún Quậy A Ken - Nha Trang",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28192371-Reviews-Bun_Qu_y_A_Ken_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28192371-Reviews-Bun_Qu_y_A_Ken_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 28
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.242196,
+                "longitude": 109.18625
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/80/2f/8d/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Seafood",
+                "Asian",
+                "Vietnamese",
+                "Healthy",
+                "Soups"
+            ],
+            "telephone": "+84 896414364",
+            "review_id": "REV_28192371_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Bún Quậy A Ken - Nha Trang",
+            "review_text": "Emjheigh\n20 contributions\n1\nFood lover\nSep 2024 • Family\nWe recently dined at Bun Quay, and we had an outstanding experience! From the moment we arrived, the service was top-notch, and the ambiance was welcoming. But the real star of the show was their Bun Quay—it was exceptional. The flavors were perfectly balanced, and every bite was a delight. It’s safe to say that Bun Quay has now become my new favorite dish. Highly recommend this spot for anyone who loves delicious, authentic Vietnamese cuisine!\nRead more\nValue\nService\nFood\nAtmosphere\nWritten October 6, 2024\nBun Quay A Ken\nThank you so much for your wonderful review! 😊 We're thrilled to hear that you had an outstanding experience at Bun Quay A Ken. From our service to the ambiance and, of course, the Bun Quay itself, we’re so glad everything met your expectations. Knowing it’s become your new favorite dish truly makes our day! Thank you for the high recommendation, and we look forward to welcoming you back for more delicious Vietnamese flavors! 🌟\nRead more\nWritten November 5, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T11:17:48.256317",
+            "restaurant_id": "28192371",
+            "restaurant_name": "Bún Quậy A Ken - Nha Trang",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28192371-Reviews-Bun_Qu_y_A_Ken_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28192371-Reviews-Bun_Qu_y_A_Ken_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 28
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.242196,
+                "longitude": 109.18625
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/80/2f/8d/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Seafood",
+                "Asian",
+                "Vietnamese",
+                "Healthy",
+                "Soups"
+            ],
+            "telephone": "+84 896414364",
+            "review_id": "REV_28192371_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Bún Quậy A Ken - Nha Trang",
+            "review_text": "EDDY L\n13 contributions\n1\nBun Quay A Ken – Simplicity Done Right!\nSep 2024 • Couples\nIf you’re looking for flashy flavors or a super-rich broth, Bun Quay A Ken might surprise you – but in the best way possible! The broth here is not the kind that punches you in the face. Instead, it’s a clear, light soup that lets the seafood do all the talking. You can literally taste the freshness of the squid and seafood with every bite. It’s the kind of dish that doesn’t try too hard but leaves a lasting impression.\n\nThe star of my bowl was the squid. It was unbelievably fresh, cooked just right so that it was tender but still had that satisfying bite. The fish and prawn patties were equally delicious, with a bouncy texture that told me they were made from fresh, quality ingredients. And here’s a fun part: you get to mix your own dipping sauce! You can make it as spicy or tangy as you want, which adds a personal touch to every meal.\n\nThe restaurant itself is cozy and has a laid-back vibe. It wasn’t fancy, but the staff made me feel right at home. Even though it got busy, the service was still quick and efficient. I also loved that the focus is on keeping things simple – no unnecessary extras, just fresh seafood in a clear broth that highlights the natural flavors.\n\nIt’s an honest, straightforward dish that’s perfect when you want something refreshing but satisfying. And with prices that range from just 45K to 65K, it’s an absolute steal. Don’t skip this spot if you’re in Nha Trang and want to taste something truly local and fresh!\nRead more\nInsider tip:\nBe there early to avoid long queue.\nValue\nService\nFood\nAtmosphere\nWritten September 30, 2024\nBun Quay A Ken\nThank you for such a beautifully detailed review! 😊 We’re thrilled to hear that you appreciated the light, clear broth and fresh ingredients that define our Bun Quay. It’s wonderful to know that the natural flavors of the squid and seafood left a lasting impression on you—exactly what we aim for!\n\nWe're also glad you enjoyed the interactive experience of mixing your own dipping sauce; we love how it lets each guest add their own personal touch. Our team takes pride in keeping things simple yet authentic, and it’s fantastic to hear that the cozy atmosphere and quick, friendly service made you feel at home.\n\nThank you again for your kind words and for recommending us as a must-try in Nha Trang. We hope to welcome you back soon for another bowl of Bun Quay! 🌊🍜\nRead more\nWritten November 5, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T11:17:48.275347",
+            "restaurant_id": "28192371",
+            "restaurant_name": "Bún Quậy A Ken - Nha Trang",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28192371-Reviews-Bun_Qu_y_A_Ken_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28192371-Reviews-Bun_Qu_y_A_Ken_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 28
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.242196,
+                "longitude": 109.18625
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/80/2f/8d/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Seafood",
+                "Asian",
+                "Vietnamese",
+                "Healthy",
+                "Soups"
+            ],
+            "telephone": "+84 896414364",
+            "review_id": "REV_28192371_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at Bún Quậy A Ken - Nha Trang",
+            "review_text": "Albert M\nNha Trang, Vietnam19 contributions\n1\nMust Visit for Squid and Seafood Noodles Soup Lovers\nSep 2024 • Solo\ni stumbled upon Bun quay a ken while searching fir local food, and it turned out to be one of my best dining experience.\n\nas a solo tourist, im always on thenlookout for hidden gems, and i think this restaurant is one of them.Bun quay is something i never tried before, and the experience was so unique and fun. from the moment i walked in, i was impressed by how welcoming and friendly the staff were, even tho the place was busy. the atmosphere is casual and great for a relaxing meal.\n\nthe food was fantastic, i ordered their number 3 which has squid, prawn and fish patty and some beef. the squid was so fresh...and the prawn patty is super yummy. im able to tell they put alot of care in preparing the food. the broth was light but flavorful.\n\nthe whole meal is super affordable for local and toursit alike.\n\noverall, bun quay a ken exceed my expectations, while writing, im planning to visit them a 2nd time already.\nRead more\nWritten September 26, 2024\nBun Quay A Ken\nThank you so much for your detailed and heartwarming review! We're thrilled to hear that Bun Quay A Ken became one of your best dining experiences. It’s always wonderful to know when solo travelers like you discover us and enjoy the unique experience we aim to provide.\n\nWe're especially happy that you found our staff welcoming and appreciated the atmosphere, even during a busy time. Your positive comments about the fresh squid, yummy prawn patty, and flavorful broth truly mean a lot to us, as we put great care into preparing every dish.\n\nWe can’t wait to welcome you back for your second visit, and we hope it’s just as great as the first! 😊\nRead more\nWritten September 29, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T11:17:48.294227",
+            "restaurant_id": "28192371",
+            "restaurant_name": "Bún Quậy A Ken - Nha Trang",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28192371-Reviews-Bun_Qu_y_A_Ken_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28192371-Reviews-Bun_Qu_y_A_Ken_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 28
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.242196,
+                "longitude": 109.18625
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/80/2f/8d/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Seafood",
+                "Asian",
+                "Vietnamese",
+                "Healthy",
+                "Soups"
+            ],
+            "telephone": "+84 896414364",
+            "review_id": "REV_28192371_p1_6",
+            "reviewer_id": "User_p1_6",
+            "review_title": "Review at Bún Quậy A Ken - Nha Trang",
+            "review_text": "Lady W\n134 contributions\n1\nFirst Time trying Bun Quay A Ken in Nha Trang and We loved it!!!\nSep 2024 • Friends\nIt was our 3rd trip to Vietnam and 1st time in Nha Trang, we wanted something hot and soupy due to the constant rain and found this gem. The welcoming staff guided us through the ordering process. Despite the rain, the place was packed, but service was fast. I tried the owner’s secret sauce at the condiments counter, which was delicious. The lime tea or they call it kuamquat was refreshing, unlike anything I've had in the Philippines. The broth was clear, and the squid tasted really fresh. The vermicelli was sweet, and the prawn cake became my favorite. 1 thing I dont really like is the air-conditioned + fan, the weather is cold enough and they still turn on the fan making me chill, but its fine after I start eating. Overall, very satisfied!\nRead more\nWritten September 22, 2024\nBun Quay A Ken\nThank you for visiting us during your first time in Nha Trang, and for such a fantastic review! 😊 We’re delighted that you found us amidst the rain and enjoyed our warm, soupy Bun Quay experience. It's great to hear that our staff helped you feel welcome, and that you enjoyed the owner’s secret sauce and refreshing kumquat tea—especially since it was something new for you!\n\nWe’re glad the fresh squid, sweet vermicelli, and prawn cake became highlights of your meal. Thank you for the note about the fan; we’ll certainly keep that in mind for cooler days. Overall, we're thrilled you were satisfied, and we hope to see you again on your next trip to Vietnam! 🌧🍜\nRead more\nWritten November 5, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T11:17:48.309746",
+            "restaurant_id": "28192371",
+            "restaurant_name": "Bún Quậy A Ken - Nha Trang",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28192371-Reviews-Bun_Qu_y_A_Ken_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28192371-Reviews-Bun_Qu_y_A_Ken_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 28
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.242196,
+                "longitude": 109.18625
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/80/2f/8d/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Seafood",
+                "Asian",
+                "Vietnamese",
+                "Healthy",
+                "Soups"
+            ],
+            "telephone": "+84 896414364",
+            "review_id": "REV_28192371_p1_7",
+            "reviewer_id": "User_p1_7",
+            "review_title": "Review at Bún Quậy A Ken - Nha Trang",
+            "review_text": "Bryan\nSingapore, Singapore1 contribution\n1\nBest bun quay in nha trang\nSep 2024 • Friends\nBest bun quay I’ve ever had!!!. Their noodles and soup is very flavourful and well-presented. The ambience was cozy and their service was attentive. Very highly recommended place to go for a warm and nice meal. To avoid waiting, I would suggest to go between 2-5pm(avoid peak hours). Overall a 5/5 experience.\nWritten September 16, 2024\nBun Quay A Ken\nThank you so much for your wonderful review! We're thrilled that you enjoyed the noodles, soup, and the cozy atmosphere. We appreciate the recommendation on timing too! Hope to welcome you back soon for another great meal. 😊\nRead more\nWritten September 17, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T11:17:48.330838",
+            "restaurant_id": "28192371",
+            "restaurant_name": "Bún Quậy A Ken - Nha Trang",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28192371-Reviews-Bun_Qu_y_A_Ken_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "5. Nha Trang Restaurants\nSee all 1,305 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d28192371-Reviews-Bun_Qu_y_A_Ken_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 28
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.242196,
+                "longitude": 109.18625
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/80/2f/8d/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "06:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Chinese",
+                "Seafood",
+                "Asian",
+                "Vietnamese",
+                "Healthy",
+                "Soups"
+            ],
+            "telephone": "+84 896414364",
+            "review_id": "REV_28192371_p1_8",
+            "reviewer_id": "User_p1_8",
+            "review_title": "Review at Bún Quậy A Ken - Nha Trang",
+            "review_text": "askyway\nNew York City, New York7 contributions\n1\nA Must-Try Hidden Gem! 💎💎\nSep 2024 • Family\nOn a beach holiday, I stumbled upon this noodle shop, and it’s an absolute hidden treasure! The noodles were perfectly cooked, with a flavourful broth that I couldn’t get enough of— I finished my bowl in minutes. The cozy vibe and friendly staff made it even better, and I can see why it’s becoming a favorite for both locals and tourists.\n\nIf you’re near the beach, do yourself a favor and stop by. You’ll be talking about this place long after your first bite!\nRead more\nInsider tip:\nGo early to avoid crowds. Don’t miss the flavorful squid + beef combo! Just 2 mins ride from the beach—perfect for a post-sun meal.\nValue\nService\nFood\nAtmosphere\nWritten September 12, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "restaurant_id": "14057842",
+    "restaurant_name": "Hebi Poke",
+    "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14057842-Reviews-Hebi_Poke-Ho_Chi_Minh_City.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14057842-Reviews-Hebi_Poke-Ho_Chi_Minh_City.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Ho Chi Minh City Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 3,
+            "reviewCount": 1
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.771179,
+            "longitude": 106.702705
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/91/41/40/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "$",
+        "servesCuisine": [
+            "Japanese",
+            "Seafood",
+            "Fast Food",
+            "Hawaiian"
+        ],
+        "telephone": "+84 166 889 8668"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-10T12:09:09.905596",
+            "restaurant_id": "14057842",
+            "restaurant_name": "Hebi Poke",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14057842-Reviews-Hebi_Poke-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "1. Ho Chi Minh City Restaurants\nSee all 9,968 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d14057842-Reviews-Hebi_Poke-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3,
+                "reviewCount": 1
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.771179,
+                "longitude": 106.702705
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/91/41/40/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "$",
+            "servesCuisine": [
+                "Japanese",
+                "Seafood",
+                "Fast Food",
+                "Hawaiian"
+            ],
+            "telephone": "+84 166 889 8668",
+            "review_id": "REV_14057842_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Hebi Poke",
+            "review_text": "Kaylee\n2 contributions\n0\ntaste is good before but not anymore\nNov 2019\nI used to order from here before but now I don't taste the food like same as before. disappointed. its not value for this..\nValue\nService\nFood\nWritten December 20, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-10",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

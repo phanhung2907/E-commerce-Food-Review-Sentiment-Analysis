@@ -1,0 +1,177 @@
+{
+    "restaurant_id": "13646674",
+    "restaurant_name": "artisee MyDinh",
+    "city": "22. Tu Liem Restaurants\nSee all 129 restaurants",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13646674-Reviews-Artisee_MyDinh-Nam_T_Liem_Tu_Liem_Hanoi.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13646674-Reviews-Artisee_MyDinh-Nam_T_Liem_Tu_Liem_Hanoi.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "Me Tri Level 1, C004, The Manor, My Dinh 1 Ward, Nam Tu Liem dist",
+            "addressLocality": "Nam Từ Liêm"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.4,
+            "reviewCount": 7
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 21.014591,
+            "longitude": 105.77534
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/50/0e/23/interior-order-bar.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "07:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "07:00:00",
+                "closes": "23:00:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Italian",
+            "French",
+            "Cafe",
+            "Fast Food",
+            "Asian",
+            "Korean"
+        ],
+        "telephone": "+84 4 6292 6641"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T18:40:11.719594",
+            "restaurant_id": "13646674",
+            "restaurant_name": "artisee MyDinh",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13646674-Reviews-Artisee_MyDinh-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "city": "22. Tu Liem Restaurants\nSee all 129 restaurants",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g27469010-d13646674-Reviews-Artisee_MyDinh-Nam_T_Liem_Tu_Liem_Hanoi.html",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "Me Tri Level 1, C004, The Manor, My Dinh 1 Ward, Nam Tu Liem dist",
+                "addressLocality": "Nam Từ Liêm"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 7
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 21.014591,
+                "longitude": 105.77534
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/50/0e/23/interior-order-bar.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Italian",
+                "French",
+                "Cafe",
+                "Fast Food",
+                "Asian",
+                "Korean"
+            ],
+            "telephone": "+84 4 6292 6641",
+            "review_id": "REV_13646674_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at artisee MyDinh",
+            "review_text": "MK_Ji\nHanoi, Vietnam142 contributions\n1\nIt’s good for Family\nJul 2018 • Family\nArtisee Mydinh's brunch is so nice. \nMango + passion Fruits Juice is special. Fresh n sweet. It’s 100% fruits\nWritten July 3, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

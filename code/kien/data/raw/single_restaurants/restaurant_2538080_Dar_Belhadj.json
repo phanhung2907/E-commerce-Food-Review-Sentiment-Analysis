@@ -1,0 +1,1851 @@
+{
+    "restaurant_id": "2538080",
+    "restaurant_name": "Dar Belhadj",
+    "city": "Phan Thiet",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Tunisia",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Tunis Tunisia"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "reviewCount": 165
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 36.798096,
+            "longitude": 10.171562
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/c4/13/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "12:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "19:30:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "12:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "19:30:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "12:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "19:30:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "12:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "19:30:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "12:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "19:30:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "12:00:00",
+                "closes": "15:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "19:30:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "$$$$",
+        "servesCuisine": [
+            "Mediterranean",
+            "Tunisian"
+        ],
+        "telephone": "+216 56 021 006"
+    },
+    "reviews_count": 15,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:08:01.892774",
+            "restaurant_id": "2538080",
+            "restaurant_name": "Dar Belhadj",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Tunisia",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Tunis Tunisia"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 165
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.798096,
+                "longitude": 10.171562
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/c4/13/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Mediterranean",
+                "Tunisian"
+            ],
+            "telephone": "+216 56 021 006",
+            "review_id": "REV_2538080_p1_0",
+            "reviewer_id": "User_p1_0",
+            "review_title": "Review at Dar Belhadj",
+            "review_text": "Alessandra R\nPalermo, Italy157 contributions\n0\nI have to go back\nMar 2026 • Friends\nWe are in the period of\nRamadan and enjoy a delicious dinner at 18.00\nAfter dark with typical dishes it was delicious. Great food, friendly staff\nTranslated from Italian\nShow original\nWritten March 3, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:08:01.909773",
+            "restaurant_id": "2538080",
+            "restaurant_name": "Dar Belhadj",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Tunisia",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Tunis Tunisia"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 165
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.798096,
+                "longitude": 10.171562
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/c4/13/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Mediterranean",
+                "Tunisian"
+            ],
+            "telephone": "+216 56 021 006",
+            "review_id": "REV_2538080_p1_1",
+            "reviewer_id": "User_p1_1",
+            "review_title": "Review at Dar Belhadj",
+            "review_text": "Thomas R\n39 contributions\n0\nGreat!\nJan 2026 • Solo\nHome and service pro and friendly, very nice setting, tasty and generous cuisine, very reasonable price (65 DNT the full menu), I recommend!\nTranslated from French\nShow original\nWritten January 8, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:08:01.943802",
+            "restaurant_id": "2538080",
+            "restaurant_name": "Dar Belhadj",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Tunisia",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Tunis Tunisia"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 165
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.798096,
+                "longitude": 10.171562
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/c4/13/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Mediterranean",
+                "Tunisian"
+            ],
+            "telephone": "+216 56 021 006",
+            "review_id": "REV_2538080_p1_2",
+            "reviewer_id": "User_p1_2",
+            "review_title": "Review at Dar Belhadj",
+            "review_text": "annatoffy\nPadua, Italy95 contributions\n0\nToo expensive and they demand a tip\nMay 2025 • Business\nAverage food of any restaurant in Tunis but at an exaggerated price! The bill after we asked to pay with the card increased by 15 dinars each of course without notifying us and despite this they demanded a tip (also suggesting the figure ) when in Tunisia it is not mandatory or even required in any other place! \nThe only strength of the place is the location that is really amazing\nRead more\nTranslated from Italian\nShow original\nWritten May 16, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:08:01.991849",
+            "restaurant_id": "2538080",
+            "restaurant_name": "Dar Belhadj",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Tunisia",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Tunis Tunisia"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 165
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.798096,
+                "longitude": 10.171562
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/c4/13/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Mediterranean",
+                "Tunisian"
+            ],
+            "telephone": "+216 56 021 006",
+            "review_id": "REV_2538080_p1_3",
+            "reviewer_id": "User_p1_3",
+            "review_title": "Review at Dar Belhadj",
+            "review_text": "Mrsnoon\nDubai, United Arab Emirates136 contributions\n0\nA traditional restaurant in heart of medina\nOct 2024 • Solo\nDar Bel Hadj is a must\nvisit if you're in Tunis\n I had the traditional couscous, and it was absolutely amazing \nfull of authentic flavors. The ambience is something truly special\n it felt like stepping back in time and dining in another era. It’s a perfect spot to experience the charm of old Tunis. And whatever you do, don’t miss the Tunisian tea it’s the perfect way to end your meal.\nRead more\nWritten April 29, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:08:02.032834",
+            "restaurant_id": "2538080",
+            "restaurant_name": "Dar Belhadj",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Tunisia",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Tunis Tunisia"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 165
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.798096,
+                "longitude": 10.171562
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/c4/13/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Mediterranean",
+                "Tunisian"
+            ],
+            "telephone": "+216 56 021 006",
+            "review_id": "REV_2538080_p1_4",
+            "reviewer_id": "User_p1_4",
+            "review_title": "Review at Dar Belhadj",
+            "review_text": "Tommaso Carboni\nMilan, Italy809 contributions\n0\nGreat restaurant in a Dar within the Medina\nApr 2025 • Couples\nWe had dinner at Dar Belhadj the first night we arrived in Tunis, as suggested by the concierge of our hotel, as an alternative to the restaurant where we wanted to go, but which had no place.\nBeautiful structure located inside the Medina. \nThe room manager was very attentive and friendly.\nWe ate a plate of mixed appetizers to share followed by baked lamb and always lamb couscous. \nTo close a plate of seasonal fruit and a lemon sorbet.\nOne of the few places inside the medina that serves alcohol.\nHigh bill compared to average Tunisian prices, but cheaper than other similar restaurants\nRead more\nValue\nService\nFood\nAtmosphere\nTranslated from Italian\nShow original\nWritten April 22, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:08:02.049859",
+            "restaurant_id": "2538080",
+            "restaurant_name": "Dar Belhadj",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Tunisia",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Tunis Tunisia"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 165
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.798096,
+                "longitude": 10.171562
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/c4/13/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Mediterranean",
+                "Tunisian"
+            ],
+            "telephone": "+216 56 021 006",
+            "review_id": "REV_2538080_p1_5",
+            "reviewer_id": "User_p1_5",
+            "review_title": "Review at Dar Belhadj",
+            "review_text": "Manon\nToulouse, France57 contributions\n0\nA real pleasure!\nApr 2025 • Family\nDinner with the family and it is a very nice discovery! \nRoyal couscous on top, perfectly cooked lamb, and a plate more than delicious. \nAnd then special mention to Ismail who made us spend a superb evening with his perfect service.\nAs a bonus we were able to visit the place which is just sumptuous! A real pleasure to be able to contemplate the historic places (El Bey building).\nDo not hesitate, in the heart of the Medina, it is a niche restaurant worth the visit!!\nRead more\nTranslated from French\nShow original\nWritten April 20, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:08:02.065418",
+            "restaurant_id": "2538080",
+            "restaurant_name": "Dar Belhadj",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Tunisia",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Tunis Tunisia"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 165
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.798096,
+                "longitude": 10.171562
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/c4/13/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Mediterranean",
+                "Tunisian"
+            ],
+            "telephone": "+216 56 021 006",
+            "review_id": "REV_2538080_p1_6",
+            "reviewer_id": "User_p1_6",
+            "review_title": "Review at Dar Belhadj",
+            "review_text": "haythem e\n1 contribution\n0\nSatisfied customer\nApr 2025 • Business\nExcellent food quality and service at the top, beautiful setting. What more can I ask?\nDefinitely one of the closest restaurants in the Medina.\nTranslated from French\nShow original\nWritten April 17, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:08:02.080285",
+            "restaurant_id": "2538080",
+            "restaurant_name": "Dar Belhadj",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Tunisia",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Tunis Tunisia"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 165
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.798096,
+                "longitude": 10.171562
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/c4/13/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Mediterranean",
+                "Tunisian"
+            ],
+            "telephone": "+216 56 021 006",
+            "review_id": "REV_2538080_p1_7",
+            "reviewer_id": "User_p1_7",
+            "review_title": "Review at Dar Belhadj",
+            "review_text": "Jih92\n34 contributions\n0\nExcellent and thank you for your welcome\nApr 2025 • Solo\nService at the top, beautiful setting, exquisite food. What more can I ask?\nDefinitely one of the closest restaurants in the Medina.\nTranslated from French\nShow original\nWritten April 15, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:08:02.096467",
+            "restaurant_id": "2538080",
+            "restaurant_name": "Dar Belhadj",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Tunisia",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Tunis Tunisia"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 165
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.798096,
+                "longitude": 10.171562
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/c4/13/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Mediterranean",
+                "Tunisian"
+            ],
+            "telephone": "+216 56 021 006",
+            "review_id": "REV_2538080_p1_8",
+            "reviewer_id": "User_p1_8",
+            "review_title": "Review at Dar Belhadj",
+            "review_text": "Takoua m\n1 contribution\n0\nOpinions\nApr 2025 • Couples\nThe place was really nice, a beautiful authentic and traditional house in the heart of the Medina elArbi. Unfortunately the atmosphere left something to be desired , one of the waiters seemed jaded working without any motivation , laying things on the table in a sudden and amazing way... I felt a heavy atmosphere full of negativity. The food was very simple but correct , the exit was mostly to change environment ...\nRead more\nTranslated from French\nShow original\nWritten April 13, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:08:02.110468",
+            "restaurant_id": "2538080",
+            "restaurant_name": "Dar Belhadj",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Tunisia",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Tunis Tunisia"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 165
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.798096,
+                "longitude": 10.171562
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/c4/13/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Mediterranean",
+                "Tunisian"
+            ],
+            "telephone": "+216 56 021 006",
+            "review_id": "REV_2538080_p1_9",
+            "reviewer_id": "User_p1_9",
+            "review_title": "Review at Dar Belhadj",
+            "review_text": "Mark J\nBarberton, Ohio187 contributions\n0\nNice atmosphere, good music, friendly staff, mediocre food.\nMar 2025 • Solo\nNote to self: don’t travel to a Muslim country during Ramadan. My bad; I get it. I can live without cafes being open during the day (almost) and without wine at dinner (almost), but that puts the pressure on the after sundown meal to be even more amazing. I didn’t make a reservation and the place was packed, so I waited about 15 minutes for a table. The menu was set and prix-fixe. The service was immediate (5 or 6 people swooping down with appetizers water etc). The main dish was the real problem: a slab of roast beef so dry it rivaled my mother’s for toughness. I ate the pasta side and just pointed to the beef/shoe and said, “impossible” (a French cognate) when the waiter came to pick up my plate. I guess the price was literally fixed because no one mentioned the beef and I paid my 90 dinar and left. 🤷🏻‍♂️\nRead more\nWritten March 27, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:08:02.131468",
+            "restaurant_id": "2538080",
+            "restaurant_name": "Dar Belhadj",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Tunisia",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Tunis Tunisia"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 165
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.798096,
+                "longitude": 10.171562
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/c4/13/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Mediterranean",
+                "Tunisian"
+            ],
+            "telephone": "+216 56 021 006",
+            "review_id": "REV_2538080_p1_10",
+            "reviewer_id": "User_p1_10",
+            "review_title": "Review at Dar Belhadj",
+            "review_text": "F G\nVaux-sur-Mer, France45 contributions\n0\nTO AVOID\nDec 2024 • Couples\nVery poor royal couscous, dumpling, chicken (black interior) hard sheep ,\nThe other dish veal skewer (hard meat and not tender \nUnsympathetic butler and waiters took 100 steps in front of tables waiting for guests \nMeals with an excessive price for null benefit\nValue\nService\nFood\nAtmosphere\nTranslated from French\nShow original\nWritten December 4, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:08:02.154471",
+            "restaurant_id": "2538080",
+            "restaurant_name": "Dar Belhadj",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Tunisia",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Tunis Tunisia"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 165
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.798096,
+                "longitude": 10.171562
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/c4/13/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Mediterranean",
+                "Tunisian"
+            ],
+            "telephone": "+216 56 021 006",
+            "review_id": "REV_2538080_p1_11",
+            "reviewer_id": "User_p1_11",
+            "review_title": "Review at Dar Belhadj",
+            "review_text": "spiegeljeanpaul\nLabaroche, France20 contributions\n0\nTo avoid bar shots!\nNov 2024 • Couples\nBeautiful restaurant, worked kitchen but not much more than average, cold and distant staff, welcoming but smiling maitre d' but \nscam on the price of beer ( x6 considering price and quantity by the glass 15cl approx)\nAnyway, with four beers, the bill went up.\nIn view of the price of beer, we have eliminated the tip and have therefore not received the slightest goodbye.\nMust avoid and go to the Goulette where it is very good and charming staff\nRead more\nValue\nService\nFood\nAtmosphere\nTranslated from French\nShow original\nWritten December 4, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:08:02.174018",
+            "restaurant_id": "2538080",
+            "restaurant_name": "Dar Belhadj",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Tunisia",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Tunis Tunisia"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 165
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.798096,
+                "longitude": 10.171562
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/c4/13/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Mediterranean",
+                "Tunisian"
+            ],
+            "telephone": "+216 56 021 006",
+            "review_id": "REV_2538080_p1_12",
+            "reviewer_id": "User_p1_12",
+            "review_title": "Review at Dar Belhadj",
+            "review_text": "Samira B\n1 contribution\n0\nA treat!! A service at the top!\nOct 2024 • Family\nExcellent meal with typical decor, top service!!\nCarefully presented dishes , the taste trip is assured, I recommend 100%!!\nValue\nService\nFood\nAtmosphere\nTranslated from French\nShow original\nWritten October 28, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:08:02.188811",
+            "restaurant_id": "2538080",
+            "restaurant_name": "Dar Belhadj",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Tunisia",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Tunis Tunisia"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 165
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.798096,
+                "longitude": 10.171562
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/c4/13/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Mediterranean",
+                "Tunisian"
+            ],
+            "telephone": "+216 56 021 006",
+            "review_id": "REV_2538080_p1_13",
+            "reviewer_id": "User_p1_13",
+            "review_title": "Review at Dar Belhadj",
+            "review_text": "Nawfel B\n1 contribution\n0\nLunch opinion\nOct 2024 • Family\nPleasant atmosphere , starter and delicious dish, pleasant decor but the only negative is the dessert with no variety and bad taste\nTranslated from French\nShow original\nWritten October 28, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-11T23:08:02.204813",
+            "restaurant_id": "2538080",
+            "restaurant_name": "Dar Belhadj",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293758-d2538080-Reviews-Dar_Belhadj-Tunis_Tunis_Governorate.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Tunisia",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Tunis Tunisia"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.2,
+                "reviewCount": 165
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 36.798096,
+                "longitude": 10.171562
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/c4/13/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "12:00:00",
+                    "closes": "15:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "19:30:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Mediterranean",
+                "Tunisian"
+            ],
+            "telephone": "+216 56 021 006",
+            "review_id": "REV_2538080_p1_14",
+            "reviewer_id": "User_p1_14",
+            "review_title": "Review at Dar Belhadj",
+            "review_text": "Antonio Giulio\nRome, Italy25 contributions\n0\nGreat local appetizer in the Medina\nJun 2024 • Couples\nGood dishes and tasty. We enjoyed so much the mix local appetizer. Located into the Medina just a few minutes walk from Main Street. Recommended\nWritten June 27, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-11",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}
