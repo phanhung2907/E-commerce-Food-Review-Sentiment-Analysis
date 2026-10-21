@@ -108,13 +108,12 @@ def extract_json_ld_features(driver):
 
 
 # ==========================================
-# CƠ CHẾ KHÁM PHÁ TOÀN BỘ KHU VỰC TỰ ĐỘNG
+# CƠ CHẾ KHÁM PHÁ TOÀN BỘ KHU VỰC TỰ ĐỘNG (ĐÃ LỌC BỎ SUBREGION RÁC)
 # ==========================================
 def discover_all_cities_automatically(driver, root_country_url):
     print(f"[Dynamic Discovery] Đang truy cập trang quốc gia: {root_country_url}")
     driver.get(root_country_url)
     
-    # Tăng thời gian chờ an toàn lên cao hơn để tránh bị chặn từ đầu
     time.sleep(random.uniform(12.0, 18.0))
 
     try:
@@ -140,7 +139,7 @@ def discover_all_cities_automatically(driver, root_country_url):
     last_height = driver.execute_script("return document.body.scrollHeight")
     for _ in range(10):
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        time.sleep(random.uniform(5.0, 8.0)) # Giãn thời gian cuộn trang rộng hơn
+        time.sleep(random.uniform(5.0, 8.0))
         new_height = driver.execute_script("return document.body.scrollHeight")
         if new_height == last_height:
             break
@@ -154,16 +153,26 @@ def discover_all_cities_automatically(driver, root_country_url):
         try:
             href = elem.get_attribute("href")
             text = elem.text.strip()
+            
             if href and "Restaurants-" in href and "RegistrationController" not in href and href not in seen_urls:
                 if href == root_country_url:
                     continue
+                
+                # --- BỘ LỌC TỰ ĐỘNG THÔNG MINH ĐỂ CHẶN SUBREGION RÁC ---
+                if not text or len(text) > 50 or "subregion" in text.lower() or "region" in text.lower():
+                    continue
+                if text.isdigit() or "see all" in text.lower() or "restaurants" in text.lower():
+                    continue
+
                 seen_urls.add(href)
-                city_name = text if text and len(text) < 50 else "Vietnam_Subregion"
-                city_links.append({"city": city_name, "url": href})
+                clean_city_name = text.replace(" Restaurants", "").strip()
+                
+                city_links.append({"city": clean_city_name, "url": href})
+                print(f" -> Phát hiện thành phố hợp lệ: {clean_city_name} ({href})")
         except:
             continue
 
-    print(f"[SUCCESS] Đã tự động phát hiện thành công {len(city_links)} khu vực/tỉnh thành tại Việt Nam!")
+    print(f"[SUCCESS] Đã tự động phát hiện thành công {len(city_links)} khu vực/tỉnh thành chính thống tại Việt Nam (Đã loại bỏ hoàn toàn Subregion rác)!")
     return city_links
 
 
@@ -175,7 +184,7 @@ def discover_and_sort_restaurants(driver, city_listing_url, city_name):
     print(f"\n[Category Scan] Quét danh mục từ: {city_listing_url}")
 
     driver.get(city_listing_url)
-    time.sleep(random.uniform(10.0, 15.0)) # Tăng thời gian chờ load trang danh mục khu vực
+    time.sleep(random.uniform(10.0, 15.0))
 
     page = 0
     max_catalog_pages = 50  
@@ -220,7 +229,7 @@ def discover_and_sort_restaurants(driver, city_listing_url, city_name):
                 driver.execute_script("arguments[0].scrollIntoView(true);", next_btn)
                 time.sleep(random.uniform(4.0, 6.0))
                 driver.execute_script("arguments[0].click();", next_btn)
-                time.sleep(random.uniform(10.0, 15.0)) # Tăng thời gian chuyển trang phân trang danh mục
+                time.sleep(random.uniform(10.0, 15.0))
             else:
                 break
         except:
@@ -232,7 +241,7 @@ def discover_and_sort_restaurants(driver, city_listing_url, city_name):
     for idx, url in enumerate(list(restaurant_links)):
         try:
             driver.get(url)
-            time.sleep(random.uniform(6.0, 10.0)) # Tăng thời gian kiểm tra review count của từng quán
+            time.sleep(random.uniform(6.0, 10.0))
             schema = extract_json_ld_features(driver)
             r_count_str = schema.get("aggregateRating", {}).get("reviewCount", 0)
             try:
@@ -262,7 +271,7 @@ def extract_full_features_from_restaurant(driver, target_url, city):
         base_url_clean = base_url_clean[:-5]
 
     driver.get(target_url if "#REVIEWS" in target_url else target_url + "#REVIEWS")
-    time.sleep(random.uniform(12.0, 18.0)) # Chờ load trang nhà hàng kỹ lưỡng hơn
+    time.sleep(random.uniform(12.0, 18.0))
     schema_info = extract_json_ld_features(driver)
 
     restaurant_name = "N/A"
@@ -287,7 +296,7 @@ def extract_full_features_from_restaurant(driver, target_url, city):
             current_page_url = f"{base_url_clean}-or{offset}.html#REVIEWS"
 
         driver.get(current_page_url)
-        time.sleep(random.uniform(10.0, 15.0)) # Nghỉ dài giữa mỗi trang review để tránh bị block
+        time.sleep(random.uniform(10.0, 15.0))
 
         last_scroll_height = driver.execute_script("return document.body.scrollHeight")
         for _ in range(5):

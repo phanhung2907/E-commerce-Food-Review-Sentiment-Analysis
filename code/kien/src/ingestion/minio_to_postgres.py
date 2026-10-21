@@ -1,5 +1,6 @@
 import os
 import json
+import re
 import psycopg2
 from dotenv import load_dotenv
 
@@ -160,9 +161,20 @@ def run_3nf_etl_pipeline():
             with open(file_path, "r", encoding="utf-8") as f:
                 data = json.load(f)
 
+            # --- LÀM SẠCH VÀ LỌC BỎ VIETNAM_SUBREGION NGAY TỪ NGUỒN ---
+            raw_city = data.get("city", "N/A")
+            if "Vietnam_Subregion" in str(raw_city):
+                continue  # Bỏ qua các file bị lỗi gán nhãn vùng hệ thống này
+
+            first_line = str(raw_city).split("\n")[0].strip()
+            cleaned = re.sub(r'^\d+\.\s*', '', first_line)
+            city = re.sub(r'\s+Restaurants.*$', '', cleaned, flags=re.IGNORECASE).strip()
+            if not city:
+                city = "N/A"
+            # ---------------------------------------------------------
+
             rest_id = safe_str(data.get("restaurant_id"))
             rest_name = safe_str(data.get("restaurant_name", "N/A"))
-            city = safe_str(data.get("city", "N/A"))
             rest_url = safe_str(data.get("restaurant_url", "N/A"))
             
             metadata = data.get("metadata", {})
@@ -195,7 +207,7 @@ def run_3nf_etl_pipeline():
             except:
                 review_cnt = 0
 
-            # 1. Insert Restaurant
+            # 1. Insert Restaurant (Đã đóng ngoặc chuẩn xác)
             cursor.execute("""
                 INSERT INTO restaurants (
                     restaurant_id, restaurant_name, city, restaurant_url, 
@@ -292,7 +304,7 @@ def run_3nf_etl_pipeline():
 
     cursor.close()
     conn.close()
-    print(f"\n[SUCCESS] Hoàn thành ETL mô hình 3NF đầy đủ!")
+    print(f"\n[SUCCESS] Hoàn thành ETL mô hình 3NF đầy đủ và sạch sẽ!")
     print(f" - Tổng nhà hàng đã nạp: {restaurant_count}")
     print(f" - Tổng reviews đã nạp: {review_count_total}")
 

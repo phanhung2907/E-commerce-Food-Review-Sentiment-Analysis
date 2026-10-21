@@ -1,5 +1,6 @@
 import os
 import json
+import re
 import pandas as pd
 
 # Đường dẫn đến thư mục chứa các file JSON nhà hàng đã cào
@@ -22,9 +23,17 @@ if os.path.exists(local_dir):
                     metadata = data.get("metadata", {})
                     aggregate_rating = metadata.get("aggregateRating", {})
                     
-                    # Làm sạch tên thành phố (loại bỏ các chữ thừa như "See all...")
+                    # --- LÀM SẠCH TÊN THÀNH PHỐ BẰNG REGEX ---
                     raw_city = data.get("city", "Unknown")
-                    clean_city = raw_city.split("\n")[0].replace("1. ", "").replace(" Restaurants", "").strip()
+                    first_line = raw_city.split("\n")[0].strip()
+                    
+                    # Nếu phát hiện chứa "Vietnam_Subregion", ta bỏ qua hoặc đánh dấu để loại bỏ
+                    if "Vietnam_Subregion" in first_line or "Vietnam_Subregion" in str(raw_city):
+                        continue  # Bỏ qua các file bị lỗi gán nhãn vùng hệ thống này
+                    
+                    # Loại bỏ số thứ tự ở đầu và chữ "Restaurants" phía sau
+                    cleaned = re.sub(r'^\d+\.\s*', '', first_line)
+                    clean_city = re.sub(r'\s+Restaurants.*$', '', cleaned, flags=re.IGNORECASE).strip()
 
                     restaurant_list.append({
                         "restaurant_id": data.get("restaurant_id"),
@@ -50,12 +59,12 @@ if os.path.exists(local_dir):
             except Exception as e:
                 print(f"Lỗi đọc file {file_name}: {e}")
 
-# Chuyển đổi thành Pandas DataFrame để dễ dàng phân tích thống kê
+# Chuyển đổi thành Pandas DataFrame
 df_restaurants = pd.DataFrame(restaurant_list)
 df_reviews = pd.DataFrame(all_reviews)
 
 print("\n================ TỔNG KẾT DỮ LIỆU BAN ĐẦU ================")
-print(f"Tổng số nhà hàng đã nạp: {len(df_restaurants)}")
+print(f"Tổng số nhà hàng đã nạp (đã lọc Subregion): {len(df_restaurants)}")
 print(f"Tổng số bài review đã nạp: {len(df_reviews)}")
 
 if not df_restaurants.empty:
