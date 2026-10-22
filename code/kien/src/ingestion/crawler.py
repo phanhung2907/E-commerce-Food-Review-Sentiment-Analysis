@@ -454,7 +454,8 @@ def run_enterprise_scale_pipeline():
 
     print("Khởi động Enterprise Crawler Vét Cạn Toàn Quốc (Đã tăng thời gian sleep tối đa, chống chặn tuyệt đối)...")
 
-    driver = uc.Chrome(options=options)
+    # Khởi tạo driver với version_main=155 để khớp với Chrome trên máy và dùng use_subprocess=True
+    driver = uc.Chrome(options=options, version_main=155, use_subprocess=True)
     print("[Driver] Trình duyệt sẵn sàng!")
 
     try:
