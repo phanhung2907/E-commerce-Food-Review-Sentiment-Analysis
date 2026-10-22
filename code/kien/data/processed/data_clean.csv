@@ -1,5 +1,0 @@
-import pandas as pd
-
-# Giả sử 'df' là bảng dữ liệu sau khi bạn đã gộp các file JSON và làm sạch
-# Xuất ra file csv đặt trong thư mục data/processed/
-df.to_csv("data/processed/data_clean.csv", index=False, encoding="utf-8-sig")
