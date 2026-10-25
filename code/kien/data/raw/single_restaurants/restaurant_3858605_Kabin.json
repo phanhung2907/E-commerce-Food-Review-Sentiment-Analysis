@@ -16,7 +16,7 @@
         "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": 4.9,
-            "reviewCount": 1743
+            "reviewCount": 1744
         },
         "geo": {
             "@type": "GeoCoordinates",
@@ -119,7 +119,7 @@
         ],
         "telephone": "+84 28 3822 0033"
     },
-    "reviews_count": 1140,
+    "reviews_count": 1142,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -148318,6 +148318,266 @@
             "review_text": "AydenLiamHuy\nKönigstein im Taunus, Germany98 contributions\n0\ngreat dim sum lunch\nMay 2013 • Friends\nHad a great dim sum lunch with friends, must say I been very impressed with the culinary offerings. Great selection, absolutely fresh & authentic, prepared traditional & presented with a modern touch. \nOn top of that we had very attentive & professional service witch created a very enjoyable & lunchtime among friends.\nWill for sure not been my last visit, as I will put it to my \"top 3 places\" to dine in HCMC!\nCam on Kabin team.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten May 5, 2013\nGuestVoice T\nDear AydenLiamHuy,\n\nThank you so much for choosing and sharing your gourmet experience at the restaurant.\n\nWe are delighted to hear that you were having a great time during the lunch.\n\nYour valued feedback is the biggest motivation to all of our team at KABIN to provide excellent care and unforgettable service to each and every visitor.\n\nIt is our joy to be at your service, and we hope to welcome you back soon!\n\nBest wishes,\nKABIN Team Management\nRead more\nWritten May 13, 2025\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
             "rating": 5.0,
             "review_date": "2026-10-22",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T06:51:19.595236",
+            "restaurant_id": "3858605",
+            "restaurant_name": "Kabin",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3858605-Reviews-Kabin-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3858605-Reviews-Kabin-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 1744
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774372,
+                "longitude": 106.70625
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/ce/fe/f1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:30:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Chinese",
+                "Cantonese",
+                "Shanghai",
+                "Hong Kong"
+            ],
+            "telephone": "+84 28 3822 0033",
+            "review_id": "REV_3858605_p18_5",
+            "reviewer_id": "User_3858605_18_5",
+            "review_title": "Review at Kabin",
+            "review_text": "Lien H\nExeter, United Kingdom9 contributions\n0\nGood food with great service\nJun 2025 • Family\nAbsolutely great service! The staffs (Anh and Tiến) always try to accommodate us. All the dishes were nice, apart from the pork belly and sticky rice.\nValue\nService\nFood\nAtmosphere\nWritten June 21, 2025\nGuestvoice team\nDear 158lienh,\n\nThank you so much for choosing and sharing your gourmet experience at the restaurant.\n\nWe are delighted to hear that you were having a great time during the meal.\n\nYour valued feedback is the biggest motivation to all of our team at KABIN to provide excellent care and unforgettable service to each and every visitor.\n\nIt is our joy to be at your service, and we hope to welcome you back soon!\n\nBest wishes,\n\nKABIN Team Management\nRead more\nWritten July 2, 2025\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T06:59:28.992283",
+            "restaurant_id": "3858605",
+            "restaurant_name": "Kabin",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3858605-Reviews-Kabin-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d3858605-Reviews-Kabin-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 1744
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774372,
+                "longitude": 106.70625
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/ce/fe/f1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:30:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:30:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:30:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:30:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:30:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:30:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:30:00",
+                    "closes": "14:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "18:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$$$",
+            "servesCuisine": [
+                "Chinese",
+                "Cantonese",
+                "Shanghai",
+                "Hong Kong"
+            ],
+            "telephone": "+84 28 3822 0033",
+            "review_id": "REV_3858605_p42_7",
+            "reviewer_id": "User_3858605_42_7",
+            "review_title": "Review at Kabin",
+            "review_text": "tkpuar\nSingapore, Singapore1712 contributions\n0\nHIGH END CHINESE RESTAURANT\nJan 2024 • Friends\nThe Chinese restaurant is on the second level of the Renaissance Riverside Hotel Saigon.\nThe restaurant opened at 11.30 and we were given seats overlooking Saigon River. The view was excellent.\nWe ordered 2 different soups, char siew,fried soft shell crabs and three signature dim sum items.\nThe char siew was the last to arrive. We opted for soft shell crabs with salted egg in preference to the other done Hong Kong style.\nThe three dim sum were different and exceptional. The char siew was below standard. \nOverall, the food was good although the prices were high,as expected when based in a high end hotel.\nRead more\nWritten January 8, 2024\nVu L\nGreetings Tkpuar,\n\nThank you so much for providing your honest feedback during your recent visit our Kabin restaurant.\n\nYour comments are very encouraging for us knowing that your expectations were met and your time with us was memorable and comfortable. We designed our menu featuring to many local fresh favorites, prepared by our very passionate culinary team. \n\nWe appreciate the time you spent to share your experience with us, and we look forward to serving you back in the near future for another delicious dining at the Kabin.\n\nWishing you well,\n\nAlexander Schoell\nGeneral Manager\nRenaissance Riverside Hotel Saigon\nRead more\nWritten February 16, 2024\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

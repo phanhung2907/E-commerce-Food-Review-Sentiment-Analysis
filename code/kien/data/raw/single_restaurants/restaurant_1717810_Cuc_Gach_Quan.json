@@ -2,7 +2,7 @@
     "restaurant_id": "1717810",
     "restaurant_name": "Cuc Gach Quan",
     "city": "Ho Chi Minh City",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html#REVIEWS",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html",
     "metadata": {
         "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
@@ -76,7 +76,7 @@
         ],
         "telephone": "+84 8 3848 0144"
     },
-    "reviews_count": 2523,
+    "reviews_count": 2544,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -219576,6 +219576,1833 @@
             "review_text": "Jana S\nLondon, United Kingdom8 contributions\n0\nFabulous food and beautiful location!\nThis restaurant was recommended to us by a local in Saigon. We were not disappointed!! We just asked the waiter to bring us a selection of local dishes. Everything was great -- favourites included beef with green beans. But really all was great! The building is lovely too! It's on a dark alley so take a cab. It's really far away from the tourist area.\nValue\nService\nFood\nAtmosphere\nWritten July 13, 2010",
             "rating": 5.0,
             "review_date": "2026-10-22",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-24T23:40:08.507921",
+            "restaurant_id": "1717810",
+            "restaurant_name": "Cuc Gach Quan",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 3035
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.792873,
+                "longitude": 106.689
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 3848 0144",
+            "review_id": "REV_1717810_p1_3",
+            "reviewer_id": "User_1717810_1_3",
+            "review_title": "Review at Cuc Gach Quan",
+            "review_text": "Petitgiaco\nChambery, France492 contributions\n0\nDelicious\nMay 2026 • Friends\nEverything is PERFECT: what is on the plate, the setting, the background music, the staff. Go there without hesitation; you will not be disappointed if you love Vietnamese cuisine; you will be in the right place. Fair price\nTranslated from French\nShow original\nWritten May 25, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-24",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-24T23:41:04.934283",
+            "restaurant_id": "1717810",
+            "restaurant_name": "Cuc Gach Quan",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 3035
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.792873,
+                "longitude": 106.689
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 3848 0144",
+            "review_id": "REV_1717810_p4_9",
+            "reviewer_id": "User_1717810_4_9",
+            "review_title": "Review at Cuc Gach Quan",
+            "review_text": "Petitgiaco\nChambery, France492 contributions\n0\nReally a very nice address\nFeb 2024 • Couples\nA lost pearl in a neighborhood far from the tourist lights of district 1. Everything is flavorful and tasty. The setting is sought after and very pleasant to spend a magical moment in addition to delighting your taste buds. Few European tourists but lots of people between 7 pm and 8 pm. Of course you have to reserve and you can find excessive 100,000 for fruit juice or yogurt.. very simple but quality has a price and the final bill is not excessive given the quality of the dishes.\nA very nice experience...to surely be repeated.\nRead more\nShow original\nWritten February 25, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-24",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-24T23:41:23.918476",
+            "restaurant_id": "1717810",
+            "restaurant_name": "Cuc Gach Quan",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 3035
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.792873,
+                "longitude": 106.689
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 3848 0144",
+            "review_id": "REV_1717810_p5_9",
+            "reviewer_id": "User_1717810_5_9",
+            "review_title": "Review at Cuc Gach Quan",
+            "review_text": "annemaBirmingham\nCairo, Egypt162 contributions\n2\nOverpromising and undelivering\nNov 2023 • Solo\nGood and bad experience overall, the place is walking distance from the pink church in a tiny very dark street with no public lighting. It is a very quiet and peaceful place with a front patio. The restaurant is nicely decorated and the style is warm. The food is very good and well prepared with good enough portions. It was full of locals when I went so I take it as a good sign. \nHowever, even so they had an English menu, it is indeed very long and confusing and I could not make myself understood. In addition, the lady at cashier was simply rude,no eye contact, no nothing and the waiter was dry to say the least, he was only nice to pay goodbye! \nI ordered sauteed courgette flower and received cucumber in a peanut sauce,when I said this was not my order, I received a plain and blunt “yes” with no alternative, I had also ordered chicken but I got something else. It was good and flavorful but definitely not what I wanted. \nI dined in 20mn and was gone so nice place, nice food but ….all the rest is really no fun (and pricey)\nRead more\nWritten November 15, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-24",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-24T23:42:31.654103",
+            "restaurant_id": "1717810",
+            "restaurant_name": "Cuc Gach Quan",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 3035
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.792873,
+                "longitude": 106.689
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 3848 0144",
+            "review_id": "REV_1717810_p9_11",
+            "reviewer_id": "User_1717810_9_11",
+            "review_title": "Review at Cuc Gach Quan",
+            "review_text": "Derrick1230\nHong Kong, China1117 contributions\n1\nMust visit type of place\nNov 2019\nThis restaurant was recommended by the club floor manager Andy at the Le Meridien Hotel. It was definitely a hit with my party of 4! The second floor is rather unique with the stairs you climb and the very low opening ceilings, but this all adds to the experience!\nThe food here come on small plates, so you can order more than you might normally. The favourites we had was the soft shell crap, the crispy bacon ( pork chop ) the deep fried spring roll, the free popcorn and the deep fried banana for dessert. It was a fun evening with great food and ambiance.\nThe menu here is very extensive, it’s like 20 pages long of items to choose from.\nI would definitely recommend this spot!!\nRead more\nWritten November 15, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-24",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-24T23:42:31.685545",
+            "restaurant_id": "1717810",
+            "restaurant_name": "Cuc Gach Quan",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 3035
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.792873,
+                "longitude": 106.689
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 3848 0144",
+            "review_id": "REV_1717810_p9_12",
+            "reviewer_id": "User_1717810_9_12",
+            "review_title": "Review at Cuc Gach Quan",
+            "review_text": "Mairwen1\nUnited Kingdom16103 contributions\n1\nPerfect Place for a Memorable Meal\nNov 2019\nFood was beautiful and the restaurant décor was even more special. The owner has clearly put a lot of love and care into the restaurant where he wanted to recreate the sense of his grandmother’s stall. It is set in an old French colonial house, which they have restored using only recycled woods. You enter by a koi pool and head up a wooden staircase to the dining spaces. It really is as charming as it sounds.\nFood is traditional Vietnamese and they focus on fresh produce. We ordered 7 dishes between three of us, which might have been a bit much but we were hungry and the food sounded so delicious, we couldn't resist. The zucchini flowers and the home-made tofu were both amazing (and I don't even normally like tofu).\nIf you are looking for somewhere special, this is a perfect place. For us it was one of those memorable meals that you can still recall long after your holiday has finished. \nFor three of us the bill was just over 1100K VND\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten November 13, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-24",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-24T23:45:33.522198",
+            "restaurant_id": "1717810",
+            "restaurant_name": "Cuc Gach Quan",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 3035
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.792873,
+                "longitude": 106.689
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 3848 0144",
+            "review_id": "REV_1717810_p19_5",
+            "reviewer_id": "User_1717810_19_5",
+            "review_title": "Review at Cuc Gach Quan",
+            "review_text": "Rosh145\nLondon, United Kingdom2206 contributions\n1\nDelicious authentic Vietnamese cuisine\nJun 2018 • Friends\nThis is a must try when visiting Saigon. Tucked away, the front of the restaurant is very mis conceiving. There is a very green tranquil court yard that has out door seating. I highly recommend the soft shell crab, home made tofu and the fish in clay pot. I would recommend booking in advance as this restaurant is very popular.\nWritten June 9, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-24",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-24T23:46:49.224468",
+            "restaurant_id": "1717810",
+            "restaurant_name": "Cuc Gach Quan",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 3035
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.792873,
+                "longitude": 106.689
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 3848 0144",
+            "review_id": "REV_1717810_p22_1",
+            "reviewer_id": "User_1717810_22_1",
+            "review_title": "Review at Cuc Gach Quan",
+            "review_text": "studebjw\nGrasonville, Maryland201 contributions\n0\nVery enjoyable evening\nMar 2018 • Couples\nA beautiful villa with a lovely ambience with an extensive and some what confusing menu. Thankfully the party (Vietnamese) sitting next to us advised us along the waiter . ( Service was very good).\nWe settled on a chicken salad, sea bass with passion fruit and caramelised pork. It was an excellent choice and just the right amount of food.\nI would recommend the restaurant without a doubt.\nRead more\nWritten March 14, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-24",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-24T23:50:55.817202",
+            "restaurant_id": "1717810",
+            "restaurant_name": "Cuc Gach Quan",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 3035
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.792873,
+                "longitude": 106.689
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 3848 0144",
+            "review_id": "REV_1717810_p36_3",
+            "reviewer_id": "User_1717810_36_3",
+            "review_title": "Review at Cuc Gach Quan",
+            "review_text": "SwizerlandRoisinDubh\nCham, Switzerland843 contributions\n0\nAmazing: from A to Z\nMar 2017 • Business\n2nd time back (forgot the name the first time so no review) and know why. Interior is very authentic and feels real with different floor levels (and steep stair cases: not a place you want to get drunk...). The food choice is superb and the quality as well. Asian/Vietnamese cuisine at its best.\nValue\nService\nFood\nWritten March 26, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-24",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-24T23:52:41.277712",
+            "restaurant_id": "1717810",
+            "restaurant_name": "Cuc Gach Quan",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 3035
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.792873,
+                "longitude": 106.689
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 3848 0144",
+            "review_id": "REV_1717810_p42_5",
+            "reviewer_id": "User_1717810_42_5",
+            "review_title": "Review at Cuc Gach Quan",
+            "review_text": "Traveller\n276 contributions\n0\nNot a fan\nDec 2016 • Friends\nThe good: Location was cute, lots of green, a few seating areas, clean bathrooms and good coffee. Caramelized pork was the only very good dish out of the 10 we took. Not crowded. \n\nThe bad: Had to wave my hands in the air before I got noticed by waiters and the restaurant was virtually empty. Only 1 waiter spoke english and even so, it was hard to understand and communicate. They all had earphones in and looked like they weren't even listening to me when I was talking! Rude to say the least.... Food was mediocre and menu was overwhelming. There were 4 of us so we had about 10 dishes in total. Only thing we liked was the caramelized pork. I couldn't eat most of it so kindly asked for PLAIN fried shrimp. No toppings, no sauces, no spices.. just plain shrimp. They said yes, and brought me shrimp covered in spicy herbs and disgusting crunchy lemongrass (which I later saw came out of a dirty bag that was sold by a vendor on the street). I asked where the miscommunication happened and that I'd like to exchange the dish to what I'd originally asked. Waiter said she can't exchange my dish and basically tough luck (!!??)\n\nDon't recommend... I'm sure there are better places\nRead more\nWritten December 16, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-24",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-24T23:54:10.298886",
+            "restaurant_id": "1717810",
+            "restaurant_name": "Cuc Gach Quan",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 3035
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.792873,
+                "longitude": 106.689
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 3848 0144",
+            "review_id": "REV_1717810_p47_6",
+            "reviewer_id": "User_1717810_47_6",
+            "review_title": "Review at Cuc Gach Quan",
+            "review_text": "Wunderlust2008\nBurwood East, Australia56 contributions\n0\nInteresting environs but food is nothing special\nSep 2016 • Couples\nI know that many others have raved about this place, which is why we sought this place out for ourselves.\nOn entry, we were impressed by the eclectic ambiance of the place with pockets of tables in different rooms. So we were excited that the food would be similarly eclectic.\n\nWe ordered soft shell crabs, banana flower leaf salad, fresh spring rolls, crab and vegetable soup, and grilled pork.\nThe soup was like drinking liquid oil. It was a major negative which affected the palate for the other dishes, which were nice, but hardly amazing. The prices were on the high side, but still reasonably affordable for tourists.\n\nSo, all in all, it was a nice outing just to experience the restaurant, but the food was a little disappointing. It's a good thing there are taxis on standby when you leave, to take you back to your hotel.\nRead more\nWritten September 11, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-24",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-24T23:58:32.272324",
+            "restaurant_id": "1717810",
+            "restaurant_name": "Cuc Gach Quan",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 3035
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.792873,
+                "longitude": 106.689
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 3848 0144",
+            "review_id": "REV_1717810_p61_10",
+            "reviewer_id": "User_1717810_61_10",
+            "review_title": "Review at Cuc Gach Quan",
+            "review_text": "mr_tripp_2000\nDubai, United Arab Emirates5 contributions\n1\nClassy little place\nFeb 2016\nGreat food and great selection on offer and very reasonably priced.\nDefo HCM City's gem.\nTake the Vietnamese rolls option on the menu ( Platter )it is very tasty and offers a myriad of tastes\nReview collected in partnership with this restaurant \nWritten February 26, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-24",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-24T23:58:32.358586",
+            "restaurant_id": "1717810",
+            "restaurant_name": "Cuc Gach Quan",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 3035
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.792873,
+                "longitude": 106.689
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 3848 0144",
+            "review_id": "REV_1717810_p61_13",
+            "reviewer_id": "User_1717810_61_13",
+            "review_title": "Review at Cuc Gach Quan",
+            "review_text": "Charlotte C\nLondon, United Kingdom14 contributions\n1\nDelicious food - with help!\nFeb 2016 • Couples\nWe've been in Vietnam less than 2 weeks so this was fantastic as the waiter helped us pick out what we should order, based upon our individual tastes. We couldn't have been happier with what we got - the food was beautiful. \n\nVery pretty setting too, though the restaurant was a little bit out of the way for us. Prices a little more expensive than some of the other restaurants in Vietnam (c.150k VND per dish) but delicious.\nRead more\nWritten February 24, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-24",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T00:01:37.480272",
+            "restaurant_id": "1717810",
+            "restaurant_name": "Cuc Gach Quan",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 3035
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.792873,
+                "longitude": 106.689
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 3848 0144",
+            "review_id": "REV_1717810_p71_2",
+            "reviewer_id": "User_1717810_71_2",
+            "review_title": "Review at Cuc Gach Quan",
+            "review_text": "David R\nLijiang, China85 contributions\n0\nGreat Vietnamese Traditional Cuisine\nNov 2015\nDuring our latest trip to Vietnam, me and my girlfriend got a complimentary diner at Cuc Gach. We were really pleased.\n\nEverything we got as part of the set diner was delicious. Spicy, sour soup, an amazing marinated pork and vegetables, outside the set we order some soft shell crabs, if you have never tried soft shell crabs, you have to try them in Vietnam, they were amazing, we had to get more.\n\nThey also had a great selection of wines and homemade fruit juices.\n\nThe atmosphere was also great, very cozy, trying to create a sort of traditional family restaurant environment, while being a bit high class.\n\nThe staff was very friendly and helpful.\n\nMy only complain, and is not even that, is that everything came too quickly and I like to have a long and relaxed meal. But you can't really complaint about quick service in a restaurant.\nRead more\nWritten December 12, 2015",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T00:04:52.102339",
+            "restaurant_id": "1717810",
+            "restaurant_name": "Cuc Gach Quan",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 3035
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.792873,
+                "longitude": 106.689
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 3848 0144",
+            "review_id": "REV_1717810_p82_8",
+            "reviewer_id": "User_1717810_82_8",
+            "review_title": "Review at Cuc Gach Quan",
+            "review_text": "Mar1970\nCheltenham, United Kingdom486 contributions\n0\nHard sell & rude\nJul 2015 • Family\nRecommended by our tour guide but definitely Don't go. Yes cheap but if you want good food for the same price go to Hoa Tuc. Tonight, Cuc Gach Quan was a real disappointment. Menu extensive so we asked for assistance (like yest) but this time Green mango fruit juice for the boys drinks and the crab meat for our main which we duly took on board. However, when we'd all looked at the menu we decided on spring rolls, beef noodles, mackerel, squid and pork but did order two of the green mango fruit juices(which were delicious). The waiter lost all interest in us as soon as we hadn't ordered the crab! \nAll the food came at once, the squid was chewy, mackerel was delicious (salmon steak I think), pork ok, beef tasty but customer service terrible. He just stared at us when we were eating and when we then waited a while for the table to be cleared and asked for a dessert menu his reply was 'you want that already?'. At no point did he ask it we wanted anymore beers or fruit juice and when the two orders of banana fritters came, they were on one plate!?!? Perhaps saving on washing up!! - we checked the price of the crab when he left the menu on the table-it was 6 times the price of anything else-now was that why his attitude changed???\nIt was such a shame. We were so looking forward to tonight after such a fantastic time yest. Overall the quality, price and experience would be better had somewhere else.\nRead more\nWritten July 27, 2015",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T00:07:12.171107",
+            "restaurant_id": "1717810",
+            "restaurant_name": "Cuc Gach Quan",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 3035
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.792873,
+                "longitude": 106.689
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 3848 0144",
+            "review_id": "REV_1717810_p90_12",
+            "reviewer_id": "User_1717810_90_12",
+            "review_title": "Review at Cuc Gach Quan",
+            "review_text": "Skeney57\nSydney, Australia29222 contributions\n0\nBargain price for style\nSep 2014 • Friends\nRecommended by our guide and we weren't disappointed. In a quiet little back street and once you go through the front door you get the feeling of an upper crust establishment. 5 of us where seated on a comfy lounge with table, served great drinks and the meal was fresh and yummy. the bill for 5 was 1,000,000 dong. (approx $50.00) What a bargain!\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten April 4, 2015",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T00:14:04.367267",
+            "restaurant_id": "1717810",
+            "restaurant_name": "Cuc Gach Quan",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 3035
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.792873,
+                "longitude": 106.689
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 3848 0144",
+            "review_id": "REV_1717810_p114_9",
+            "reviewer_id": "User_1717810_114_9",
+            "review_title": "Review at Cuc Gach Quan",
+            "review_text": "Rebecca S\nStreaky Bay, Australia75 contributions\n0\nTerrific!\nApr 2014\nWent to the restaurant with three kids and asked the waiter to chose for us. The food was simply beautiful, the venue is a gorgeous, cosy space and the service was great. We had a huge selection of food and everyone agreed it was the best food we have had in Vietnam.\nValue\nService\nFood\nAtmosphere\nReview collected in partnership with this restaurant \nWritten April 18, 2014",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T00:16:40.090856",
+            "restaurant_id": "1717810",
+            "restaurant_name": "Cuc Gach Quan",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 3035
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.792873,
+                "longitude": 106.689
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 3848 0144",
+            "review_id": "REV_1717810_p123_0",
+            "reviewer_id": "User_1717810_123_0",
+            "review_title": "Review at Cuc Gach Quan",
+            "review_text": "The Travelling Piggy\nLondon, United Kingdom6025 contributions\n1\nMouth Watering GOOD!\nNov 2013 • Family\nI still miss this place, definitely my favourite restaurant during my whole trip in Vietnam. Try and book this place well in advance as it gets busy. Our hotel managed to get us a reservation on a very busy Saturday night. It is a little away from the Benh Tan market area so we got a taxi. As the restaurant was extremely busy it seemed like we were given a make shift table. I did say something and the waiter said when a table becomes available he will let us know (he was rather rude). Lucky for us we had another waiter that served us and he was lovely (wish I could remember his name). The waiter moved us and we felt a lot more comfortable. The restaurant I think is in a house so it has tables in the different rooms. The menu is MASSIVE; I felt I need a few days to decide what I wanted. Eventually my sister and I gave up and asked our waiter for his recommendations, bit of a risk but we were so hungry and indecisive! Boy did our waiter do good. We had the best summer rolls, then we had this deep fried soft shell crab, which was so succulent and tasty; it was served with these lovely salad leaves and fresh chilli. We also had fried chicken wings, which were to die for (I’m actually drooling whilst thinking about them!). We also had the clay pot pork – a definite must try! I cannot fault any of the food at this restaurant; we were well and truly stuffed! They also make fresh juices which were so yummy! Definitely go that extra mile to try out this restaurant.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten December 10, 2013",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T00:25:15.415514",
+            "restaurant_id": "1717810",
+            "restaurant_name": "Cuc Gach Quan",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 3035
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.792873,
+                "longitude": 106.689
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 3848 0144",
+            "review_id": "REV_1717810_p152_4",
+            "reviewer_id": "User_1717810_152_4",
+            "review_title": "Review at Cuc Gach Quan",
+            "review_text": "Ashleigh K\nCanberra, Australia18 contributions\n0\nDelightful!\nJul 2012 • Solo\nSo much to choose from! The menu is vegetable-based, with a selection of what must be over 100 vegies, cooked how you like them! Then there is seafood, tofu, beef, pork and chicken, again cooked in several different ways. I had the tofu with chilli and lime (the tofu is homemade on the premises, so not over-processed like the stuff in supermarkets), the vegetarian spring rolls (delicious, and served with the perfect peanut sauce), a salad of morning glory (a little on the spicy side for me, but I'm hopeless with chilli!) and the banana fritters for dessert. The interior is beautiful, all wood with bright textiles and subtle lighting. Even the bathrooms were cute! Outside there is a cute little courtyard. The service is attentive, however it was very quiet when I was there (I didn't arrive until 9.30pm) so who knows what it's like at busy times. It took me about 20 minutes to get there in a taxi but that was probably due to Friday night traffic. Cheap overall too - all my food plus bottled water and a cocktail was 400,000VND ($20 Australian). GO - you won't be disappointed!\nRead more\nValue\nService\nFood\nAtmosphere\nReview collected in partnership with this restaurant \nWritten July 6, 2012",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T00:27:18.490800",
+            "restaurant_id": "1717810",
+            "restaurant_name": "Cuc Gach Quan",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 3035
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.792873,
+                "longitude": 106.689
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 3848 0144",
+            "review_id": "REV_1717810_p159_2",
+            "reviewer_id": "User_1717810_159_2",
+            "review_title": "Review at Cuc Gach Quan",
+            "review_text": "maggiejohnowen1\nCape Town, South Africa33 contributions\n0\nExcellent Vietnamese cooking\nDec 2011\nWe visited this restaurant with our family on two occasions. On both occasions, we thoroughly enjoyed the offerings, especiallly as all members of the group consider themselves to be foodies. The highlights of the dishes were undoubtedly the soft-shell crab, the clay-pot pork and the dishes with ty lei (?) flowers. Despite making a reservation for both occasions, our reserved tables were not available on our arrival on the second occasion and it took us some 15 minutes before we were seated. Overall, the service can be described as adequate, although our dishes were delivered to the table in a timely manner.\nRead more\nValue\nService\nFood\nAtmosphere\nReview collected in partnership with this restaurant \nWritten January 2, 2012",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T00:29:59.261473",
+            "restaurant_id": "1717810",
+            "restaurant_name": "Cuc Gach Quan",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 3035
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.792873,
+                "longitude": 106.689
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 3848 0144",
+            "review_id": "REV_1717810_p168_3",
+            "reviewer_id": "User_1717810_168_3",
+            "review_title": "Review at Cuc Gach Quan",
+            "review_text": "laserkid\nLodz, Poland3820 contributions\n0\nWorth the visit\nThis restaurant is not recommended neither by Lonely Planet nor Frommer`s. But with so many positive opinions posted on Tripadvisor, we could not omit it during our stay in HCMC. \nThe place is really superb. The driver from our hotel knew this place, so we arrived without any problems and it was great. Interesting interior / we were sitting on the first floor, with very narrow and steep stairs /, good, English speaking staff and, of course most important, excellent food. Do not miss the soft shell crabs - fantastic.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten November 28, 2010",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T00:29:59.511561",
+            "restaurant_id": "1717810",
+            "restaurant_name": "Cuc Gach Quan",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 3035
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.792873,
+                "longitude": 106.689
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ad/ce/c9/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 8 3848 0144",
+            "review_id": "REV_1717810_p168_10",
+            "reviewer_id": "User_1717810_168_10",
+            "review_title": "Review at Cuc Gach Quan",
+            "review_text": "peterf3088\nMill Park, Australia74 contributions\n0\nSo worth the trip to this restaurant\nThis was by far the best food we had in Ho Chi Minh City. It is not located in the easiest place, but it is worth the trip. The street is not well known so make sure you look up the map on Google and draw the map or print it as taxi drivers are not very good at getting you there.\nThe service was great. Food was beautiful. We had a few dishes to share and liked all their dishes. TheirSoft shell crab is great, and we had this vegetable sauteed in garlic. It was a cactus type vegetable that there is no English name for. Do yourself a favour and try it. Wow. \nAs for price, it is not the cheapest food, but still great price in Australian standards. We spent $30 AUS for both of us, but we tried a fair bit.\nIf you have a hard time choosing with the big menu, they can help you choose.\nThe venue itself is actually quite beautiful. Make sure you go to the toilet, just so you get to walk the platform over the water.\nAll in all, worth the visit.\nRead more\nValue\nService\nFood\nAtmosphere\nReview collected in partnership with this restaurant \nWritten October 13, 2010",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

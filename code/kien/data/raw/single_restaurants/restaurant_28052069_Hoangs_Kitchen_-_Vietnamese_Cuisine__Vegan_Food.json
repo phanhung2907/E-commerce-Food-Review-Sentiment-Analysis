@@ -2,7 +2,7 @@
     "restaurant_id": "28052069",
     "restaurant_name": "Hoang's Kitchen - Vietnamese Cuisine & Vegan Food",
     "city": "Ho Chi Minh City",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28052069-Reviews-Hoang_s_Kitchen_Vietnamese_Cuisine_Vegan_Food-Ho_Chi_Minh_City.html",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28052069-Reviews-Hoang_s_Kitchen_Vietnamese_Cuisine_Vegan_Food-Ho_Chi_Minh_City.html#REVIEWS",
     "metadata": {
         "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28052069-Reviews-Hoang_s_Kitchen_Vietnamese_Cuisine_Vegan_Food-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
@@ -16,7 +16,7 @@
         "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": 4.9,
-            "reviewCount": 2067
+            "reviewCount": 2066
         },
         "geo": {
             "@type": "GeoCoordinates",
@@ -76,7 +76,7 @@
         ],
         "telephone": "+84 91 299 32 03"
     },
-    "reviews_count": 1955,
+    "reviews_count": 1962,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -170160,6 +170160,615 @@
             "review_text": "trang le\nQuang Ngai, Vietnam3 contributions\n0\nThe best restaurant in the town\nAug 2024 • Solo\nI am very glad to appreciate trying Bun Cha and Cha Ca in Hoang's restaurant. Its very delicious and really familiar with the favor in my hometown. I will come back here if I have occasion.\nWritten August 1, 2024",
             "rating": 5.0,
             "review_date": "2026-10-22",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T05:01:17.280012",
+            "restaurant_id": "28052069",
+            "restaurant_name": "Hoang's Kitchen - Vietnamese Cuisine & Vegan Food",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28052069-Reviews-Hoang_s_Kitchen_Vietnamese_Cuisine_Vegan_Food-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28052069-Reviews-Hoang_s_Kitchen_Vietnamese_Cuisine_Vegan_Food-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 2066
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774232,
+                "longitude": 106.6966
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 91 299 32 03",
+            "review_id": "REV_28052069_p1_0",
+            "reviewer_id": "User_28052069_1_0",
+            "review_title": "Review at Hoang's Kitchen - Vietnamese Cuisine & Vegan Food",
+            "review_text": "Dylan F\n1 contribution\n1\nLunch\nOct 2026 • Solo\nThe food is amazing and the staff are very friendly, especially Hang who gave me some great Vietnam recommendations for my travels.\nWritten October 24, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T05:01:17.373391",
+            "restaurant_id": "28052069",
+            "restaurant_name": "Hoang's Kitchen - Vietnamese Cuisine & Vegan Food",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28052069-Reviews-Hoang_s_Kitchen_Vietnamese_Cuisine_Vegan_Food-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28052069-Reviews-Hoang_s_Kitchen_Vietnamese_Cuisine_Vegan_Food-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 2066
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774232,
+                "longitude": 106.6966
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 91 299 32 03",
+            "review_id": "REV_28052069_p1_4",
+            "reviewer_id": "User_28052069_1_4",
+            "review_title": "Review at Hoang's Kitchen - Vietnamese Cuisine & Vegan Food",
+            "review_text": "WendyP\nElanora, Australia79 contributions\n1\nDelicious food and lovely service\nOct 2026 • Couples\nWe had an absolutely delicious meal at Huongs in Ho Chi Minh. The food was so fresh and delicious. Great value. Lovely clean eating place. Our server Huy was absolutely gorgeous. So attentive, friendly and helpful. Highly recommend\nWritten October 18, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T05:02:16.608285",
+            "restaurant_id": "28052069",
+            "restaurant_name": "Hoang's Kitchen - Vietnamese Cuisine & Vegan Food",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28052069-Reviews-Hoang_s_Kitchen_Vietnamese_Cuisine_Vegan_Food-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28052069-Reviews-Hoang_s_Kitchen_Vietnamese_Cuisine_Vegan_Food-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 2066
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774232,
+                "longitude": 106.6966
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 91 299 32 03",
+            "review_id": "REV_28052069_p4_11",
+            "reviewer_id": "User_28052069_4_11",
+            "review_title": "Review at Hoang's Kitchen - Vietnamese Cuisine & Vegan Food",
+            "review_text": "Humties\nNijmegen, The Netherlands20 contributions\n1\nDelicious food\nSep 2026 • Friends\nDelicious food and the menu was explained calmly. \nLoving and patient staff.\nTranslated from Dutch\nShow original\nWritten September 12, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T05:08:52.403487",
+            "restaurant_id": "28052069",
+            "restaurant_name": "Hoang's Kitchen - Vietnamese Cuisine & Vegan Food",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28052069-Reviews-Hoang_s_Kitchen_Vietnamese_Cuisine_Vegan_Food-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28052069-Reviews-Hoang_s_Kitchen_Vietnamese_Cuisine_Vegan_Food-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 2066
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774232,
+                "longitude": 106.6966
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 91 299 32 03",
+            "review_id": "REV_28052069_p24_8",
+            "reviewer_id": "User_28052069_24_8",
+            "review_title": "Review at Hoang's Kitchen - Vietnamese Cuisine & Vegan Food",
+            "review_text": "Wolverine154\nAlbuquerque, New Mexico466 contributions\n0\nBad Nam cuisine\nDec 2025 • Solo\nWent because it was highly rated online and close to the place I was staying. Massive mistake. I went for a late lunch & it wasn't that busy. Service was slow. Ordered the ginger chicken w/rice dish & it was terrible, essentially flavorless which is saying something since I have been to Nam 3 times & Nam has the best cuisine on earth by far. Total joke. Avoid at all cost.\nRead more\nWritten March 13, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T05:20:35.123109",
+            "restaurant_id": "28052069",
+            "restaurant_name": "Hoang's Kitchen - Vietnamese Cuisine & Vegan Food",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28052069-Reviews-Hoang_s_Kitchen_Vietnamese_Cuisine_Vegan_Food-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28052069-Reviews-Hoang_s_Kitchen_Vietnamese_Cuisine_Vegan_Food-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 2066
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774232,
+                "longitude": 106.6966
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 91 299 32 03",
+            "review_id": "REV_28052069_p59_12",
+            "reviewer_id": "User_28052069_59_12",
+            "review_title": "Review at Hoang's Kitchen - Vietnamese Cuisine & Vegan Food",
+            "review_text": "Petitgiaco\nChambery, France492 contributions\n0\nBig disappointment\nSep 2025 • Couples\nVERY disappointed given the comments. Very central area THEREFORE very touristic. Restaurant more folk than ... tasty. The recipes are typical but the realization in the kitchen leaves to be desired. Service is more circus based to show customers how to make and taste the dish. Too close to the center to be typical. Choose a more distant restaurant to claim the true Vietnamese cuisine. To avoid\nRead more\nTranslated from French\nShow original\nWritten September 13, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T05:24:17.861867",
+            "restaurant_id": "28052069",
+            "restaurant_name": "Hoang's Kitchen - Vietnamese Cuisine & Vegan Food",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28052069-Reviews-Hoang_s_Kitchen_Vietnamese_Cuisine_Vegan_Food-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28052069-Reviews-Hoang_s_Kitchen_Vietnamese_Cuisine_Vegan_Food-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 2066
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774232,
+                "longitude": 106.6966
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 91 299 32 03",
+            "review_id": "REV_28052069_p70_6",
+            "reviewer_id": "User_28052069_70_6",
+            "review_title": "Review at Hoang's Kitchen - Vietnamese Cuisine & Vegan Food",
+            "review_text": "Dirk M\nTentlingen104 contributions\n0\nVery good Vietnamese restaurant with many locals\nJul 2025\nVery nice choice of Vietnamese food, very friendly service, not expensive. \nWhat I noticed is that there were many locals and not too many tourists (different from what some other reviews here say).\nWritten July 18, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T05:37:30.184047",
+            "restaurant_id": "28052069",
+            "restaurant_name": "Hoang's Kitchen - Vietnamese Cuisine & Vegan Food",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28052069-Reviews-Hoang_s_Kitchen_Vietnamese_Cuisine_Vegan_Food-Ho_Chi_Minh_City.html#REVIEWS",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d28052069-Reviews-Hoang_s_Kitchen_Vietnamese_Cuisine_Vegan_Food-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.9,
+                "reviewCount": 2066
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.774232,
+                "longitude": 106.6966
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/80/79/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "10:00:00",
+                    "closes": "23:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 91 299 32 03",
+            "review_id": "REV_28052069_p109_8",
+            "reviewer_id": "User_28052069_109_8",
+            "review_title": "Review at Hoang's Kitchen - Vietnamese Cuisine & Vegan Food",
+            "review_text": "3rainerz\nMessel, Germany178 contributions\n0\nWonderful food and vert friendly staff\nDec 2024 • Solo\nI visited Hoang’s Kitchen on my last night of my Vietnam vacations. This is really a nice place with excellent food. I enjoyed summer rolls and their special Cha Ca I can highly recommend,. I was very well served by Maily, who made my visit a wonderful experience.\nWritten December 3, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

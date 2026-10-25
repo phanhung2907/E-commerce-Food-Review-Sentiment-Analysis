@@ -2,7 +2,7 @@
     "restaurant_id": "7844724",
     "restaurant_name": "Bún Chả 145",
     "city": "Ho Chi Minh City",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7844724-Reviews-Bun_Ch_145-Ho_Chi_Minh_City.html#REVIEWS",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7844724-Reviews-Bun_Ch_145-Ho_Chi_Minh_City.html",
     "metadata": {
         "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7844724-Reviews-Bun_Ch_145-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
@@ -42,7 +42,7 @@
         ],
         "telephone": "+84 763 373 474"
     },
-    "reviews_count": 1592,
+    "reviews_count": 1598,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -84417,6 +84417,324 @@
             "review_text": "m0mo16\nDaejeon, South Korea4 contributions\n0\nTapas style Vietnamese dishes\nApr 2015 • Couples\nWanted to eat Vietnamese food as it was our last night in the country after travelling for 3 weeks. There are a lot of options on this street but all offer similar menus as it's a backpacker area and it all seems a bit inauthentic. We found this place by accident and decided to give it a go as it looked different. We were pleasantly surprised and really enjoyed the little tapas style dishes. The dishes were very tasty and well presented. The bill came to 150000 for 6 dishes and two beers, much cheaper than the other mediocre meals we had on the same street. Highly recommended!\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten April 7, 2015",
             "rating": 5.0,
             "review_date": "2026-10-22",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T02:03:25.894426",
+            "restaurant_id": "7844724",
+            "restaurant_name": "Bún Chả 145",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7844724-Reviews-Bun_Ch_145-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7844724-Reviews-Bun_Ch_145-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 2420
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.76635,
+                "longitude": 106.69181
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Deli",
+                "Grill",
+                "Vietnamese",
+                "Indigenous"
+            ],
+            "telephone": "+84 763 373 474",
+            "review_id": "REV_7844724_p2_10",
+            "reviewer_id": "User_7844724_2_10",
+            "review_title": "Review at Bún Chả 145",
+            "review_text": "Garfieldluvr\nDenver, Colorado1251 contributions\n1\nFantastic Meal!\nApr 2023 • Couples\nOver our 2 ½ week trip through Vietnam, the meal I had here was one of the best! My boyfriend and I both got the bun cha and it was absolutely delicious! The broth is so flavorful, and the noodles, meat, and veggies were all perfect too. We were starving so ordered 3 orders of spring rolls (so 6 spring rolls total) and when they arrived, they were huge, so be warned! I will be seeking out bun cha as good as this for the rest of my life. Highly recommend this place!\nRead more\nWritten June 9, 2023",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T02:06:55.914749",
+            "restaurant_id": "7844724",
+            "restaurant_name": "Bún Chả 145",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7844724-Reviews-Bun_Ch_145-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7844724-Reviews-Bun_Ch_145-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 2420
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.76635,
+                "longitude": 106.69181
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Deli",
+                "Grill",
+                "Vietnamese",
+                "Indigenous"
+            ],
+            "telephone": "+84 763 373 474",
+            "review_id": "REV_7844724_p14_9",
+            "reviewer_id": "User_7844724_14_9",
+            "review_title": "Review at Bún Chả 145",
+            "review_text": "Meliina\nMont-Joli, Canada77 contributions\n0\nI had to go 2 days straight!\nDec 2018 • Friends\nI ended up there with friends, apparently it was recommended and I had no idea what I was ordering, but it was the best meal I've had in months! (Bun Cha). The portion could be a bit bigger, but mainly because it is so good, because I was still full! I had to go the next day as well since it was too good! Waited 10 min the first day and 20 the second day for a table, but then less than 5 min for my food!\nRead more\nWritten December 16, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T02:07:30.175068",
+            "restaurant_id": "7844724",
+            "restaurant_name": "Bún Chả 145",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7844724-Reviews-Bun_Ch_145-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7844724-Reviews-Bun_Ch_145-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 2420
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.76635,
+                "longitude": 106.69181
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Deli",
+                "Grill",
+                "Vietnamese",
+                "Indigenous"
+            ],
+            "telephone": "+84 763 373 474",
+            "review_id": "REV_7844724_p16_13",
+            "reviewer_id": "User_7844724_16_13",
+            "review_title": "Review at Bún Chả 145",
+            "review_text": "Maidaborn\nWellington, New Zealand89 contributions\n0\nYum\nOct 2018 • Family\nRecommended by Mario from Luxury tours this yummy restaurant was perfect at the end of a hot day in Saigon. The pepper rolled beef deserves a special mention and I loved the Okra too. Decor, marketing, service we loved everything about this restaurant.\nWritten October 26, 2018",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T02:13:03.133007",
+            "restaurant_id": "7844724",
+            "restaurant_name": "Bún Chả 145",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7844724-Reviews-Bun_Ch_145-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7844724-Reviews-Bun_Ch_145-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 2420
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.76635,
+                "longitude": 106.69181
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Deli",
+                "Grill",
+                "Vietnamese",
+                "Indigenous"
+            ],
+            "telephone": "+84 763 373 474",
+            "review_id": "REV_7844724_p35_14",
+            "reviewer_id": "User_7844724_35_14",
+            "review_title": "Review at Bún Chả 145",
+            "review_text": "MattC1995\nLondon, United Kingdom872 contributions\n0\nA great Bun Cha outside of Hanoi\nNov 2017 • Couples\nHaving had many Bun Cha's along my travels in Vietnam, the nicest have always been in Hanoi due to it being its origin. But this place is great, with both a tasty broth and pork. The staff are friendly and always serve with a smile which is great. Location is pretty good too, within most hostels and hotels.\n\nThe price is very cheap and great value for the quality of food you get. A great place in Saigon. Only quarrel is that there needs to be a tad more pork in the broth.\nRead more\nWritten November 7, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T02:16:15.610407",
+            "restaurant_id": "7844724",
+            "restaurant_name": "Bún Chả 145",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7844724-Reviews-Bun_Ch_145-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7844724-Reviews-Bun_Ch_145-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 2420
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.76635,
+                "longitude": 106.69181
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Deli",
+                "Grill",
+                "Vietnamese",
+                "Indigenous"
+            ],
+            "telephone": "+84 763 373 474",
+            "review_id": "REV_7844724_p46_8",
+            "reviewer_id": "User_7844724_46_8",
+            "review_title": "Review at Bún Chả 145",
+            "review_text": "JHL\nSeoul, South Korea9447 contributions\n0\nGood to try. Not impressed.\nApr 2017 • Solo\nThis is almost like a modern style fast food restaurant mainly serving bun cha(Vietnamese noodle). It's a wonderful choice for tourists who wish to dine in a spacious clean area. But, I don't recommend it to budget travelers who are trying to have a true local taste with a cheap expense.\n\n- Bun cha is 40 dong. It's very simple and small dish. Considering many people order additional noodle, it's a bit expensive for Vietnamese noodles. But, of course, still affordable for foreign tourists. Tasted good, though.\n\n- The interior is very new. Not like most other typical Vietnamese restaurants. I think this is targeting only for tourists.\n\n- There weren't many people inside. There's almost no need to wait to get a table.\n\n- The waitress's service was not impressive. She forgot one of my orders and she didn't feel sorry when I pointed out.\nRead more\nValue\nService\nFood\nWritten April 18, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T02:29:17.990966",
+            "restaurant_id": "7844724",
+            "restaurant_name": "Bún Chả 145",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7844724-Reviews-Bun_Ch_145-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7844724-Reviews-Bun_Ch_145-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.6,
+                "reviewCount": 2420
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.76635,
+                "longitude": 106.69181
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:30:00",
+                    "closes": "21:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Asian",
+                "Deli",
+                "Grill",
+                "Vietnamese",
+                "Indigenous"
+            ],
+            "telephone": "+84 763 373 474",
+            "review_id": "REV_7844724_p90_9",
+            "reviewer_id": "User_7844724_90_9",
+            "review_title": "Review at Bún Chả 145",
+            "review_text": "holidayseeker\nDerry, United Kingdom3866 contributions\n0\nBusy wee place\nOct 2015 • Couples\nTried this based on the great trip advisor reviews. It was good but I don't think it deserves to be number 3 in the city . Tables are small and you have to sit on tiny Vietnamese stools so its not the most comfortable . They have a limited tapas style menu so we tried a bit of everything portions are tiny so order two of everything. They got our order mixed up and we waited ages for one dish . It is very popular with tourists and we were lucky to get a table right away . It is very good value we shared 7 tasty appetizer size dishes with 2 beers and an iced tea for £6\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten November 15, 2015",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

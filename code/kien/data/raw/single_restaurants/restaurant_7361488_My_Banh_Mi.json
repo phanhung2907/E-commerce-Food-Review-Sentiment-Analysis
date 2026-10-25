@@ -75,7 +75,7 @@
         ],
         "telephone": "+84 89 853 66 91"
     },
-    "reviews_count": 1415,
+    "reviews_count": 1424,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -121764,6 +121764,780 @@
             "review_text": "Baronontheroad\nSeattle, Washington2 contributions\n0\nThe best Damn Banh Mi in Vietnam\nJan 2015 • Friends\nI just happened upon this little beauty, near the central Post Office. Outstanding food at VERY reasonable prices. Their sauces are to die for, service really good and just a great vibe. Really one of the best finds in Saigon.\nValue\nService\nFood\nAtmosphere\nReview collected in partnership with this restaurant \nWritten January 28, 2015",
             "rating": 5.0,
             "review_date": "2026-10-22",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T07:40:34.041782",
+            "restaurant_id": "7361488",
+            "restaurant_name": "My Banh Mi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7361488-Reviews-My_Banh_Mi-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7361488-Reviews-My_Banh_Mi-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 1643
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779182,
+                "longitude": 106.70027
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 89 853 66 91",
+            "review_id": "REV_7361488_p6_5",
+            "reviewer_id": "User_7361488_6_5",
+            "review_title": "Review at My Banh Mi",
+            "review_text": "Alman1212\nMelbourne, Australia65 contributions\n0\nAverage and overpriced\nOct 2025 • Couples\nEarlier on our holiday in Vietnam we had some Banh mi in Hanoi which was just amazing. Based on the high rating and reviews of this restaurant, we decided to eat here. The first thing we noticed was the very high tourist price on the menu which equated to the same price as what I would pay in Australian dollars back at home. We accepted this thinking as we are in Vietnam, it must be much better so I ordered the beef banh mi and my partner ordered the crispy chicken banh mi and we both chose not to have the pate in it. It tasted very average and although the bread was warmed up, it did not have the soft inside with a crunch on the outside. Compared to what we ate in Hanoi, it was average and totally overpriced.\nRead more\nWritten October 23, 2025\nKheng T\nDear Alman1212,\nThank you for your review and we do understand that the comments you expressed reflect your personal opinion. We do understand that palates are not universal and are unique to each specific individual.\nWe also note your review opinion is contradicted as to price, quality of taste and authenticity by the many hundreds of reviews submitted to us by others who have dined with us. As such, this serves to confirm the old adage that “One mans meat is another mans poison.”\nConsidering that we have almost 1,000 reviews that contradict your review in totality….to us this means 99.99% of our diners like their meals, and recognize the value for money our meals offer. As your opinion represent one tenth of one percent of all diners we have served, we understand as humans, it is impossible to please everyone.\nWishing you a nice visit in Vietnam….\nRead more\nWritten October 24, 2025\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T07:43:33.609408",
+            "restaurant_id": "7361488",
+            "restaurant_name": "My Banh Mi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7361488-Reviews-My_Banh_Mi-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7361488-Reviews-My_Banh_Mi-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 1643
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779182,
+                "longitude": 106.70027
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 89 853 66 91",
+            "review_id": "REV_7361488_p15_0",
+            "reviewer_id": "User_7361488_15_0",
+            "review_title": "Review at My Banh Mi",
+            "review_text": "TravelBrianCO\nPearland, Texas1149 contributions\n0\nFirst time, best time\nMar 2023 • Couples\nFirst time having these sandwiches. Not sure how they compare to others but they are very tasty. Had the pork shoulder and Elon grass chicken. Small place with limited seating.\nWritten March 19, 2023\nKheng T\nDear TravelBrianCo \n\nThank you for your review and allowing us the pleasure of serving you our very special authentic Banh Mi. \n\nWe are very pleased to read you fully enjoyed the Banh Mi we prepared for you and thank you again for your review. \n\n Hoping we will have the opportunity to serve you again in future.\nRead more\nWritten March 21, 2023\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T07:44:15.990685",
+            "restaurant_id": "7361488",
+            "restaurant_name": "My Banh Mi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7361488-Reviews-My_Banh_Mi-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7361488-Reviews-My_Banh_Mi-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 1643
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779182,
+                "longitude": 106.70027
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 89 853 66 91",
+            "review_id": "REV_7361488_p17_9",
+            "reviewer_id": "User_7361488_17_9",
+            "review_title": "Review at My Banh Mi",
+            "review_text": "R. K. V.\nBogota, Colombia3415 contributions\n0\nFantastic\nMar 2022 • Solo\nFantastic banh mi. Super fresh with very high quality ingredients. Excellent all around. Very good value for the money.\nWritten March 12, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T07:44:38.384954",
+            "restaurant_id": "7361488",
+            "restaurant_name": "My Banh Mi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7361488-Reviews-My_Banh_Mi-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7361488-Reviews-My_Banh_Mi-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 1643
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779182,
+                "longitude": 106.70027
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 89 853 66 91",
+            "review_id": "REV_7361488_p18_10",
+            "reviewer_id": "User_7361488_18_10",
+            "review_title": "Review at My Banh Mi",
+            "review_text": "MandM5960\nSouthport, United Kingdom537 contributions\n2\nFabulous\nFeb 2020\nMy wife and I stopped here for lunch after a walk around this magical city. The food was fantastic \"Banh Mi\" was our choice. We sat outside to watch the world pass by and spent over an hour here with no pressure from the staff to leave. I cannot recommend My Banh Mi too highly. I hope we can return at some point.\nValue\nService\nFood\nWritten March 21, 2020\nKheng T\nDear MandM5960,\n\nThanks for stopping by and sampling our meals. It was our pleasure to have had the opportunity to serve you. \n\nWe constantly strive to insure our diners the best of the best Vietnamese home cooking. We are pleased to read that you enjoy your dining experience with us. \n\nHoping we will have the opportunity to serve you once again in the future.\nRead more\nWritten June 27, 2020\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T07:45:15.812109",
+            "restaurant_id": "7361488",
+            "restaurant_name": "My Banh Mi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7361488-Reviews-My_Banh_Mi-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7361488-Reviews-My_Banh_Mi-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 1643
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779182,
+                "longitude": 106.70027
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 89 853 66 91",
+            "review_id": "REV_7361488_p20_14",
+            "reviewer_id": "User_7361488_20_14",
+            "review_title": "Review at My Banh Mi",
+            "review_text": "Stevo\nSydney, Australia114 contributions\n4\nThe freshest bread rolls I have ever tasted in my life\nDec 2019\nThis hip and happening place is almost too cool for school, but we ventured in and glad we took the plunge. The staff are friendly (as most locals are), polite and took the time to explain the types of food available. The two of us ordered so much food that they put us on a booth for four to six people! The vegetarian banh mi’s were absolutely to die for - literally the freshest and crispiest bread rolls I have ever eaten, filled with fried tofu, fresh herbs and vegetables, and a delicious sauce to match.\nRead more\nWritten December 17, 2019\nKheng T\nDear Steeeeevooooo,\n\nThank you for your review advising of your meal satisfaction when dining with us. \n\nAs you have noted, we are different to the majority of tourist restaurants as our focus is in the serving of Vietnamese home cooked family meals. We do not adulterate or dilute authentic flavors in an attempt to suffice a non-Vietnamese visitor’s palate. Instead we rely upon our serving meal authenticity and the very best of the best that Vietnam has to offer. \n\nThis authenticity demands that our meals are prepared with only the best possible ingredients using only authentic seasoning and spices. Our baguettes are specially baked, as is the meat (imported USDA Choice beef Strip Loin) and the tofu options we feature for vegan vegetarians. Our demand for authenticity and quality costs us more, but this is the only way we know how to satisfy our loyal patrons who rely on the meal quality we are famed for.\n\nWe thank you again for your review and hope to have the opportunity to serve you again in future.\nRead more\nWritten December 22, 2019\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T07:52:19.638597",
+            "restaurant_id": "7361488",
+            "restaurant_name": "My Banh Mi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7361488-Reviews-My_Banh_Mi-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7361488-Reviews-My_Banh_Mi-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 1643
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779182,
+                "longitude": 106.70027
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 89 853 66 91",
+            "review_id": "REV_7361488_p41_1",
+            "reviewer_id": "User_7361488_41_1",
+            "review_title": "Review at My Banh Mi",
+            "review_text": "R. K. V.\nBogota, Colombia3415 contributions\n0\nQuite good!\nNov 2017 • Solo\nReally enjoyed. Simple, clean, friendly with some amazingly good options/twists on the delicious sandwich!\nWritten November 27, 2017\nKheng T\nDear Richard K,\n\nThank you for your review letting us know how much you enjoyed your meals with us. \n\nYou had mentioned of us as “Simple, clean, friendly with some amazingly good options/twists”\n\nThank you for your appreciation of our meal simplicity. As we basically start with highest quality meats and use only authentic Vietnamese spices (no cheap substitutes) we allow the natural meat flavors and spices to prevail. \n\nAlso, contributing to our meal taste and quality is our authentic Vietnamese home cooking practice that employs a take-your- time slow oven roasting of our meats.\n\nWe appreciate your recognition of the demanding hygiene we practise and the warm welcoming smile of our English speaking wait staff. \n\nThank you again for your review and we hope to have the opportunity to serve you once again.\nRead more\nWritten December 3, 2017\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T07:54:46.933348",
+            "restaurant_id": "7361488",
+            "restaurant_name": "My Banh Mi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7361488-Reviews-My_Banh_Mi-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7361488-Reviews-My_Banh_Mi-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 1643
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779182,
+                "longitude": 106.70027
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 89 853 66 91",
+            "review_id": "REV_7361488_p48_13",
+            "reviewer_id": "User_7361488_48_13",
+            "review_title": "Review at My Banh Mi",
+            "review_text": "Easulliva\nSan Francisco, California18 contributions\n0\nGreat Vietnamese casual food\nMay 2017 • Friends\nThe restaurant is centrally located near Notre Dam Cathedrale and the post office. They have great Bahn Mis and the noodle soups are tasty. The menu is varied and there are lots of offerings. The place is very clean, unlike some other establishments in the city. The wait staff speak English, so it was comfortable for someone like me, who speaks no Vietnamese.\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten May 22, 2017\nKheng T\nDear Easulliva,\n\nThank you for your review to let us know you enjoyed our Banh Mis and the various noodle dishes we offer.\n\nWe specialize in serving great tasting authentic home cooked Vietnamese food and also concentrate on providing demanding hygiene. For these reasons we are rated as serving Vietnam’s #1 Banh Mi for both authenticity of taste and quality. We are pleased you had the opportunity to sample our kitchen and that our English speaking wait staff made for a comfortable dining experience. \n\nThank you again for your review.\nRead more\nWritten May 31, 2017\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T07:55:27.816077",
+            "restaurant_id": "7361488",
+            "restaurant_name": "My Banh Mi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7361488-Reviews-My_Banh_Mi-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7361488-Reviews-My_Banh_Mi-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 1643
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779182,
+                "longitude": 106.70027
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 89 853 66 91",
+            "review_id": "REV_7361488_p50_11",
+            "reviewer_id": "User_7361488_50_11",
+            "review_title": "Review at My Banh Mi",
+            "review_text": "ArcticRoll\nDubai, United Arab Emirates387 contributions\n0\nOk but expensice\nApr 2017 • Family\nWe were told that the meat was imported and cooked well with great ingredients. \n\nNo doubt this place makes quality food. We thought the Bahn Mi was nice but perhaps didn't warrant the hefty price tag. \n\nGood location, and decent, hygienic food.\nRead more\nWritten April 10, 2017\nKheng T\nDear ArcticRoll,\nThank you for your review expressing “No doubt this place makes quality food” and your understanding that quality does cost more.\n\nRegarding price, we believe that our serving a slow oven roasted pork shoulder (real meat) Banh MI at a table by a well trained English speaking wait staff person, in a comfortable air-conditioned ambience at a price of VND 55,000 or US$2.40 or in your native UK of £ 1.9, represents very good value for money.\n\nVisitors to Vietnam and it being a developing economy, one should not make the mistake of thinking that everything should be cheap. Quality anywhere costs more and we specialize in authenticity, quality and good value for money. For this reason, we are recognized a Vietnam’s #1 Banh Mi for taste, authenticity and quality.\n\nWe thank you for your review and appreciate your understanding that quality does cost more.\nRead more\nWritten April 11, 2017\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-25T08:04:44.373682",
+            "restaurant_id": "7361488",
+            "restaurant_name": "My Banh Mi",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7361488-Reviews-My_Banh_Mi-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d7361488-Reviews-My_Banh_Mi-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.4,
+                "reviewCount": 1643
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.779182,
+                "longitude": 106.70027
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/58/18/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:30:00",
+                    "closes": "19:30:00"
+                }
+            ],
+            "priceRange": "$",
+            "servesCuisine": [
+                "Vietnamese",
+                "Healthy"
+            ],
+            "telephone": "+84 89 853 66 91",
+            "review_id": "REV_7361488_p77_1",
+            "reviewer_id": "User_7361488_77_1",
+            "review_title": "Review at My Banh Mi",
+            "review_text": "HanoiTom\nRottingdean, United Kingdom305 contributions\n0\nThe ultimate Banh Mi experience is right here\nJan 2016 • Friends\nStunning Banh mi, coffee and everything else. The music and service are totally cool and world class. I'm totally hooked and it's gonna a regular fix.\nWritten January 30, 2016\nGohH76\nDear HanoiTom,\n\nThank you for your review expressing “Stunning Banh mi, coffee and everything else. The music and service are totally cool and world class.”\nWe appreciate your feedback advising of your dining experience and delight.\nRead more\nWritten February 1, 2016\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-25",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

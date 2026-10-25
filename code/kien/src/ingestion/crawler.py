@@ -264,7 +264,7 @@ def discover_and_sort_restaurants(driver, city_listing_url, city_name):
 
 
 # ==========================================
-# CƠ CHẾ VÉT CẠN 100% REVIEWS QUA URL OFFSET & UPSERT THÔNG MINH
+# CƠ CHẾ VÉT CẠN 100% REVIEWS & BẮT RATING THỰC TẾ
 # ==========================================
 def extract_full_features_from_restaurant(driver, target_url, city):
     match_id = re.search(r"-d(\d+)-", target_url)
@@ -342,6 +342,30 @@ def extract_full_features_from_restaurant(driver, target_url, city):
                 if any(bad in full_card_text for bad in ["TripAdvisor LLC", "Cookie Policy", "Privacy Policy", "Watch countless free episodes"]):
                     continue
 
+                # ==========================================
+                # TRÍCH XUẤT RATING THỰC TẾ (1.0 đến 5.0)
+                # ==========================================
+                rating_value = 5.0  # Giá trị mặc định phòng hờ
+                try:
+                    rating_elem = container.find_element(By.CSS_SELECTOR, "span[class*='ui_bubble_rating'], svg[class*='icon_bubble'], span[class*='bubble_'] span")
+                    class_attr = rating_elem.get_attribute("class") or ""
+                    aria_label = rating_elem.get_attribute("aria-label") or ""
+                    
+                    match_aria = re.search(r"([\d\.]+)\s+of\s+5", aria_label, re.IGNORECASE)
+                    if match_aria:
+                        rating_value = float(match_aria.group(1))
+                    else:
+                        match_class = re.search(r"bubble_(\d0)", class_attr)
+                        if match_class:
+                            rating_value = float(match_class.group(1)) / 10.0
+                except:
+                    match_text_rating = re.search(r"(\d[\.,]?\d?)\s*(?:of|trên)\s*5", full_card_text, re.IGNORECASE)
+                    if match_text_rating:
+                        try:
+                            rating_value = float(match_text_rating.group(1).replace(",", "."))
+                        except:
+                            pass
+
                 review_id = f"REV_{restaurant_id}_p{page_num}_{index}"
                 record = {
                     "source": "TripAdvisor",
@@ -363,7 +387,7 @@ def extract_full_features_from_restaurant(driver, target_url, city):
                     "reviewer_id": f"User_{restaurant_id}_{page_num}_{index}",
                     "review_title": f"Review at {restaurant_name}",
                     "review_text": full_card_text,
-                    "rating": 5.0,
+                    "rating": rating_value,  # Đã gán rating thực tế thu thập được
                     "review_date": datetime.now().strftime("%Y-%m-%d"),
                     "travel_date": "Recent",
                     "feature_depth_status": "Schema-Full-Features-Validated",
@@ -458,7 +482,6 @@ def run_enterprise_scale_pipeline():
 
     print("Khởi động Enterprise Crawler Vét Cạn Toàn Quốc...")
 
-    # Khởi tạo driver với version_main=155 để đồng bộ với phiên bản Chrome trên máy tính của bạn
     driver = uc.Chrome(options=options, version_main=155, use_subprocess=True)
     print("[Driver] Trình duyệt sẵn sàng!")
 
