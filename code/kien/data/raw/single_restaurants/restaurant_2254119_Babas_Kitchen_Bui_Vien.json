@@ -2,7 +2,7 @@
     "restaurant_id": "2254119",
     "restaurant_name": "Baba's Kitchen Bui Vien",
     "city": "Ho Chi Minh City",
-    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2254119-Reviews-Baba_s_Kitchen_Bui_Vien-Ho_Chi_Minh_City.html#REVIEWS",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2254119-Reviews-Baba_s_Kitchen_Bui_Vien-Ho_Chi_Minh_City.html",
     "metadata": {
         "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2254119-Reviews-Baba_s_Kitchen_Bui_Vien-Ho_Chi_Minh_City.html#REVIEWS",
         "address": {
@@ -16,7 +16,7 @@
         "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": 4.7,
-            "reviewCount": 3927
+            "reviewCount": 3926
         },
         "geo": {
             "@type": "GeoCoordinates",
@@ -74,7 +74,7 @@
         ],
         "telephone": "+84 28 3838 6661"
     },
-    "reviews_count": 3272,
+    "reviews_count": 3279,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -278193,6 +278193,601 @@
             "review_text": "blankwillow\nLondon, United Kingdom12 contributions\n1\nGreat Indian in Saigon\nMar 2013 • Friends\nWe've been to Baba's a couple of times and also ordered for delivery as well. Each time it has been great. We live in Saigon and have found our local curry house! the food is delish and the service is great, it's the small things that matter with service these days and Baba's nail that! For example, after our delivery we received a phone call just to check everything was okay.. sure was! If you're looking for Indian then check these guys out.\nRead more\nValue\nService\nFood\nAtmosphere\nWritten March 31, 2013",
             "rating": 5.0,
             "review_date": "2026-10-24",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-26T06:18:24.146211",
+            "restaurant_id": "2254119",
+            "restaurant_name": "Baba's Kitchen Bui Vien",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2254119-Reviews-Baba_s_Kitchen_Bui_Vien-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2254119-Reviews-Baba_s_Kitchen_Bui_Vien-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 3926
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.765513,
+                "longitude": 106.690285
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian"
+            ],
+            "telephone": "+84 28 3838 6661",
+            "review_id": "REV_2254119_p1_4",
+            "reviewer_id": "User_2254119_1_4",
+            "review_title": "Review at Baba's Kitchen Bui Vien",
+            "review_text": "Jörg D\n70 contributions\n0\nThe very best Indian cuisine!\nFeb 2026 • Solo\nThe very best delicious Indian dishes, great seasoned, very good ingredients. There was a very delicious starter and a small dessert on the house. Clear recommendation!\nTranslated from German\nShow original\nWritten February 12, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-26",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-26T06:19:13.406060",
+            "restaurant_id": "2254119",
+            "restaurant_name": "Baba's Kitchen Bui Vien",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2254119-Reviews-Baba_s_Kitchen_Bui_Vien-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2254119-Reviews-Baba_s_Kitchen_Bui_Vien-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 3926
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.765513,
+                "longitude": 106.690285
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian"
+            ],
+            "telephone": "+84 28 3838 6661",
+            "review_id": "REV_2254119_p4_7",
+            "reviewer_id": "User_2254119_4_7",
+            "review_title": "Review at Baba's Kitchen Bui Vien",
+            "review_text": "R. K. V.\nBogota, Colombia3415 contributions\n1\nvery good\nApr 2024 • Solo\nit was very good. the chicken dish was very tasty- well made. It is well presented and portions are generous. Good value for money.\nWritten April 26, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-26",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-26T06:25:51.931366",
+            "restaurant_id": "2254119",
+            "restaurant_name": "Baba's Kitchen Bui Vien",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2254119-Reviews-Baba_s_Kitchen_Bui_Vien-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2254119-Reviews-Baba_s_Kitchen_Bui_Vien-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 3926
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.765513,
+                "longitude": 106.690285
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian"
+            ],
+            "telephone": "+84 28 3838 6661",
+            "review_id": "REV_2254119_p28_3",
+            "reviewer_id": "User_2254119_28_3",
+            "review_title": "Review at Baba's Kitchen Bui Vien",
+            "review_text": "Roddy P\nCape Town, South Africa1084 contributions\n0\ncomfort food\nSep 2019\nwent here because of Trip Adviser and because i wanted something familiar to eat. The food was great, and the service swift.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten September 19, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-26",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-26T06:28:36.568876",
+            "restaurant_id": "2254119",
+            "restaurant_name": "Baba's Kitchen Bui Vien",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2254119-Reviews-Baba_s_Kitchen_Bui_Vien-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2254119-Reviews-Baba_s_Kitchen_Bui_Vien-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 3926
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.765513,
+                "longitude": 106.690285
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian"
+            ],
+            "telephone": "+84 28 3838 6661",
+            "review_id": "REV_2254119_p38_7",
+            "reviewer_id": "User_2254119_38_7",
+            "review_title": "Review at Baba's Kitchen Bui Vien",
+            "review_text": "Adam\nBangkok, Thailand6 contributions\n0\nDinner\nJul 2019 • Friends\ntoday i have a dinner with my friend in babas kitchen,it was amazing i strongly recommend everyone to this restaurant who loves halal food,\nReview collected in partnership with this restaurant \nWritten July 14, 2019",
+            "rating": 5.0,
+            "review_date": "2026-10-26",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-26T07:02:10.871558",
+            "restaurant_id": "2254119",
+            "restaurant_name": "Baba's Kitchen Bui Vien",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2254119-Reviews-Baba_s_Kitchen_Bui_Vien-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2254119-Reviews-Baba_s_Kitchen_Bui_Vien-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 3926
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.765513,
+                "longitude": 106.690285
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian"
+            ],
+            "telephone": "+84 28 3838 6661",
+            "review_id": "REV_2254119_p154_12",
+            "reviewer_id": "User_2254119_154_12",
+            "review_title": "Review at Baba's Kitchen Bui Vien",
+            "review_text": "BalkrishnaShroff\nMumbai, India34556 contributions\n0\nAverage food and service\nAug 2015 • Friends\nI had read very good reviews on TripAdvisor and therefore I took my group of 30 friends here for dinner. Unfortunately we were totally disappointed. Both veg and non veg food was very average. The service was equally bad. They did not have enough glasses as well. Better to avoid.\nValue\nService\nFood\nWritten August 20, 2015\nBabaManager\nHi, this is Robin, the owner of Baba's. I was disappointed to read your review and I believe some context is in order. You contacted us on a Saturday afternoon wanting to host a party of 30 that night, our busiest night of the week. After some prodding we agreed to host a buffet, and after further prodding we agreed to a 10% discount on the entire party. Over the next few hours you repeatedly changed your menu choices, and when your party arrived you brought your own wines and spirits-- something not typical for large parties at Baba's or most other restaurants. After some discussion, we decided to permit you to bring your own drinks, and the rest of the meal went smoothly. At the end of the meal you indicated that everything was great and you would be recommending us to other friends, and so I am disappointed to see your remarks. Of course, most of the reviews here and elsewhere reflect our commitment to good food and good service, and Baba's will continue to strive to please every customer. I appreciate you giving us a chance, and I hope that you might someday give us another opportunity to prove that we deserve our reputation for quality.\nRead more\nWritten August 23, 2015\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-26",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-26T07:04:05.359614",
+            "restaurant_id": "2254119",
+            "restaurant_name": "Baba's Kitchen Bui Vien",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2254119-Reviews-Baba_s_Kitchen_Bui_Vien-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2254119-Reviews-Baba_s_Kitchen_Bui_Vien-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 3926
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.765513,
+                "longitude": 106.690285
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian"
+            ],
+            "telephone": "+84 28 3838 6661",
+            "review_id": "REV_2254119_p161_14",
+            "reviewer_id": "User_2254119_161_14",
+            "review_title": "Review at Baba's Kitchen Bui Vien",
+            "review_text": "Vcals\nHolbrook, New York1087 contributions\n0\nGreat Indian cuisine.\nJun 2015 • Friends\nI loved the bread stuffed with lamb and spices and the chicken with curry is to die for. It's a great place to go if one gets tired of eating Vietnamese cuisine all the time.\nWritten June 4, 2015",
+            "rating": 5.0,
+            "review_date": "2026-10-26",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-26T07:11:27.658781",
+            "restaurant_id": "2254119",
+            "restaurant_name": "Baba's Kitchen Bui Vien",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2254119-Reviews-Baba_s_Kitchen_Bui_Vien-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d2254119-Reviews-Baba_s_Kitchen_Bui_Vien-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.7,
+                "reviewCount": 3926
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.765513,
+                "longitude": 106.690285
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/73/c8/a1/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "11:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Indian"
+            ],
+            "telephone": "+84 28 3838 6661",
+            "review_id": "REV_2254119_p187_1",
+            "reviewer_id": "User_2254119_187_1",
+            "review_title": "Review at Baba's Kitchen Bui Vien",
+            "review_text": "5151\nKidderminster, United Kingdom916 contributions\n0\nSo different to English Indian food\nMar 2014 • Business\nWe were recommended to come here and were so pleased we did.the Indian food here is of Indian origin and not the awful Balti,s Jalfrezis etc that you get in England.Very different ! Lots of lovely interesting flavours .Good prices and good portion sizes .Attention by the staff was good .A very pleasant experience .We will make a point of coming back here when we finish our Vietnamese holiday .A big Thankyou to the owner who took the bother of coming to our table to explain the flavours and origins of the meals Lovely manager and lovely waiters .Thankyou\nRead more\nReview collected in partnership with this restaurant \nWritten March 5, 2014",
+            "rating": 5.0,
+            "review_date": "2026-10-26",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }

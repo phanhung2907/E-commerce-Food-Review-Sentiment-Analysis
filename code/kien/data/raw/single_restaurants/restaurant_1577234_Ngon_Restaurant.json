@@ -75,7 +75,7 @@
         ],
         "telephone": "+84 28 3827 7131"
     },
-    "reviews_count": 3433,
+    "reviews_count": 3441,
     "reviews": [
         {
             "source": "TripAdvisor",
@@ -295312,6 +295312,694 @@
             "review_text": "Chloe27_12\nManila, Philippines24 contributions\n1\nLovely Place. delicious Food.\nSep 2011 • Friends\nThe place itself is lovely especially at night. Dishes are pricey but delicious. If first time in Ho Chi Minh, you must try this one. Order the prawns in coconut and Ban Xeo. Fried rice is yummy. There is a branch in Hanoi and when there, don't miss Hanoi's local delicacy - bun cha or barbecued pork serve with rice noodles & leafy vegetables. There are quite a few choices of local desserts too. Don't forget to order lotus tea to cap your meal or Vietnamese Caphe.\nRead more\nWritten May 27, 2012",
             "rating": 5.0,
             "review_date": "2026-10-24",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-26T05:13:16.391388",
+            "restaurant_id": "1577234",
+            "restaurant_name": "Ngon Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1577234-Reviews-Ngon_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1577234-Reviews-Ngon_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.9,
+                "reviewCount": 4776
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.777418,
+                "longitude": 106.69967
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 28 3827 7131",
+            "review_id": "REV_1577234_p2_7",
+            "reviewer_id": "User_1577234_2_7",
+            "review_title": "Review at Ngon Restaurant",
+            "review_text": "JuanMarco31\nToulouse, France23193 contributions\n53\nAn important choice of dishes - Very reasonable price\nDec 2025 • Couples\nFor our first evening in Saigon , our guide had advised us this restaurant for the choice , quality and reasonable prices of the dishes. Indeed, at first glance despite the impression of a station hall seen the world, a table was assigned to us. The menus are very well provided and you will find a dish that will suit you. The result was very correct both in quality and quantity for a quite reasonable price 22$ to two drinks and coffee included\nRead more\nValue\nService\nFood\nAtmosphere\nTranslated from French\nShow original\nWritten January 2, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-26",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-26T05:17:23.010820",
+            "restaurant_id": "1577234",
+            "restaurant_name": "Ngon Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1577234-Reviews-Ngon_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1577234-Reviews-Ngon_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.9,
+                "reviewCount": 4776
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.777418,
+                "longitude": 106.69967
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 28 3827 7131",
+            "review_id": "REV_1577234_p16_3",
+            "reviewer_id": "User_1577234_16_3",
+            "review_title": "Review at Ngon Restaurant",
+            "review_text": "Leonhkny\nHong Kong, China29908 contributions\n1\nTourist trip\nDec 2022\nI am aware that there are multiple branches of Ngon in other countries. My recent meal at the Ho Chi Minh City place, however, is far from satisfactory. \n\nWhile price is prohibitively high by local standard, service is very dismal and underwhelming. It is actually the only place in Vietnam I experience terrible and impolite staff. \n\nYes, food options are aplenty. Taste is unfortunately bland. Nothing is appealing to us. Even the coffee is watery. \n\nPerhaps the only plus is location. With so many quality alternatives nearby, I believe there is no particular reason of visit.\nRead more\nValue\nService\nFood\nWritten December 6, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-26",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-26T05:17:42.692637",
+            "restaurant_id": "1577234",
+            "restaurant_name": "Ngon Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1577234-Reviews-Ngon_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1577234-Reviews-Ngon_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.9,
+                "reviewCount": 4776
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.777418,
+                "longitude": 106.69967
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 28 3827 7131",
+            "review_id": "REV_1577234_p17_5",
+            "reviewer_id": "User_1577234_17_5",
+            "review_title": "Review at Ngon Restaurant",
+            "review_text": "Rob Nesbit\nWarsaw, Poland7040 contributions\n0\nNice enough restaurant with good fresh food.\nMay 2022\nNice enough restaurant with good fresh food.\n\nLovely decor and loads of seating available, very comfortable settings.\nOrdered a few dishes.....Vietnamese rice pancake, Fried tofu with salty egg, and some pork spring rolls served with fish sauce......all washed down with beer.\n\nThe food was ok, not amazing, but good enough. Certainly tasted very fresh and well cooked. The tofu dish was awful, i am not sure whats the idea with the salty egg, but that is my fault here as I wasn't aware of the dish. The spring rolls were very good,, very tasty.\n\nAfter the food we decided to have a few cocktails.......which were not great to be honest, too much ice and alcohol....not enough of the mixer....\n\nThe service was a tad bit slow too, and they were not overcrowded.....but the best thing was that the price for a big feed and a good bit of alcohol was just less than 30 Euros, thats not bad in anyone's books. \n\nAll in all a pleasurable few hours spent here. I think the setting makes it really here, good decor and a relaxing ambiance.\nRead more\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten June 9, 2022",
+            "rating": 5.0,
+            "review_date": "2026-10-26",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-26T05:31:10.145728",
+            "restaurant_id": "1577234",
+            "restaurant_name": "Ngon Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1577234-Reviews-Ngon_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1577234-Reviews-Ngon_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.9,
+                "reviewCount": 4776
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.777418,
+                "longitude": 106.69967
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 28 3827 7131",
+            "review_id": "REV_1577234_p64_6",
+            "reviewer_id": "User_1577234_64_6",
+            "review_title": "Review at Ngon Restaurant",
+            "review_text": "Czar Emmanuel\nManila, Philippines11561 contributions\n0\nClassic ambiance, great Vietnamese food, wonderful staff!\nJan 2017 • Family\nAs we googled and read blogs about places to dine in while in Ho Chi Mihn, my sister and I found ourselves at Nha Hang Ngon (sorry i don't have the accents for Vietnamese words) Restaurant. It's a walking distance from the hotel we were staying in, and so we decided to try the place. The restaurant really looks great! The ambiance was lovely, typical Vietnamese structure, very hospitable and welcoming staff, and more importantly, excellent Vietnamese foods! It was my first time to try some steamed rice cake stuffed with seafood. Simply lovely! And some local beers as well (like the Bia Saigon Special).\n\nIt's not a formal restaurant, meaning not for fine dining. In fact, it has become quite touristy because of the number of tourists flocking there. Service is also informal, more of a fast-food type. There are many salas inside the three-storey high restaurant, all around an open space with an outdoor fountain. Sometimes the place gets crowded and you would have to wait for a while to be accommodated. Be patient! It's worth the wait! :D\nRead more\nValue\nService\nFood\nWritten September 30, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-26",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-26T05:33:25.523771",
+            "restaurant_id": "1577234",
+            "restaurant_name": "Ngon Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1577234-Reviews-Ngon_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1577234-Reviews-Ngon_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.9,
+                "reviewCount": 4776
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.777418,
+                "longitude": 106.69967
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 28 3827 7131",
+            "review_id": "REV_1577234_p72_14",
+            "reviewer_id": "User_1577234_72_14",
+            "review_title": "Review at Ngon Restaurant",
+            "review_text": "Kaye W\nCapel sound victoria26 contributions\n0\nVery disappointing\nMay 2017 • Couples\nThis restaurant was recommended by our hotel and based on the people dining there we were really looking forward to our last dinner in this amazing city. Alas, there was little to no service, the entrees and first main arrived together. When we finally were able to ask someone for the rice to go with the main it took over 10 minutes to arrive. Our next main came out cold and we barely touched it. When I told the waiter this was the case, there was absolutely no response whatsoever. The one star rating is for the setting of the restaurant.\nRead more\nReview collected in partnership with this restaurant \nWritten May 27, 2017",
+            "rating": 5.0,
+            "review_date": "2026-10-26",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-26T05:44:58.374214",
+            "restaurant_id": "1577234",
+            "restaurant_name": "Ngon Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1577234-Reviews-Ngon_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1577234-Reviews-Ngon_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.9,
+                "reviewCount": 4776
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.777418,
+                "longitude": 106.69967
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 28 3827 7131",
+            "review_id": "REV_1577234_p113_6",
+            "reviewer_id": "User_1577234_113_6",
+            "review_title": "Review at Ngon Restaurant",
+            "review_text": "炜 斌\nSingapore, Singapore29 contributions\n0\nBeautiful Dinner Place\nApr 2016 • Business\nGood food with excellent variety of choices.. Ideal for simple authentic Vietnamese food.. Short waiting time.. Recommended.\nWritten April 8, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-26",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-26T05:48:40.954585",
+            "restaurant_id": "1577234",
+            "restaurant_name": "Ngon Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1577234-Reviews-Ngon_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1577234-Reviews-Ngon_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.9,
+                "reviewCount": 4776
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.777418,
+                "longitude": 106.69967
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 28 3827 7131",
+            "review_id": "REV_1577234_p126_11",
+            "reviewer_id": "User_1577234_126_11",
+            "review_title": "Review at Ngon Restaurant",
+            "review_text": "alpanadm\nMumbai, India227 contributions\n0\ngood food large menu and beautiful setting - vietnamese food\nDec 2015 • Couples\nbrilliant setting as its housed in a very large multi level french villa. the food menu is extensive. the ten odd dishes we ordered within the group were very nice. they have an english speaking staff. lots of tourist there. would recommend it for one meal atleast.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten January 6, 2016",
+            "rating": 5.0,
+            "review_date": "2026-10-26",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-26T06:12:58.176900",
+            "restaurant_id": "1577234",
+            "restaurant_name": "Ngon Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1577234-Reviews-Ngon_Restaurant-Ho_Chi_Minh_City.html",
+            "city": "Ho Chi Minh City",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293925-d1577234-Reviews-Ngon_Restaurant-Ho_Chi_Minh_City.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Ho Chi Minh City Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 3.9,
+                "reviewCount": 4776
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.777418,
+                "longitude": 106.69967
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b9/59/ad/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:30:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 28 3827 7131",
+            "review_id": "REV_1577234_p211_3",
+            "reviewer_id": "User_1577234_211_3",
+            "review_title": "Review at Ngon Restaurant",
+            "review_text": "Louise R\nSydney, Australia50 contributions\n0\nbeautiful setting but not great eating\nMay 2012 • Friends\nI met friends here so didn't have expectations. The building is lovely, but the food was so-so, good but not great. Service was very slow - the place was very busy - and staff were pretty impersonal, given it was such a busy place. I could see the food prep areas around the side, but we were busy talking so I did not explore that. I guess if you are looking for a \"how is food made in Vietnam\" type experience, this would be good. But if you are looking for good food at a reasonable price, with pleasant and helpful service, perhaps you could try somewehere else. It was expensive - especially if you are having some wine!\nRead more\nValue\nService\nFood\nAtmosphere\nReview collected in partnership with this restaurant \nWritten May 18, 2012",
+            "rating": 5.0,
+            "review_date": "2026-10-26",
             "travel_date": "Recent",
             "feature_depth_status": "Schema-Full-Features-Validated"
         }
