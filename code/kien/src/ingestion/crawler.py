@@ -369,6 +369,20 @@ def extract_full_features_from_restaurant(driver, target_url, city):
                         except:
                             pass
 
+                # ==========================================
+                # TRÍCH XUẤT NGÀY THÁNG REVIEW THỰC TẾ
+                # ==========================================
+                review_date_val = datetime.now().strftime("%Y-%m-%d")
+                try:
+                    date_elem = container.find_element(By.CSS_SELECTOR, "span.tevo9, span[class*='social-date'], div[class*='date'] span")
+                    date_text = date_elem.text.strip()
+                    if not date_text:
+                        date_text = date_elem.get_attribute("innerText") or ""
+                    if date_text:
+                        review_date_val = date_text
+                except:
+                    pass
+
                 review_id = f"REV_{restaurant_id}_p{page_num}_{index}"
                 record = {
                     "source": "TripAdvisor",
@@ -390,8 +404,8 @@ def extract_full_features_from_restaurant(driver, target_url, city):
                     "reviewer_id": f"User_{restaurant_id}_{page_num}_{index}",
                     "review_title": f"Review at {restaurant_name}",
                     "review_text": full_card_text,
-                    "rating": rating_value,  # Đã gán rating thực tế (1.0 - 5.0)
-                    "review_date": datetime.now().strftime("%Y-%m-%d"),
+                    "rating": rating_value,  
+                    "review_date": review_date_val,  # Ngày tháng thực tế từ TripAdvisor
                     "travel_date": "Recent",
                     "feature_depth_status": "Schema-Full-Features-Validated",
                 }
@@ -464,7 +478,7 @@ def extract_full_features_from_restaurant(driver, target_url, city):
 # VÒNG LẶP PIPELINE TOÀN QUỐC (ENTERPRISE)
 # ==========================================
 def run_enterprise_scale_pipeline():
-    output_dir = "code/kien/data/raw/enterprise_unlimited"
+    output_dir = "code/kien/data/raw/single_restaurants"
     os.makedirs(output_dir, exist_ok=True)
 
     tracking_path = os.path.join(output_dir, TRACKING_FILE_NAME)
