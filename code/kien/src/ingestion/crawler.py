@@ -343,12 +343,12 @@ def extract_full_features_from_restaurant(driver, target_url, city):
                     continue
 
                 # ==========================================
-                # TRÍCH XUẤT RATING THỰC TẾ (1.0 đến 5.0) TỐI ƯU
+                # TRÍCH XUẤT RATING THỰC TẾ (1.0 đến 5.0) CẢI TIẾN
                 # ==========================================
-                rating_value = 5.0  # Giá trị mặc định phòng hờ
+                rating_value = 5.0  
                 try:
-                    rating_elem = container.find_element(By.CSS_SELECTOR, "span[class*='ui_bubble_rating'], span[class*='bubble_'], [aria-label*='of 5']")
-                    aria_label = rating_elem.get_attribute("aria-label") or ""
+                    rating_elem = container.find_element(By.CSS_SELECTOR, "span[class*='ui_bubble_rating'], span[class*='bubble_'], svg[class*='icon'], [aria-label*='of 5']")
+                    aria_label = rating_elem.get_attribute("aria-label") or rating_elem.get_attribute("alt") or ""
                     
                     match_aria = re.search(r"([\d\.]+)\s+of\s+5", aria_label, re.IGNORECASE)
                     if match_aria:
@@ -356,7 +356,7 @@ def extract_full_features_from_restaurant(driver, target_url, city):
                     else:
                         spans = container.find_elements(By.TAG_NAME, "span")
                         for sp in spans:
-                            text_sp = sp.get_attribute("aria-label") or sp.text or ""
+                            text_sp = sp.get_attribute("aria-label") or sp.get_attribute("alt") or sp.text or ""
                             m = re.search(r"([\d\.]+)\s+of\s+5", text_sp, re.IGNORECASE)
                             if m:
                                 rating_value = float(m.group(1))
@@ -405,7 +405,7 @@ def extract_full_features_from_restaurant(driver, target_url, city):
                     "review_title": f"Review at {restaurant_name}",
                     "review_text": full_card_text,
                     "rating": rating_value,  
-                    "review_date": review_date_val,  # Ngày tháng thực tế từ TripAdvisor
+                    "review_date": review_date_val,  
                     "travel_date": "Recent",
                     "feature_depth_status": "Schema-Full-Features-Validated",
                 }
