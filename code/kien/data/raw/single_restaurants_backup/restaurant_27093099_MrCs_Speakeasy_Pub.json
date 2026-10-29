@@ -1,0 +1,523 @@
+{
+    "restaurant_id": "27093099",
+    "restaurant_name": "Mr.C's Speakeasy Pub",
+    "city": "Phan Thiet",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d27093099-Reviews-Mr_C_s_Speakeasy_Pub-Vung_Tau_Ba_Ria_Vung_Tau_Province.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d27093099-Reviews-Mr_C_s_Speakeasy_Pub-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "3 Le Ngoc Han Ward 1",
+            "addressLocality": "Vung Tau"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 5
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.350729,
+            "longitude": 107.071686
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/12/b1/d9/caption.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "08:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "08:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "08:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "08:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "08:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "08:00:00",
+                "closes": "23:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "08:00:00",
+                "closes": "23:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Pizza",
+            "Pub",
+            "Beer restaurants"
+        ],
+        "telephone": "+84 869 253 749"
+    },
+    "reviews_count": 5,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-28T15:38:53.378983",
+            "restaurant_id": "27093099",
+            "restaurant_name": "Mr.C's Speakeasy Pub",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d27093099-Reviews-Mr_C_s_Speakeasy_Pub-Vung_Tau_Ba_Ria_Vung_Tau_Province.html",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d27093099-Reviews-Mr_C_s_Speakeasy_Pub-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "3 Le Ngoc Han Ward 1",
+                "addressLocality": "Vung Tau"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.350729,
+                "longitude": 107.071686
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/12/b1/d9/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Pizza",
+                "Pub",
+                "Beer restaurants"
+            ],
+            "telephone": "+84 869 253 749",
+            "review_id": "REV_27093099_p1_0",
+            "reviewer_id": "User_27093099_1_0",
+            "review_title": "Review at Mr.C's Speakeasy Pub",
+            "review_text": "repco79\nJimboomba, Australia26 contributions\n0\nThe best wood fire stone pizzas in town ! If in Vung Tau they are a must 💝\nFeb 2026 • Family\nThe best Pizza in Vung Tau is here! Randy the owner from Canada makes the most amazing food be it Pizza BBQ Wings Ribs, Mac & Cheese .\nSo if you want to enjoy a pizza with lots of toppings and made in a wood fire oven go here!! \nThanks for having us again and we will see you again next time and little lucky. 😋 Thanks to the waitress staff as well they work hard and are great and are really nice we personally always give them a tip.\nRead more\nWritten February 27, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-28",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-28T15:38:53.432047",
+            "restaurant_id": "27093099",
+            "restaurant_name": "Mr.C's Speakeasy Pub",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d27093099-Reviews-Mr_C_s_Speakeasy_Pub-Vung_Tau_Ba_Ria_Vung_Tau_Province.html",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d27093099-Reviews-Mr_C_s_Speakeasy_Pub-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "3 Le Ngoc Han Ward 1",
+                "addressLocality": "Vung Tau"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.350729,
+                "longitude": 107.071686
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/12/b1/d9/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Pizza",
+                "Pub",
+                "Beer restaurants"
+            ],
+            "telephone": "+84 869 253 749",
+            "review_id": "REV_27093099_p1_1",
+            "reviewer_id": "User_27093099_1_1",
+            "review_title": "Review at Mr.C's Speakeasy Pub",
+            "review_text": "Marie C\nNewcastle upon Tyne, United Kingdom11 contributions\n0\nExcellent bar/restaurant!!\nJul 2025 • Couples\nAmazing staff, everyone is so friendly. Other customers we spoke to return every day, the food is incredible! The next time we come to Vung Tau we will be heading straight to Mr C’s 🤤😆\nInsider tip:\nBest pizza in town!\nValue\nService\nFood\nAtmosphere\nWritten July 31, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-28",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-28T15:38:53.467980",
+            "restaurant_id": "27093099",
+            "restaurant_name": "Mr.C's Speakeasy Pub",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d27093099-Reviews-Mr_C_s_Speakeasy_Pub-Vung_Tau_Ba_Ria_Vung_Tau_Province.html",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d27093099-Reviews-Mr_C_s_Speakeasy_Pub-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "3 Le Ngoc Han Ward 1",
+                "addressLocality": "Vung Tau"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.350729,
+                "longitude": 107.071686
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/12/b1/d9/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Pizza",
+                "Pub",
+                "Beer restaurants"
+            ],
+            "telephone": "+84 869 253 749",
+            "review_id": "REV_27093099_p1_2",
+            "reviewer_id": "User_27093099_1_2",
+            "review_title": "Review at Mr.C's Speakeasy Pub",
+            "review_text": "Daryl S\n41 contributions\n0\nA nice gathering place with excellent woodfired pizza and ribs.\nFeb 2025 • Friends\nRandy and Tam have created this wonderful little pub style bar that happens to make the best pizza I have had in Vietnam. Being Canadian, Randy is happy to open early when important hockey games are on television at 7 or 8 in the morning to accommodate people who also love the game. We met many wonderful people here, and Randy even took us to a great pickleball facility nearby for some exercise. If you miss some North American cuisine and commeraderie , this is a breath of fresh air.\nRead more\nWritten February 25, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-28",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-28T15:38:53.488250",
+            "restaurant_id": "27093099",
+            "restaurant_name": "Mr.C's Speakeasy Pub",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d27093099-Reviews-Mr_C_s_Speakeasy_Pub-Vung_Tau_Ba_Ria_Vung_Tau_Province.html",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d27093099-Reviews-Mr_C_s_Speakeasy_Pub-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "3 Le Ngoc Han Ward 1",
+                "addressLocality": "Vung Tau"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.350729,
+                "longitude": 107.071686
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/12/b1/d9/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Pizza",
+                "Pub",
+                "Beer restaurants"
+            ],
+            "telephone": "+84 869 253 749",
+            "review_id": "REV_27093099_p1_3",
+            "reviewer_id": "User_27093099_1_3",
+            "review_title": "Review at Mr.C's Speakeasy Pub",
+            "review_text": "Sarah D\nSydney, Australia10 contributions\n0\nDo not miss this place if in town!\nDec 2024 • Couples\nWhat a great experience we had here. 2 years in a row, back to the same place, for drinks and a feed. Great atmosphere, great prices, even greater pizza!!! Thanks Randy and team for a wonderful few nights visiting Vung Tau, you made our stay so welcoming! Do not miss this place if you are in town!\nWritten January 9, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-28",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-28T15:38:53.526675",
+            "restaurant_id": "27093099",
+            "restaurant_name": "Mr.C's Speakeasy Pub",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d27093099-Reviews-Mr_C_s_Speakeasy_Pub-Vung_Tau_Ba_Ria_Vung_Tau_Province.html",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d27093099-Reviews-Mr_C_s_Speakeasy_Pub-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "3 Le Ngoc Han Ward 1",
+                "addressLocality": "Vung Tau"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 5
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.350729,
+                "longitude": 107.071686
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/12/b1/d9/caption.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "08:00:00",
+                    "closes": "23:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Pizza",
+                "Pub",
+                "Beer restaurants"
+            ],
+            "telephone": "+84 869 253 749",
+            "review_id": "REV_27093099_p1_4",
+            "reviewer_id": "User_27093099_1_4",
+            "review_title": "Review at Mr.C's Speakeasy Pub",
+            "review_text": "Scenic23914967401\n2 contributions\n0\nBest pizza. A must with kids.\nApr 2024 • Family\nIt’s was our final dinner with my dad before he and his wife left for the uk. My 11 and 8 year old girls just loved it. Relaxed atmosphere and the best pizza. Randy even let the girls make their pizza with him (after they’d washed their hands). \n\nThanks for a lovely evening.\nValue\nService\nFood\nAtmosphere\nWritten April 11, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-28",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

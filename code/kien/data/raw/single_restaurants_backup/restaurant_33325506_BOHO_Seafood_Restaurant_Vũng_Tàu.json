@@ -1,0 +1,173 @@
+{
+    "restaurant_id": "33325506",
+    "restaurant_name": "BOHO Seafood Restaurant Vũng Tàu",
+    "city": "Phan Thiet",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d33325506-Reviews-BOHO_Seafood_Restaurant_Vung_Tau-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d33325506-Reviews-BOHO_Seafood_Restaurant_Vung_Tau-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "66 Ha Long, Phuong Vung Tàu",
+            "addressLocality": "Vung Tau"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 2
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.330166,
+            "longitude": 107.07671
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/35/1e/d1/khong-gian.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "09:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Seafood",
+            "Mediterranean",
+            "Vietnamese",
+            "Beer restaurants"
+        ],
+        "telephone": "+840798633339"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-28T15:34:28.021141",
+            "restaurant_id": "33325506",
+            "restaurant_name": "BOHO Seafood Restaurant Vũng Tàu",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d33325506-Reviews-BOHO_Seafood_Restaurant_Vung_Tau-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d33325506-Reviews-BOHO_Seafood_Restaurant_Vung_Tau-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "66 Ha Long, Phuong Vung Tàu",
+                "addressLocality": "Vung Tau"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 2
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.330166,
+                "longitude": 107.07671
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/35/1e/d1/khong-gian.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Seafood",
+                "Mediterranean",
+                "Vietnamese",
+                "Beer restaurants"
+            ],
+            "telephone": "+840798633339",
+            "review_id": "REV_33325506_p1_0",
+            "reviewer_id": "User_33325506_1_0",
+            "review_title": "Review at BOHO Seafood Restaurant Vũng Tàu",
+            "review_text": "Excursion12283188446\n1 contribution\n0\nGreat for family\nMar 2026 • Family\nI’m usually quite picky when it comes to seafood restaurants, especially in tourist areas, but BOHO honestly exceeded my expectations.\n\nThe first thing I noticed was the location — right by the sea with an open view and good airflow. It doesn’t feel overcrowded or overly commercial like many places nearby.\n\nThe seafood was fresh, which is non-negotiable for me. You can actually see the live tanks, and the quality shows in the taste. That said, some dishes could be a bit more refined in seasoning — not bad at all, just slightly on the simpler side.\n\nService was generally good. Staff were polite and tried their best, although during peak hours things slowed down a little. Nothing too frustrating, just something to be aware of if you come at a busy time.\n\nPrices are reasonable considering the location and quality. Not cheap, but fair.\n\nOverall, a solid experience. With a bit more consistency in execution, this place could easily be one of the top seafood spots in Vung Tau.\n\nWould still recommend\nRead more\nValue\nService\nFood\nAtmosphere\nWritten April 17, 2026",
+            "rating": 5.0,
+            "review_date": "2026-10-28",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

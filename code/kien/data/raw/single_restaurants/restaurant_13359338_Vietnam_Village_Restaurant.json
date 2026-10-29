@@ -1,0 +1,83 @@
+{
+    "restaurant_id": "13359338",
+    "restaurant_name": "Vietnam Village Restaurant",
+    "city": "Hue",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g469417-d13359338-Reviews-Vietnam_Village_Restaurant-My_Tho_Tien_Giang_Province_Mekong_Delta.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g469417-d13359338-Reviews-Vietnam_Village_Restaurant-My_Tho_Tien_Giang_Province_Mekong_Delta.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "194D Ap Bac Ward 5",
+            "addressLocality": "My Tho",
+            "addressRegion": "Mekong Delta"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 2
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.34891,
+            "longitude": 106.36958
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/59/1e/8e/thoang-mat.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Vietnamese"
+        ],
+        "telephone": "+84 273 3874 440"
+    },
+    "reviews_count": 1,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-28T15:20:09.424824",
+            "restaurant_id": "13359338",
+            "restaurant_name": "Vietnam Village Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g469417-d13359338-Reviews-Vietnam_Village_Restaurant-My_Tho_Tien_Giang_Province_Mekong_Delta.html#REVIEWS",
+            "city": "Hue",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g469417-d13359338-Reviews-Vietnam_Village_Restaurant-My_Tho_Tien_Giang_Province_Mekong_Delta.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "194D Ap Bac Ward 5",
+                "addressLocality": "My Tho",
+                "addressRegion": "Mekong Delta"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 2
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 10.34891,
+                "longitude": 106.36958
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/59/1e/8e/thoang-mat.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": "N/A",
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Vietnamese"
+            ],
+            "telephone": "+84 273 3874 440",
+            "review_id": "REV_13359338_p1_0",
+            "reviewer_id": "User_13359338_1_0",
+            "review_title": "Review at Vietnam Village Restaurant",
+            "review_text": "Vacation04107115282\n3 contributions\n0\nI like it because there are many interesting things, many surprises, cool, airy, fresh. We had a wonderful vacation in M\nMar 2025 • Family\nA fun trip, lots of experiences, full of fun, I really like that destination. We feel very satisfied because this place meets our needs. I like it.\nWritten March 3, 2025",
+            "rating": 5.0,
+            "review_date": "2026-10-28",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

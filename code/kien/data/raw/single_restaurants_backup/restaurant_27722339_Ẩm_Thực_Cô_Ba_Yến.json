@@ -1,0 +1,81 @@
+{
+    "restaurant_id": "27722339",
+    "restaurant_name": "Ẩm Thực Cô Ba Yến",
+    "city": "Phu Quoc",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g469421-d27722339-Reviews-M_Th_c_Co_Ba_Y_n-Vinh_Long_Vinh_Long_Province_Mekong_Delta.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g469421-d27722339-Reviews-M_Th_c_Co_Ba_Y_n-Vinh_Long_Vinh_Long_Province_Mekong_Delta.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "45/99 Đường Bờ Kinh Khom 2",
+            "addressLocality": "Vinh Long",
+            "addressRegion": "Mekong Delta"
+        },
+        "aggregateRating": {
+            "ratingValue": "N/A",
+            "reviewCount": "N/A"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 10.241183,
+            "longitude": 105.97583
+        },
+        "image": "N/A",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "09:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "09:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "09:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "09:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "09:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "09:00:00",
+                "closes": "23:45:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "09:00:00",
+                "closes": "23:45:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Asian",
+            "Indigenous"
+        ],
+        "telephone": "+84799662668"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}

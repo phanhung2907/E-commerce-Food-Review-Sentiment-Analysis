@@ -1,0 +1,38 @@
+{
+    "restaurant_id": "3187332",
+    "restaurant_name": "ST Cafe",
+    "city": "Phu Quoc",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g469421-d3187332-Reviews-ST_Cafe-Vinh_Long_Vinh_Long_Province_Mekong_Delta.html",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g469421-d3187332-Reviews-ST_Cafe-Vinh_Long_Vinh_Long_Province_Mekong_Delta.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "Riverside",
+            "addressLocality": "Vinh Long",
+            "addressRegion": "Mekong Delta",
+            "postalCode": "91000"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4,
+            "reviewCount": 1
+        },
+        "geo": {
+            "latitude": "N/A",
+            "longitude": "N/A"
+        },
+        "image": "N/A",
+        "openingHoursSpecification": "N/A",
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Vietnamese"
+        ],
+        "telephone": "N/A"
+    },
+    "reviews_count": 0,
+    "reviews": []
+}
