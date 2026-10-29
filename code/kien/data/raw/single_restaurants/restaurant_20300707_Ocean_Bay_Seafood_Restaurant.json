@@ -1,0 +1,355 @@
+{
+    "restaurant_id": "20300707",
+    "restaurant_name": "Ocean Bay Seafood Restaurant",
+    "city": "Phan Thiet",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d20300707-Reviews-Ocean_Bay_Seafood_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d20300707-Reviews-Ocean_Bay_Seafood_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "VN"
+            },
+            "streetAddress": "115 Trần Phú Phường 5",
+            "addressLocality": "Vung Tau",
+            "postalCode": "78214"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.8,
+            "reviewCount": 5
+        },
+        "geo": {
+            "latitude": "N/A",
+            "longitude": "N/A"
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/22/76/aa/oceanbayvungtau-marinabayvungt.jpg?w=500&h=-1&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "10:00:00",
+                "closes": "22:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "07:00:00",
+                "closes": "22:00:00"
+            }
+        ],
+        "priceRange": "$$ - $$$",
+        "servesCuisine": [
+            "Cafe",
+            "Seafood",
+            "Asian",
+            "Deli",
+            "Wine Bar"
+        ],
+        "telephone": "+84 254 3511 118"
+    },
+    "reviews_count": 3,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-28T15:39:19.549116",
+            "restaurant_id": "20300707",
+            "restaurant_name": "Ocean Bay Seafood Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d20300707-Reviews-Ocean_Bay_Seafood_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d20300707-Reviews-Ocean_Bay_Seafood_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "115 Trần Phú Phường 5",
+                "addressLocality": "Vung Tau",
+                "postalCode": "78214"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 5
+            },
+            "geo": {
+                "latitude": "N/A",
+                "longitude": "N/A"
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/22/76/aa/oceanbayvungtau-marinabayvungt.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Cafe",
+                "Seafood",
+                "Asian",
+                "Deli",
+                "Wine Bar"
+            ],
+            "telephone": "+84 254 3511 118",
+            "review_id": "REV_20300707_p1_0",
+            "reviewer_id": "User_20300707_1_0",
+            "review_title": "Review at Ocean Bay Seafood Restaurant",
+            "review_text": "Wanderer43395835884\n10 contributions\n0\nThank you to the restaurant and will continue to support you next time\nMay 2024 • Couples\nThe restaurant's service is very good and the staff always walks around to see what customers need and request. The food is delicious, fresh, and very reasonably priced. The outstanding features of this restaurant are the very quiet and warm setting.\nValue\nService\nFood\nAtmosphere\nShow original\nWritten May 25, 2024",
+            "rating": 5.0,
+            "review_date": "2026-10-28",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-28T15:39:19.608102",
+            "restaurant_id": "20300707",
+            "restaurant_name": "Ocean Bay Seafood Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d20300707-Reviews-Ocean_Bay_Seafood_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d20300707-Reviews-Ocean_Bay_Seafood_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "115 Trần Phú Phường 5",
+                "addressLocality": "Vung Tau",
+                "postalCode": "78214"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 5
+            },
+            "geo": {
+                "latitude": "N/A",
+                "longitude": "N/A"
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/22/76/aa/oceanbayvungtau-marinabayvungt.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Cafe",
+                "Seafood",
+                "Asian",
+                "Deli",
+                "Wine Bar"
+            ],
+            "telephone": "+84 254 3511 118",
+            "review_id": "REV_20300707_p1_1",
+            "reviewer_id": "User_20300707_1_1",
+            "review_title": "Review at Ocean Bay Seafood Restaurant",
+            "review_text": "Đăng Minh\nVung Tau, Vietnam2 contributions\n0\nGreat place to choice for couple, family or friends\nJan 2020\nTheir service pretty good and staff is kind and helpful.\nThe food is delicious, fresh.\nOne of the signature point of this restaurant is the view, especial is sunset, and a little quite from the city, i love the atmosphere of the Ocean bay so munch, warm fell like home and nature.\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten March 14, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-28",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-28T15:39:19.692032",
+            "restaurant_id": "20300707",
+            "restaurant_name": "Ocean Bay Seafood Restaurant",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g303946-d20300707-Reviews-Ocean_Bay_Seafood_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "city": "Phan Thiet",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g303946-d20300707-Reviews-Ocean_Bay_Seafood_Restaurant-Vung_Tau_Ba_Ria_Vung_Tau_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                    "@type": "Country",
+                    "name": "VN"
+                },
+                "streetAddress": "115 Trần Phú Phường 5",
+                "addressLocality": "Vung Tau",
+                "postalCode": "78214"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.8,
+                "reviewCount": 5
+            },
+            "geo": {
+                "latitude": "N/A",
+                "longitude": "N/A"
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/22/76/aa/oceanbayvungtau-marinabayvungt.jpg?w=500&h=-1&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "10:00:00",
+                    "closes": "22:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "07:00:00",
+                    "closes": "22:00:00"
+                }
+            ],
+            "priceRange": "$$ - $$$",
+            "servesCuisine": [
+                "Cafe",
+                "Seafood",
+                "Asian",
+                "Deli",
+                "Wine Bar"
+            ],
+            "telephone": "+84 254 3511 118",
+            "review_id": "REV_20300707_p1_2",
+            "reviewer_id": "User_20300707_1_2",
+            "review_title": "Review at Ocean Bay Seafood Restaurant",
+            "review_text": "kst10vn\nVung Tau, Ba Ria-Vung Tau, Vietnam22 contributions\n0\nĐịa điểm mới cho ai muốn thưởng thức Hải sản bên bờ biển\nFeb 2020\nGreat location, good food, good service, affordable prices\nI am very satisfied service here, will definitely come back\nValue\nService\nFood\nReview collected in partnership with this restaurant \nWritten March 11, 2020",
+            "rating": 5.0,
+            "review_date": "2026-10-28",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}

@@ -1,0 +1,941 @@
+{
+    "restaurant_id": "34713386",
+    "restaurant_name": "Nhà Gỗ Viet Nha Trang (Vietnamese Restaurant)",
+    "city": "Nha Trang",
+    "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34713386-Reviews-Nha_G_Viet_Nha_Trang_Vietnamese_Restaurant-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+    "metadata": {
+        "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34713386-Reviews-Nha_G_Viet_Nha_Trang_Vietnamese_Restaurant-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Vietnam",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "streetAddress": "Nha Trang Vietnam"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "reviewCount": 10
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.24104,
+            "longitude": 109.19233
+        },
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/84/54/a5/caption.jpg?w=600&h=400&s=1",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Sunday",
+                "opens": "09:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Monday",
+                "opens": "09:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Tuesday",
+                "opens": "09:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Wednesday",
+                "opens": "09:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Thursday",
+                "opens": "09:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Friday",
+                "opens": "09:00:00",
+                "closes": "21:00:00"
+            },
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": "Saturday",
+                "opens": "09:00:00",
+                "closes": "21:00:00"
+            }
+        ],
+        "priceRange": "N/A",
+        "servesCuisine": [
+            "Asian",
+            "Vietnamese"
+        ],
+        "telephone": "+84 363 582 044"
+    },
+    "reviews_count": 10,
+    "reviews": [
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-28T14:36:54.228104",
+            "restaurant_id": "34713386",
+            "restaurant_name": "Nhà Gỗ Viet Nha Trang (Vietnamese Restaurant)",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34713386-Reviews-Nha_G_Viet_Nha_Trang_Vietnamese_Restaurant-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "Nha Trang",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34713386-Reviews-Nha_G_Viet_Nha_Trang_Vietnamese_Restaurant-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.24104,
+                "longitude": 109.19233
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/84/54/a5/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 363 582 044",
+            "review_id": "REV_34713386_p1_0",
+            "reviewer_id": "User_34713386_1_0",
+            "review_title": "Review at Nhà Gỗ Viet Nha Trang (Vietnamese Restaurant)",
+            "review_text": "Michelle\nMaui, Hawaii2 contributions\n1\nBest Banh Xeo in Nha Trang\nOct 2026 • Solo\nI think I visited three or four times while staying in Nha Trang. I think this place is the best for Banh Xeo. Compared to other restaurants, the variety of vegetables served is the most diverse, and the quality of the Banh Xeo itself is excellent. All the staff are so friendly, and they always greet you with a smile, which makes me feel good every time I come. If I visit Nha Trang again, I will come back. I ate well and enjoyed it. Thank you.\nRead more\nValue\nService\nFood\nAtmosphere\nTranslated from Korean\nShow original\nWritten October 21, 2026\nNhà Gỗ Việt\nDear valued guest, ❤️\n\nThank you so much for visiting us several times during your stay in Nha Trang and for your continued support! We’re truly touched by your thoughtful words. 🥰 Knowing that our team has made you feel welcome on every visit means so much to us.\n\nYour encouragement inspires us to keep maintaining our food quality and providing warm, attentive service to every guest. We can’t wait to welcome you back to Nhà Gỗ Việt Nha Trang on your next trip! ❤️\n\nBest regards,\nNhà Gỗ Việt Nha Trang\nRead more\nWritten October 24, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-28",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-28T14:36:54.268379",
+            "restaurant_id": "34713386",
+            "restaurant_name": "Nhà Gỗ Viet Nha Trang (Vietnamese Restaurant)",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34713386-Reviews-Nha_G_Viet_Nha_Trang_Vietnamese_Restaurant-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "Nha Trang",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34713386-Reviews-Nha_G_Viet_Nha_Trang_Vietnamese_Restaurant-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.24104,
+                "longitude": 109.19233
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/84/54/a5/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 363 582 044",
+            "review_id": "REV_34713386_p1_1",
+            "reviewer_id": "User_34713386_1_1",
+            "review_title": "Review at Nhà Gỗ Viet Nha Trang (Vietnamese Restaurant)",
+            "review_text": "SanDra\n5 contributions\n0\nVietnamese Wooden House Nha Trang - a restaurant you must visit when coming to Nha Trang beach town.\nOct 2026 • Friends\nImpressed with the spacious and clean restaurant space. Whether you go alone or with friends or family is very suitable. Especially the food is very delicious, the price is suitable. Above all, the staff is very friendly and thoughtful. I think this is the most Vietnamese restaurant you must visit in Nha Trang.\nValue\nService\nFood\nAtmosphere\nTranslated from Vietnamese\nShow original\nWritten October 20, 2026\nNhà Gỗ Việt\nNhà Gỗ Việt Nha Trang xin chào~\n\nNhà Gỗ Việt chân thành cảm ơn anh/chị vì đã dành những lời khen và sự yêu mến cho nhà hàng. ❤️ Sự hài lòng và tin tưởng của anh/chị là niềm vui lớn, đồng thời cũng là động lực để đội ngũ không ngừng hoàn thiện chất lượng món ăn và dịch vụ mỗi ngày. 🥰\n\nHy vọng Nhà Gỗ Việt sẽ tiếp tục là điểm hẹn ẩm thực đáng nhớ của anh/chị mỗi khi ghé thăm Nha Trang. Rất mong được chào đón anh/chị quay lại trong thời gian tới! 🫶🏻\n\nTrân trọng,\nNhà Gỗ Việt Nha Trang\nRead more\nWritten October 21, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-28",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-28T14:36:54.299181",
+            "restaurant_id": "34713386",
+            "restaurant_name": "Nhà Gỗ Viet Nha Trang (Vietnamese Restaurant)",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34713386-Reviews-Nha_G_Viet_Nha_Trang_Vietnamese_Restaurant-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "Nha Trang",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34713386-Reviews-Nha_G_Viet_Nha_Trang_Vietnamese_Restaurant-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.24104,
+                "longitude": 109.19233
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/84/54/a5/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 363 582 044",
+            "review_id": "REV_34713386_p1_2",
+            "reviewer_id": "User_34713386_1_2",
+            "review_title": "Review at Nhà Gỗ Viet Nha Trang (Vietnamese Restaurant)",
+            "review_text": "Nguyễn Hữu Nhựt\nNha Trang, Vietnam3 contributions\n0\n5 stars\nOct 2026 • Family\nI booked a private room for 6 people, but this room can be expanded into the other room, which is very spacious and clean. Since the restaurant is new, it doesn't seem to have many customers yet, but the food is really delicious, and what I liked most is that all the staff here are friendly. If I go back to Nha Trang, I will go back many more times lol\nTranslated from Vietnamese\nShow original\nWritten October 20, 2026\nNhà Gỗ Việt\nNhà Gỗ Việt Nha Trang xin chào~\n\nCảm ơn anh/chị rất nhiều vì đã dành tặng Nhà Gỗ Việt đánh giá 5 sao cùng những lời chia sẻ đầy yêu thương. ❤️ Nhà Gỗ rất vui khi biết anh/chị đã có khoảng thời gian thoải mái và hài lòng khi dùng bữa tại nhà hàng.\n\nSự yêu mến của anh/chị là nguồn động viên quý giá để đội ngũ tiếp tục nỗ lực hoàn thiện chất lượng món ăn và phục vụ khách hàng bằng tất cả sự tận tâm. 🥰\n\nNhà Gỗ Việt rất mong được gặp lại anh/chị trong những lần ghé thăm Nha Trang tiếp theo để tiếp tục mang đến những trải nghiệm thật đáng nhớ!\n\nTrân trọng, \nNhà Gỗ Việt Nha Trang\nRead more\nWritten October 23, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-28",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-28T14:36:54.339506",
+            "restaurant_id": "34713386",
+            "restaurant_name": "Nhà Gỗ Viet Nha Trang (Vietnamese Restaurant)",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34713386-Reviews-Nha_G_Viet_Nha_Trang_Vietnamese_Restaurant-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "Nha Trang",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34713386-Reviews-Nha_G_Viet_Nha_Trang_Vietnamese_Restaurant-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.24104,
+                "longitude": 109.19233
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/84/54/a5/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 363 582 044",
+            "review_id": "REV_34713386_p1_3",
+            "reviewer_id": "User_34713386_1_3",
+            "review_title": "Review at Nhà Gỗ Viet Nha Trang (Vietnamese Restaurant)",
+            "review_text": "티엔 피\nNha Trang, Vietnam3 contributions\n0\nDelicious food, reasonable prices, enthusiastic and friendly staff. The staff served quite attentively, creating a comfortable feeling.\nOct 2026 • Family\nDelicious food, reasonable prices, enthusiastic and friendly staff. The service was quite attentive, creating a comfortable dining experience. I find the restaurant suitable for family meals, dates with a partner, or gathering with friends; it's very good. With the food quality and price like that, I am quite satisfied. I will come back to support the shop if I have the chance!\nRead more\nValue\nService\nFood\nAtmosphere\nTranslated from Vietnamese\nShow original\nWritten October 20, 2026\nNhà Gỗ Việt\nNhà Gỗ Việt Nha Trang xin chào~\n\nCảm ơn anh/chị rất nhiều vì đã dành thời gian chia sẻ trải nghiệm và gửi đến Nhà Gỗ Việt những lời nhận xét tích cực. ❤️ Sự hài lòng của anh/chị là niềm vui và cũng là động lực để đội ngũ không ngừng cố gắng, nâng cao chất lượng món ăn và dịch vụ mỗi ngày. 🥰\n\nNhà Gỗ Việt rất trân trọng sự ủng hộ của anh/chị và hy vọng sẽ tiếp tục mang đến những trải nghiệm ẩm thực thật vui vẻ, thoải mái trong những lần ghé thăm sắp tới. Hẹn gặp lại anh/chị tại Nhà Gỗ Việt Nha Trang nhé!\n\nTrân trọng, \nNhà Gỗ Việt Nha Trang\nRead more\nWritten October 23, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-28",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-28T14:36:54.371918",
+            "restaurant_id": "34713386",
+            "restaurant_name": "Nhà Gỗ Viet Nha Trang (Vietnamese Restaurant)",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34713386-Reviews-Nha_G_Viet_Nha_Trang_Vietnamese_Restaurant-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "Nha Trang",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34713386-Reviews-Nha_G_Viet_Nha_Trang_Vietnamese_Restaurant-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.24104,
+                "longitude": 109.19233
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/84/54/a5/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 363 582 044",
+            "review_id": "REV_34713386_p1_4",
+            "reviewer_id": "User_34713386_1_4",
+            "review_title": "Review at Nhà Gỗ Viet Nha Trang (Vietnamese Restaurant)",
+            "review_text": "Trung\nNha Trang, Vietnam3 contributions\n0\nWonderful restaurant\nOct 2026 • Family\nA restaurant really worth experiencing! Enthusiastic, friendly, and attentive staff. Delicious food, quality, appealing flavor, and reasonable prices, suitable for many customer groups.\n\nA comfortable space, suitable for cozy family meals, romantic dates for couples, or gatherings with friends.\n\nOverall, this is a very worthwhile place to visit if you are looking for a restaurant with good food, good service, and a reasonable price. Will definitely come back on the next occasions!\nRead more\nTranslated from Vietnamese\nShow original\nWritten October 20, 2026\nNhà Gỗ Việt\nNhà Gỗ Việt Nha Trang xin chào~\n\nNhà Gỗ Việt chân thành cảm ơn anh/chị vì những lời đánh giá tuyệt vời và sự yêu mến dành cho nhà hàng. ❤️ Sự hài lòng của anh/chị là nguồn động viên quý giá để toàn thể đội ngũ tiếp tục nỗ lực, chăm chút chất lượng món ăn và nâng cao dịch vụ mỗi ngày.\n\nNhà Gỗ Việt hy vọng sẽ luôn là điểm hẹn ẩm thực mang đến cho anh/chị những khoảnh khắc vui vẻ, ấm áp bên gia đình và những người thân yêu. 🥰 Rất mong được đón anh/chị quay lại trong thời gian tới!\n\nTrân trọng,\nNhà Gỗ Việt Nha Trang\nRead more\nWritten October 23, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-28",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-28T14:36:54.404283",
+            "restaurant_id": "34713386",
+            "restaurant_name": "Nhà Gỗ Viet Nha Trang (Vietnamese Restaurant)",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34713386-Reviews-Nha_G_Viet_Nha_Trang_Vietnamese_Restaurant-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "Nha Trang",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34713386-Reviews-Nha_G_Viet_Nha_Trang_Vietnamese_Restaurant-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.24104,
+                "longitude": 109.19233
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/84/54/a5/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 363 582 044",
+            "review_id": "REV_34713386_p1_5",
+            "reviewer_id": "User_34713386_1_5",
+            "review_title": "Review at Nhà Gỗ Viet Nha Trang (Vietnamese Restaurant)",
+            "review_text": "Thao Nhu\n2 contributions\n0\nWill come back\nOct 2026 • Family\nDelicious and appealing food, good atmosphere, enthusiastic staff\nTranslated from Vietnamese\nShow original\nWritten October 20, 2026\nNhà Gỗ Việt\nNhà Gỗ Việt Nha Trang xin chào~\n\nCảm ơn anh/chị đã dành tình cảm và những lời khen dành cho Nhà Gỗ Việt. ❤️ Sự hài lòng của anh/chị là động lực để đội ngũ tiếp tục cố gắng, hoàn thiện chất lượng món ăn và mang đến dịch vụ chu đáo hơn mỗi ngày. 🥰\n\nNhà Gỗ Việt rất mong sớm được đón anh/chị quay lại và có thêm nhiều trải nghiệm thật vui vẻ tại nhà hàng!\n\nTrân trọng,\nNhà Gỗ Việt Nha Trang\nRead more\nWritten October 23, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-28",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-28T14:36:54.442560",
+            "restaurant_id": "34713386",
+            "restaurant_name": "Nhà Gỗ Viet Nha Trang (Vietnamese Restaurant)",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34713386-Reviews-Nha_G_Viet_Nha_Trang_Vietnamese_Restaurant-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "Nha Trang",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34713386-Reviews-Nha_G_Viet_Nha_Trang_Vietnamese_Restaurant-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.24104,
+                "longitude": 109.19233
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/84/54/a5/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 363 582 044",
+            "review_id": "REV_34713386_p1_6",
+            "reviewer_id": "User_34713386_1_6",
+            "review_title": "Review at Nhà Gỗ Viet Nha Trang (Vietnamese Restaurant)",
+            "review_text": "Vy Tram\nTuy Hoa, Vietnam3 contributions\n0\nVietnamese Wooden House Experience\nOct 2026 • Solo\nBeautiful space, diverse and rich food, and enthusiastic staff, I will come back.\nValue\nService\nFood\nAtmosphere\nTranslated from Vietnamese\nShow original\nWritten October 20, 2026\nNhà Gỗ Việt\nNhà Gỗ Việt Nha Trang xin chào~\n\nCảm ơn anh/chị đã yêu mến và lựa chọn Nhà Gỗ Việt! ❤️ Sự hài lòng của anh/chị là niềm vui và động lực để đội ngũ tiếp tục hoàn thiện chất lượng món ăn, chăm chút không gian và phục vụ khách hàng bằng sự tận tâm mỗi ngày. 🥰\n\nNhà Gỗ Việt rất mong sớm được đón anh/chị quay lại để tiếp tục mang đến những trải nghiệm ẩm thực thật trọn vẹn! \n\nTrân trọng,\nNhà Gỗ Việt Nha Trang\nRead more\nWritten October 23, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-28",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-28T14:36:54.482072",
+            "restaurant_id": "34713386",
+            "restaurant_name": "Nhà Gỗ Viet Nha Trang (Vietnamese Restaurant)",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34713386-Reviews-Nha_G_Viet_Nha_Trang_Vietnamese_Restaurant-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "Nha Trang",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34713386-Reviews-Nha_G_Viet_Nha_Trang_Vietnamese_Restaurant-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.24104,
+                "longitude": 109.19233
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/84/54/a5/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 363 582 044",
+            "review_id": "REV_34713386_p1_7",
+            "reviewer_id": "User_34713386_1_7",
+            "review_title": "Review at Nhà Gỗ Viet Nha Trang (Vietnamese Restaurant)",
+            "review_text": "Skynred\nNha Trang, Vietnam4 contributions\n0\nExperience Vietnamese cuisine restaurants in Nha Trang\nOct 2026 • Solo\nThe newly opened restaurant is clean, with a comfortable and airy space, featuring a spacious second floor and a quiet balcony suitable for couples' evening dates. The food is very delicious, suitable for all regional tastes, served quickly, and beautifully presented. Also, the staff is extremely friendly compared to the general standard at other restaurants. Recommend Next time I have a chance, I'll bring my family here to try it, lol 👍🏻👍🏻\nRead more\nTranslated from Vietnamese\nShow original\nWritten October 18, 2026\nNhà Gỗ Việt\nXin chào! 👋 Nhà Gỗ Việt Nha Trang.\n\nCảm ơn anh/chị rất nhiều vì đã dành những lời khen tuyệt vời cho Nhà Gỗ Việt. ❤️ Nhà Gỗ rất vui khi biết anh/chị đã có một trải nghiệm hài lòng và thoải mái tại nhà hàng.\n\nSự yêu mến và ủng hộ của anh/chị là động lực để đội ngũ tiếp tục chăm chút từng chi tiết, nâng cao chất lượng món ăn và phục vụ khách hàng tận tình hơn mỗi ngày. 🥰\n\nNhà Gỗ Việt rất mong được đón anh/chị cùng gia đình ghé thăm trong lần tới để có thêm những trải nghiệm thật vui vẻ và đáng nhớ! 🫶🏻\n\nTrân trọng, \nNhà Gỗ Việt Nha Trang\nRead more\nWritten October 20, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-28",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-28T14:36:54.506998",
+            "restaurant_id": "34713386",
+            "restaurant_name": "Nhà Gỗ Viet Nha Trang (Vietnamese Restaurant)",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34713386-Reviews-Nha_G_Viet_Nha_Trang_Vietnamese_Restaurant-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "Nha Trang",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34713386-Reviews-Nha_G_Viet_Nha_Trang_Vietnamese_Restaurant-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.24104,
+                "longitude": 109.19233
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/84/54/a5/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 363 582 044",
+            "review_id": "REV_34713386_p1_8",
+            "reviewer_id": "User_34713386_1_8",
+            "review_title": "Review at Nhà Gỗ Viet Nha Trang (Vietnamese Restaurant)",
+            "review_text": "goodway\nSeoul, South Korea26 contributions\n0\nNha Go Viet restaurant in Nha Trang, Vietnam\nOct 2026 • Friends\nThe location was good because it was in the city center, and above all, the food was really delicious^^ My friend who went with me also said this was the most delicious place they've been to ㅎ \nThe price was good, the atmosphere was nice, and all the staff were friendly, so it was an enjoyable mealtime.\nTranslated from Korean\nShow original\nWritten October 17, 2026\nNhà Gỗ Việt\nDear valued guest, ❤️\n\nThank you so much for your lovely review! We’re truly happy to know that you and your friend had such an enjoyable experience at Nhà Gỗ Việt Nha Trang. 🥰\n\nYour kind words and support mean a lot to our entire team and inspire us to keep improving and providing warm, thoughtful service to every guest.\n\nWe hope to welcome you and your friends back again whenever you visit Nha Trang! ❤️\n\nBest regards,\nNhà Gỗ Việt Nha Trang\nRead more\nWritten October 20, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-28",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        },
+        {
+            "source": "TripAdvisor",
+            "crawl_timestamp": "2026-10-28T14:36:54.545438",
+            "restaurant_id": "34713386",
+            "restaurant_name": "Nhà Gỗ Viet Nha Trang (Vietnamese Restaurant)",
+            "restaurant_url": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34713386-Reviews-Nha_G_Viet_Nha_Trang_Vietnamese_Restaurant-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "city": "Nha Trang",
+            "@id": "https://www.tripadvisor.com/Restaurant_Review-g293928-d34713386-Reviews-Nha_G_Viet_Nha_Trang_Vietnamese_Restaurant-Nha_Trang_Khanh_Hoa_Province.html#REVIEWS",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Vietnam",
+                "addressLocality": "",
+                "addressRegion": "",
+                "postalCode": "",
+                "streetAddress": "Nha Trang Vietnam"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 5,
+                "reviewCount": 10
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 12.24104,
+                "longitude": 109.19233
+            },
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/84/54/a5/caption.jpg?w=600&h=400&s=1",
+            "openingHoursSpecification": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Sunday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Monday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Tuesday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Wednesday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Thursday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Friday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00:00",
+                    "closes": "21:00:00"
+                }
+            ],
+            "priceRange": "N/A",
+            "servesCuisine": [
+                "Asian",
+                "Vietnamese"
+            ],
+            "telephone": "+84 363 582 044",
+            "review_id": "REV_34713386_p1_9",
+            "reviewer_id": "User_34713386_1_9",
+            "review_title": "Review at Nhà Gỗ Viet Nha Trang (Vietnamese Restaurant)",
+            "review_text": "Надежда В\nNovosibirsk, Russia2 contributions\n0\nEverything is fine! Thank you very much for such a wonderful gift, Universe! Thank you! Our best honeymoon!\nOct 2026 • Couples\nI really liked it, it was very tasty! Simply wonderful! I haven't eaten such delicious dishes in a long time! Thank you! I recommend visiting this magical and warm place! Thank you very much to the polite staff, I thank you! Thank you! How can it be even better ☀️☀️☀️\nValue\nService\nFood\nAtmosphere\nTranslated from Russian\nShow original\nWritten October 16, 2026\nNhà Gỗ Việt\nDear valued guest, ❤️\n\nThank you so much for your beautiful and heartfelt review! We feel truly honored to have been part of such a special honeymoon experience. 🥰\n\nYour kind words bring so much joy to our team and inspire us to keep creating a warm, welcoming place where every guest feels cared for and appreciated.\n\nWishing you both a lifetime of love, happiness, and beautiful memories together. We would be delighted to welcome you back to Nhà Gỗ Việt Nha Trang in the future! ❤️\n\nWarm regards,\nNhà Gỗ Việt Nha Trang\nRead more\nWritten October 17, 2026\nThis response is the subjective opinion of the management representative and not of Tripadvisor LLC nor of its partners.",
+            "rating": 5.0,
+            "review_date": "2026-10-28",
+            "travel_date": "Recent",
+            "feature_depth_status": "Schema-Full-Features-Validated"
+        }
+    ]
+}
