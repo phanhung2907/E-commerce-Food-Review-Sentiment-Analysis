@@ -39,7 +39,7 @@ def analyze_question_1_volume_vs_rating():
             rest.source_restaurant_id,
             rest.name,
             COUNT(rev.source_review_id) AS review_count,
-            AVG(rev.rating) AS avg_rating,
+            AVG(rev.rating * 2) AS avg_rating,  -- [ĐÃ CHUẨN HÓA LÊN THANG 10] Nhân đôi trực tiếp trong SQL
             SUM(CASE WHEN rev.rating <= 2 THEN 1 ELSE 0 END) * 100.0 / NULLIF(COUNT(rev.source_review_id), 0) AS neg_ratio
         FROM restaurants rest
         LEFT JOIN reviews rev 
@@ -71,7 +71,7 @@ def analyze_question_1_volume_vs_rating():
         ty_le_che_tb_pct=('neg_ratio', 'mean')
     ).round(2)
     
-    print("\n[*] Bảng đối chiếu Điểm Rating theo Quy mô lượng đánh giá:")
+    print("\n[*] Bảng đối chiếu Điểm Rating theo Quy mô lượng đánh giá (Thang 10):")
     print(summary.to_string())
 
 
@@ -106,16 +106,14 @@ def analyze_question_2_keywords_impact():
         print(f"\n--- PHÂN TÍCH TỪ KHÓA TRÊN NGUỒN: {src.upper()} ({len(sub_df)} reviews) ---")
         
         all_words = []
-        # Các từ dừng tiếng Anh phổ biến cần loại bỏ để kết quả sạch hơn
         stopwords = {"the", "and", "a", "to", "of", "in", "for", "is", "on", "that", "by", "this", "with", "i", "it", "not", "as", "you", "was", "but", "be", "they", "at", "one", "have", "from", "or", "had", "an", "so", "all", "we", "when", "there", "can", "are"}
 
         for _, row in sub_df.iterrows():
             text = str(row['review_text']).lower()
-            rating = row['rating']
-            # Chỉ lấy các từ thuần chữ cái tiếng Anh từ 3 ký tự trở lên, loại bỏ ký tự đặc biệt/dấu câu
+            rating = row['rating'] * 2  # [ĐÃ CHUẨN HÓA LÊN THANG 10] Nhân đôi giá trị rating review
             words = re.findall(r'\b[a-z]{3,}\b', text)
             
-            for w in set(words): # Dùng set để mỗi từ chỉ tính 1 lần trong 1 review
+            for w in set(words):
                 if w not in stopwords:
                     all_words.append({'word': w, 'rating': rating})
         
@@ -128,7 +126,6 @@ def analyze_question_2_keywords_impact():
             count=('rating', 'count')
         ).reset_index()
         
-        # Bắt buộc từ khóa phải xuất hiện ít nhất 10 lần mới đưa vào thống kê để đảm bảo độ tin cậy
         word_stats = word_stats[word_stats['count'] >= 10]
         
         top_pos = word_stats.sort_values(by='avg_rating', ascending=False).head(10)
