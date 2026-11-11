@@ -96,4 +96,4 @@ if not df_final.empty:
     print(city_stats.to_string(index=False))
     print("=================================================================")
 else:
-    print("[WARNING] Không có dữ liệu.")
+    print("[WARNING] Không có dữ liệu.")    
