@@ -24,6 +24,8 @@ def main():
     ):
         with conn.cursor() as cur:
             cur.execute(sql)
+            migration = Path(__file__).with_name("migrations") / "001_data_versioning.sql"
+            cur.execute(migration.read_text(encoding="utf-8"))
 
         conn.commit()
 
