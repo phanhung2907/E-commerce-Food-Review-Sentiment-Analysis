@@ -258,15 +258,18 @@ def upsert_reviewer(
     )
 
 
-def insert_review_if_new(
+def upsert_review(
     conn,
     row: dict,
-) -> bool:
-    """
-    Database-level idempotency:
-    (source_code, source_review_id)
-    already exists -> DO NOTHING.
-    """
+) -> str:
+    """Refresh only a newer observation; source IDs remain stable."""
+    previous = conn.execute(
+        "SELECT source_restaurant_id FROM reviews "
+        "WHERE source_code=%s AND source_review_id=%s",
+        (row["source_code"], row["source_review_id"]),
+    ).fetchone()
+    if previous and previous[0] != row["source_restaurant_id"]:
+        raise ValueError("A review ID is linked to a different restaurant")
     result = conn.execute(
         """
         INSERT INTO reviews (
@@ -289,7 +292,9 @@ def insert_review_if_new(
             guest_count,
             visit_again,
             money_spend,
-            feature_depth_status
+            feature_depth_status,
+            observed_at,
+            raw_object_key
         )
         VALUES (
             %(source_code)s,
@@ -311,18 +316,46 @@ def insert_review_if_new(
             %(guest_count)s,
             %(visit_again)s,
             %(money_spend)s,
-            %(feature_depth_status)s
+            %(feature_depth_status)s,
+            %(observed_at)s,
+            %(raw_object_key)s
         )
         ON CONFLICT (
             source_code,
             source_review_id
         )
-        DO NOTHING
+        DO UPDATE SET
+            reviewer_id = EXCLUDED.reviewer_id,
+            reviewer_name_raw = EXCLUDED.reviewer_name_raw,
+            review_title = EXCLUDED.review_title,
+            review_text = EXCLUDED.review_text,
+            rating = EXCLUDED.rating,
+            review_date = EXCLUDED.review_date,
+            travel_date = EXCLUDED.travel_date,
+            language = EXCLUDED.language,
+            device_name = EXCLUDED.device_name,
+            total_views = EXCLUDED.total_views,
+            total_pictures = EXCLUDED.total_pictures,
+            total_likes = EXCLUDED.total_likes,
+            total_comments = EXCLUDED.total_comments,
+            guest_count = EXCLUDED.guest_count,
+            visit_again = EXCLUDED.visit_again,
+            money_spend = EXCLUDED.money_spend,
+            feature_depth_status = EXCLUDED.feature_depth_status,
+            observed_at = EXCLUDED.observed_at,
+            raw_object_key = EXCLUDED.raw_object_key
+        WHERE reviews.source_restaurant_id = EXCLUDED.source_restaurant_id
+          AND (reviews.observed_at IS NULL OR EXCLUDED.observed_at > reviews.observed_at
+               OR (EXCLUDED.observed_at = reviews.observed_at
+                   AND EXCLUDED.raw_object_key = reviews.raw_object_key))
         """,
         row,
     )
 
-    return result.rowcount == 1
+    if result.rowcount == 0:
+        return "unchanged"
+    return "updated" if previous else "inserted"
+
 
 
 def insert_review_tag(
@@ -396,32 +429,33 @@ def load_transformed_object(
         )
 
     inserted_reviews = 0
+    updated_reviews = 0
     existing_reviews = 0
+    refreshed_ids = set()
 
     for row in transformed[
         "reviews"
     ]:
-        inserted = (
-            insert_review_if_new(
-                conn,
-                row,
-            )
-        )
-
-        if inserted:
+        status = upsert_review(conn, row)
+        if status == "inserted":
             inserted_reviews += 1
+        elif status == "updated":
+            updated_reviews += 1
         else:
             existing_reviews += 1
+        if status != "unchanged":
+            refreshed_ids.add(row["source_review_id"])
+            conn.execute(
+                "DELETE FROM review_tags WHERE source_code=%s AND source_review_id=%s",
+                (row["source_code"], row["source_review_id"]),
+            )
 
-    for row in transformed[
-        "review_tags"
-    ]:
-        insert_review_tag(
-            conn,
-            row,
-        )
+    for row in transformed["review_tags"]:
+        if row["source_review_id"] in refreshed_ids:
+            insert_review_tag(conn, row)
 
     return {
+        "updated_reviews": updated_reviews,
         "inserted_reviews":
             inserted_reviews,
         "existing_reviews":
@@ -439,3 +473,50 @@ def load_transformed_object(
                 ]
             ),
     }
+
+
+def load_versioned_object(conn, transformed, provenance):
+    """History ledger and current tables commit together, under a restaurant lock."""
+    restaurant = transformed["restaurant"]
+    source, restaurant_id = restaurant["source_code"], restaurant["source_restaurant_id"]
+    conn.execute("SELECT pg_advisory_xact_lock(hashtext(%s))", (f"{source}:{restaurant_id}",))
+    previous_version = conn.execute(
+        "SELECT code_sha256 FROM data_ingestion_versions "
+        "WHERE source_code=%s AND source_restaurant_id=%s AND raw_sha256=%s AND transform_version=%s",
+        (source, restaurant_id, provenance["sha256"], provenance["transform_version"]),
+    ).fetchone()
+    if previous_version:
+        if previous_version[0] != provenance["code_sha256"]:
+            raise ValueError("Code changed for an existing transform_version; bump TRANSFORM_VERSION")
+        return {"inserted_reviews": 0, "updated_reviews": 0,
+                "existing_reviews": len(transformed["reviews"]), "version_already_loaded": True}
+
+    current = conn.execute(
+        "SELECT crawl_timestamp, raw_object_key FROM restaurants "
+        "WHERE source_code=%s AND source_restaurant_id=%s FOR UPDATE",
+        (source, restaurant_id),
+    ).fetchone()
+    incoming_time = restaurant["crawl_timestamp"]
+    # Legacy rows have no immutable lineage and used a different naive-time rule.
+    # The first versioned import bootstraps them from the selected current raw file.
+    legacy_current = current is not None and "/raw_versions/" not in current[1]
+    apply_current = current is None or legacy_current or incoming_time >= current[0]
+    if (current and incoming_time == current[0] and "/raw_versions/" in current[1]
+            and current[1] != provenance["object_name"]):
+        raise ValueError("Different snapshots have the same crawl_timestamp; resolve the ordering explicitly")
+    if apply_current:
+        stats = load_transformed_object(conn, transformed)
+    else:
+        stats = {"inserted_reviews": 0, "updated_reviews": 0, "existing_reviews": 0,
+                 "superseded_reviews": len(transformed["reviews"])}
+
+    conn.execute(
+        """INSERT INTO data_ingestion_versions
+        (source_code, source_restaurant_id, raw_sha256, transform_version, code_sha256,
+         raw_object_key, raw_size_bytes, crawl_timestamp, review_count, applied_to_current)
+        VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)""",
+        (source, restaurant_id, provenance["sha256"], provenance["transform_version"],
+         provenance["code_sha256"], provenance["object_name"], provenance["size_bytes"],
+         incoming_time, len(transformed["reviews"]), apply_current),
+    )
+    return {**stats, "applied_to_current": apply_current}

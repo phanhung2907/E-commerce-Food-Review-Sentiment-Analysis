@@ -4,10 +4,13 @@ from datetime import (
     date,
     datetime,
     timezone,
+    timedelta,
 )
 
 
 SOURCE_CODE = "foody"
+# Legacy crawler used local wall time in Vietnam/Thailand without an offset.
+LEGACY_NAIVE_TZ = timezone(timedelta(hours=7))
 FOODY_BASE_URL = (
     "https://www.foody.vn"
 )
@@ -105,7 +108,9 @@ def parse_foody_datetime(
         value,
         datetime,
     ):
-        return value
+        if value.tzinfo is None:
+            value = value.replace(tzinfo=LEGACY_NAIVE_TZ)
+        return value.astimezone(timezone.utc)
 
     text = str(value).strip()
 
@@ -137,10 +142,10 @@ def parse_foody_datetime(
 
         if parsed.tzinfo is None:
             parsed = parsed.replace(
-                tzinfo=timezone.utc
+                tzinfo=LEGACY_NAIVE_TZ
             )
 
-        return parsed
+        return parsed.astimezone(timezone.utc)
 
     except ValueError:
         return None
@@ -428,10 +433,12 @@ def transform_foody_object(
                 "crawl_timestamp"
             )
         )
-        or datetime.now(
-            timezone.utc
-        )
     )
+
+    if crawl_timestamp is None:
+        raise ValueError("Missing/invalid crawl_timestamp: cannot order dataset versions")
+    if not source_restaurant_id:
+        raise ValueError("Blank restaurant_id")
 
     restaurant_row = {
         "source_code":
@@ -606,6 +613,9 @@ def transform_foody_object(
             review_id
         ).strip()
 
+        if not source_review_id:
+            continue
+
         owner = (
             review.get("Owner")
             or {}
@@ -683,7 +693,11 @@ def transform_foody_object(
             or {}
         )
 
+        observed_at = parse_foody_datetime(review.get("crawl_timestamp")) or crawl_timestamp
+
         review_rows.append({
+            "observed_at": observed_at,
+            "raw_object_key": object_name,
             "source_code":
                 SOURCE_CODE,
             "source_review_id":

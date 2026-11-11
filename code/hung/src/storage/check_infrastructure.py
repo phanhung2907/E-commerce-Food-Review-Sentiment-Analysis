@@ -32,6 +32,7 @@ REQUIRED_TABLES = {
     "reviewers",
     "reviews",
     "review_tags",
+    "data_ingestion_versions",
 }
 
 
@@ -79,6 +80,13 @@ def check_postgres():
                 + ". Chạy init_postgres.py "
                 "một lần trước pipeline."
             )
+
+        columns = conn.execute(
+            "SELECT column_name FROM information_schema.columns "
+            "WHERE table_schema='public' AND table_name='reviews'"
+        ).fetchall()
+        if not {"observed_at", "raw_object_key"} <= {row[0] for row in columns}:
+            raise RuntimeError("Run init_postgres.py to apply the data-versioning migration")
 
         source = conn.execute(
             """

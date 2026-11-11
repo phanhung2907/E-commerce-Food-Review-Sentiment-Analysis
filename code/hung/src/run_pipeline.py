@@ -1,10 +1,14 @@
 import argparse
+import os
 import subprocess
 import sys
 from pathlib import Path
 
 
-ROOT = Path.cwd()
+ROOT = Path(__file__).resolve().parents[3]
+
+from storage.data_versioning import new_run_id, safe_component
+from utils.console import configure_console
 
 SCRIPTS = {
     "kiem_tra_ha_tang": Path(
@@ -74,6 +78,7 @@ def chay_script(
     result = subprocess.run(
         command,
         cwd=ROOT,
+        env={**os.environ, "PYTHONUTF8": "1", "PYTHONIOENCODING": "utf-8"},
     )
 
     if result.returncode != 0:
@@ -206,6 +211,8 @@ def parse_args():
         action="store_true",
     )
 
+    parser.add_argument("--run-id", help="Reuse crawl ID with --resume; uploads get a new manifest ID")
+    parser.add_argument("--input-manifest", type=Path, help="Exact snapshot selection when skipping upload")
     return parser.parse_args()
 
 
@@ -325,7 +332,18 @@ def validate_args(
 
 
 def main():
+    configure_console()
     args = parse_args()
+    if args.resume and not args.run_id:
+        raise ValueError("--resume requires the interrupted --run-id")
+    run_id = safe_component(args.run_id or new_run_id())
+    upload_run_id = new_run_id()  # Retries never replace a previous manifest.
+    manifest_path = ROOT / "code/hung/data/foody_shoppefood/manifests" / f"{upload_run_id}.json"
+    if args.skip_minio_upload and not args.skip_db_load and not args.input_manifest:
+        raise ValueError("--skip-minio-upload with DB load requires --input-manifest")
+    if args.input_manifest and not args.skip_minio_upload:
+        raise ValueError("--input-manifest is used only with --skip-minio-upload")
+    print(f"Crawl run ID: {run_id}", flush=True)
 
     (
         crawl_workers,
@@ -439,6 +457,7 @@ def main():
             .skip_review_crawl
         ):
             review_args = [
+                "--run-id", run_id,
                 "--workers",
                 str(
                     crawl_workers
@@ -492,6 +511,8 @@ def main():
             .skip_minio_upload
         ):
             upload_args = [
+                "--run-id", upload_run_id,
+                "--manifest-path", str(manifest_path),
                 "--source",
                 "foody",
                 "--workers",
@@ -499,8 +520,7 @@ def main():
                     upload_workers
                 ),
 
-                # Luôn đồng bộ raw local mới nhất
-                # lên đúng object key.
+                # Archive snapshots first, then synchronize the current alias.
                 "--overwrite",
             ]
 
@@ -523,6 +543,7 @@ def main():
             .skip_db_load
         ):
             db_args = [
+                "--manifest", str(args.input_manifest or manifest_path),
                 "--source",
                 "foody",
                 "--workers",
