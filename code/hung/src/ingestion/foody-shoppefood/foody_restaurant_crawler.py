@@ -670,10 +670,9 @@ def main():
         ]
 
     if not locations:
-        print(
-            "Không có location nào để crawl."
+        raise RuntimeError(
+            f"No configured location matches city={args.city!r}; check {LOCATIONS_FILE}"
         )
-        return
 
     worker_count = min(
         args.workers,
@@ -738,6 +737,11 @@ def main():
         "Restaurants:",
         total,
     )
+
+    if failed:
+        raise SystemExit(1)
+    if total == 0:
+        raise RuntimeError("Crawler returned no restaurants; refusing a successful empty run")
 
 
 if __name__ == "__main__":

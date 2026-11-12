@@ -10,7 +10,7 @@ from concurrent.futures import (
     ThreadPoolExecutor,
     as_completed,
 )
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
@@ -25,6 +25,9 @@ if str(SRC_ROOT) not in sys.path:
         0,
         str(SRC_ROOT),
     )
+
+from storage.data_versioning import new_run_id, safe_component, save_local_snapshot
+from utils.console import configure_console
 
 from storage.minio_client import (  # noqa: E402
     object_exists,
@@ -49,8 +52,8 @@ DATA_ROOT = (
 )
 
 FOODY_REVIEW_API = (
-    "https://www.foody.vn/"
-    "__get/Review/ResLoadMore"
+        "https://www.foody.vn/"
+        "__get/Review/ResLoadMore"
 )
 
 REVIEWS_PER_REQUEST = 10
@@ -680,7 +683,7 @@ def decorate_review(
     review[
         "crawl_timestamp"
     ] = (
-        datetime.now()
+        datetime.now(timezone.utc)
         .isoformat(
             timespec="seconds"
         )
@@ -1032,14 +1035,16 @@ def build_result(
     previous_raw_source,
     existing_review_count,
     full_refresh,
+    crawl_run_id=None,
 ):
     return {
+        "crawl_run_id": crawl_run_id,
         "source":
             SOURCE_CODE,
         "platform":
             PLATFORM_NAME,
         "crawl_timestamp":
-            datetime.now()
+            datetime.now(timezone.utc)
             .isoformat(
                 timespec="seconds"
             ),
@@ -1126,41 +1131,9 @@ def save_restaurant_json(
     restaurant,
     result,
 ):
-    output_path = (
-        restaurant_output_path(
-            restaurant
-        )
+    return save_local_snapshot(
+        restaurant_output_path(restaurant), result, DATA_ROOT,
     )
-
-    output_path.parent.mkdir(
-        parents=True,
-        exist_ok=True,
-    )
-
-    temp_path = (
-        output_path
-        .with_suffix(
-            ".json.tmp"
-        )
-    )
-
-    with open(
-        temp_path,
-        "w",
-        encoding="utf-8",
-    ) as file:
-        json.dump(
-            result,
-            file,
-            ensure_ascii=False,
-            indent=2,
-        )
-
-    temp_path.replace(
-        output_path
-    )
-
-    return output_path
 
 
 # =========================================================
@@ -1174,6 +1147,7 @@ def crawl_and_save(
     page_delay,
     resume,
     full_refresh,
+    run_id=None,
 ):
     output_path = (
         restaurant_output_path(
@@ -1185,6 +1159,8 @@ def crawl_and_save(
     if (
         resume
         and output_path.exists()
+        and (load_json_file(output_path) or {}).get("crawl_run_id") == run_id
+        and run_id is not None
     ):
         return {
             "status":
@@ -1272,6 +1248,7 @@ def crawl_and_save(
         existing_review_count=(
             len(existing_ids)
         ),
+        crawl_run_id=run_id,
         full_refresh=(
             full_refresh
         ),
@@ -1399,11 +1376,17 @@ def parse_args():
         ),
     )
 
+    parser.add_argument("--run-id", help="Stable ID for this crawl; required with --resume")
     return parser.parse_args()
 
 
 def main():
+    configure_console()
     args = parse_args()
+    if args.resume and not args.run_id:
+        raise ValueError("--resume requires --run-id of the interrupted crawl")
+    run_id = safe_component(args.run_id or new_run_id())
+    print(f"Crawl run ID: {run_id}", flush=True)
 
     if (
         args.max_reviews
@@ -1513,6 +1496,7 @@ def main():
                 full_refresh=(
                     args.full_refresh
                 ),
+                run_id=run_id,
             ): restaurant
             for restaurant
             in restaurants
@@ -1629,6 +1613,9 @@ def main():
         "Tổng review trong raw objects:",
         total_reviews_in_raw,
     )
+
+    if failed:
+        raise SystemExit(1)
 
 
 if __name__ == "__main__":
