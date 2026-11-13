@@ -25,6 +25,7 @@ Decision Tree tự động chia dữ liệu thành các câu hỏi If/Else (ví 
 
 - Không bắt ép dữ liệu đi theo đường thẳng, chấp nhận sự tăng giảm theo dạng bậc thang (Step-function) phản ánh đúng thực tế kinh doanh.
 
+- Nhưng mà thuật toán này mang tính tham lam, nó sẽ tìm tới những cửa hàng có dữ liệu lớn hơn: ví dụ như dữ liệu của các quán lớn: highland, phúc long,... Nó sẽ làm mất cân bằng. Nên ở phần Model: a sẽ làm một model chưa EDA, và đã EDA. Dùng để so sánh (nhưng hiện tại a đang bí ý tưởng đi sâu vào so sánh nó như thế nào).
 4: Chốt lại mô hình:
  - Chọn thuật toán Decision Tree phân tich cho vấn đề 1:
 
