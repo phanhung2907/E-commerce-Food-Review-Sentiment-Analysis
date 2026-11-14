@@ -1,0 +1,25 @@
+﻿language,rating,logistic_candidates,bayes_candidates,candidates,confirmed,confirmed_phrases,status
+vi,0,2,0,2,0,,Chưa có cụm được xác nhận
+vi,1,10,10,20,12,"tệ, làm ăn, dở, lừa, chửi, ko, kém, lừa đảo, chém, hôi, thất đức, tẩy chay",Có cụm xác nhận
+vi,2,10,10,20,7,"ko, chán, nhạt, mong, không ngon, ko ngon, cộc lốc",Có cụm xác nhận
+vi,3,10,10,20,13,"không ngon, bình thường, mùi vị tuyệt, cho biết, vị tuyệt vời, cho lắm, chật, vị tuyệt, tuyệt vời mềm, vời mềm, tuyệt vời thơm, vời thơm, mùo",Có cụm xác nhận
+vi,4,10,10,20,10,"lắm, cũng, khá, giá, này, đông, thích, khá ngon, bên này, giá hơi đắt",Có cụm xác nhận
+vi,5,10,10,20,6,"xỉu, ngon xỉu, gói tốt, đóng gói tốt, tiền sạch, ngonn",Có cụm xác nhận
+en,0,0,0,0,0,,Thiếu review hoặc quán lớp đích trên train
+en,1,10,10,15,0,,Chưa có cụm được xác nhận
+en,2,10,5,11,1,not fresh,Có cụm xác nhận
+en,3,10,10,15,1,not as,Có cụm xác nhận
+en,4,10,10,17,1,overall,Có cụm xác nhận
+en,5,10,10,19,4,"read more, read, always, best",Có cụm xác nhận
+ja,0,0,0,0,0,,Thiếu review hoặc quán lớp đích trên train
+ja,1,10,10,18,9,"時間, ない, れ, 最悪, し, 頼ん, れ た, なかっ た, なかっ",Có cụm xác nhận
+ja,2,10,10,14,6,"残念, なかっ た, ない, なかっ, のに, か",Có cụm xác nhận
+ja,3,10,10,17,7,"ない, なかっ た, なかっ, 普通, 残念, た, ん",Có cụm xác nhận
+ja,4,10,10,16,7,"少し, もう少し, か, 残念, か な, まあ, ちょっと",Có cụm xác nhận
+ja,5,10,10,19,2,"美味しかっ た, いつも",Có cụm xác nhận
+fr,0,0,0,0,0,,Thiếu review hoặc quán lớp đích trên train
+fr,1,0,0,0,0,,Thiếu review hoặc quán lớp đích trên train
+fr,2,0,0,0,0,,Thiếu review hoặc quán lớp đích trên train
+fr,3,0,0,0,0,,Thiếu review hoặc quán lớp đích trên train
+fr,4,0,0,0,0,,Thiếu review hoặc quán lớp đích trên train
+fr,5,1,1,1,0,,Chưa có cụm được xác nhận
